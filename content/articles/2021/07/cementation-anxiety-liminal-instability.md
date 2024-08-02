@@ -4,11 +4,7 @@ typeName: Review
 title: Cementation Anxiety – "Liminal Instability"
 subTitle: Eine Oper ohne Arien
 seoTitle: Cementation Anxiety – "Liminal Instability" – Eine Oper ohne Arien
-description: '"The patterns merely mutate" steht auf der Bandcamp Seite von
-  Cementation Anxiety. Ich glaube, das ist eine ziemlich schüchterne und
-  bescheidende Beschreibung der beeindruckenden Klanglandschaften des Projekts –
-  obwohl es ziemlich gut in Worte fasst, wie diese spezielle Art Musik zu
-  funktionieren scheint.'
+description: '"The patterns merely mutate" steht auf der Bandcamp Seite von Cementation Anxiety. Ich glaube, das ist eine ziemlich schüchterne und bescheidende Beschreibung der beeindruckenden Klanglandschaften des Projekts – obwohl es ziemlich gut in Worte fasst, wie diese spezielle Art Musik zu funktionieren scheint.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/cementation-anxiety-1-jpg-imagine-080808_241916_1024_768/640.webp
 copyright: Cementation Anxiety
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/cementation-anxiety-fb-jpg-imagine-080808_281d1a_1200_628/640.webp
@@ -25,7 +21,6 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/07/cementation-anxiety-liminal-instability-en
-
 ---
 
 **"The patterns merely mutate" steht auf der Bandcamp Seite von Cementation Anxiety. Ich glaube, das ist eine ziemlich schüchterne und bescheidende Beschreibung der beeindruckenden Klanglandschaften des Projekts – obwohl es ziemlich gut in Worte fasst, wie diese spezielle Art Musik zu funktionieren scheint.**
@@ -50,7 +45,7 @@ Der erste Song "Precipice" ist der Auftakt zu einer Reise in die Fantasie. Eine 
 
 Bei den ersten Noten von "The Light On Your Fingertips" betrete ich eine bunte Wiese. Jede Blume hat eine andere Farbe. Ich gehe weiter und beim genaueren Hinsehen merke ich, dass es gar keine Blumen sind. Es sind Töne, die in Schichten übereinander liegen und ein wunderbares Ornament ergeben, das schöner nicht sein könnte und irgendetwas ist da noch. Etwas Furcht-einflößendes und unheimliches. Ein Riss tut sich auf und Schnee rieselt auf das Blumenmeer.
 
-![Cementation Anxiety Gründer Kyle. Bild/picture: Cementation Anxiety](https://storage.googleapis.com/cardamonchai-media/2021-11-20/cementation-anxiety-2-jpg-imagine-080808_3b2b28_1024_768/640.webp 'Cementation Anxiety Gründer Kyle. Bild/picture: Cementation Anxiety')
+![Cementation Anxiety Gründer Kyle. Bild/Picture: Cementation Anxiety](https://storage.googleapis.com/cardamonchai-media/2021-11-20/cementation-anxiety-2-jpg-imagine-080808_3b2b28_1024_768/640.webp 'Cementation Anxiety Gründer Kyle. Bild/Picture: Cementation Anxiety')
 
 ## Hauchzart und düster
 

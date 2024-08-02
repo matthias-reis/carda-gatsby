@@ -4,11 +4,7 @@ typeName: Interview
 title: Malämmar
 subTitle: '"Wir wollen getragen und düster klingen"'
 seoTitle: Interview mit Malämmar – "Wir wollen getragen und düster klingen"
-description: 'Heute habe ich eine große Post-Music Sensation für Euch: Nach der
-  Erwähnung ihres aktuellen Albums "Mazza", das ich zutiefst bewundere und
-  permanent höre, haben sich Malämmar zu einem Interview bereit erklärt! Ich
-  habe mich mit Gründer Xavi Forné (auch bekannt durch Error! Design)
-  unterhalten. '
+description: 'Heute habe ich eine große Post-Music Sensation für Euch: Nach der Erwähnung ihres aktuellen Albums "Mazza", das ich zutiefst bewundere und permanent höre, haben sich Malämmar zu einem Interview bereit erklärt! Ich habe mich mit Gründer Xavi Forné (auch bekannt durch Error! Design) unterhalten. '
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-21/malaemmar-1-jpg-imagine-282828_987967_1024_768/640.webp
 copyright: Sergio Albert
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/mala-mmar-fb-jpg-imagine-282828_8a6a59_1200_628/640.webp
@@ -37,7 +33,6 @@ advertisement: false
 affiliate: false
 language: de
 languageLink: /2021/07/malaemmar-interview-en/
-
 ---
 
 **Heute habe ich eine große Post-Music Sensation für Euch: Nach der Erwähnung ihres aktuellen Albums "Mazza", das ich zutiefst bewundere und permanent höre, haben sich Malämmar zu einem Interview bereit erklärt!**
@@ -60,7 +55,7 @@ Ich habe mich mit Gründer Xavi Forné (Ihr kennt ihn vielleicht auch als den Me
 
 **Anne:** Worum dreht sich das Album? Habt Ihr ein Konzept verfolgt, als Ihr es aufgenommen habt?
 
-![Malämmar. Bild/picture: © Sergi Vila | large](https://storage.googleapis.com/cardamonchai-media/2021-11-21/malaemmar-3-jpg-imagine-281818_472821_1024_768/640.webp 'Malämmar. Bild/picture: © Sergi Vila')
+![Malämmar. Bild/Picture: © Sergi Vila | large](https://storage.googleapis.com/cardamonchai-media/2021-11-21/malaemmar-3-jpg-imagine-281818_472821_1024_768/640.webp 'Malämmar. Bild/Picture: © Sergi Vila')
 
 **Xavi:** "Mazza" handelt von einer Party und einer Afterparty. Ja, so einfach ist das (lacht)!
 
@@ -74,7 +69,7 @@ Ich habe mich mit Gründer Xavi Forné (Ihr kennt ihn vielleicht auch als den Me
 
 **Xavi:** Ich arbeite seit 2015 mit dem DUNK!team und entwerfe alle Poster und Album-Artworks für ihre Welt. Als wir als Malämmar unser erstes Album aufgenommen haben, waren DUNK!records natürlich unsere erste Wahl – und sie waren auch sofort begeistert und für uns da. Wir lieben DUNK!records, und wir lieben das DUNK!festival. Wir haben zweimal auf der Waldbühne gespielt und für uns sind das die besten Shows, die wir je gemacht haben.
 
-![Malämmar. Bild/picture: © Sergi Vila | large](https://storage.googleapis.com/cardamonchai-media/2021-11-21/malaemmar-4-jpg-imagine-282818_853826_1024_768/640.webp 'Malämmar. Bild/picture: © Sergi Vila')
+![Malämmar. Bild/Picture: © Sergi Vila | large](https://storage.googleapis.com/cardamonchai-media/2021-11-21/malaemmar-4-jpg-imagine-282818_853826_1024_768/640.webp 'Malämmar. Bild/Picture: © Sergi Vila')
 
 **Anne:** Was macht dieses Plattenlabel so einzigartig? Alle sind so freundlich, offen und sympathisch. Ist es die unglaubliche Musik, die es zu etwas ganz Besonderem macht?
 
@@ -84,7 +79,7 @@ Ich habe mich mit Gründer Xavi Forné (Ihr kennt ihn vielleicht auch als den Me
 
 **Anne:** Wolltet Ihr schon immer Post-Rock machen? Oder liegen Eure Wurzeln woanders?
 
-![Malämmar. Bild/picture: © Sergi Vila | large](https://storage.googleapis.com/cardamonchai-media/2021-11-21/malaemmar-5-jpg-imagine-282818_653425_1024_768/640.webp 'Malämmar. Bild/picture: © Sergi Vila')
+![Malämmar. Bild/Picture: © Sergi Vila | large](https://storage.googleapis.com/cardamonchai-media/2021-11-21/malaemmar-5-jpg-imagine-282818_653425_1024_768/640.webp 'Malämmar. Bild/Picture: © Sergi Vila')
 
 **Xavi:** Es scheint, dass man es als "Post-Rock" bezeichnen muss, wenn man Instrumentalmusik macht. Wir haben die Band mit einer festen Absicht gegründet: getragenen und düsteren Sound zu machen. Aber wir bringen auch eine Menge Einflüsse mit. Auch aus den Bands, bei denen wir früher gespielt haben. Ich habe in Syberia (Instrumental) und Carontte (Post-Metal) gespielt. Victor spielte und spielt noch mit Gambardella (Instrumentaler Jazz) und Rebuig (Sludge). Und Guillem spielt mit Santacreu (Post-Metal) und The Eyes (Heavy). Ich glaube, wenn wir das alles mischen würden, würde es wie Malämmar klingen. Wir haben im Übrigen auch alle einen anderen Musikgeschmack. Ich liebe zum Beispiel Hardcore-Punk, Neo-Folk, Black Metal und Soundtracks. Beim Rest von uns ist es genauso. Wir hören alle viele verschiedene Musikrichtungen, aber wir spielen gerne unseren eigenen Stil.
 
@@ -96,7 +91,7 @@ Ich habe mich mit Gründer Xavi Forné (Ihr kennt ihn vielleicht auch als den Me
 
 **Anne:** Ihr habt 2019 einen ziemlich großartigen Gig auf der DUNK!festival Waldbühne gespielt. Die Stimmung dort war einfach magisch. Hast Du das auch schon bei anderen Gigs, die Du gespielt hast, erlebt?
 
-![Malämmar. Bild/picture: © Sergi Vila | large](https://storage.googleapis.com/cardamonchai-media/2021-11-21/malaemmar-6-jpg-imagine-282818_5d381d_1024_768/640.webp 'Malämmar. Bild/picture: © Sergi Vila')
+![Malämmar. Bild/Picture: © Sergi Vila | large](https://storage.googleapis.com/cardamonchai-media/2021-11-21/malaemmar-6-jpg-imagine-282818_5d381d_1024_768/640.webp 'Malämmar. Bild/Picture: © Sergi Vila')
 
 ## "Die Musikszene in Barcelona ist gigantisch"
 
@@ -106,7 +101,7 @@ Ich habe mich mit Gründer Xavi Forné (Ihr kennt ihn vielleicht auch als den Me
 
 **Xavi:** Als große Stadt hat Barcelona jeden Tag viele musikalische Angebote (natürlich nicht jetzt im Moment). Das typische "Problem" in dieser Stadt ist es, sich zu entscheiden, welche Show man abends genießen möchte, denn es gibt wirklich immer sehr viele. Außerdem gibt es eine große Musikszene, und soweit ich weiß, gibt es viele Instrumental-Bands wie unsere Freunde von Böira.
 
-![Malämmer auf der Waldbühne – DUNK!festival 2019. Bild/picture: Mats | large](https://storage.googleapis.com/cardamonchai-media/2021-11-21/malaemmar-2-jpg-imagine-080808_2a2a2a_1024_768/640.webp 'Malämmer auf der Waldbühne – DUNK!festival 2019. Bild/picture: Mats')
+![Malämmer auf der Waldbühne – DUNK!festival 2019. Bild/Picture: Mats | large](https://storage.googleapis.com/cardamonchai-media/2021-11-21/malaemmar-2-jpg-imagine-080808_2a2a2a_1024_768/640.webp 'Malämmer auf der Waldbühne – DUNK!festival 2019. Bild/Picture: Mats')
 
 ## "Die Stimmung auf dem AMFest ist super"
 
@@ -116,7 +111,7 @@ Ich habe die allererste Show des AMFestes in einer kleinen Location mit meiner a
 
 **Xavi:** Das ist eine Wortschöpfung aus zwei katalanischen (funktioniert auch im Spanischen) Wörtern: "Mala" (schlecht) und "Mar" (Meer). Es ist das Gefühl, das wir mit unserer Musik transportieren wollen: Wenn man in einem Boot mitten auf dem Ozean sitzt und von vielen Wellen umgeben ist.
 
-![Malämmer auf der Waldbühne – DUNK!festival 2019. Bild/picture: Mats | large](https://storage.googleapis.com/cardamonchai-media/2021-11-21/malaemmar-3-jpg-imagine-281818_472821_1024_768/640.webp 'Malämmer auf der Waldbühne – DUNK!festival 2019. Bild/picture: Mats')
+![Malämmer auf der Waldbühne – DUNK!festival 2019. Bild/Picture: Mats | large](https://storage.googleapis.com/cardamonchai-media/2021-11-21/malaemmar-3-jpg-imagine-281818_472821_1024_768/640.webp 'Malämmer auf der Waldbühne – DUNK!festival 2019. Bild/Picture: Mats')
 
 ## "Wir wollen 2022 durch Europa touren"
 

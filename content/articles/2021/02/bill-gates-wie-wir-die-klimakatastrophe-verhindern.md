@@ -1,7 +1,6 @@
 ---
 ogTitle: 'Bill Gates: "Wie wir die Klimakatastrophe verhindern"'
-excerpt: In seinem neuen Buch "Wie wir die Klimakatastrophe verhindern" erklärt
-  Bill Gates, wie wir den Klimakollaps abwenden können.
+excerpt: In seinem neuen Buch "Wie wir die Klimakatastrophe verhindern" erklärt Bill Gates, wie wir den Klimakollaps abwenden können.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_02_bill-gates-fb.png__l.jpg
 isAffiliate: false
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBAYFCP/EACkQAAIBAwMDBAEFAAAAAAAAAAECAwQFEQASMQYhYRMiQVEVFCQyQnH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwUB/8QAIBEAAQQBBAMAAAAAAAAAAAAAAQACAxEhBBMi8DJRYf/aAAwDAQACEQMRAD8Ab11u1TR3q7+jclMMLuZI5a6VREuxQQFFMwXG8EYZuQdW+n6ud6+hSW4vKWlIOayRy+CQRtMCjlSPj/dQV/5SC8XRY7xWNHUVEgRTS1RFOrRbFVCqlTtZd48se/GrFgjuiXOk9W+1tVF+reQpPQzxgqyMBEWIAwvc5PJA8aKfxFfE3TVbr9FI2kstXdKiRYbpbrVSxMIf3DsJJ3YZ9oXGAMgA55zrl2eJrDfIbPUXSO6Q1D7UkByEY527cknbkEHJP3pi9OViQoIpGpo1BL75lGD843H+P3547awnTlQlf1bBTtLHKLbBIiyxRjbK29ioz4ViRj61pdJvHuEpscR019tegL1SO12qpEp65/fkFKqpUHI742nGPA7akttK9PLA6U1czREMqtVVDZOODuODwOc86NGglPEJkOHFLfrCzzenaUsqwQxRTSNOrqXL5iYJ3zk9yQR858ay3RnS/wCPnWe5PDGKbKxrB7d7f2kbufcc/OjRqmymiwMqYbPEnC//2Q==
@@ -9,10 +8,9 @@ date: 2021-02-16T13:23:36.000Z
 typeName: Buchtipp
 isWerbung: false
 title: '"Wie wir die Klimakatastrophe verhindern"'
-subTitle: "Bill Gates: Reiche Länder müssen auf synthetisches Fleisch setzen"
+subTitle: 'Bill Gates: Reiche Länder müssen auf synthetisches Fleisch setzen'
 seoTitle: 'Bill Gates: "Wie wir die Klimakatastrophe verhindern"'
-description: In seinem neuen Buch "Wie wir die Klimakatastrophe verhindern"
-  erklärt Bill Gates, wie wir den Klimakollaps abwenden können.
+description: In seinem neuen Buch "Wie wir die Klimakatastrophe verhindern" erklärt Bill Gates, wie wir den Klimakollaps abwenden können.
 labels:
   - Bill Gates
   - Buch
@@ -30,7 +28,6 @@ affiliate: true
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_bill-gates-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_bill-gates-1__m.jpg
 language: de
-
 ---
 
 **In seinem neuen Buch "How to Avoid a Climate Disaster" ("Wie wir die Klimakatastrophe verhindern") beschäftigt sich der US-Milliardär Bill Gates mit den technischen Durchbrüchen und politischen Veränderungen, die nötig sind, um die Klimakatastrophe aufzuhalten. Unter anderem spricht er sich dafür aus, dass alle reichen Länder auf Fleisch verzichten sollten.**
@@ -75,4 +72,4 @@ Mit ihrer Foundation unterstützen Bill und Melinda immer wieder Projekte zur Hu
 
 [Bill &amp; Melinda Gates Foundation](https://www.gatesfoundation.org/)
 
-Bild/picture: Sebastian Vital, Creative Commons
+**Bild/Picture:** Sebastian Vital, Creative Commons

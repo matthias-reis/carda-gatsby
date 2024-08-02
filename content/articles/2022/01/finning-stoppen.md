@@ -4,13 +4,8 @@ typeName: Beitrag
 title: Finning muss gestoppt werden
 subTitle: EU-Bürgerinitiative zum Schutz der Haie
 seoTitle: EU-Bürgerinitiative zum Schutz der Haie – Finning stoppen
-description: Zwischen 63 und 273 Millionen Haie sterben jährlich durch die
-  Fischerei-Industrie. So lauten die offiziellen Zahlen. In Wirklichkeit sind es
-  vermutlich wesentlich mehr. Die Dunkelziffer ist wesentlich größer.
-excerpt: Zwischen 63 und 273 Millionen Haie sterben jährlich durch die
-  Fischerei-Industrie. So lauten die offiziellen Zahlen. In Wirklichkeit sind es
-  vermutlich wesentlich mehr. Die Dunkelziffer ist durch den weltweit
-  verbreiteten illegalen Fischfang jedoch kaum einschätzbar.
+description: Zwischen 63 und 273 Millionen Haie sterben jährlich durch die Fischerei-Industrie. So lauten die offiziellen Zahlen. In Wirklichkeit sind es vermutlich wesentlich mehr. Die Dunkelziffer ist wesentlich größer.
+excerpt: Zwischen 63 und 273 Millionen Haie sterben jährlich durch die Fischerei-Industrie. So lauten die offiziellen Zahlen. In Wirklichkeit sind es vermutlich wesentlich mehr. Die Dunkelziffer ist durch den weltweit verbreiteten illegalen Fischfang jedoch kaum einschätzbar.
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-28/buergerinitiative-finning-haie-sharks-piro4d-pixabay-jpg-imagine-082838_1b4a5a_1024_768/640.webp
 copyright: PIRO4D, Pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-28/buergerinitiative-finning-haie-sharks-piro4d-pixabay-fb-jpg-imagine-082838_113f4f_1200_628/640.webp
@@ -26,7 +21,6 @@ focusKeyword: Finning
 advertisement: false
 affiliate: false
 language: de
-
 ---
 
 **Zwischen 63 und 273 Millionen Haie sterben jährlich durch die Fischerei-Industrie. So lauten die offiziellen Zahlen. In Wirklichkeit sind es vermutlich wesentlich mehr. Die Dunkelziffer ist durch den weltweit verbreiteten illegalen Fischfang jedoch kaum einschätzbar.**
@@ -66,4 +60,4 @@ Wenn wir dazu bereit sind, diese faszinierenden Lebewesen durch den Verzicht auf
 [^1]: [Bürgerinitiative:](https://www.stop-finning-eu.org/)
 [^2]: [Shark Project:](https://www.sharkproject.org/cooperation/handelsverbot/eu-burgerinitiative-stop-finning-stop-the-trade/)
 
-Bild/picture: [PIRO4D](https://pixabay.com/photos/shark-sea-ocean-water-underwater-3347787/), Pixabay
+**Bild/Picture:** [PIRO4D](https://pixabay.com/photos/shark-sea-ocean-water-underwater-3347787/), Pixabay

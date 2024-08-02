@@ -4,10 +4,7 @@ typeName: Review
 title: Cementation Anxiety – "Liminal Instability"
 subTitle: An Opera Without Arias
 seoTitle: Cementation Anxiety – "Liminal Instability" – An Opera Without Arias
-description: On Cementation Anxiety's Bandcamp profile, you will find the words
-  "The patterns merely mutate". Even if I think that's a shy and modest
-  description of the project's impressive soundscapes, it describes this
-  particular kind of music quite perfect.
+description: On Cementation Anxiety's Bandcamp profile, you will find the words "The patterns merely mutate". Even if I think that's a shy and modest description of the project's impressive soundscapes, it describes this particular kind of music quite perfect.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/cementation-anxiety-1-jpg-imagine-080808_241916_1024_768/640.webp
 copyright: Cementation Anxiety
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/cementation-anxiety-fb-jpg-imagine-080808_281d1a_1200_628/640.webp
@@ -25,7 +22,6 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/07/cementation-anxiety-liminal-instability
-
 ---
 
 **On Cementation Anxiety's Bandcamp profile, you will find the words "The patterns merely mutate". Even if I think that's a shy and modest description of the project's impressive soundscapes, it describes this particular kind of music quite perfect.**
@@ -50,7 +46,7 @@ Is there a door opening into a parallel world? I can only assume so. The second 
 
 With the first notes of "The Light On Your Fingertips", I enter a blooming meadow. Each flower has a different colour. As I walk on and take a closer look, I realise that they are not flowers at all. Instead, its tones – layered on top of each other, creating a wonderful ornament that couldn't be more beautiful, and there is still something there. Something terrifying and eerie. A crack opens up, and snow trickles onto the sea of flowers.
 
-![Cementation Anxiety Gründer Kyle. Bild/picture: Cementation Anxiety](https://storage.googleapis.com/cardamonchai-media/2021-11-20/cementation-anxiety-2-jpg-imagine-080808_3b2b28_1024_768/640.webp 'Cementation Anxiety Gründer Kyle. Bild/picture: Cementation Anxiety')
+![Cementation Anxiety Gründer Kyle. Bild/Picture: Cementation Anxiety](https://storage.googleapis.com/cardamonchai-media/2021-11-20/cementation-anxiety-2-jpg-imagine-080808_3b2b28_1024_768/640.webp 'Cementation Anxiety Gründer Kyle. Bild/Picture: Cementation Anxiety')
 
 ## Soft and heavy
 

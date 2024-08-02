@@ -3,11 +3,8 @@ date: 2021-01-06T14:46:23.000Z
 title: Enes Kanter wird Veganer
 seoTitle: Enes Kanter wird Veganer – NBA Star stellt seine Ernährung um
 ogTitle: Enes Kanter wird Veganer – NBA Star stellt seine Ernährung um
-description: NBA Star Enes Kanter, Spieler bei den Portland Trail Blazers,
-  verkündete vor Kurzem, dass er seine Ernährung umgestellt habe. Er lebt ab
-  sofort vegan.
-excerpt: NBA Star Enes Kanter, Spieler bei den Portland Trail Blazers verkündete
-  vor Kurzem, dass er seine Ernährung umgestellt habe. Er lebt ab sofort vegan.
+description: NBA Star Enes Kanter, Spieler bei den Portland Trail Blazers, verkündete vor Kurzem, dass er seine Ernährung umgestellt habe. Er lebt ab sofort vegan.
+excerpt: NBA Star Enes Kanter, Spieler bei den Portland Trail Blazers verkündete vor Kurzem, dass er seine Ernährung umgestellt habe. Er lebt ab sofort vegan.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_enes-kanter-nba-vegan__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_enes-kanter-nba-vegan__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAlEAABBAAFBQEBAQAAAAAAAAABAgMEEQAFEiExBgcTIkFhFVH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQF/8QAIREAAQQBAwUAAAAAAAAAAAAAAQACAxEhEhNRMUGBwfH/2gAMAwEAAhEDEQA/ALrucyxNnZC+xOzBmTHktIYdjuOIZYWp4anFkeppKSDquh/m+NJe0h1arSlskq1DcBPNj8rGddxnp8vppmHspmK6kyH2EpQgIutJQTZAHJ4ww7a5gsdEuqfDq2sulSY7ZUkJ1NIV61+UTziCGZzpHNcK4Tmu1xh3GEzybqdme9OYksiLIirNpQ8HkqaJPjXqAAtSRq0i6H3DiUylzxvBHkcYJcbANajRoX+3jMZTcyWI/wDPy551ZX50oLZWCxtoUoahYB2BBFgVxi4Xmq4GUsMyGXf6PhCA2lvZblVSa2J+6RdcYbdtqRAkHI6KVzuRBmrzaKw82iVIjvGzRSUtqAJI5q1Gz91c7Y5uz1v9NZswy4lxU4iUgKJpOtJQr2o3Xr85sYMGIYCd0efaniebrt9VP0VBzSHJzNGbQY7CGgzGivtKsvtNpIsiz+H5ueNsVWDBjUApPAIFE2v/2Q==
@@ -25,7 +22,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: NBA Star stellt seine Ernährung um
-
 ---
 
 **NBA Star Enes Kanter, Spieler bei den Portland Trail Blazers, verkündete vor Kurzem, dass er seine Ernährung umgestellt habe. Er lebt ab sofort vegan.**
@@ -37,9 +33,9 @@ Enes traf seine Entscheidung, nachdem er sich eingehend mit dem Thema Massentier
 > "Ich hatte zuletzt sehr viel Freizeit. Da habe ich angefangen, mich weiterzubilden. Ich beschäftige mich vor allem mit Massentierhaltung. Je mehr ich darüber lese, sehe und lerne, je mehr bricht es mir das Herz,"
 
 <RemoteImage
-  alt={`Enes Kanter NBA vegan Bilder/pictures © PETA`}
+  alt={`Enes Kanter NBA vegan Bilder/Pictures © PETA`}
   size="medium"
-  title={`Enes Kanter als Model der Neujahrs-Kampagne von PETA. Bild/picture: © PETA`}
+  title={`Enes Kanter als Model der Neujahrs-Kampagne von PETA. Bild/Picture: © PETA`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_enes-kanter-vegan.jpeg__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_enes-kanter-vegan.jpeg__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHAwQI/8QAKhAAAgEEAQMBCAMAAAAAAAAAAQIDBAURIQAGEhNhBxQiMTNBUYFScZH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwEF/8QAHxEAAgICAQUAAAAAAAAAAAAAAQIAAxESIQRBcaHB/9oADAMBAAIRAxEAPwC3XFJ1s9caOaOnqRA3imcArG2NMQda+e9a4v8Asye5SWq5xXS7TXlKa4PBT1k4TyMoVe5WKEg4bOD+DxgqGpPe50udO8tMKcOHb6KDeQ/rokZ1r15Nujr3VUXUogjCQ2u4VslMIkkURLIylllA/l9zg71wLdRrcEMQmGUjHPyOFNWVTXdIjVM0Im7GRlG9n749OHCCMx3mKNpi7+XeF/Cnu/074cRW22ZjOHPE3+phK6UyweJpD8kkUMDvOcH8AH+zjkt6lnSh61o5oKZCkdZBWmMxkAZQlpAo2cqVPpjfHD2k3Cop/d4qNyZmgYCPtztmwG9cEDWR++S8dRV16vcUppYS9NTrSxrHNuodmC93eR8GwDoHWRwFzk2EDtIq+rnHj1OgpaysNW8DUASDuZfMZkPwgkA4G8kb/fDmGaGoSWkTzuRCAsxRQRIQADkk5xnJ1vhzpSs//9k="

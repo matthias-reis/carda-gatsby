@@ -1,14 +1,10 @@
 ---
 date: 2020-10-27T10:52:24.000Z
 title: Khary Payton
-seoTitle: "Khary Payton: Walking Dead Star lebt seit einem Jahr vegan"
-ogTitle: "Khary Payton: Walking Dead Star lebt seit einem Jahr vegan"
-description: Der Schauspieler Khary Payton, bekannt durch "The Walking Dead",
-  hat sich für die vegane Lebensweise entschieden. Auslöser war der Film "The
-  Game Changers".
-excerpt: Der Schauspieler Khary Payton, bekannt durch "The Walking Dead", hat
-  sich für die vegane Lebensweise entschieden. Auslöser war der Film "The Game
-  Changers".
+seoTitle: 'Khary Payton: Walking Dead Star lebt seit einem Jahr vegan'
+ogTitle: 'Khary Payton: Walking Dead Star lebt seit einem Jahr vegan'
+description: Der Schauspieler Khary Payton, bekannt durch "The Walking Dead", hat sich für die vegane Lebensweise entschieden. Auslöser war der Film "The Game Changers".
+excerpt: Der Schauspieler Khary Payton, bekannt durch "The Walking Dead", hat sich für die vegane Lebensweise entschieden. Auslöser war der Film "The Game Changers".
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_10_khari-payton__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_10_khari-payton__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIFBgcIBP/EACgQAAEEAQMDBAIDAAAAAAAAAAECAwQRAAUSMQYTQQchIlEVYVJxcv/EABYBAQEBAAAAAAAAAAAAAAAAAAECA//EABsRAAMBAAMBAAAAAAAAAAAAAAABAhEDITEi/9oADAMBAAIRAxEAPwDOOu6XFZhxJekrffZU0DJtFhldkAbvoj783jRDjOzJTUdhO511QQkfZOaJc9KdClejip2nTox6mipMxTqZQCH26CuyUWQPjdHncP37V5pXTEJehwZQhrclOIAdWQq21lVJ+PA5AH9YTLS9Lr6rcGTr/owdJtaUtM1UkzGStxCmFNqZUDW03zeQ7LH660KfBhwI2rOlcvtLcYbaotUCQq6NlZoHceePF5XNYSqlZT1jyOarYWIfEKR/FI88Z2xX5C5KUMyXUOvKCd3eULPizeGGL8M0Ln/mEPJUqaXHGh8FF5Ktt37An/PH6yMS1LVIcLtdzcd1CvfDDBd9sdfh/9k=
@@ -40,7 +36,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Walking Dead Star lebt seit einem Jahr vegan
-
 ---
 
 **Der Schauspieler Khary Payton, bekannt durch "The Walking Dead", hat sich für die pflanzliche Ernährungsform entschieden. Auslöser war der Film "The Game Changers".**
@@ -79,4 +74,4 @@ Alles über die Dokumentation, die die Stars zu Veganer\*innen macht, [erfahrt I
 
 Quelle: [Plantbased News](https://plantbasednews.org/news/celebrities/khary-payton-plant-based-after-watching-the-game-changers/)
 
-Bild/picture: [Creative Commons](https://images.app.goo.gl/dUTAtnzRQLVGJwKi6)
+**Bild/Picture:** [Creative Commons](https://images.app.goo.gl/dUTAtnzRQLVGJwKi6)

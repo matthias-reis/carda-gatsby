@@ -5,10 +5,8 @@ typeName: Gastbeitrag
 title: '"Lost" von Crippled Black Phoenix'
 seoTitle: '"Lost" von Crippled Black Phoenix – ein veganes Musikvideo'
 ogTitle: '"Lost" von Crippled Black Phoenix – ein veganes Musikvideo'
-description: Das Video zum Crippled Black Phoenix Song "Lost" ist ein Statement
-  zu all dem von Menschen verursachten Leid. Es rüttelt auf und es schockiert.
-excerpt: Das Video zum Crippled Black Phoenix Song "Lost" ist ein Statement zu
-  all dem von Menschen verursachten Leid. Es rüttelt auf und es schockiert.
+description: Das Video zum Crippled Black Phoenix Song "Lost" ist ein Statement zu all dem von Menschen verursachten Leid. Es rüttelt auf und es schockiert.
+excerpt: Das Video zum Crippled Black Phoenix Song "Lost" ist ein Statement zu all dem von Menschen verursachten Leid. Es rüttelt auf und es schockiert.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_12_lost-crippled-black-phoenix__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_12_lost-crippled-black-phoenix__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYDBwIEBQj/xAArEAACAgEDAwEHBQAAAAAAAAABAgMEEQAFIQYSMRMHFBVBUWFxIiQzUoH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgX/xAAbEQEAAwADAQAAAAAAAAAAAAABAAIRAyExof/aAAwDAQACEQMRAD8A8/8ATsE0W70zeS8laOVMpDWaQyIHVuwePONWJ1J1BTTdqh2nZXswT4nm9Ol7sMMwGWUKcsMcHj/dMO8LfuqkdeS2tqDIjCM/aU/Crksfqx+fGmHpe1sVOhFLB8X+LWHaBJZbE6GtF9BnIYDA54J7gMcaz7chZ7Jo1o0MGMfQfS8Fj2NxTRVJrIrvZsLFBAxlskOzDtXuXk58H56gpbXsHWViGntclizLuFGaKYCs0T0Y1jKt6wc4Vi5CgYOfPIGdVN1NvG5nqu9ct1twtxlpVRWZi0alwVGBkZUDHH31Hv1yONKqw3Xumeh67RRxyft5WH8DN/cdvPHkgaj13I9hm/JkaE+92tpNyWwKsdpjLGbDRkxuUH6nzx4z9h+da3UUx2Oaba6F7cIaj345IoYr5cxxjjHcGYeeSMnzo0aaroRuHuRi9qu6RJvrLtu5pJD3OM17xkGQTknDcHnXF6Wmfc91qVbG7e6wyyBWnmsMFQfMk50aNQ1lbP/Z
@@ -33,7 +31,6 @@ isAffiliate: false
 language: de
 subTitle: Veganes Musikvideo zeigt menschliche Abgründe
 languageLink: /2021/02/crippled-black-phoenix-lost-en
-
 ---
 
 **Das Video zum Crippled Black Phoenix Song "Lost" ist ein Statement zu all dem von Menschen verursachten Leid – zusammengefasst in acht Minuten. Es rüttelt auf und schockiert.**
@@ -46,7 +43,7 @@ Die britisch-schwedische Rockband Crippled Black Phoenix hat nun ein solches Sta
 
 ## Was steckt hinter den Bildern zu Crippled Black Phoenix' Musikvideo "Lost"?
 
-!["Lost". © Bild/picture: Crippled Black Phoenix](https://storage.googleapis.com/cardamonchai-media/2021-11-20/lost-crippled-black-phoenix-3-jpeg-imagine-080808_664833_1024_768/640.webp '"Lost". © Bild/picture: Crippled Black Phoenix')Das Video muss man gesehen haben. Dieser Artikel ist eine eindringliche Bitte, es anzuschauen, es auf sich wirken zu lassen und anschließend im Internet weiter zu teilen. Als ich es zum ersten Mal gesehen hatte, machte es mich betroffen. Die Bilder hallten noch lange in meinem Kopf nach.
+!["Lost". © Bild/Picture: Crippled Black Phoenix](https://storage.googleapis.com/cardamonchai-media/2021-11-20/lost-crippled-black-phoenix-3-jpeg-imagine-080808_664833_1024_768/640.webp '"Lost". © Bild/Picture: Crippled Black Phoenix')Das Video muss man gesehen haben. Dieser Artikel ist eine eindringliche Bitte, es anzuschauen, es auf sich wirken zu lassen und anschließend im Internet weiter zu teilen. Als ich es zum ersten Mal gesehen hatte, machte es mich betroffen. Die Bilder hallten noch lange in meinem Kopf nach.
 
 Martin Luther King sagte einmal "Nothing in all the world is more dangerous than sincere ignorance and conscientious stupidity" ("Nichts auf der ganzen Welt ist gefährlicher als aufrichtige Ignoranz und gewissenhafte Dummheit"). Das Video startet mit einem ganz ähnlichen Satz: "The dangerous nature of an ignorant mind. The final fall of mankind" ("Die gefährliche Natur eines unwissenden Geistes. Der endgültige Untergang der Menschheit").
 
@@ -64,7 +61,7 @@ Die Milliardenmarke der menschlichen Bevölkerung wurde im Jahr 1804 überschrit
 
 ## Teufelskreis Fortschritt
 
-!["Lost". © Bild/picture: Crippled Black Phoenix](https://storage.googleapis.com/cardamonchai-media/2021-11-20/lost-crippled-black-phoenix-4-jpeg-imagine-583818_86654a_1024_768/640.webp '"Lost". © Bild/picture: Crippled Black Phoenix')Der erste Teufelskreis besteht im technologischen Fortschritt, der das Land fruchtbarer macht und mehr Menschen ernähren kann. Das bringt wiederum mehr intelligente Köpfe hervor: zehnmal so viele wie im 19. Jahrhundert, die zehnmal mehr technologischen Fortschritt erzeugen.
+!["Lost". © Bild/Picture: Crippled Black Phoenix](https://storage.googleapis.com/cardamonchai-media/2021-11-20/lost-crippled-black-phoenix-4-jpeg-imagine-583818_86654a_1024_768/640.webp '"Lost". © Bild/Picture: Crippled Black Phoenix')Der erste Teufelskreis besteht im technologischen Fortschritt, der das Land fruchtbarer macht und mehr Menschen ernähren kann. Das bringt wiederum mehr intelligente Köpfe hervor: zehnmal so viele wie im 19. Jahrhundert, die zehnmal mehr technologischen Fortschritt erzeugen.
 
 Mit dem Fortschreiten der technologischen Entwicklung stellte sich mehr Wohlstand ein und damit zusätzlich zum Bevölkerungswachstum ein erhöhter Pro-Kopf-Bedarf an Ressourcen. Dieser Bedarf wird immer durch Ausbeutung gedeckt – entweder ist das die Ausbeutung zur Verfügung stehender Quellen und Rohstoffe oder die Ausbeutung anderer Menschen.
 
@@ -78,7 +75,7 @@ Kapital wird zur Produktion und Verbesserung des Wohlstandes eingesetzt – aber
 
 ## Die Gier nach mehr
 
-!["Lost". © Bild/picture: Crippled Black Phoenix](https://storage.googleapis.com/cardamonchai-media/2021-11-20/lost-crippled-black-phoenix-2-jpeg-imagine-583818_6b4930_1024_768/640.webp '"Lost". © Bild/picture: Crippled Black Phoenix')Geld macht Waren vergleichbar und schafft Konkurrenz und Märkte, die sich somit immer und ohne sich Verschnaufpausen zu gönnen, gegenseitig anheizen. Das passiert vor allem, wenn sich die Märkte unreguliert ausbreiten können.
+!["Lost". © Bild/Picture: Crippled Black Phoenix](https://storage.googleapis.com/cardamonchai-media/2021-11-20/lost-crippled-black-phoenix-2-jpeg-imagine-583818_6b4930_1024_768/640.webp '"Lost". © Bild/Picture: Crippled Black Phoenix')Geld macht Waren vergleichbar und schafft Konkurrenz und Märkte, die sich somit immer und ohne sich Verschnaufpausen zu gönnen, gegenseitig anheizen. Das passiert vor allem, wenn sich die Märkte unreguliert ausbreiten können.
 
 Diese ins System eingebaute Gier (oder Zwangsgier) nach mehr verursacht Leid. Mehr Menschen, mehr Nachfrage, mehr Absatz, mehr Kapital, besser Optimierungsmöglichkeiten, mehr Gewinne, mehr Investitionen, größerer Ressourcen-Verbrauch.
 
@@ -96,7 +93,7 @@ Leider liegt jedoch die größte Welle noch vor uns – die Klimakrise. Vereinfa
 
 ## Klima und Treibhauseffekt
 
-!["Lost". © Bild/picture: Crippled Black Phoenix](https://storage.googleapis.com/cardamonchai-media/2021-11-20/lost-crippled-black-phoenix-1-1-jpeg-imagine-080808_533c2b_1024_768/640.webp '"Lost". © Bild/picture: Crippled Black Phoenix')Menschliche Emissionen sind für 2,2 W/m² Energiezuwachs verantwortlich, wohingegen der zweitstärkste Effekt, die Einflüsse der Sonne gerade einmal 0,1 W/m² ausmachen. Der Effekt ist eine Steigerung der Durchschnittstemperatur von 0,2 Grad pro Jahrzehnt – Tendenz steigend. Wir können nicht sagen, dass wir lange Zeit nichts davon gewusst hätten. Der Treibhauseffekt in der Atmosphäre wurde bereits im Jahr 1824 von Christoph Fourier beschrieben. 1896 sagte Guy Stewart Callendar eine vom Menschen emittierten CO₂ verursachte Erderwärmung vorher.
+!["Lost". © Bild/Picture: Crippled Black Phoenix](https://storage.googleapis.com/cardamonchai-media/2021-11-20/lost-crippled-black-phoenix-1-1-jpeg-imagine-080808_533c2b_1024_768/640.webp '"Lost". © Bild/Picture: Crippled Black Phoenix')Menschliche Emissionen sind für 2,2 W/m² Energiezuwachs verantwortlich, wohingegen der zweitstärkste Effekt, die Einflüsse der Sonne gerade einmal 0,1 W/m² ausmachen. Der Effekt ist eine Steigerung der Durchschnittstemperatur von 0,2 Grad pro Jahrzehnt – Tendenz steigend. Wir können nicht sagen, dass wir lange Zeit nichts davon gewusst hätten. Der Treibhauseffekt in der Atmosphäre wurde bereits im Jahr 1824 von Christoph Fourier beschrieben. 1896 sagte Guy Stewart Callendar eine vom Menschen emittierten CO₂ verursachte Erderwärmung vorher.
 
 Doch unser marktwirtschaftliches System hat einfach keine Mittel, um auf solch abstrakte Auswirkungen zu reagieren. Also taten wir nichts.
 

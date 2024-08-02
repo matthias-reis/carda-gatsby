@@ -4,14 +4,8 @@ typeName: Beitrag
 title: "Veganer Tourbus: Noel Gallagher's High Flying Birds"
 subTitle: '"11 Mitglieder meine Band leben vegan oder vegetarisch"'
 seoTitle: Noel Gallagher's High Flying Birds und der vegane Tourbus
-description: Noel Gallagher stand dem Veganismus noch vor ein paar Jahren sehr
-  kritisch gegenüber. Lest jetzt, wie es dazu kam, dass er heute mit seinen High
-  Flying Birds in einem veganen Tourbus unterwegs ist.
-excerpt: Noel Gallagher polarisiert gerne. Das wissen wir, seit wir in den
-  1990er-Jahren zum ersten Mal etwas von Oasis gehört haben. Noch vor ein paar
-  Jahren äußerte er öffentlich in einer Talkshow seine Kritik am Veganismus –
-  inzwischen hat er seine Meinung geändert und steht ihm offen gegenüber – der
-  Musiker hat sogar einen vegan-vegetarischen Tourbus!
+description: Noel Gallagher stand dem Veganismus noch vor ein paar Jahren sehr kritisch gegenüber. Lest jetzt, wie es dazu kam, dass er heute mit seinen High Flying Birds in einem veganen Tourbus unterwegs ist.
+excerpt: Noel Gallagher polarisiert gerne. Das wissen wir, seit wir in den 1990er-Jahren zum ersten Mal etwas von Oasis gehört haben. Noch vor ein paar Jahren äußerte er öffentlich in einer Talkshow seine Kritik am Veganismus – inzwischen hat er seine Meinung geändert und steht ihm offen gegenüber – der Musiker hat sogar einen vegan-vegetarischen Tourbus!
 image: https://storage.googleapis.com/cardamonchai-media/2023-09-15/noel-gallagher-vegan-jpg-imagine-382828_746245_1024_768/640.webp
 copyright: Wikimedia Commons
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-09-15/noel-gallagher-vegan-og-jpeg-imagine-080808_7f6740_1200_628/640.webp
@@ -28,7 +22,6 @@ focusKeyword: veganer Tourbus
 advertisement: false
 affiliate: false
 language: de
-
 ---
 
 **Noel Gallagher polarisiert gerne. Das wissen wir, seit wir in den 1990er-Jahren zum ersten Mal etwas von Oasis gehört haben. Noch vor ein paar Jahren äußerte er öffentlich in einer Talkshow seine Kritik am Veganismus – inzwischen hat er seine Meinung geändert und steht ihm offen gegenüber – der Musiker hat sogar einen vegan-vegetarischen Tourbus!**
@@ -59,7 +52,7 @@ Anaïs lebt schon eine ganze Weile vegan und war 2018 sogar bereits Teil einer K
 
 > "Mein Hund Ziggy ist mein bester Freund. Aber alle Tiere empfinden Schmerzen und Angst. Warum sollten wir also unsere Haustiere verschonen und andere Tiere essen? Die Tiere brauchen unsere Hilfe. Wir müssen uns für sie einsetzen. Geht raus und werdet aktiv!"
 
-Bild/Picture Header: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Noel_Gallagher_%287830406012%29.jpg)
+**Bild/Picture Header:** [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Noel_Gallagher_%287830406012%29.jpg)
 
 [^1]: ["Dogs Look Back in Anger", Matt Morgan Podcast](https://www.patreon.com/MattMorgan)
 [^2]: [Noel Gallagher, Manchester Evening News](https://twitter.com/MENnewsdesk/status/1139963532320002048)

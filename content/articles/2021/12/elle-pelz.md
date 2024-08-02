@@ -3,14 +3,9 @@ date: 2021-12-15T14:53:48.242Z
 typeName: Beitrag
 title: Elle schmeißt Pelz raus
 subTitle: Tierhaut ist nicht mehr in Mode
-seoTitle: "Fashion Magazin Elle beschließt: Pelz ist aus der Mode"
-description: Pelz scheint nun zum Glück endgültig aus der Mode zu kommen. Hoffen
-  wir mal, dass es so bleibt. Sogar das High Fashion Magazin Elle hat jetzt
-  genug von Tierhäuten und spricht einen Pelzbann aus.
-excerpt: Pelz scheint nun zum Glück endgültig aus der Mode zu kommen. Hoffen wir
-  mal, dass es so bleibt. Sogar das High Fashion Magazin Elle hat jetzt genug
-  von Tierhäuten und spricht sich erstmals ganz offiziell gegen Pelze aus - mit
-  einem Pelzbann!
+seoTitle: 'Fashion Magazin Elle beschließt: Pelz ist aus der Mode'
+description: Pelz scheint nun zum Glück endgültig aus der Mode zu kommen. Hoffen wir mal, dass es so bleibt. Sogar das High Fashion Magazin Elle hat jetzt genug von Tierhäuten und spricht einen Pelzbann aus.
+excerpt: Pelz scheint nun zum Glück endgültig aus der Mode zu kommen. Hoffen wir mal, dass es so bleibt. Sogar das High Fashion Magazin Elle hat jetzt genug von Tierhäuten und spricht sich erstmals ganz offiziell gegen Pelze aus - mit einem Pelzbann!
 image: https://storage.googleapis.com/cardamonchai-media/2021-12-15/elle-pelz-silberfuchs-jpg-imagine-080808_4c5626_1024_768/640.webp
 copyright: 9685995, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-12-15/elle-pelz-silberfuchs-fb-png-imagine-080808_484f29_1200_628/640.webp
@@ -30,7 +25,6 @@ focusKeyword: Elle
 advertisement: false
 affiliate: false
 language: de
-
 ---
 
 **Pelz scheint nun zum Glück endgültig aus der Mode zu kommen. Hoffen wir mal, dass es so bleibt. Sogar das High Fashion Magazin Elle hat jetzt genug von Tierhäuten und spricht sich erstmals ganz offiziell gegen Pelze aus.**
@@ -61,4 +55,4 @@ Für Valéria Bessolo Llopiz, Senior Vice President und internationale Direktori
 
 Die wieder aufkeimende Pelzmode der letzten Jahre scheint damit nach und nach ein Ende zu finden. [Hoffen wir, dass sich auch bald in Richtung Leder](/2020/07/leder-pelz/) bald noch mehr tut. Fair Fashion Ikonen wie [Stella McCartney](/2021/03/stella-mccartney-vegane-lederalternative-pilz/) sind hier sicher sehr wichtige Influencer, die, genau wie Elle, auch im High Fashion Bereich den Einfluss besitzen, Dinge zu bewegen. [Achtung! Häufig verbirgt sich auch hinter vermeintlichem "Fake Fur" echter Pelz](/2014/11/fakepelz-echtpelz/).
 
-Bild/picture: [9685995](https://pixabay.com/photos/zoo-mammal-nature-animals-cute-3759937/), pixabay
+**Bild/Picture:** [9685995](https://pixabay.com/photos/zoo-mammal-nature-animals-cute-3759937/), pixabay

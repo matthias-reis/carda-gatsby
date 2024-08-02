@@ -3,12 +3,8 @@ date: 2020-07-29T15:47:23.000Z
 title: Buschfeuer in Australien
 seoTitle: Buschfeuer in Australien - 3 Milliarden Tiere getötet und vertrieben
 ogTitle: Buschfeuer in Australien - 3 Milliarden Tiere getötet und vertrieben
-description: Fast drei Milliarden Tiere - Säugetiere, Reptilien, Vögel und
-  Frösche wurden in Australien zwischen 2019 und 2020 durch Buschfeuer getötet
-  oder vertrieben.
-excerpt: Fast drei Milliarden Tiere - Säugetiere, Reptilien, Vögel und Frösche
-  wurden in Australien zwischen 2019 und 2020 durch Buschfeuer getötet oder
-  vertrieben.
+description: Fast drei Milliarden Tiere - Säugetiere, Reptilien, Vögel und Frösche wurden in Australien zwischen 2019 und 2020 durch Buschfeuer getötet oder vertrieben.
+excerpt: Fast drei Milliarden Tiere - Säugetiere, Reptilien, Vögel und Frösche wurden in Australien zwischen 2019 und 2020 durch Buschfeuer getötet oder vertrieben.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_buschfeuer-australien__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_buschfeuer-australien__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCBQYH/8QAKBAAAgIBAwMDBAMAAAAAAAAAAQIDEQQAEiEFMUEHE1EGIkJhFCMy/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAAP/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIDEzFh/9oADAMBAAIRAxEAPwDVY+WkwJWdmr8MgLRBHH3VwOfjUE6hjFQ84iWhVoGNkfHF649k/WWfNIhnOSyghSDJRAHY0OBzp/p3qF1CDLYP/IlhC8wyizuvwR2rVWaromOzh1OV8eYxpHHkzmif6n2AX5N1fGq/qeXhY2DNPiyNLKpYKkzEqxUc2F7gfrWEyPUXKeYl+mH2HULIrITfPyCDqs6v6gYkOLI2Lg5CSOp3qZLX3ADT3V9iVI82D3XlHbF6YVBrYn1DAjibfHMJZUZQfbJNAj43G+D+9TyIPbcSYUgiohWMkqIdwojaBz+PnRo1MdxL2c6bbMzy8EIAp2E2o7eD5+NE/TYsjHkjVMmSRxxvbaKH+vtN2e/N6NGsA//Z
@@ -26,7 +22,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: 3 Milliarden Tiere getötet und vertrieben
-
 ---
 
 **Fast drei Milliarden Tiere - Säugetiere, Reptilien, Vögel und Frösche - wurden in Australien zwischen 2019 und 2020 durch Buschfeuer getötet oder vertrieben. Diese traurige Zahl stammt aus einem aktuellen Bericht des WWF.**
@@ -63,4 +58,4 @@ Einen abschließenden Bericht erwartet der WWF bis Ende August 2020.
 
 Quelle/source: [WWF](https://www.worldwildlife.org/press-releases/3-billion-animals-impacted-by-australia-s-bushfire-crisis)
 
-Bild/picture [TerriAnneAllen](https://pixabay.com/de/photos/bushfire-verw%C3%BCstung-australien-4772185/), pixabay
+**Bild/Picture:** [TerriAnneAllen](https://pixabay.com/de/photos/bushfire-verw%C3%BCstung-australien-4772185/), pixabay

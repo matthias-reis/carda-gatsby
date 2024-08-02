@@ -4,11 +4,8 @@ typeName: Beitrag
 title: Sternekoch ersetzt Käse durch vegane Alternativen
 subTitle: '"Vegan ist einfach besser"'
 seoTitle: Sternekoch ersetzt Käse durch vegane Alternativen – "Vegan ist einfach besser"
-description: Der Sternekoch Josef Centeno ersetzt in seinen Lokalen jetzt den
-  Käse durch vegane Alternativen. Das gab er vor ein paar Tagen bekannt.
-  Pflanzlichen Alternativen sind in seinen Augen nicht nur die modernere,
-  sondern auch die bessere Wahl – aus vielen Gründen.
-excerpt: ""
+description: Der Sternekoch Josef Centeno ersetzt in seinen Lokalen jetzt den Käse durch vegane Alternativen. Das gab er vor ein paar Tagen bekannt. Pflanzlichen Alternativen sind in seinen Augen nicht nur die modernere, sondern auch die bessere Wahl – aus vielen Gründen.
+excerpt: ''
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/sternekoch-josef-centeno-jpg-imagine-181818_4b463e_1024_768/640.webp
 copyright: Djedj, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/sternekoch-josef-centeno-fb-jpg-imagine-080808_514c42_1200_628/640.webp
@@ -23,7 +20,6 @@ focusKeyword: Sternekoch
 advertisement: false
 affiliate: false
 language: de
-
 ---
 
 **Der Sternekoch Josef Centeno ersetzt in seinen Lokalen jetzt den Käse durch vegane Alternativen. Das gab er vor ein paar Tagen bekannt. Pflanzliche Alternativen sind in seinen Augen nicht nur die modernere, sondern auch die bessere Wahl – aus vielen Gründen.**
@@ -56,4 +52,4 @@ Nach und nach machen sich mehr und mehr Restaurant-Betreiber\*innen auch Gedanke
 
 Dem positiven Beispiel schließen sich immer mehr Gastronom⋆innen an. Vegan ist also längst nicht mehr nur am Falafel-Stand möglich.
 
-Bild/picture: [djedj](https://pixabay.com/photos/artichoke-vegetable-food-organic-3386681/), pixabay
+**Bild/Picture:** [djedj](https://pixabay.com/photos/artichoke-vegetable-food-organic-3386681/), pixabay

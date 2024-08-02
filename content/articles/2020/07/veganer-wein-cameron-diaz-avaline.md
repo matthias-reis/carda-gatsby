@@ -3,12 +3,8 @@ date: 2020-07-21T13:04:06.000Z
 title: Veganer Wein von Cameron Diaz
 seoTitle: Veganer Wein von Cameron Diaz - Die Geschichte von Avaline
 ogTitle: Veganer Wein von Cameron Diaz - Die Geschichte von Avaline
-description: Veganer Wein ohne Zusatzstoffe - der gemeinsame Traum von
-  Schauspielerin Cameron Diaz und Unternehmerin Katherine Power ist Wirklichkeit
-  geworden.
-excerpt: Veganer Wein ohne Zusatzstoffe - der gemeinsame Traum von
-  Schauspielerin Cameron Diaz und Unternehmerin Katherine Power ist Wirklichkeit
-  geworden.
+description: Veganer Wein ohne Zusatzstoffe - der gemeinsame Traum von Schauspielerin Cameron Diaz und Unternehmerin Katherine Power ist Wirklichkeit geworden.
+excerpt: Veganer Wein ohne Zusatzstoffe - der gemeinsame Traum von Schauspielerin Cameron Diaz und Unternehmerin Katherine Power ist Wirklichkeit geworden.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_veganer-wein-cameron-diaz__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_veganer-wein-cameron-diaz__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYBBAUH/8QALBAAAgIBAwMCBQQDAAAAAAAAAQIDBBEABSEGEjETQRQiMlFxBxUWI2Ghwf/EABgBAQADAQAAAAAAAAAAAAAAAAMAAQIE/8QAJREAAgECBAYDAAAAAAAAAAAAAQIAAxESIUHhBBQiIzFCUdHw/9oADAMBAAIRAxEAPwCn/D1vRQ3t+uLVrPKlQxV1IZpSBgADxn5Rk45OmWD9NunU3n1ZYUmji7CrTO6PnHIIUhec+RqeiOmfjduuSdRyWC7TKY4EfsibAyrOuOTk/wCtMP7ektSWGRbQdpO4Kicvz4AwT+P8DRp01Ap8Rlpg0S/tOa7Vuewn4aCwi19022x6Fqq5JDrkj1MNwG8YK4Az2nPnTluQoWagemQis6g+gSSvvyAOM6wLO07dBvdiTc4DbE0ctoZ/rU4cZjPBLNyMj8cjVrpqztdjcN1s0doswXmUJZituZIzn6SqgEoPlB4I9vOpRxrmRe8fiFptrYj9nGHpylFsXTZs/GT3K9hg0iTY74/YBe0f91PUW1PQ269uMu6zsgCPmGv3yU0GSzKq/WfBPOcZ0aNIQFa40nOh7dvnacuo7lWtS1rsNivPBG7o8kcbB4yflz24yFY9ucj7H21v7dHbsW7kcYgqzV5zD60k/oNLGCT25Bwyg+M+M/bRo1vmWdsBAtsJTUFRQ4Oe5+p//9k=
@@ -26,7 +22,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Die Geschichte von Avaline
-
 ---
 
 **Eines Abends saß die Schauspielerin Cameron Diaz mit ihrer Freundin Katherine Power bei einem Gläschen Wein im Garten. Der Wein regte ihre Kreativität an und irgendwann fassten sie den Beschluss, selbst welchen zu produzieren.**
@@ -53,4 +48,4 @@ Die bisher zwei Sorten Avaline Wein (Weiß und Rosé) erfreuen sich in den USA b
 
 Hinweis: Viele Winzer klären ihre Rotweine heute gar nicht mehr, um sie so rein wie möglich zu halten. Sie sind darum oft vegan, ohne, dass es auf dem Etikett erwähnt wird. Fragt also in der Weinhandlung Eures Vertrauens nach. Wenn Ihr eher auf dunklere Getränke steht, als die hier erwähnten, lohnt sich das immer.
 
-Bild/picture: [Cameron Diaz](https://www.instagram.com/camerondiaz/), Instagram
+**Bild/Picture:** [Cameron Diaz](https://www.instagram.com/camerondiaz/), Instagram

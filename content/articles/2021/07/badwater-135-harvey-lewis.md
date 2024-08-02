@@ -55,4 +55,4 @@ Harvey befindet sich in guter Gesellschaft. Die vegan lebende Ultramarathon-Läu
 
 Immer mehr Sportler\*innen stellen inzwischen auf vegan um, weil sie feststellen, dass sie ohne Lebensmittel tierischer Herkunft ihre Leistung steigern können. Tennis-Star Venus Williams und [NBA Star Enes Kanter](/2021/01/enes-kanter-vegan-nba/) setzen genauso auf pflanzliche Kost, wie [Ausnahme-Gewichtheber Patrick Baboumian und Rennfahrer Lewis Hamilton](/2019/11/the-game-changers/).
 
-Bild/picture: Mount Whitney, [7921333](https://pixabay.com/photos/mount-whitney-california-lone-pine-4497089/), pixabay
+**Bild/Picture:** Mount Whitney, [7921333](https://pixabay.com/photos/mount-whitney-california-lone-pine-4497089/), pixabay

@@ -3,13 +3,8 @@ date: 2021-04-07T04:00:13.000Z
 title: Support + Feed
 seoTitle: Support + Feed – Joaquin Phoenix verteilt veganes Essen an Bedürftige
 ogTitle: Support + Feed – Joaquin Phoenix verteilt veganes Essen an Bedürftige
-description: Support + Feed verteilt seit dem Beginn der Corona-Pandemie Essen
-  an Bedürftige. Jetzt hat die Organisation prominente Unterstützung bekommen.
-excerpt: Support + Feed verteilt seit dem Beginn der Corona-Pandemie Essen an
-  Bedürftige. Die Organisation wächst immer weiter und hat jetzt jede Menge
-  prominente Unterstützung bekommen. Joaquin Phoenix, Rooney Mara und Billie
-  Eilish haben gemeinsam mit ihren Familien dabei geholfen, vegane Mahlzeiten an
-  die Organisation My Friend's Place in Los Angeles auszuliefern.
+description: Support + Feed verteilt seit dem Beginn der Corona-Pandemie Essen an Bedürftige. Jetzt hat die Organisation prominente Unterstützung bekommen.
+excerpt: Support + Feed verteilt seit dem Beginn der Corona-Pandemie Essen an Bedürftige. Die Organisation wächst immer weiter und hat jetzt jede Menge prominente Unterstützung bekommen. Joaquin Phoenix, Rooney Mara und Billie Eilish haben gemeinsam mit ihren Familien dabei geholfen, vegane Mahlzeiten an die Organisation My Friend's Place in Los Angeles auszuliefern.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04_support-feed__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_support-feed__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAArEAABBAAFAgYBBQAAAAAAAAABAgMEEQAFEiExBkEHExQVIlEWMmFxgaH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAIREBAAEEAQQDAAAAAAAAAAAAAQIAAxExQQQSIfATInH/2gAMAwEAAhEDEQA/AKM/mcSOpEd2VFacfXoaYUQC7QtWnajzxhVRnET3LNFobYRlkdKUplJCS22pZr4GyQlRtKhwD9WbknWmfzfzUQ8wnBMBK2lNqW2FBpKkEKNVtdm65woNSEwi/FiuwnGIrgp5CdDkhNivuxsDXasLhZlBHneqpbxKKGnJ4eKuPU7iFPNZgxIkNxW2U63o9qT8lWk1Ru7HbvyMd5rPUeUuNIlRGZbJBKHGl04QDRtPA7YheY53KeNQ5ExhltDYKC+QSBtuU1YBO2214sHgjmD7XSHk+pmqYMl0BkjWmyU3pJvSkirA2J/fB3xfu80vpbRn4x177qkrxP6f0ZymUZjPk+kGlTii4rzEnZHxF72KJ23N8YwcojQo0xKJcYPvPtllSVLoNK1UDQ/UCkHnv/GDBiiUcRfNTWrndhAPzVZ81hhuYlyMy6G0skrNFSaCiDv/AEP8w/8Ahz1E/kMDMoDOW+5rVIQ4Fh8NtpBb4JonuOByMGDGMmMMnFE2y5LtdNf/2Q==
@@ -28,7 +23,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Joaquin Phoenix, Rooney Mara und Billie Eilish helfen Bedürftigen
-
 ---
 
 **Support + Feed verteilt seit dem Beginn der Corona-Pandemie Essen an Bedürftige. Die Organisation wächst immer weiter und hat jetzt jede Menge prominente Unterstützung bekommen.**
@@ -61,4 +55,4 @@ Neben der Unterstützung Bedürftiger und dem Support veganer Lokale möchte Sup
 
 Die tierische Landwirtschaft ist neuesten Auswertungen zufolge für 14,5 Prozent der Treibhausgas-Emissionen verantwortlich. Rund 70 Prozent der direkten Treibhausgasemissionen unserer Ernährung lassen sich auf tierische Produkte zurückführen.
 
-Bild/picture: [Support + Feed](https://www.supportandfeed.com/)
+**Bild/Picture:** [Support + Feed](https://www.supportandfeed.com/)

@@ -3,10 +3,8 @@ date: 2021-01-19T15:21:41.000Z
 title: Veganes Lokal erhält Michelin Stern
 seoTitle: Veganes Lokal erhält Michelin Stern – Origine Non Animale
 ogTitle: Veganes Lokal erhält Michelin Stern – Origine Non Animale
-description: Das vegane Lokal Origine Non Animale wurde jetzt mit einem Michelin
-  Stern ausgezeichnet. Gründerin Claire Vallée ist begeistert.
-excerpt: Das vegane Lokal Origine Non Animale wurde jetzt mit einem Michelin
-  Stern ausgezeichnet. Gründerin Claire Vallée ist begeistert.
+description: Das vegane Lokal Origine Non Animale wurde jetzt mit einem Michelin Stern ausgezeichnet. Gründerin Claire Vallée ist begeistert.
+excerpt: Das vegane Lokal Origine Non Animale wurde jetzt mit einem Michelin Stern ausgezeichnet. Gründerin Claire Vallée ist begeistert.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_01_Origine-Non-Animale-3-Kopie-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_Origine-Non-Animale-3-Kopie-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBAUG/8QAKhAAAQQBBAAFAwUAAAAAAAAAAQIDBBEFAAYSIQcTFCIxCEFhIzJRcbH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwT/xAAgEQACAgEEAwEAAAAAAAAAAAABEQACIQMSMUFxgdGh/9oADAMBAAIRAxEAPwBrRZm4Y0XFx58WMue7MIktxXwv0zJVTbakk3+1ItXfd1rWnbccn5VCZORdVHWHFtoTyQtKirlZUkg+2khPfVfHZ0n/AKg91z8PkUtxttRUR5L7Ud2dIdTbywCtKChB5igbs18/fTYgZmRn9pxX8Qp6DPbebirS8risLQqnEAuD3GkE3VkX/OoigDPI+RFNySnUs+a1HA8x0hNDiI32roAfitSdW4pUZSS6AFUoljrvq/xV/wC6WPir4iDHbkZ2/HZdd8pv18n00sNPFpCVKJSSOIAAJsrBsAVRvVjwt3w9ldwmFEwc9vAT0KkxspKcVzdfDaCtJbNlAICiO6NEiwb1UnO2BqE3FFllYzYG8HMnKymayUmE4pSpCwh5sucEBaVpIAB/Uv5J+99a0IHic1tbH+ugxstk5MmK7NCMqtKUBvmAoJ4CgrsdUQEmrHxo0ay00gHcdY/Zs1CLWG4N59nmamYn4l2A9ltyO5PzW8S3LksojsyGWmnlONpCeQT7wpJojj8p7NdW9vbvxe6fFPDwsGcrDmxyDKjSGERmAtCCfMUlJUpTlHgRaR/VnRo0jRoFZZP2TJZL6wPCM//Z
@@ -21,7 +19,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Origine Non Animale überzeugt mit Gemüse
-
 ---
 
 **Die Banken lehnten die Kreditanträge der Besitzerin des Origine Non Animale ab, weil ihnen "die Aussichten für ein veganes Lokal zu unsicher" waren. Jetzt wurde das Restaurant mit einem Michelin Stern ausgezeichnet. Claire Vallées Lokal ist damit das erste vegane Restaurant, das einen Michelin Stern bekommen hat.**
@@ -50,4 +47,4 @@ Ich freue mich sehr über diese Nachricht und wünsche Claire alles Gute. Hoffen
 
 Seid Ihr neugierig geworden? Hier findet Ihr die [Origine Non Animale Speisekarte](https://www.clairevallee.com/le-menu).
 
-Bild/picture: [Origine Non Animale](https://www.clairevallee.com/)
+**Bild/Picture:** [Origine Non Animale](https://www.clairevallee.com/)

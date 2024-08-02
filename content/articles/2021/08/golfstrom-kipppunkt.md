@@ -4,11 +4,7 @@ typeName: Beitrag
 title: Der Golfstrom steht vor dem Kipppunkt
 subTitle: Beschleunigt sich die Klimakatastrophe?
 seoTitle: Golfstrom am Kipppunkt – beschleunigt sich die Klimakatastrophe?
-description: "Die Klimaforscher*innen warnen schon lange davor, jetzt passiert
-  es: Der Golfstrom steht vor dem Kipppunkt. Die Meeresströmungen im Atlantik
-  schwächen sich ab. Aus einer aktuellen Studie geht hervor, dass die
-  Kettenreaktion nicht mehr weit entfernt ist. Wenn es so weit ist, wird das
-  extreme Folgen haben."
+description: 'Die Klimaforscher*innen warnen schon lange davor, jetzt passiert es: Der Golfstrom steht vor dem Kipppunkt. Die Meeresströmungen im Atlantik schwächen sich ab. Aus einer aktuellen Studie geht hervor, dass die Kettenreaktion nicht mehr weit entfernt ist. Wenn es so weit ist, wird das extreme Folgen haben.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kipppunkte-jpg-imagine-e8f8f8_6d92a4_1024_768/640.webp
 copyright: Dassel, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kipppunkte-fb-jpg-imagine-e8f8f8_6b8d9f_1200_628/640.webp
@@ -29,7 +25,6 @@ focusKeyword: Kipppunkt
 advertisement: false
 affiliate: false
 language: de
-
 ---
 
 **Die Klimaforscher\*innen warnen schon lange davor, jetzt passiert es vor unseren eigenen Augen: Der Golfstrom steht vor dem Kipppunkt. Die Meeresströmungen im Atlantik schwächen sich ab. Aus einer aktuellen Studie geht hervor, dass die gefürchtete Kettenreaktion nicht mehr weit entfernt ist. Wenn es so weit ist, wird das extreme Folgen haben.**
@@ -86,7 +81,7 @@ Möglicherweise haben wir in der Vergangenheit bereits einige Kipppunkte erlebt.
 
 Mehr über die Kipppunkte erfahrt Ihr unter anderem auch im Buch ["Handeln statt hoffen" von Carola Rackete](/2020/07/handeln-statt-hoffen-carola-rackete/).
 
-Bild/picture: Schmelzender Eisberg vor Grönland/Melting iceberg off Greenland [Dassel](https://pixabay.com/photos/iceberg-ice-greenland-frozen-cold-4498548/), pixabay
+**Bild/Picture:** Schmelzender Eisberg vor Grönland/Melting iceberg off Greenland [Dassel](https://pixabay.com/photos/iceberg-ice-greenland-frozen-cold-4498548/), pixabay
 
 [^1]: [Climate Change](https://www.nature.com/articles/s41586-018-0872-x)
 [^2]: [Niklas Boers, PIK](https://www.pik-potsdam.de/members/boers)

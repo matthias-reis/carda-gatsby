@@ -5,12 +5,8 @@ typeName: Interview
 title: The Ocean Gründer Robin Staps
 seoTitle: The Ocean Gründer Robin Staps im Interview über "Phanerozoic II"
 ogTitle: The Ocean Gründer Robin Staps im Interview über "Phanerozoic II"
-description: The Ocean veröffentlichen am 25. September ihr neues Album
-  "Phanerozoic II". Ich habe mich jetzt im Interview mit Gründer Robin Staps
-  darüber unterhalten.
-excerpt: English & German - The Ocean veröffentlichen am 25. September ihr neues
-  Album "Phanerozoic II". Ich habe mich jetzt im Interview mit Gründer Robin
-  Staps darüber unterhalten.
+description: The Ocean veröffentlichen am 25. September ihr neues Album "Phanerozoic II". Ich habe mich jetzt im Interview mit Gründer Robin Staps darüber unterhalten.
+excerpt: English & German - The Ocean veröffentlichen am 25. September ihr neues Album "Phanerozoic II". Ich habe mich jetzt im Interview mit Gründer Robin Staps darüber unterhalten.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_the-ocean-collective__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_the-ocean-collective__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwME/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURABIhEzFBBhQiBxVRIzJhkaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AxihoLfTem7IbijRy1BadC4A3DJHxOMnPHHbT+2x2yeS1Q089LPHOI5pEaTYUUlso3fn47fxlhz51lmxnqeh1naKF2WNWbOFz48DTQSXekFLcW9wslGUhiJ42FF3qCAO20+fzoLy+pYqquv8A9kZIFiaN6WnjRipJXMignsVwcYznORrxfVH03Q26oijt8ypFJTLUKZ5S+MqWwHx8i3GB41MXSnvF29T1FVcKWNKmaQdRVjESDhBgAdhhl/vXO/XKuukaVslV+nSxLSwhTszCCVUBfH8+edAipap4JQ6BSwx31XWydLslFTmf2/Vk6MkhcIAGG0gseAMADJzxo0aBilY0toMkTxQ3CSsWBImkcM6EfvU5243AZ4z28Y1N3Wn6T3CComjino2EaxEBQxHcAZ/zOjRoP//Z
@@ -37,7 +33,6 @@ isAffiliate: false
 language: de
 subTitle: '"Das neue Album ist eine Reise"'
 languageLink: /2020/09/the-ocean-robin-staps-interview-en
-
 ---
 
 **Am 25. September ist es soweit: Der zweite Teil des gefeierten Albums "Phanerozoic" von The Ocean erscheint. Wir alle haben diesen Moment sehnsüchtig erwartet. Ich hatte jetzt die Ehre, mich mit The Ocean Gründer Robin Staps über die Entstehung von "Phanerozoic" und über das in Berlin ansässige Post-Rock Label der Band Pelagic zu unterhalten.**
@@ -116,7 +111,7 @@ Parallel dazu haben wir den zweiten Teil finalisiert. Die Bass-Aufnahmen habe ic
 
 ## "Ich habe Geographie studiert"
 
-![Bild/picture: © The Ocean Collective](https://storage.googleapis.com/cardamonchai-media/2021-11-20/the-ocean-collective-2-400x300-jpeg-imagine-a88878_8a7b63_400_300/640.webp 'Bild/picture: © The Ocean Collective')
+![Bild/Picture: © The Ocean Collective](https://storage.googleapis.com/cardamonchai-media/2021-11-20/the-ocean-collective-2-400x300-jpeg-imagine-a88878_8a7b63_400_300/640.webp 'Bild/Picture: © The Ocean Collective')
 
 **Anne:** Insgesamt steht Ihr ja ziemlich auf Konzeptalben. Mal dreht es sich um Tonleitern, mal um Tiefenzonen von Gewässern und mal um Zeitalter.
 

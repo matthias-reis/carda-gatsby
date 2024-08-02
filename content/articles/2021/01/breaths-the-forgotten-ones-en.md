@@ -4,11 +4,7 @@ typeName: Review
 title: Breaths – "The Forgotten Ones"
 subTitle: '"A Vegan Anthem"'
 seoTitle: Breaths – "The Forgotten Ones" – "A Vegan Anthem"
-description: Breaths is a post-rock project from Richmond, Virginia. Founder
-  Jason now introduced me to the latest single from his debut album "Lined In
-  Silver", which he will release in March. The song "The Forgotten Ones" is
-  about the relationship between humans and animals. Jason and his family have
-  been living vegan for four years now.
+description: Breaths is a post-rock project from Richmond, Virginia. Founder Jason now introduced me to the latest single from his debut album "Lined In Silver", which he will release in March. The song "The Forgotten Ones" is about the relationship between humans and animals. Jason and his family have been living vegan for four years now.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_01_breaths-the-forgotten-ones.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgIDBAj/xAArEAABAwMDAwMDBQAAAAAAAAABAgMEBQYRABIhBzFBExQVUWGBFiJxkfD/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/EABwRAQACAwADAAAAAAAAAAAAAAEAAgMRIRJB4f/aAAwDAQACEQMRAD8A81BhyQ4hthBW4ohKUgZyTwB/emhUunNOo3VSPbtQkq+PbZbckLcd2FaxH9RSArHAKwR9hrDo5RZFdptysGY/GpkYMTpYZXsWotIkKbwfBCgNTPXiuSaT1US9BQwt9pEZ9C3mw4FENpwFJJIP3z3zo9eEWyqLFVc9MYgVqWzDJ9slwhsEklI+hyAf447EajG0KSkkj9pOAcf766v9Ptxy73JdRjNswBI3mNCaXu9R5KNy8Z5AOCceO3jXHdEKJE6eWg4yoe9lyZ78lBGFIGGEtg/hJP5OpXYAy3tW13xmiz7wn2zRLkhU9lkiqxg26+4kktJSlxPHOOQ4e+eQNXC57Qqcz9PSrhdUJ86FGmLCXEJcVuWRsGRgK9NKMDBGVc+dGjSr7gzcrVjBZtm1KA98dQai+LqmtrpsJl5CDhTgG/K0AhJ2bhuzxnjvpWdY40qhooFrVBEf3NIbeUp5p9bhcDqkqTkK4GAAAQBnRo0cJuismfmSocPiz//Z
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_01_the-forgotten-ones-breaths-1__l.jpg
@@ -31,7 +27,6 @@ advertisement: false
 affiliate: false
 language: en
 languageLink: /2021/01/breaths-the-forgotten-ones
-
 ---
 
 **Breaths is a post-rock project from Richmond, Virginia. Founder Jason now introduced me to the latest single from his debut album "Lined In Silver", which he will release in March. The song "The Forgotten Ones" is about the relationship between humans and animals. Jason and his family have been living vegan for four years now.**
@@ -39,9 +34,9 @@ languageLink: /2021/01/breaths-the-forgotten-ones
 "Lined In Silver" is a mixture of post-metal, doom gaze, blackgaze and post-rock. Jason recommends it to fans of bands like Deftones, The Ocean, Holy Fawn, Sleep Token and Mountaineer – of course; he immediately hit a nerve with me.
 
 <RemoteImage
-  alt={`Jason. Bild/picture: Breaths`}
+  alt={`Jason. Bild/Picture: Breaths`}
   size="medium"
-  title={`Jason. Bild/picture: Breaths`}
+  title={`Jason. Bild/Picture: Breaths`}
   mediumUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_the-forgotten-ones-breaths-2__m.jpg"
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2021_01_the-forgotten-ones-breaths-2__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYFBwgE/8QAKhAAAgECBQMDBAMAAAAAAAAAAQMCBBEABQYhMQcSQQgTIhYyYYEzQlH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQABf/EAB8RAAICAQQDAAAAAAAAAAAAAAECAAMREhMhQaHR4f/aAAwDAQACEQMRAD8AhPSpmKsvdqkOlKIYKW0u24293k+OcR3WJk9UdR6COW2nJZgSJyEeJi9r8nY7Y4OglPUuGo2IMYpUtMnGQNoxs03JA2tY4Up60ezO45uqn9tqvmiAZcXvce5cbgc2GGF9NBUHJPuCqBrlZhgD1Nm5bmyKWiRSTclD5qElGdyZAAXPIxQvqxYxs9JTYI/bV2MfP8O+GzLa6p159NVdCsUtQqmeatUGbQkqVjCx3IPI/Bwnep9LVZHoA1C4qbNVZKUI+LlJHk/7iVDhEGee/MIkm1zjjrxFHpJTsqtKa6UmRE4U9PUAD+xWWSt+x3D94rNVQFJsumhNo3jNkiQB4+PGDBh7gaRMhOozRGn9R6QzPScsmoc/KYLAqfarllbC2PyjeUDCUx3E7CR8YVeveqpapyrRr31lPU1kEvY4U9LJMFlkUntHdImXBF7+PzgwY51de3bgE4+S+x9yosRz9n//2Q=="

@@ -4,15 +4,9 @@ typeName: Beitrag
 title: Kinder wissen oft nicht, dass sie Fleisch essen
 subTitle: Eine Chance für weniger Tierleid und mehr Klimaschutz
 seoTitle: Kinder wissen oft nicht, dass sie Fleisch essen
-ogTitle: ""
-description: Aus einer aktuellen Studie geht jetzt hervor, dass die meisten
-  Kinder in den USA es nicht OK finden, Tiere zu essen. Mit dem Fleisch auf dem
-  Teller bringen sie es jedoch nicht in Zusammenhang.
-excerpt: Die Aufklärung von Kindern und Jugendlichen könnte uns in Sachen
-  Tierleid-freie, nachhaltige und gesunde Ernährung einen großen Schritt
-  voranbringen. Aus einer aktuellen Studie geht jetzt hervor, dass die meisten
-  Kinder in den USA es nicht OK finden, Tiere zu essen. Mit dem Fleisch auf dem
-  Teller bringen sie es jedoch nicht in Zusammenhang.
+ogTitle: ''
+description: Aus einer aktuellen Studie geht jetzt hervor, dass die meisten Kinder in den USA es nicht OK finden, Tiere zu essen. Mit dem Fleisch auf dem Teller bringen sie es jedoch nicht in Zusammenhang.
+excerpt: Die Aufklärung von Kindern und Jugendlichen könnte uns in Sachen Tierleid-freie, nachhaltige und gesunde Ernährung einen großen Schritt voranbringen. Aus einer aktuellen Studie geht jetzt hervor, dass die meisten Kinder in den USA es nicht OK finden, Tiere zu essen. Mit dem Fleisch auf dem Teller bringen sie es jedoch nicht in Zusammenhang.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kinder-wissen-oft-nicht-dass-sie-fleisch-essen-jpg-imagine-384828_60685a_1024_768/640.webp
 copyright: filinecek, pixabay
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/kinder-wissen-oft-nicht-dass-sie-fleisch-essen-fb-png-imagine-384828_616a5b_1200_628/640.webp
@@ -32,7 +26,6 @@ focusKeyword: Kinder wissen oft nicht, dass sie Fleisch essen
 advertisement: false
 affiliate: false
 language: de
-
 ---
 
 **Die Aufklärung von Kindern und Jugendlichen könnte uns in Sachen Tierleid-freie, nachhaltige und gesunde Ernährung einen großen Schritt voranbringen. Aus einer aktuellen Studie geht jetzt hervor, dass die meisten Kinder in den USA es nicht OK finden, Tiere zu essen. Mit dem Fleisch auf dem Teller bringen sie es jedoch nicht in Zusammenhang.**
@@ -137,7 +130,7 @@ Die Forschenden empfehlen Eltern daher, das Lebensmittelsystem für Ihre Kinder 
 
 heißt es weiter.
 
-Bild/picture: [filinecek](https://pixabay.com/photos/goat-kid-animal-goats-pup-3017394/), pixabay
+**Bild/Picture:** [filinecek](https://pixabay.com/photos/goat-kid-animal-goats-pup-3017394/), pixabay
 
 [^1]: [Science Direct Studie zum kindlichen Wissen über Lebensmittel und ihre Herkunft](https://www.sciencedirect.com/science/article/pii/S0272494421001584?dgcid=rss_sd_all#bbib10)
 [^2]: [Vermeulen 2012](https://www.annualreviews.org/doi/10.1146/annurev-environ-020411-130608)

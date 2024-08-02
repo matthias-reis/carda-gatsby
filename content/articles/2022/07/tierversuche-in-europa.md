@@ -1,16 +1,11 @@
 ---
 date: 2022-07-29T15:20:27.847Z
 typeName: Beitrag
-title: "Tierversuche in Europa  "
+title: 'Tierversuche in Europa  '
 subTitle: Aktuelle Auswertungen zeigen kaum Veränderung
 seoTitle: Aktuelle Tierversuchs-Zahlen zeigen kaum Veränderung
-description: Die neuesten Auswertungen der Zahlen zeigen kaum einen Rückgang der
-  Tierversuche in Europa. Öffentlicher Widerstand gegen die Tests wird
-  ignoriert.
-excerpt: Die neuesten Auswertungen der Zahlen zeigen kaum einen Rückgang der
-  Tierversuche in Europa. Öffentlicher Widerstand gegen die Tests wird
-  ignoriert, während in der EU weiterhin über 10 Millionen Tierversuche pro Jahr
-  durchgeführt werden.
+description: Die neuesten Auswertungen der Zahlen zeigen kaum einen Rückgang der Tierversuche in Europa. Öffentlicher Widerstand gegen die Tests wird ignoriert.
+excerpt: Die neuesten Auswertungen der Zahlen zeigen kaum einen Rückgang der Tierversuche in Europa. Öffentlicher Widerstand gegen die Tests wird ignoriert, während in der EU weiterhin über 10 Millionen Tierversuche pro Jahr durchgeführt werden.
 image: https://storage.googleapis.com/cardamonchai-media/2022-07-29/tierversuche-in-europa-jpeg-imagine-7888a8_72716f_1024_768/640.webp
 copyright: Cruelty Free International
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-07-29/tierversuche-in-europa-fb-jpeg-imagine-7888a8_727477_1200_628/640.webp
@@ -19,11 +14,10 @@ labels:
   - EU
   - Tierversuche in Europa
   - Tierrechte
-focusKeyword: ""
+focusKeyword: ''
 advertisement: false
 affiliate: false
 language: de
-
 ---
 
 **Die neuesten Auswertungen der Zahlen zeigen kaum einen Rückgang der Tierversuche in Europa. Öffentlicher Widerstand gegen die Tests wird ignoriert, während in der EU weiterhin über 10 Millionen Tierversuche pro Jahr durchgeführt werden.**
@@ -60,7 +54,7 @@ Die Direktorin für Regierungs- und Regulierungsangelegenheiten von Cruelty Free
 
 > "Die Zahlen der EU für 2019 zeigen, dass noch viel mehr getan werden muss, um die grausame Ausbeutung von Tieren in der Forschung und in Versuchen zu beenden. Trotz der großen Fortschritte bei der Entwicklung von Tierversuchs-freien Methoden und des eindeutigen Wunsches sowohl des Europäischen Parlaments als auch der Bürgerinnen und Bürger der EU-Mitgliedstaaten unterstreichen diese Zahlen die dringende Notwendigkeit von Veränderungen. Die Europäische Bürgerinitiative zur Beendigung von Tierversuchen in Europa ist daher von äußerster Wichtigkeit. Indem wir zusammenstehen und die Petition unterzeichnen, können wir wirklich etwas für die Tiere in Europa bewirken und die unaufhaltsame Dynamik für Veränderungen anschieben."
 
-Bild/Picture: [Cruelty Free International](https://crueltyfreeinternational.org/)
+**Bild/Picture:** [Cruelty Free International](https://crueltyfreeinternational.org/)
 
 [^1]: [Cruelty Free International](https://crueltyfreeinternational.org/)
 [^2]: Zusammenfassender Bericht über die Statistiken zur Verwendung von Tieren zu wissenschaftlichen Zwecken in den Mitgliedstaaten der Europäischen Union und Norwegen im Jahr 2019 – [Teile A und B](https://ec.europa.eu/environment/chemicals/lab_animals/pdf/SWD2019_Part_A_and_B.pdf), [Teil C](https://ec.europa.eu/environment/chemicals/lab_animals/pdf/SWD2019_Part_C.pdf)

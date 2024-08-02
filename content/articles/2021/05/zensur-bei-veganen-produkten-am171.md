@@ -17,25 +17,20 @@ labels:
   - Umwelt
   - Umwelt-Politik
 language: de
-typeName: ""
+typeName: ''
 title: Europa lehnt Zensur bei veganen Produkten ab
 subTitle: Verbraucher*innen stoppen AM171
 seoTitle: Europa lehnt Zensur bei veganen Produkten ab – AM 171 gestoppt
-ogTitle: ""
-description: Die Zensur bei veganen Produkten wurde gestoppt. Europa hat die
-  Klima-feindliche Lebensmittelverordnung AM171 abgelehnt.
-excerpt: Die Zensur bei veganen Produkten wurde gestoppt. Das Europäische
-  Parlament, der Europäische Rat und die Europäische Kommission haben die
-  Klima-feindliche Lebensmittelverordnung AM171 abgelehnt. Das geht aus einer
-  Pressemitteilung vom 25. Mai 2021 hervor.
+ogTitle: ''
+description: Die Zensur bei veganen Produkten wurde gestoppt. Europa hat die Klima-feindliche Lebensmittelverordnung AM171 abgelehnt.
+excerpt: Die Zensur bei veganen Produkten wurde gestoppt. Das Europäische Parlament, der Europäische Rat und die Europäische Kommission haben die Klima-feindliche Lebensmittelverordnung AM171 abgelehnt. Das geht aus einer Pressemitteilung vom 25. Mai 2021 hervor.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/zensur-bei-veganen-produkten-jpg-imagine-384838_465f4d_1024_768/640.webp
 copyright: ProVeg
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/zensur-bei-veganen-produkten-fb-jpg-imagine-384838_455e4b_1200_628/640.webp
 focusKeyword: Zensur bei veganen Produkten
 advertisement: false
 affiliate: false
-languageLink: ""
-
+languageLink: ''
 ---
 
 **Die Zensur bei veganen Produkten ist gestoppt. Das Europäische Parlament, der Europäische Rat und die Europäische Kommission haben die Klima-feindliche Lebensmittelverordnung AM171 abgelehnt. Das geht aus einer Pressemitteilung vom 25. Mai 2021 hervor.**
@@ -98,4 +93,4 @@ Jasmijn de Boo, Vize President bei ProVeg International schloss sich an:
 
 [Die Petition findet Ihr hier](https://stopam171.com/de/).
 
-Bild/picture: [ProVeg International](https://proveg.com/de/)
+**Bild/Picture:** [ProVeg International](https://proveg.com/de/)

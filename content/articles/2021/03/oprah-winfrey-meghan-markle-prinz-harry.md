@@ -3,10 +3,8 @@ date: 2021-03-10T13:46:37.000Z
 title: Meghan Markle setzt sich für vegane Projekte ein
 seoTitle: Oprah Winfrey Interview enthüllt Megan Markles Tierschutz-Engagement
 ogTitle: Oprah Winfrey Interview enthüllt Megan Markles Tierschutz-Engagement
-description: In ihrem Enthüllungsinterview bei Oprah Winfrey verrieten Meghan
-  Markle und Prinz Harry, dass sie Hühner aus einer Fabrikfarm befreit haben.
-excerpt: In ihrem Enthüllungsinterview bei Oprah Winfrey verrieten Meghan Markle
-  und Prinz Harry, dass sie Hühner aus einer Fabrikfarm befreit haben.
+description: In ihrem Enthüllungsinterview bei Oprah Winfrey verrieten Meghan Markle und Prinz Harry, dass sie Hühner aus einer Fabrikfarm befreit haben.
+excerpt: In ihrem Enthüllungsinterview bei Oprah Winfrey verrieten Meghan Markle und Prinz Harry, dass sie Hühner aus einer Fabrikfarm befreit haben.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_03_oprah-winfrey__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_03_oprah-winfrey__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgf/xAAlEAABAwMEAgMBAQAAAAAAAAABAgMEBREhAAYSQSIxE1GhB2H/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwAB/8QAHREAAgMAAgMAAAAAAAAAAAAAAQIAAxEhMSJBUf/aAAwDAQACEQMRAD8AhNuUaE0UKMgzk35Ld+FRYaB93N8Hj1+6ZSIUVM2XHbkyIptZADR8gCDdN8m+T671a7AYpMFLbsFTxpUZK5T6JNytwGwSSB17GcgaS71r9Ecp8l8hMmQ1mGLrSlA5AFJP0cZtaw1F6s8t5PqdGlepio7QLM9qnQ5i2x8ZcMtTnJICklYASfQFrHvl1pC3AUqNMsUOOR5KWj4+ZVxybD7v3f11pTuF2spioQ0vknmUvvtOG4ev6Sq/kiygpISPRyMX0j3dUJCakocFsM+JaSEfGCniM2t7Jyf91AUnAC2xsunrJ1edOMZCHKTSVUNLgSzIYkL5svNE+SQc8QRcXGc41P7taS4j4tu01mDGecsCSS0w2lsWaCjeyivkq5GR3g6NGnZawZREoG59l3/O2KJP2RTKZuqDTZEmG8taErdCXEHkeKgpBzdJt3cAfWqGpbN2rOaKwuWg2uCiWHPxQOjRps5I2ZSUOKZ//9k=
@@ -20,7 +18,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Oprah Winfrey Interview enthüllt Tierschutz-Engagement
-
 ---
 
 **In ihrem Enthüllungsinterview bei Oprah Winfrey verrieten Meghan Markle und Prinz Harry neben den prekären Details über das britische Königshaus unter anderem auch, dass sie Hühner aus einer Fabrikfarm befreit haben.**
@@ -57,7 +54,7 @@ Ihr Mann Harry fügte hinzu:
 
 Seit Meghan und Harry die überraschende Entscheidung getroffen haben, sich von ihren königlichen Pflichten zu distanzieren, ist inzwischen über ein Jahr vergangen. Mit der großen räumlichen Entfernung zum britischen Königshaus haben sie die emotionale Distanz bewusst vergrößert. Im Interview mit Oprah gaben sie der Welt einen Einblick in ihr Familienleben an der Westküste der USA.
 
-Bild/Picture: Screenshot from the video
+**Bild/Picture:** Screenshot from the video
 
 ## Oprah Winfrey berichtet über ihr Interview mit Meghan und Harry
 

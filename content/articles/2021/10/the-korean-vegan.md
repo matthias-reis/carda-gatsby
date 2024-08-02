@@ -4,14 +4,8 @@ typeName: Buchtipp
 title: The Korean Vegan
 subTitle: Das vegane Kochbuch des Jahres 2021
 seoTitle: The Korean Vegan – Das vegane Kochbuch des Jahres 2021
-description: '"The Korean Vegan" heißt das wohl beste Kochbuch des Jahres 2021.
-  Geschrieben hat es die Bloggerin Joanne Lee Molinaro. Im Fokus stehen bei ihr
-  längst nicht nur gesundes Essen und tolle Rezepte.'
-excerpt: '"The Korean Vegan" heißt das wohl beste Kochbuch des Jahres 2021.
-  Geschrieben hat es Joanne Lee Molinaro, die sich in den sozialen Netzwerken
-  einen Namen als "The Korean Vegan" gemacht hat. Offenheit und Mitgefühl sind
-  dem Internet-Star besonders wichtig. Im Fokus stehen bei ihr also längst nicht
-  nur gesundes Essen und tolle Rezepte.'
+description: '"The Korean Vegan" heißt das wohl beste Kochbuch des Jahres 2021. Geschrieben hat es die Bloggerin Joanne Lee Molinaro. Im Fokus stehen bei ihr längst nicht nur gesundes Essen und tolle Rezepte.'
+excerpt: '"The Korean Vegan" heißt das wohl beste Kochbuch des Jahres 2021. Geschrieben hat es Joanne Lee Molinaro, die sich in den sozialen Netzwerken einen Namen als "The Korean Vegan" gemacht hat. Offenheit und Mitgefühl sind dem Internet-Star besonders wichtig. Im Fokus stehen bei ihr also längst nicht nur gesundes Essen und tolle Rezepte.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/the-korean-vegan-jpg-imagine-f8f8f8_bbafa5_1024_768/640.webp
 copyright: Joanne Lee Molinaro, Geoff Martin Photography
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/the-korean-vegan-fb-png-imagine-080808_746a62_1200_628/640.webp
@@ -30,7 +24,6 @@ focusKeyword: The Korean Vegan
 advertisement: false
 affiliate: true
 language: de
-
 ---
 
 **"The Korean Vegan" heißt eines der als beste Kochbücher des Jahres 2021 ausgezeichneten Werke. Geschrieben hat es Joanne Lee Molinaro, die sich in den sozialen Netzwerken einen Namen als "The Korean Vegan" gemacht hat. Offenheit und Mitgefühl sind Joanne besonders wichtig. Im Fokus stehen bei ihr also längst nicht nur gesundes Essen und tolle Rezepte.**
@@ -75,4 +68,4 @@ Für Joanne Lee Molinaro ist ihr Kochbuch ein Porträt ihrer und der Erfahrungen
 
 ["The Korean Vegan – Reflections and Recipes from Omma's Kitchen"](https://amzn.to/2YT49y2) von Joanne Lee Molinaro ist beim Verlag Penguin LCC US mit der ISBN-13 978-0593084274 auf Englisch erschienen. [Ihr könnt es hier bestellen und vorab auch schon mal einen Blick in das Buch werfen](https://amzn.to/2YT49y2).
 
-Bild/picture: © Joanne Lee Molinaro, Geoff Martin Photography
+**Bild/Picture:** © Joanne Lee Molinaro, Geoff Martin Photography

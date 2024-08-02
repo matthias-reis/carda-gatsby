@@ -3,10 +3,8 @@ date: 2020-11-10T13:42:54.000Z
 title: Earthling Ed in Harvard
 seoTitle: Earthling Ed in Harvard – Vegan-Aktivist referiert an Elite-Uni
 ogTitle: Earthling Ed in Harvard – Vegan-Aktivist referiert an Elite-Uni
-description: Der prominente Vegan-Aktivist Earthling Ed hält jetzt einen Vortrag
-  in Harvard. Das Event wird live über Zoom übertragen.
-excerpt: Der prominente Vegan-Aktivist Earthling Ed hält jetzt einen Vortrag in
-  Harvard. Das Event wird live über Zoom übertragen.
+description: Der prominente Vegan-Aktivist Earthling Ed hält jetzt einen Vortrag in Harvard. Das Event wird live über Zoom übertragen.
+excerpt: Der prominente Vegan-Aktivist Earthling Ed hält jetzt einen Vortrag in Harvard. Das Event wird live über Zoom übertragen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_earthling-ed__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_earthling-ed__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAEH/8QAKhAAAgEDAwMCBgMAAAAAAAAAAQIDBAURAAYhEhMxQVEiMkJhcYGCkaH/xAAZAQACAwEAAAAAAAAAAAAAAAABAgADBAX/xAAfEQACAgEEAwAAAAAAAAAAAAABAgADEQQSIVEFMZH/2gAMAwEAAhEDEQA/AFSxTFwFUccZOtd/pKik23FPSNKtxkUzRt2lkjZVz8J5DLnpxnGMsNbpTFb6Z57hKKenTyzock+wHvqN3Puy3mtQ21J3qooFiV+oGLIcsc+uOfGm1DMQAnvM53j6kLFrRkYP2UNlMr3uiR1KhpQMH01T79mpXtYgFRBzK2ZWbCDGOM/y15lYd8UtPV00t4jMRifq64FyGxn6SfP40w3Buuw3ShnFFNICqh27iEc9wZ58eMalhLMuIaKjWj7+jEW9L7dbjZaemr6+qrWaVgqSOHYYwflxn/f1qfsVhvl2INttFdOM46xCVQH7s2FH7OjRqtm2jibKV3DmMLLt+WuvYobnQzGNZY0mKvjtKzDLhgceA2DyOc67vPbtvtm5au3226pRUSQwrieRpDJ1jqYkqMEZA/oaNGhXYWYA9RrawgOO8T//2Q==
@@ -24,7 +22,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Vegan-Aktivist referiert an Elite-Uni
-
 ---
 
 **Der prominente Vegan-Aktivist Earthling Ed hält jetzt einen Vortrag in Harvard. Das Event wird live über Zoom übertragen.**
@@ -55,4 +52,4 @@ Wer wissen möchte, welche Fragen Earthling Ed mir beantwortet hat und warum es 
 
 <YouTube id="Z3u7hXpOm58" />
 
-Quelle &amp; Bild/pictures &amp; source: [Earthling Ed](https://earthlinged.org/)
+**Quelle/Source, Bilder/Pictures:** [Earthling Ed](https://earthlinged.org/)

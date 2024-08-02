@@ -4,13 +4,8 @@ typeName: Beitrag
 title: Vegane Leder-Alternative aus Pilzen
 subTitle: Ein Wegbereiter für mehr Nachhaltigkeit in der Modeindustrie
 seoTitle: Veganes Leder aus Pilzen – Wegbereiter der Modeindustrie
-description: Veganes Leder aus Pilzen setzt sich inzwischen weltweit immer mehr
-  durch – nicht nur im High Fashion Bereich. Bald könnte die Innovation auch den
-  breiten Markt erreicht haben.
-excerpt: "Das kalifornische Unternehmen MycoWorks ist ein Vorreiter in Sachen
-  nachhaltige Mode: Es stellt eine vegane Leder-Alternative aus Pilzen her. Das
-  Material setzt sich inzwischen weltweit immer mehr durch – nicht nur im High
-  Fashion Bereich."
+description: Veganes Leder aus Pilzen setzt sich inzwischen weltweit immer mehr durch – nicht nur im High Fashion Bereich. Bald könnte die Innovation auch den breiten Markt erreicht haben.
+excerpt: 'Das kalifornische Unternehmen MycoWorks ist ein Vorreiter in Sachen nachhaltige Mode: Es stellt eine vegane Leder-Alternative aus Pilzen her. Das Material setzt sich inzwischen weltweit immer mehr durch – nicht nur im High Fashion Bereich.'
 image: https://storage.googleapis.com/cardamonchai-media/2022-01-06/mycoworks-leder-aus-pilzen-jpg-imagine-382828_6c5342_1024_768/640.webp
 copyright: MycoWorks
 ogImage: https://storage.googleapis.com/cardamonchai-media/2022-01-06/mycoworks-leder-aus-pilzen-fb-png-imagine-382828_745f4f_1200_628/640.webp
@@ -29,7 +24,6 @@ focusKeyword: Leder aus Pilzen
 advertisement: false
 affiliate: false
 language: de
-
 ---
 
 **Das kalifornische Unternehmen MycoWorks ist ein Vorreiter in Sachen nachhaltige Mode: Es stellt eine vegane Leder-Alternative aus Pilzen her. Das Material setzt sich inzwischen weltweit immer mehr durch – nicht nur im High Fashion Bereich.**
@@ -80,7 +74,7 @@ Sheldrake glaubt, dass eine der übergreifenden Lehren aus dem Studium der Pilze
 
 > "Wenn die Pilze nicht das täten, was sie tun, wäre unser Planet meterhoch mit Tier- und Pflanzenkörpern angefüllt. Als Verbraucher⋆innen sind wir zu geradlinigem Denken erzogen worden. Wir kaufen etwas, benutzen es und werfen es weg. Pilze können unser Modebewusstsein auf vielen Ebenen beeinflussen. Ich spreche von Materialinnovation, aber auch von der Kultur, endlos weiter neue Dinge herzustellen. Wir können so viel lernen, wenn wir stattdessen anfangen, in den Begriffen der Natur und ihrer Zyklen zu denken."
 
-Bild/picture: [MycoWorks](https://www.mycoworks.com/our-heritage)
+**Bild/Picture:** [MycoWorks](https://www.mycoworks.com/our-heritage)
 
 [^1]: [Bericht über Pilzleder im Guardian](https://www.theguardian.com/science/2021/dec/02/californian-firm-touts-mushroom-leather-as-sustainability-gamechanger)
 [^2]: [Business of Fashion Voices Konferenz 2021](https://www.businessoffashion.com/events/news-analysis/voices-returns-to-soho-farmhouse-this-december/)
