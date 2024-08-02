@@ -78,6 +78,10 @@ export const ArticlePage: React.FC<ArticleProps> = ({
     date.getMonth() + 1,
     2
   )}.${date.getFullYear()}`;
+
+  const copyrightText =
+    meta.frontmatter.copyright || meta.frontmatter.imageCopyright;
+
   return (
     <div>
       <PageMeta meta={meta} path={path} />
@@ -131,9 +135,9 @@ export const ArticlePage: React.FC<ArticleProps> = ({
               alt={fixSoftHyphens(meta.frontmatter.title)}
             />
           )}
-          {meta.frontmatter.copyright && (
+          {copyrightText && (
             <ImageContainerCopyright>
-              Bild/Picture: &copy; {meta.frontmatter.copyright}
+              Bild/Picture: &copy; {copyrightText}
             </ImageContainerCopyright>
           )}
         </ImageContainer>
