@@ -66,7 +66,7 @@ Insgesamt sind die Inhaltsstoffe dieses Produkts unbedenklich. Sie setzen sich w
 
 Insgesamt hat das Wild Deo meine Überwartungen übertroffen. Ich habe in der letzten Zeit einige Deodorants getestet und wurde entweder in Sachen Nachhaltigkeit oder aufgrund der nicht vorhandenen Sicherheit im Hinblick auf Gerüche enttäuscht. Mir gefällt das Design des Spenders sehr gut und ich bin wirklich glücklich damit, dass es mich selbst auf längeren Wanderungen oder nach stundenlangen Yoga-Sessions nicht im Stich lässt.
 
-Getestet habe ich übrigens die Sorte "". Mein Case hat die Farbe "Aqua". Ihr könnt zwischen vielen unterschiedlichen Farben und Designs wählen – es ist wirklich für jeden Geschmack ein Case dabei. Meinen hat Hanadi von Wild offenbar anhand meines Webseiten-Designs erraten und damit einen echten Volltreffer gelandet.
+Getestet habe ich übrigens die Sorte "Purple Rain". Mein Case hat die Farbe "Aqua". Ihr könnt zwischen vielen unterschiedlichen Farben und Designs wählen – es ist wirklich für jeden Geschmack ein Case dabei. Meinen hat Hanadi von Wild offenbar anhand meines Webseiten-Designs erraten und damit einen echten Volltreffer gelandet.
 
 Wenn Ihr Euch Euer Deo-Case im Wild Onlineshop ausgesucht habt, könnt Ihr Euch für einen Plan entscheiden. Je nachdem, ob Ihr erst mal nur eine einmalige Lieferung haben wollt, oder gleich eine der Abo-Varianten abschließen möchtet, passt sich Euer Preis automatisch an. Anschließend könnt Ihr zwischen den folgenden Duftrichtungen wählen:
 
