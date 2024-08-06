@@ -76,4 +76,6 @@ Wenn Ihr Eure Barfußschuhe von SORBAS über einen der Links in diesem Artikel k
 
 ---
 
+[Hier habe ich SORBAS Shoes zum ersten Mal getestet](/2020/03/sorbas-shoes/).
+
 <Gallery name="barfussschuhe-von-sorbas-2" />

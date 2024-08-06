@@ -62,4 +62,6 @@ Ich freue mich schon sehr auf viele spannende Wege mit meinen neuen SORBAS Schuh
 
 Wenn Ihr neugierig geworden seid und gerne mal bei SORBAS Shoes stöbern möchtet, [könnt Ihr das jederzeit im Onlineshop tun](https://t.adcell.com/p/click?promoId=255660&slotId=80259&param0=https%3A%2F%2Fsorbasshoes.com%2F).
 
+[Hier habe ich die Barfußschuhe von SORBAS getestet](/2024/08/barfussschuhe-von-sorbas/).
+
 <Gallery name="sorbas2" />
