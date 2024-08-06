@@ -1,6 +1,6 @@
 ---
 date: 2024-08-06T10:51:06.561Z
-title: Barfußschuhe von Sorbas
+title: Barfußschuhe von SORBAS
 subTitle: Berliner Brand folgt Barfußschuh-Trend und macht alles richtig
 type: article
 typeName: Produkttest
