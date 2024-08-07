@@ -20,6 +20,9 @@ labels:
   - Tierrechte
   - Straight Edge
   - Plant Core
+  - Hardcore
+  - Punk
+  - Nettersheim
 language: de
 image: https://storage.googleapis.com/cardamonchai-media/2024-07-03/niere-veindeseelig-soundsvegan-com-jpg-imagine-581808_975f0e_1024_768/640.webp
 seoTitle: Vegan Core von Niere jetzt die neue Mini-LP hören!
@@ -67,3 +70,5 @@ In Zukunft werden wir sicher noch mehr von Niere hören. Der Musiker nimmt nur n
     (V)eindselig by Niere
   </a>
 </iframe>
+
+[Meine Interview mit Niere findet Ihr hier](/2024/07/niere-veindseelig/).
