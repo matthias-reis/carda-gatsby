@@ -5,11 +5,8 @@ typeName: Beitrag
 title: '"Restore Our Earth"'
 subTitle: Earth Day 2021
 seoTitle: Earth Day 2021 – "Restore Our Earth" – Ein Tag für das Klima
-description: Der Earth Day 2021 findet am 22. April statt. Er jährt sich damit
-  zum 51. mal. Wie immer wird es rund um den Tag jede Menge Aktionen geben.
-excerpt: Der Earth Day 2021 findet am 22. April statt. Er jährt sich damit zum
-  51. mal. Wie immer wird es rund um den Tag jede Menge Aktionen geben. Das
-  Motto lautet in diesem Jahr "Restore Our Earth".
+description: Der Earth Day 2021 findet am 22. April statt. Er jährt sich damit zum 51. mal. Wie immer wird es rund um den Tag jede Menge Aktionen geben.
+excerpt: Der Earth Day 2021 findet am 22. April statt. Er jährt sich damit zum 51. mal. Wie immer wird es rund um den Tag jede Menge Aktionen geben. Das Motto lautet in diesem Jahr "Restore Our Earth".
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/earth-day-2021-jpg-imagine-7898b8_9e564e_1024_768/640.webp
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/earth-day-2021-fb-jpg-imagine-7898b8_9a5047_1200_628/640.webp
 labels:
@@ -23,7 +20,6 @@ focusKeyword: Earth Day
 advertisement: false
 affiliate: false
 language: de
-
 ---
 
 **Am 22. April ist wieder Earth Day. Er jährt sich 2021 zum 51. Mal. Wie schon 2020 werden sich viele Aktionen rund um den Aktionstag vor allem online abspielen.**
@@ -70,6 +66,6 @@ Seine Werke wurden bereits in Museen wie dem Palais de Tokyo, in Frankreich, Mus
 
 Über die Aktionen am diesjährigen Tag der Erde könnt Ihr Euch auf den Webseiten zum Aktionstag (siehe Quellenangabe) informieren.
 
-Quellen/Sources: [Earth Day International](https://www.earthday.org/earth-day-2021/), [Earth Day Deutschland](https://www.earthday.de/)
+**Quellen/Sources:** [Earth Day International](https://www.earthday.org/earth-day-2021/), [Earth Day Deutschland](https://www.earthday.de/)
 
-Bild/Picture: [Speto](http://www.speto.com.br/about)
+**Bild/Picture:** [Speto](http://www.speto.com.br/about)

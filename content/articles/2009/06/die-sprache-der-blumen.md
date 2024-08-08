@@ -3,10 +3,8 @@ date: 2009-06-10T17:52:00.000Z
 title: Die Sprache der Blumen
 seoTitle: Die Sprache der Blumen
 ogTitle: Die Sprache der Blumen
-description: Warum verschenken wir Blumen? Wer spricht die Sprache der Blumen?
-  Warum freuen wir uns, wenn wir welche geschenkt bekommen?
-excerpt: In diesem Artikel dreht sich alles um die Sprache der Blumen und warum
-  wir sie uns gegenseitig schenken.
+description: Warum verschenken wir Blumen? Wer spricht die Sprache der Blumen? Warum freuen wir uns, wenn wir welche geschenkt bekommen?
+excerpt: In diesem Artikel dreht sich alles um die Sprache der Blumen und warum wir sie uns gegenseitig schenken.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2011_02_p6010004__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2011_02_p6010004__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYEBQcI/8QAKhAAAQQBBAECBQUAAAAAAAAAAQIDBBEFAAYSITETQQciMlFxFBYjYYH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAgED/8QAIBEAAgEDBAMAAAAAAAAAAAAAAQIAAwQhERJBYSIx8P/aAAwDAQACEQMRAD8ApsptzCSMJg4bcl2K9lVOelNmscUPKSn6ALsA8hRND3u6vYojbasQccpRbdbIQ1HTaloAQAAlP1EAeLGsB2+hOWmvQVNsuMGGtkvzG1PpgNcrU8Ek0D58eP8ANR/2/mMllGxtyA67MdstGM2WeKaJCgR2hJSaH5A9xri1Q0m26ZjtWtDlcmM244jLu9pD8N+HOktTAt1mNSjFbJPIqsEcxdHs1/Wlb4s7XjRsS9uJqf8AqpC3UJLS1oV0bBVaa7FDoWe+/GmDYWzUx8ZmWsm0uFnlx2HIccgtuqjKPzLoHxyHG/Io3QOqXdzi4j0zBy2vTjMSA5JEnpRUCQOI9wfqB6v8a1SiIahwZRek1Au+Dr6lXCGbail3GNyIcFXGO6t8AplqV1Sh7pP2+2uicNHbxmLjwWkNSH3WvUlrWeRW4kAj5r6F1xAuq99GjRrXNVvuZdmuxmI6i3vPMbd2g7KypxbMzISJC0KSqWFOoQ4VDg0lRJS2bXaU0PmJodDSVuzNycbgmcdiMRDZhpe/lalSFSFxptlXZKiF8U8aNHro140aNJbnqGYeRA4n/9k=
@@ -20,7 +18,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Warum verschenken wir Blumen?
-
 ---
 
 **In diesem Artikel dreht sich alles um die Sprache der Blumen, warum wir Blumen verschenken, welche Gründe wir dafür haben und warum wir uns freuen, wenn wir welche geschenkt bekommen.**
@@ -111,4 +108,4 @@ Ganz unabhängig vom Anlaß: es ist ein schöner Brauch, Blumen zu verschenken, 
 - Zichorie - Genügsamkeit
 - Zitterpappel - Seufzer
 
-**Quellen:** Wikipedia, Blumensprache.de, ganz-muenchen.de, matriachat.net
+**Quellen/Sources:** Wikipedia, Blumensprache.de, ganz-muenchen.de, matriachat.net

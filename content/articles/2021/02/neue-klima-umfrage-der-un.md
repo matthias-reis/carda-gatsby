@@ -3,10 +3,8 @@ date: 2021-02-01T16:10:00.000Z
 title: Neue Klima-Umfrage der UN
 seoTitle: Neue Klima-Umfrage der UN – Weltbevölkerung will Veränderung
 ogTitle: Neue Klima-Umfrage der UN – Weltbevölkerung will Veränderung
-description: Die mit 1,2 Mio Befragten größte Klima-Umfrage aller Zeiten hat
-  jetzt bewiesen, dass zwei Drittel der Menschen für das Klima kämpfen wollen.
-excerpt: Die mit 1,2 Millionen Befragten größte Klima-Umfrage aller Zeiten hat
-  jetzt bewiesen, dass zwei Drittel der Menschen für das Klima kämpfen wollen.
+description: Die mit 1,2 Mio Befragten größte Klima-Umfrage aller Zeiten hat jetzt bewiesen, dass zwei Drittel der Menschen für das Klima kämpfen wollen.
+excerpt: Die mit 1,2 Millionen Befragten größte Klima-Umfrage aller Zeiten hat jetzt bewiesen, dass zwei Drittel der Menschen für das Klima kämpfen wollen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_klima-umfrage__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_klima-umfrage__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QAKhAAAQIEBgECBwAAAAAAAAAAAQIDAAQFEQYSEyExQWFCURQiIyQycaH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwX/xAAbEQACAwADAAAAAAAAAAAAAAABAgADBBEhMv/aAAwDAQACEQMRAD8AwaPh1fwImdL6IXp5rj8rXtbkx0fAmHabLvzYrcu6HHmi0lpYskoIBJI6PHO0J1MxI4lhKRKIDQuB9upWUnsG20b7Ncmpic1lpcfeAsCGF3AHtYceDG3dqd0KjqY1OREcOTzIMQYMFLmNFhS5loNpUpZay5FH0nri0U1UmVRTHGUSKA8lOcPvCylX527Ht+o1KtiOeduqcdmULPpEspO3kW8QsT9TmJl4oaM24opUbhkgWCbnc2tsDErNL2IA5las1dTlkinTK2gSiUkgfN2qGuk1xCptagu4y9G/UEECztI6/Ur16utLeJSDuB0IX5utJ01HMOCP5BBBYcII19mf/9k=
@@ -25,7 +23,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Weltbevölkerung wünscht sich Veränderung
-
 ---
 
 **Die mit 1,2 Millionen Befragten größte Klima-Umfrage aller Zeiten hat jetzt bewiesen, dass zwei Drittel der Menschen den Klimawandel für einen globalen Notfall halten.**
@@ -106,4 +103,4 @@ Für einige Länder ist die Aktion die erste Möglichkeit überhaupt, sich mit f
 
 [Die kompletten Umfrageergebnisse könnt Ihr Euch hier herunterladen](https://www.undp.org/content/undp/en/home/librarypage/climate-and-disaster-resilience-/The-Peoples-Climate-Vote-Results.html).
 
-Quellen/sources: ["The Peoples Climate Vote" UNDP](https://www.undp.org/content/undp/en/home/librarypage/climate-and-disaster-resilience-/The-Peoples-Climate-Vote-Results.html), [UNDP Climate Promise](https://www.undp.org/content/undp/en/home/climatepromise.html), [Guardian](https://www.theguardian.com/environment/2021/jan/27/un-global-climate-poll-peoples-voice-is-clear-they-want-action)
+**Quellen/Sources:** ["The Peoples Climate Vote" UNDP](https://www.undp.org/content/undp/en/home/librarypage/climate-and-disaster-resilience-/The-Peoples-Climate-Vote-Results.html), [UNDP Climate Promise](https://www.undp.org/content/undp/en/home/climatepromise.html), [Guardian](https://www.theguardian.com/environment/2021/jan/27/un-global-climate-poll-peoples-voice-is-clear-they-want-action)

@@ -3,13 +3,12 @@ date: 2009-08-13T18:14:02.000Z
 title: Gitarrenpionier Les Paul gestorben
 seoTitle: Nachruf - Gitarrenpionier Les Paul gestorben
 ogTitle: Nachruf - Gitarrenpionier Les Paul gestorben
-description: Am 13. August 2009 ist Les Paul von uns gegangen, der Erfinder der
-  Les Paul Gitarre.
-excerpt: Am 13. August 2009 starb der Erfinder der Les Paul Gitarren Les Paul im
-  Alter von 94 Jahren - ein Nachruf
+description: Am 13. August 2009 ist Les Paul von uns gegangen, der Erfinder der Les Paul Gitarre.
+excerpt: Am 13. August 2009 starb der Erfinder der Les Paul Gitarren Les Paul im Alter von 94 Jahren - ein Nachruf
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2009_08_116752_r_by_heiko-bragenitz_pixelio-de__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2009_08_116752_r_by_heiko-bragenitz_pixelio-de__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBAb/xAAsEAACAQIFAwMDBQEAAAAAAAABAgMEEQAFBhIhBxMxFEFhUXGRIjIzUsHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFAv/EACQRAAEDAQkAAwAAAAAAAAAAAAEAAhEDBBITITFBUWFxgZHw/9oADAMBAAIRAxEAPwBxqmWPMdPZrlNAjzVc0LwAABURrgHc7WA5NvvwMTPIKGWmgrxsCt6Vojacx+JGBuPB8ePfDltZZbFnk89GjVVDVO6TwM+2OpSQkds/MgG4f1uh4vhZpTN6Cp0NVTVEsxzpKyOn7SR7h6d0O17Act3bhmvfm+FHPJJlUKdnim14PvX7n42T/o+vZ1HlxDLbtVK2t9bn/PGKbrmTsai6fV3A2516Rj8TREW/K4kuiK1soqcqq61HWKJKqedglzHEFYlz72A+nPxih9Ra+OfS+T18ZcCjznLqwblKkDugcg8jhx+cEoOkH1AtTYcPFD9FZZQ5tS0KvBBPX1Ds0Eb5iI2JY2/iUhrgA8+eBbxjTqXSMND1Jh0esivTGftQBXJAlkKkA83uqug59h8nBgwB4OYk6fXioWasMVgDBl1M5DWZVyzDpJQDUi0UBrqTT0VIIJDG8Y742ruQsWLsHI/VZR7i9scN1h1lSTR6wyowPC1PNEtKwF1YQtER9v2H/mDBjTnFhF3lIUhi3r+wX//Z
+imageCopyright: Heiko Bragenitz Pixelio
 ogImage: null
 labels:
   - Bands
@@ -22,7 +21,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Nachruf für einen Giganten
-
 ---
 
 **_Plains, New York_ Am 13. August 2009 starb der Erfinder der Les Paul Gitarren Les Paul im Alter von 94 Jahren an einer Lungenentzündung.**
@@ -66,14 +64,4 @@ Die Welt trauert um einen genialen Musiker - den Gitarrenpionier Les Paul, der d
 
 **Les Paul \*1915 +2009**
 
-### Quellen:
-
-[http://www.mediabiz.de/musik/news/les-paul-gestorb...](http://www.mediabiz.de/musik/news/les-paul-gestorben/278216)
-
-[http://de.wikipedia.org/wiki/Les_Paul](http://de.wikipedia.org/wiki/Les_Paul)
-
-[http://www.spiegel.de/kultur/musik/0,1518,642358,0...](http://www.spiegel.de/kultur/musik/0,1518,642358,00.html)
-
-### Bild im Header:
-
-Heiko Bragenitz Pixelio
+**Quellen/Sources:** [Mediabiz](http://www.mediabiz.de/musik/news/les-paul-gestorben/278216), [Wikipedia](http://de.wikipedia.org/wiki/Les_Paul), [Spiegel](http://www.spiegel.de/kultur/musik/0,1518,642358,00.html)

@@ -62,4 +62,4 @@ Mir persönlich haben am Centro die starken Gegensätze besonders gut gefallen. 
 
 <Gallery name="centro-de-arte-contemporaneo-2" />
 
-**Quellen/sources:** [Centro de Arte Contemporáneo de Málaga](http://cacmalaga.eu/), [Wikipedia](https://de.wikipedia.org/wiki/Zentrum_f%C3%BCr_zeitgen%C3%B6ssische_Kunst_M%C3%A1laga)
+**Quellen/Sources:** [Centro de Arte Contemporáneo de Málaga](http://cacmalaga.eu/), [Wikipedia](https://de.wikipedia.org/wiki/Zentrum_f%C3%BCr_zeitgen%C3%B6ssische_Kunst_M%C3%A1laga)
