@@ -3,10 +3,8 @@ date: 2020-07-15T07:38:03.000Z
 title: Warum Leder so grausam wie Pelz ist
 seoTitle: Warum Leder so grausam wie Pelz ist
 ogTitle: Warum Leder so grausam wie Pelz ist
-description: Die Lederproduktion steht der Pelzproduktion in Sachen Grausamkeit
-  und Umweltverschmutzung in nichts nach. Warum das so ist, wird schnell klar.
-excerpt: Die Lederproduktion steht der Pelzproduktion in Sachen Grausamkeit und
-  Umweltverschmutzung in nichts nach. Warum das so ist, wird schnell klar.
+description: Die Lederproduktion steht der Pelzproduktion in Sachen Grausamkeit und Umweltverschmutzung in nichts nach. Warum das so ist, wird schnell klar.
+excerpt: Die Lederproduktion steht der Pelzproduktion in Sachen Grausamkeit und Umweltverschmutzung in nichts nach. Warum das so ist, wird schnell klar.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_07_leder-1.png__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_07_leder-1.png__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,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
@@ -30,7 +28,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Fließband des Todes
-
 ---
 
 **Die Lederproduktion steht der Pelzproduktion in Sachen Grausamkeit und Umweltverschmutzung in nichts nach. In diesem Artikel möchte ich beleuchten, warum das so ist.**
@@ -61,7 +58,7 @@ Weil bei der Zucht und Haltung nicht darauf geachtet werden muss, dass ihr Fleis
 
 Ihr natürliches Verhalten wird komplett unterbunden. Sie stehen dicht an dicht. Damit das Leder nicht beschädigt wird, werden ihre Hörner gestutzt. Viele werden mit schmerzhaften Brandzeichen gekennzeichnet. Ihre Schwänze werden abgeschnitten. Das ist später bei der Verarbeitung einfacher.
 
-Diese Szenarien spielen sich längst nicht nur in fernen Länder ab. Laut PETA wird in Deutschland jedes Jahr rund 330.000 Kühe ohne vorherige Betäubung (diese ist vorgeschrieben) die Haut vom Körper geschnitten, bevor sie qualvoll ausbluten. Auch das Siegel "Made in Germany" schließt Grausamkeiten in der Lederherstellung auf keinen Fall aus. Zudem bezieht sich das Siegel ausschließlich auf die Weiterverarbeitung. Wo das Leder gegerbt wurde, bleibt offen.
+Diese Szenarien spielen sich längst nicht nur in fernen Länder ab. Laut [^2] wird in Deutschland jedes Jahr rund 330.000 Kühe ohne vorherige Betäubung (diese ist vorgeschrieben) die Haut vom Körper geschnitten, bevor sie qualvoll ausbluten. Auch das Siegel "Made in Germany" schließt Grausamkeiten in der Lederherstellung auf keinen Fall aus. Zudem bezieht sich das Siegel ausschließlich auf die Weiterverarbeitung. Wo das Leder gegerbt wurde, bleibt offen.
 
 ## Gerbereien zerstören die Umwelt
 
@@ -89,7 +86,7 @@ Bei der schweißtreibenden Arbeit verlieren die Arbeiter⋆innen am Fließband i
 
 Leder ist, genau wie [Pelz](/2014/11/fakepelz-echtpelz/), nur dann natürlich, wenn es von den Tieren getragen wird, deren Haut wir für unseren Luxus stehlen. Der Großteil des Leders, das weltweit verarbeitet wird, stammt von Kälbern, Kühen und Büffeln. Außerdem gibt es unter anderem Schafs-, Ziegen-, Pferde-, Lamm-, Schweine- und sogar Strauß- und Zebra-Leder. Fast keine Tierart ist vor dem lukrativen Geschäft mit der Haut sicher. Je exotischer das Tier, desto höher ist der Preis, der beim Verkauf erzielt werden kann. So werden auch immer wieder Kängurus, Elefanten, Walrosse, Alligatoren und Schlangen getötet.
 
-Über die Hälfte der Tiere fallen der Schuhproduktion zum Opfer. Es folgen Möbel, Lederbekleidung und die Autoindustrie. Was ich nicht wusste, bevor ich den Film [Earthlings](/2020/07/earthlings/) gesehen hatte ist, dass viele der Tierhäute aus Indien stammen. Genau wie vermutlich die meisten, dachte ich, dass Kühe dort gut behandelt werden, da sie ja als heilige Tiere gelten. Weit gefehlt. Auch PETA deckte jüngst wieder auf, wie dort alte, kranke und schwer verletzte Tiere verladen, übereinander gestapelt und schließlich gehäutet werden. Mit ihren spitzen Hufen und Hörnern fügen sie sich gegenseitig Verletzungen von Kratzern bis hin zu offenen Knochenbrüchen zu.
+Über die Hälfte der Tiere fallen der Schuhproduktion zum Opfer. Es folgen Möbel, Lederbekleidung und die Autoindustrie. Was ich nicht wusste, bevor ich den Film [Earthlings](/2020/07/earthlings/)[^1] gesehen hatte ist, dass viele der Tierhäute aus Indien stammen. Genau wie vermutlich die meisten, dachte ich, dass Kühe dort gut behandelt werden, da sie ja als heilige Tiere gelten. Weit gefehlt. Auch PETA deckte jüngst wieder auf, wie dort alte, kranke und schwer verletzte Tiere verladen, übereinander gestapelt und schließlich gehäutet werden. Mit ihren spitzen Hufen und Hörnern fügen sie sich gegenseitig Verletzungen von Kratzern bis hin zu offenen Knochenbrüchen zu.
 
 ## Die Alternativen
 
@@ -97,6 +94,7 @@ Nachhaltige Modehäuser bieten heute als Alternative häufig Leder an, das mit p
 
 Eine echte Alternative kann in Zukunft nur pflanzliches oder synthetisches Leder sein. Schon jetzt gibt es zahlreiche Varianten aus [Ananasfasern](/2015/12/vegatar-gruender-stanley-interview/), [Traubenresten](/2018/03/weinleder-vegan-und-nachhaltig/), Kork und Pilzen. Fast täglich tauchen auf dem Markt neue umweltfreundliche Produkte auf - garantiert cruelty free, vegan und genauso robust und wesentlich stylischer als das blutige Original.
 
-Quellen/Sources: [PETA](https://www.peta.de/hintergrundwissen-leder), [Earthlings](https://www.earthlings.de/)
+**Hinweis** Die Rinder habe ich auf [Sri Lanka](/2015/09/unterwegs-in-sri-lanka/) fotografiert. Die Bilder der Tierrechtsaktivist⋆innen erspare ich Euch an dieser Stelle. Ihr findet sie untern den angegebenen Links.
 
-Die Rinder habe ich auf [Sri Lanka](/2015/09/unterwegs-in-sri-lanka/) fotografiert. Die Bilder der Tierrechtsaktivist⋆innen erspare ich Euch an dieser Stelle. Ihr findet sie untern den angegebenen Links.
+[^1]: [Earthlings](https://www.earthlings.de/)
+[^2]: [PETA](https://www.peta.de/hintergrundwissen-leder)
