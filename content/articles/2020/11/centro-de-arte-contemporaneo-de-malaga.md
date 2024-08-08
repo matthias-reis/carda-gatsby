@@ -3,10 +3,8 @@ date: 2020-11-17T15:10:08.000Z
 title: Centro de Arte Contemporáneo
 seoTitle: Centro de Arte Contemporáneo – Zeitgenössische Kunst in Málaga
 ogTitle: Centro de Arte Contemporáneo – Zeitgenössische Kunst in Málaga
-description: Das Centro de Arte Contemporáneo de Málaga ist für mich mehr als
-  nur ein Museum für zeitgenössische Kunst. Ich habe mich in den Ort verguckt.
-excerpt: Das Centro de Arte Contemporáneo de Málaga ist für mich mehr als nur
-  ein Museum für zeitgenössische Kunst. Ich habe mich in den Ort verguckt.
+description: Das Centro de Arte Contemporáneo de Málaga ist für mich mehr als nur ein Museum für zeitgenössische Kunst. Ich habe mich in den Ort verguckt.
+excerpt: Das Centro de Arte Contemporáneo de Málaga ist für mich mehr als nur ein Museum für zeitgenössische Kunst. Ich habe mich in den Ort verguckt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_Design-ohne-Titel-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_Design-ohne-Titel-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUGBwIDBP/EACYQAAEDAwQCAQUAAAAAAAAAAAECAwUABBEGEiExIkFRYnGBobH/xAAXAQADAQAAAAAAAAAAAAAAAAABAwQA/8QAHxEBAAIBAwUAAAAAAAAAAAAAAQACAxESITJxgbHB/9oADAMBAAIRAxEAPwCxY8kIa2kjvo0l1XqFdpPNWzEtI2ptkNKcbasVusqK1Z81j6ccHgCmVk7gNc+z/KTTmt42Mk5ezupWyadt22tjLiV7lKxuKThJBxwRjJyfVT52x0i9kPaSrBba7uPJr8ZYd61u3AnI5qFSrAS8rArt1jrAw0LFSEbHPyzcitDbRaO3O9IKfWcq9DHY5rGXTl0kgpJ9HsU+jqRCRW2+4ENFtpx05wQgAkcfetY03HXb1687AqW5erK31LS0pSiU4OCpXj+Piiig0HmYshIzr29ft5ZmHatk2sTbWrGy1VtKUklRGME/Apvou6cuNFxS3jlaULR3nhLigP0BRRRIbT//2Q==
@@ -32,9 +30,8 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Zeitgenössische Kunst in Málaga
-year: "2020"
-month: "11"
-
+year: '2020'
+month: '11'
 ---
 
 **Das Centro de Arte Contemporáneo de Málaga ist für mich mehr als nur ein Museum für zeitgenössische Kunst. Bei unserem Besuch dort im letzten Jahr habe ich mich – zugegeben – in den Ort verguckt.**
@@ -65,4 +62,4 @@ Mir persönlich haben am Centro die starken Gegensätze besonders gut gefallen. 
 
 <Gallery name="centro-de-arte-contemporaneo-2" />
 
-Quellen/sources: [Centro de Arte Contemporáneo de Málaga](http://cacmalaga.eu/), [Wikipedia](https://de.wikipedia.org/wiki/Zentrum_f%C3%BCr_zeitgen%C3%B6ssische_Kunst_M%C3%A1laga)
+**Quellen/sources:** [Centro de Arte Contemporáneo de Málaga](http://cacmalaga.eu/), [Wikipedia](https://de.wikipedia.org/wiki/Zentrum_f%C3%BCr_zeitgen%C3%B6ssische_Kunst_M%C3%A1laga)
