@@ -3,12 +3,8 @@ date: 2020-02-10T09:36:52.000Z
 title: And the Oscar goes to...
 seoTitle: Joaquin Phoenix und seine Oscar-Rede
 ogTitle: Joaquin Phoenix und seine Oscar-Rede
-description: Joaquin Phoenix wurde der Oscar in der Kategorie "bester
-  Hauptdarsteller" verliehen. In seiner Rede sprach er sich für mehr Mitgefühl
-  aus.
-excerpt: Joaquin Phoenix wurde der Oscar in der Kategorie "bester
-  Hauptdarsteller" verliehen. In seiner Rede sprach er sich für mehr Empathie
-  und Mitgefühl aus.
+description: Joaquin Phoenix wurde der Oscar in der Kategorie "bester Hauptdarsteller" verliehen. In seiner Rede sprach er sich für mehr Mitgefühl aus.
+excerpt: Joaquin Phoenix wurde der Oscar in der Kategorie "bester Hauptdarsteller" verliehen. In seiner Rede sprach er sich für mehr Empathie und Mitgefühl aus.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_joaquin-phoenix-vegan-oscar__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_joaquin-phoenix-vegan-oscar__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGB//EACcQAAIBAwIGAgMBAAAAAAAAAAECAwQFEQASBhMUITFBInEyUdFh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERUf/aAAwDAQACEQMRAD8AyKKz06Mr2SqSMHBmpq6aLlTBSCFIEvzGRnDDVzZuDqN7WKiooGfLMzdBV04gQFiFVTLIWPYds5849azdKivqrLLAlCrb4gOUlucNnxjcF8/zTGO83e2cHx26Ke5UdQ4OKYISahQW3HDLlAqsD8e2AfsYGPS3v8PC8shNVTwUlRTwpByDX0kDAoAmGXJO7AyScEknUjxILBDRTUdFNQVCNiWOSKqgDBvSyNgs+3v+JUf571FVJrrvNNMkdRVTuS8rRo0hJJ8kgfemlyuV2FDsl6yMBMco00ihfe3Jbxk/rTEUxml8EXmpggjEbEDHgHVZepVv0MHXRq0kQdY5DgsqsMMAcZAI7EAjOjRrMRViCw2lOFOtNvZB1TqzhU29lyAo7nt5P2dIuKnkuFNPzJNu1c+M/v8AmjRpioU//9k=
@@ -28,7 +24,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Joaquin Phoenix spricht sich für mehr Empathie aus
-
 ---
 
 **Joaquin Phoenix wurde in der Nacht zum Montag für seine ausgezeichneten schauspielerischen Leistungen in "The Joker" der Oscar in der Kategorie "bester Hauptdarsteller" verliehen. Anders als viele seiner Kollegen, erging er sich in seiner Rede nicht in Danksagungen. Er nutzte sie stattdessen für einen Appell an die Menschheit.**
@@ -45,7 +40,7 @@ sagte er weiter. Dabei seien Menschen so kreativ und intelligent, um mit ihrer L
 
 > "Wir müssen uns gegenseitig erziehen und uns dabei helfen, zu wachsen. Nur so können wir unserer Gemeinschaft helfen",
 
-sagte Phoenix weiter. Während seiner bewegenden Rede hatte nicht nur er Tränen in den Augen. Im weiteren Verlauf sprach er sich unter anderem noch gegen Queerphobie und Rassismus aus.
+sagte Phoenix weiter. Während seiner bewegenden Rede hatte nicht nur er Tränen in den Augen. Im weiteren Verlauf sprach er sich unter anderem noch gegen Hass gegen Queere Menschen und Rassismus aus.
 
 > "Wir alle teilen die selbe Liebe - die Liebe für den Film. Wir sollten unsere Möglichkeiten nutzen, unsere Stimmen zu erheben und uns für mehr Gleichberechtigung und Gerechtigkeit einzusetzen"
 
