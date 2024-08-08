@@ -3,14 +3,13 @@ date: 2020-04-20T08:54:17.000Z
 title: 50 Jahre Earth Day
 seoTitle: 50 Jahre Earth Day am 22. April 2020 - Stadtnatur
 ogTitle: 50 Jahre Earth Day am 22. April 2020 - Stadtnatur
-description: Am 22. April 2020 jährt sich der Earth Day zum 50. Mal. Dieses Jahr
-  findet der Aktionstag unter dem Motto "Stadtnatur" statt.
-excerpt: Am 22. April 2020 jährt sich der Earth Day zum 50. Mal. Dieses Jahr
-  findet der Aktionstag unter dem Motto "Stadtnatur" statt.
+description: Am 22. April 2020 jährt sich der Earth Day zum 50. Mal. Dieses Jahr findet der Aktionstag unter dem Motto "Stadtnatur" statt.
+excerpt: Am 22. April 2020 jährt sich der Earth Day zum 50. Mal. Dieses Jahr findet der Aktionstag unter dem Motto "Stadtnatur" statt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_04_nature-conservation-480985_1280__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_04_nature-conservation-480985_1280__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAQL/xAArEAABAwMDAwMDBQAAAAAAAAABAgMEAAURBhIhEzFBFCJRQmGRBxVTcYH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAIREAAgEEAgIDAAAAAAAAAAAAAQIAAxESQSExBPAUUWH/2gAMAwEAAhEDEQA/AKew5HLhbLrfUH0bhn+qXL9LuKI62IKkuTZLZPTcBQiOg8BZUn3Zz2Hn5ApsdiRLdbplyFuQ+6w0t0IS0VlxWMgYHfJxU+05qGRdYjsu/wAtdvk9crdYcaCQEpIKSE45b8DPkd6zszZhdR7oqknuLs+765066zIfmw5weWQpp/a405j+NKcLRwOeTWP37X96jIbgR246FJ9zsCGSs5871khPHwKaJuoWoOqYLP7b6vqZRtLHub3cBQA425Iyfj71RlNSy0pM1hLSk8DavcPx4oYNkRlx7uUp16ZW5p8+6k0tlh1re1ZuEhFvj55NwkKdWfuGkHH5Irm+fp7fGHlSIrtsvLZI3JSPTyAMEYG8lKgM5xuFFFD4tPvf3GbyXJuQOPyPekLFPiOIm6mubUqShOGozA9jWfKlfWodsDCR3570xzXGi2QjH+UUVdVCiwkXcubmf//Z
 ogImage: null
+imageCopyright: Mysticartdesign, pixabay
 labels:
   - 50 Jahre Earth Day
   - Agenda 21
@@ -28,12 +27,11 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Stadtnatur
-
 ---
 
 **Am 22. April 2020 jährt sich der Earth Day zum 50. Mal. Dieses Jahr steht der Tag unter dem Motto "Stadtnatur".**
 
-Da die Veranstaltungen zur Feier des 50. Earth Day aufgrund der Corona Epidemie verschoben wurden (die neuen Termine werden so bald wie möglich bekanntgegeben), wird sich am eigentlichen Aktionstag das meiste online abspielen. So finden beispielsweise in verschiedenen Ländern Livestreams statt.
+Da die Veranstaltungen zur Feier des 50. Earth Day[^1] aufgrund der Corona Epidemie verschoben wurden (die neuen Termine werden so bald wie möglich bekanntgegeben), wird sich am eigentlichen Aktionstag das meiste online abspielen. So finden beispielsweise in verschiedenen Ländern Livestreams statt.
 
 ## Es gibt keinen Planet B
 
@@ -46,7 +44,7 @@ Da die Veranstaltungen zur Feier des 50. Earth Day aufgrund der Corona Epidemie 
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABoDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABAUCAwb/xAAuEAACAgEEAAMFCQEAAAAAAAABAgMEEQAFEiETMWEGFCJBUSMyQmJjcYGRwdH/xAAXAQADAQAAAAAAAAAAAAAAAAACBQYE/8QAJxEAAQQBAwMDBQAAAAAAAAAAAQIDESExAARBEhOxBoHxIkJRcaH/2gAMAwEAAhEDEQA/AM/H7Ppbtxjb2tSRK+JDIzOqAnzwPMDI/sfwLZ9noKdp6m43ZonQjDwHxFdSOjyyP6wNN9tazQoWru3zSC3WnRSocDw4nAUls9NybjhfyEnHWtBsWxUN4FyzuO6PDaTjJKFVI1UEfeHpkY7/AN0qG/Xt3lKWZQKoXNHwf776tmSruOOOH6AoiABUGJxPkTPGE+1bLQiiBTd9y4EBWELcMY+p5dHv5akY9uiJjSB5VT4RI9klnA+Z9ToelUjV3rVqqyyMg8X3YspZ+RHMh2IGfhycjz60KIoCARHYGe/If91oZ3HfJMn599OtkW3pIkH8eMalUmmq0N6iiq++WbEMBVeWW4hznC/PAx5djOdG0bu4U6vOKYVjYUO0qRiSTofg5ZOMnGR39Matar4cq3oY5TE0bxPHWUGVVdepEHXasAeOexnSmHb53lljn+0SR05SCdV4xj4iCuQQcgDBHWT1oXGdv1uqd+4A2YFAAjmTAECrP7IiPUA3iH+2wV9Bz0AGzeciyZ+JY1L9/wB2ihuyc7LyFZOMwfxEBJCyr5YySfT9xqrnCOjRnyPpITodNug2q1BidbUDKxWeGIxxGUnsAno477HR078ex+uPQIp/zRhptCUliwQLgpnPGaxd1p96a27zG3Wt9JBUrBVJgQBJ5JMnAzr/2Q=="
 />
 
-Weil es keinen Planet B gibt, auf den wir ausweichen können, wenn unsere Natur zerstört ist, gilt es unseren Planeten zu schützen. Darauf wird mit dem Earth Day jedes Jahr aufmerksam gemacht.
+Weil es keinen Planet B gibt, auf den wir ausweichen können, wenn unsere Natur zerstört ist, gilt es unseren Planeten zu schützen. Darauf wird mit dem Earth Day[^2] jedes Jahr aufmerksam gemacht.
 
 Die Städte sollen grüner werden - das haben sich die Organisator\*innen des Earth Day 2020 auf die Fahnen geschrieben. Auf der Homepage des Aktionstages wird daher auch dazu aufgerufen, Blumenwiesen zu sähen und zur Feier des Tages schöne Naturbilder zu teilen. Außerdem soll an die verschiedenen Naturschutzorganisationen gespendet werden.
 
@@ -79,9 +77,5 @@ Im Earth Month April finden hierzulande die verschiedensten Aktionen statt. Geme
 
 Der Earth Day findet nun im 50. Jahr statt. Der Tag unter dem Motto "Global denken, lokal handeln" ist eine schöne Möglichkeit, sich gegenseitig daran zu erinnern, gelegentlich im Alltag mal inne zu halten und die eigene Lebensweise zu hinterfragen. Was kann ich persönlich für den Klimaschutz und eine gesündere Umwelt tun?
 
-### Quellen/Sources
-
-- [Homepage Earth Day deutsch](https://www.earthday.de/)
-- [Homepage Earth Day englisch](https://www.earthday.org/)
-
-Headergrafik: [Mysticartdesign](https://pixabay.com/de/users/mysticsartdesign-322497/), pixabay
+[^1]: [Homepage Earth Day deutsch](https://www.earthday.de/)
+[^2]: [Homepage Earth Day englisch](https://www.earthday.org/)
