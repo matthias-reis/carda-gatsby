@@ -3,16 +3,13 @@ date: 2020-05-12T16:01:21.000Z
 title: Der letzte Wal
 seoTitle: Der letzte Wal - Ende des Walfangs in Island?
 ogTitle: Der letzte Wal - Ende des Walfangs in Island?
-description: Ein isländischer Betrieb stellt den Walfang ein. Island hatte erst
-  kürzlich eine Pause der Jagd auf Wale für die Dauer der Corona Krise
-  ausgerufen.
-excerpt: Ein isländischer Betrieb stellt den Walfang ein. Island hatte erst
-  kürzlich eine Pause der Jagd auf Wale für die Dauer der Corona Krise
-  ausgerufen.
+description: Ein isländischer Betrieb stellt den Walfang ein. Island hatte erst kürzlich eine Pause der Jagd auf Wale für die Dauer der Corona Krise ausgerufen.
+excerpt: Ein isländischer Betrieb stellt den Walfang ein. Island hatte erst kürzlich eine Pause der Jagd auf Wale für die Dauer der Corona Krise ausgerufen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_05_fish-1836399_1280__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_05_fish-1836399_1280__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMEBQYH/8QAKhAAAQMDAgQFBQAAAAAAAAAAAQIDEQAEIQUSBjFBYQcTFFGhFyIjNNH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQQF/8QAHREAAgICAwEAAAAAAAAAAAAAAQMAEQIxEoHhsf/aAAwDAQACEQMRAD8A3X1C0Eq/YuSSeXkKz81IHG2mFuUt6mpETIsnCI964+hbQfQfKckZCoO2O5irtlF4bQvafxI1Yo2A+leukFMSTglQWjn3rcajBYsffJkpdmw0TXXs3qvEHQkD7nLlJ725/tLPiJoMQHriOsMHPzWG064ZfbdtOILq3udiQWr1lxLqQT0WoZjvzHXFQNR0hVk6AUNFkzDgWkiPfBoWpWe7gzNuGqIlWx+cJcIQlSsCBy+aXfqLYSXdrqSMgiOtFFXUDuQciNRa9tuhvahGdplI2nIB5jNPdWWmklaUKUpQO4bhBjnkmiinUQJn/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_05_der-letzte-wal-wahlfang-island-fb.png__l.jpg
+imageCopyright: Pexels, pixabay
 labels:
   - Island
   - Klima- & Umweltschutz
@@ -28,16 +25,15 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Ende des Walfangs in Island?
-
 ---
 
 **Ein isländischer Walfangbetrieb gab bekannt, den Walfang für immer einzustellen. Die Regierung von Island hatte erst kürzlich eine Pause der Jagd auf Wale für die Dauer der Corona Krise ausgerufen.**
 
-Der Geschäftsführer des isländischen Walfangunternehmens IP-Utgerd teilte der Nachrichtenagentur AFP am 24. April Folgendes mit:
+Der Geschäftsführer des isländischen Walfangunternehmens IP-Utgerd teilte der Nachrichtenagentur AFP am 24. April Folgendes mit[^1]:
 
 > "Ich werde nie wieder Wale jagen. Ich höre für immer damit auf."
 
-Tierrechtsaktivist\*innen weltweit begrüßen diese Entscheidung. So auch Fabienne McLellan, Co-Direktorin für internationale Beziehungen bei der NGO Ocean Care. Gegenüber Reportern des Umweltmagazins Mongabay äußerte sie folgendes:
+Tierrechtsaktivist\*innen weltweit begrüßen diese Entscheidung. So auch Fabienne McLellan, Co-Direktorin für internationale Beziehungen bei der NGO Ocean Care. Gegenüber Reportern des Umweltmagazins Mongabay[^2] äußerte sie folgendes:
 
 > "Das sind wirklich gute Nachrichten. Die gefährdeten Finnwale erhalten dadurch das zweite Jahr in Folge eine Gnadenfrist und können sich weiter von den Harpunenangriffen erholen."
 
@@ -68,12 +64,12 @@ Mit dem Walfang kommt es nicht nur zur Bedrohung dieser faszinierenden Arten. Au
 
 Wale senken den Kohlenstoffgehalt in der Atmosphäre, indem sie ihn in ihrem Tran einlagern. Dadurch tragen sie einen erheblichen Teil zum Klimaschutz bei.
 
-Forscher\*innen fanden heraus, dass der Atmosphäre pro Jahr rund 160.000 Tonnen Kohlendioxid entzogen würden, würde die Walpopulation, würde man es schaffen, die Walpopulation wieder auf das Level vorindustrieller Zeiten anzuheben. So steht es in einem Artikel des Wissenschafts-Magazins PLoS ONE.
+Forscher\*innen fanden heraus, dass der Atmosphäre pro Jahr rund 160.000 Tonnen Kohlendioxid entzogen würden, würde die Walpopulation, würde man es schaffen, die Walpopulation wieder auf das Level vorindustrieller Zeiten anzuheben. So steht es in einem Artikel des Wissenschafts-Magazins PLoS ONE[^3].
 
 ## Hat Island seinen letzten Wal getötet?
 
 <YouTube id="SCgHoRxAgRw" />
 
-Quellen/sources: [Mongabay](https://news.mongabay.com/2020/04/iceland-wont-be-killing-any-whales-this-year/), [Live Kindly](https://www.livekindly.co/iceland-has-killed-its-last-whale-industry-shuts-down/), [PLoS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0012444)
-
-Bild im Header/picture in Header: [Pexels](https://pixabay.com/de/users/pexels-2286921/), pixabay
+[^1]: [Live Kindly](https://www.livekindly.co/iceland-has-killed-its-last-whale-industry-shuts-down/)
+[^2]: [Mongabay](https://news.mongabay.com/2020/04/iceland-wont-be-killing-any-whales-this-year/)
+[^3]: [PLoS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0012444)
