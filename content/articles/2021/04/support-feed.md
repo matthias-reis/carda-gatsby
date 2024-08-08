@@ -9,6 +9,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_04
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_04_support-feed__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAArEAABBAAFAgYBBQAAAAAAAAABAgMEEQAFEiExBkEHExQVIlEWMmFxgaH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAIREBAAEEAQQDAAAAAAAAAAAAAQIAAxExQQQSIfATInH/2gAMAwEAAhEDEQA/AKM/mcSOpEd2VFacfXoaYUQC7QtWnajzxhVRnET3LNFobYRlkdKUplJCS22pZr4GyQlRtKhwD9WbknWmfzfzUQ8wnBMBK2lNqW2FBpKkEKNVtdm65woNSEwi/FiuwnGIrgp5CdDkhNivuxsDXasLhZlBHneqpbxKKGnJ4eKuPU7iFPNZgxIkNxW2U63o9qT8lWk1Ru7HbvyMd5rPUeUuNIlRGZbJBKHGl04QDRtPA7YheY53KeNQ5ExhltDYKC+QSBtuU1YBO2214sHgjmD7XSHk+pmqYMl0BkjWmyU3pJvSkirA2J/fB3xfu80vpbRn4x177qkrxP6f0ZymUZjPk+kGlTii4rzEnZHxF72KJ23N8YwcojQo0xKJcYPvPtllSVLoNK1UDQ/UCkHnv/GDBiiUcRfNTWrndhAPzVZ81hhuYlyMy6G0skrNFSaCiDv/AEP8w/8Ahz1E/kMDMoDOW+5rVIQ4Fh8NtpBb4JonuOByMGDGMmMMnFE2y5LtdNf/2Q==
 ogImage: https://storage.googleapis.com/cardamonchai-images/2021_04_support-feed-fb.png__l.jpg
+imageCopyright: Support + Feed
 labels:
   - Billie Eilish
   - Ernährung & Gesundheit
@@ -54,5 +55,3 @@ Neben der Unterstützung Bedürftiger und dem Support veganer Lokale möchte Sup
 > "Was als Aufwand von ein paar Monaten geplant war, wurde für so viele Menschen zu einem Jahr Ehrenamts-Arbeit in Vollzeit. Jetzt da wir gesehen haben, wie gut dieses nahrhafte und köstliche Essen ankommt und wie vielen Menschen wir damit helfen können, sind wir engagierter denn je. Wir wissen, dass jede pflanzliche Mahlzeit, die wir servieren, einen positiven Einfluss auf das Klima hat."
 
 Die tierische Landwirtschaft ist neuesten Auswertungen zufolge für 14,5 Prozent der Treibhausgas-Emissionen verantwortlich. Rund 70 Prozent der direkten Treibhausgasemissionen unserer Ernährung lassen sich auf tierische Produkte zurückführen.
-
-**Bild/Picture:** [Support + Feed](https://www.supportandfeed.com/)
