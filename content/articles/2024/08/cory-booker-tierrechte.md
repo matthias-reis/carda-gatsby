@@ -73,7 +73,7 @@ Falls Ihr Euch das gerade fragt: Es gibt tatsächlich noch einige weitere Politi
 - **Henrik G. Persson (Schweden):** Henrik G. Persson ist Mitglied des schwedischen Parlaments für die Grüne Partei. Er macht sich für verschiedene Tierschutz- und Umweltfragen stark, darunter Maßnahmen zur Reduzierung von Massentierhaltung und Förderung einer pflanzenbasierten Ernährung.
 - **Zac Goldsmith (Großbritannien):** Zac Goldsmith war Mitglied des britischen Parlaments. Er bekleidete die Rolle des Ministers für Umwelt, Landschaft und ländliche Angelegenheiten. Er hat sich in der Vergangenheit für die Verbesserung der Tierhaltungsbedingungen und gegen die Massentierhaltung ausgesprochen und engagiert sich für Tierrechte und Umweltschutz.
 
-Diese Politiker teilen das Ziel, die Macht großer Agrarkonzerne zu brechen und den Weg für eine nachhaltigere, gerechtere Zukunft zu ebnen.
+Diese Politiker\*innen teilen das Ziel, die Macht großer Agrarkonzerne zu brechen und den Weg für eine nachhaltigere, gerechtere Zukunft zu ebnen.
 
 Auch aus Deutschland gibt es Beispiele für Politiker\*innen, die zur Schärfung des allgemeinen Bewusstseins für Tierschutz- und Umweltfragen beitragen:
 
