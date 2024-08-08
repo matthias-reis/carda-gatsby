@@ -94,7 +94,7 @@ Nachhaltige Modehäuser bieten heute als Alternative häufig Leder an, das mit p
 
 Eine echte Alternative kann in Zukunft nur pflanzliches oder synthetisches Leder sein. Schon jetzt gibt es zahlreiche Varianten aus [Ananasfasern](/2015/12/vegatar-gruender-stanley-interview/), [Traubenresten](/2018/03/weinleder-vegan-und-nachhaltig/), Kork und Pilzen. Fast täglich tauchen auf dem Markt neue umweltfreundliche Produkte auf - garantiert cruelty free, vegan und genauso robust und wesentlich stylischer als das blutige Original.
 
-**Hinweis** Die Rinder habe ich auf [Sri Lanka](/2015/09/unterwegs-in-sri-lanka/) fotografiert. Die Bilder der Tierrechtsaktivist⋆innen erspare ich Euch an dieser Stelle. Ihr findet sie untern den angegebenen Links.
+**Hinweis:** Die Rinder habe ich auf [Sri Lanka](/2015/09/unterwegs-in-sri-lanka/) fotografiert. Die Bilder der Tierrechtsaktivist⋆innen erspare ich Euch an dieser Stelle. Ihr findet sie untern den angegebenen Links.
 
 [^1]: [Earthlings](https://www.earthlings.de/)
 [^2]: [PETA](https://www.peta.de/hintergrundwissen-leder)
