@@ -62,6 +62,8 @@ sagten Rooney Mara und [Joaquin Phoenix](/2020/02/joaquin-phoenix-oscar/) in ihr
 - [Hier erfahrt Ihr, wie Joaquin Phoenix mit seiner Stimme mein Leben verändert hat](/2020/07/earthlings/)
 - [Joaquin Phoenix spricht sich in seiner Oscar Rede für mehr Empathie aus](/2020/02/joaquin-phoenix-oscar/)
 
+---
+
 **Quellen/Sources:** [Live Kindly](https://www.livekindly.co/joaquin-phoenix-rooney-mara-factory-farms-film/), [deadline.com](https://deadline.com/2020/07/rooney-mara-joaquin-phoenix-to-exec-produce-documentary-1202999911/), [Washington Post](https://www.washingtonpost.com/gdpr-consent/?next_url=https%3a%2f%2fwww.washingtonpost.com%2foutlook%2f2020%2f04%2f21%2fmara-phoenix-wet-market-animal-cruelty%2f)
 
 **Bilder/Pictures:** Rooney Mara: [By Leod23 - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=54413972), Joaquin Phoenix: [By Harald Krichel - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=86815006)

@@ -108,4 +108,6 @@ Ganz unabhängig vom Anlaß: es ist ein schöner Brauch, Blumen zu verschenken, 
 - Zichorie - Genügsamkeit
 - Zitterpappel - Seufzer
 
+---
+
 **Quellen/Sources:** Wikipedia, Blumensprache.de, ganz-muenchen.de, matriachat.net

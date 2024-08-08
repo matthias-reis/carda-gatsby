@@ -3,10 +3,8 @@ date: 2012-07-09T15:29:01.000Z
 title: SEO
 seoTitle: SEO - Suchmaschinenoptimierung
 ogTitle: SEO - Suchmaschinenoptimierung
-description: SEO (Search Engine Optimization) - zu deutsch
-  Suchmaschinenoptimierung ist ein Teil des Suchmaschinenmarketings.
-excerpt: SEO (Search Engine Optimization) - zu deutsch Suchmaschinenoptimierung
-  ist ein Teil des Suchmaschinenmarketings.
+description: SEO (Search Engine Optimization) - zu deutsch Suchmaschinenoptimierung ist ein Teil des Suchmaschinenmarketings.
+excerpt: SEO (Search Engine Optimization) - zu deutsch Suchmaschinenoptimierung ist ein Teil des Suchmaschinenmarketings.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2012_07_265502_web_r_b_by_cornerstone_pixelio-de__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2012_07_265502_web_r_b_by_cornerstone_pixelio-de__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgACBAUI/8QAKRAAAgEDAwIFBQEAAAAAAAAAAQIDBAURABIhBjEHEyJBcRQjMmGBUf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAeEQACAgEFAQAAAAAAAAAAAAABAgADEQQSITFhQf/aAAwDAQACEQMRAD8AUtUb4any6cQKaBypB4fLgZx/vGM++sKezXDqzqW+2KO2S2qK0ypi5zlmSpDBW9IGBuypI2nG1jnBxnlW2mkpaeY/ULMZLesaPHnHpI5GfnOkNj8RbSigTdTTRUtFNNbqoCAMzVUj+mok3do1CnHsSee2NQVKGYgjqQ6dQ7NnqDPE+kHS3UdltNTSrUi7ARpPTKcDYiJkqRnIbnv+IzrVZIp6GwI8bSCaGOkm3n0M0cjkc8d9pz/NKLz4l2y19DUa9S3GCv6ihZvpaukjVjM6Z+6F42K4Cqe2STjtoULlFWWWw11E3mRy3JiHL4O091K/pmI+CdMYfQOI21NnAEQpVSyUlZMTDSvHA3lo2SWPtgD4Ua830vrrjLVly8pJdsZbcTnt851atHpxgvjybSAGYDyOofDK5XGmNWlTA8s5+0jHaTxkAE9+P58a4dguFXa/OstxjeFYatZjFKCrQyKw3DH7CjI/Q1atGjFwQ0qvrUDif//Z
@@ -28,7 +26,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Suchmaschinen&shy;optimierung
-
 ---
 
 **SEO (Search Engine Optimization) - zu deutsch Suchmaschinenoptimierung ist ein Teil des Suchmaschinenmarketings.**
@@ -59,10 +56,6 @@ Werden nicht relevante Seiten z. B. mit Hilfe von Brückenseiten oder Linkfarmen
 
 Durch immer neue Updates und Algorithmen möchte Google dem entgegenwirken. Die letzten Google-Updates waren im Februar 2011 "Panda", mit dem Content-Farmen abgestraft wurden, im Januar 2012 "Search + Your World", welches Google+-Ergebnisse mit in das Ranking aufnahm, im Februar 2012 "Venice", das lokale Suchergebnisse verstärkte und im April 2012 "Penguin", welches SEO-Tricks enttarnt.
 
-### Quellen:
-
-_Wikipedia_ _Internet World Business Ausgabe 13/12_ _Website Boosting 2.0_
-
 <RemoteImage
   alt={`Bild: cardamonchai 6/2012`}
   size="full"
@@ -71,3 +64,7 @@ _Wikipedia_ _Internet World Business Ausgabe 13/12_ _Website Boosting 2.0_
   largeUrl="https://storage.googleapis.com/cardamonchai-images/2012_07_large.jpeg__l.jpg"
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQP/xAArEAABAwMDAwMDBQAAAAAAAAABAgMEAAURBhIhBxMxFCJBFVFhMnGRobH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUBAv/EACIRAAEEAgEEAwAAAAAAAAAAAAEAAgMRBCESE0FhcTGB8P/aAAwDAQACEQMRAD8Ai3Trp9eNbrmqtK4TLMIth56Y6W0ArztAwk5PtP8AVUI9HJFijruN+u1nmwYwSqRFhuOl4oWoICk5SOApQOfxTJ0TlwtIdOI781+RFfvLrj/daTvU2B7W+Oce1JIOPmtrU7MbVGlro/abxNuE2OlKimSjC1bTu2JJwQSAcfFT35BEob2tVYsHljmZ1gVo0SL91Xj2pXftBQPpok2qMhUdxOO6pfLZ+6ju4/YpqPzGHIzy2nkFDiDhQNVppm/R0KZ9IuK0s7z6jtJPj8qP+Uk67tjkNcOS8oqcfSptwZCtqkHjkAD9JH8UeOQudVgjwlZTjmMdO+Xe6r99LloK4ItuqIkl+MmW0ErQtlasBY2HA8HwQD4+KcBre7aqiXZiF6eyWyHFW+uNDb976UgnYpzyM45IA4oorXtG3VvS5bK8NDA41tZtx6lzpTYT6NpBAACt2TgeB4pb1Nq2ZqFAalJSlpLvcQnIJTwRjOB96KKKI2t2Al+bj8r/2Q=="
 />
+
+---
+
+**Quellen/Sources:** Wikipedia, Internet World Business, Website Boosting 2.0 (Ausgabe 13/12)

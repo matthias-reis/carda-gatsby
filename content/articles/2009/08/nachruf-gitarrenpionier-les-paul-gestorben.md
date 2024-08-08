@@ -64,4 +64,6 @@ Die Welt trauert um einen genialen Musiker - den Gitarrenpionier Les Paul, der d
 
 **Les Paul \*1915 +2009**
 
+---
+
 **Quellen/Sources:** [Mediabiz](http://www.mediabiz.de/musik/news/les-paul-gestorben/278216), [Wikipedia](http://de.wikipedia.org/wiki/Les_Paul), [Spiegel](http://www.spiegel.de/kultur/musik/0,1518,642358,00.html)

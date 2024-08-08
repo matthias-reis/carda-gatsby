@@ -103,4 +103,6 @@ Für einige Länder ist die Aktion die erste Möglichkeit überhaupt, sich mit f
 
 [Die kompletten Umfrageergebnisse könnt Ihr Euch hier herunterladen](https://www.undp.org/content/undp/en/home/librarypage/climate-and-disaster-resilience-/The-Peoples-Climate-Vote-Results.html).
 
+---
+
 **Quellen/Sources:** ["The Peoples Climate Vote" UNDP](https://www.undp.org/content/undp/en/home/librarypage/climate-and-disaster-resilience-/The-Peoples-Climate-Vote-Results.html), [UNDP Climate Promise](https://www.undp.org/content/undp/en/home/climatepromise.html), [Guardian](https://www.theguardian.com/environment/2021/jan/27/un-global-climate-poll-peoples-voice-is-clear-they-want-action)

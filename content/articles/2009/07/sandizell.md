@@ -59,6 +59,8 @@ Im Jahre 1971 wurde Sandizell von der Stadt Schrobenhausen eingemeindet. Zur Zei
 
 _ **\*Hofmark:** Begriff aus dem mittelalterlichen Herzogtum Bayern und angrenzenden Gebieten. Er bezeichnet den abgegrenzten Bezirk einer Grundherrschaft, Rechtsgrundlage hierfür war die "Ottonische Handfeste" vom 5. Juni 1311, in der die niederbayerischen Stände dem Herzog Otto III. eine einmalige Steuer bewilligten, dafür aber die niedere Gerechtigkeit für ihre Besitzungen erhielten._
 
-**Quellen/Sources:** [Wikipedia](http://www.wikipedia.de/),[sandizell-com.de](http://www.sandizell-com.de/)
-
 <Gallery name="annesandizell2009" />
+
+---
+
+**Quellen/Sources:** [Wikipedia](http://www.wikipedia.de/),[sandizell-com.de](http://www.sandizell-com.de/)

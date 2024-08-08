@@ -53,6 +53,8 @@ Ilmmünster verzichtet bewußt auf die Ausweisung eines Gewerbegebietes, um die 
 
 **\*Stift Ilmmünster:** Das Benediktiner-Kloster Ilmmünster wurde 762 von Adalbert und Otker Huosi, einer einheimischen Adelsfamilie gegründet. Es wurde St. Arsatius und St. Quirinius geweiht. Seit 1060 war es Kollegiatsstift. 1493 wurde das Kloster an das Münchner Frauenstift übergeben. Im 18. Jahrhundert diente es dann als Residenz des Münchner Kapital-Offizials. 1803 wurden dann die Güter im Zuge der Säkularisierung (Verweltlichung kirchlicher Güter im Kurfürstentum Bayern von 1802 bis 1803) verkauft.
 
-**Quellen/Sources:** [Wikipedia](http://wikipedia.de/), [Homepage Ilmmünster](http://ilmmuenster.pfaffenhofen.de/)
-
 <Gallery name="flickr/anneilmmuenster2009" />
+
+---
+
+**Quellen/Sources:** [Wikipedia](http://wikipedia.de/), [Homepage Ilmmünster](http://ilmmuenster.pfaffenhofen.de/)

@@ -52,6 +52,8 @@ heißt es in einem Statement von Mitbegründer und CEO Thomas Jonas. Derzeit arb
 
 Ich bin schon sehr gespannt, wann es die Produkte von Nature's Find auch bei uns zu Kaufen geben wird. Ich werde sie auf jeden Fall probieren, wenn es so weit ist. Für mich hört sich das ganz danach an, als könnte es sich um das Nahrungsmittel der Zukunft handeln. Besonders, da man die Mikroben, überall anbauen kann – selbst wenn der Klimawandel (so wie es heute leider aussieht) weiter voranschreitet. Wir könnten das Mikroben-Protein in Zukunft also vermutlich getrost als "veganes, lokales Bio-Superfood" bezeichnen. Oder doch eher als "Astronautennahrung"? Ich bin auf jeden Fall schon sehr gespannt, wie es weitergeht.
 
+---
+
 **Quellen/Sources:** [Nature's Fynd](https://www.naturesfynd.com/), [NASA](https://www.jpl.nasa.gov/edu/teach/activity/lava-layering-making-and-mapping-a-volcano/)
 
 **Bild/Picture:** © [GidonPico](https://pixabay.com/de/users/gidonpico-850967/), pixabay

@@ -66,6 +66,8 @@ Seine Werke wurden bereits in Museen wie dem Palais de Tokyo, in Frankreich, Mus
 
 Über die Aktionen am diesjährigen Tag der Erde könnt Ihr Euch auf den Webseiten zum Aktionstag (siehe Quellenangabe) informieren.
 
+---
+
 **Quellen/Sources:** [Earth Day International](https://www.earthday.org/earth-day-2021/), [Earth Day Deutschland](https://www.earthday.de/)
 
 **Bild/Picture:** [Speto](http://www.speto.com.br/about)

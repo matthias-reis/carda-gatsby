@@ -68,6 +68,8 @@ Lederalternativen, die ohne Kunststoff auskommen, sind nach wie vor selten. Obwo
 
 <YouTube id="Gh9CdbluinQ" />
 
+---
+
 **Quellen/Sources:** [Plant Based News](https://plantbasednews.org/lifestyle/fashion/stella-mccartney-unveils-world-first-garments-made-from-mushrooms/), [Stella McCartney](https://www.stellamccartney.com/de)
 
 **Bild/Picture:** Screenshot from the video above © Stella McCartney

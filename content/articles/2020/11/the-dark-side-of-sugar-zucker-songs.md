@@ -78,6 +78,8 @@ Risen from Shadows wurde von Marcel Neumann und Stephan Moritz gegründet. Der K
 
 <YouTube id="4sKeTqDU4Zw" />
 
+---
+
 **Quellen/Sources:** [BLZ Datenzentrum](https://www.bzl-datenzentrum.de/versorgung/versorgungsbilanz-zucker-grafik/), Pressemitteilung Serviceplan, [darksideofsugar.com](https://darksideofsugar.com)
 
 **Musikproduktion:** Mokoh Music, Musikproduzenten: Marcel Neumann und Stephan Moritz

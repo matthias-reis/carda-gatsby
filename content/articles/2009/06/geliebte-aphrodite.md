@@ -56,4 +56,6 @@ Zahlreiche erboste Leserbriefe erreichten in dieser Zeit die Augsburger Zeitunge
 
 Was meint Ihr zu dem Thema? Ist sie nicht eigentlich recht hübsch anzuschauen? Wurde dem Künstler unrecht getan? Vervollständigt es nicht erst das Stadtbild, wenn die Kunst alter Meister mit moderner oder abstrakter Kunst vermischt wird? Historische Gebäude mit moderner Architektur (Siehe z. B. Berliner Gedächniskirche)? Oder habt ihr das Gefühl, diese Skulptur hat mit Kunst nichts zu tun?
 
+---
+
 **Quellen/Sources:** [Wikipedia](http://de.wikipedia.org/wiki/Augsburg), [augsburg.de](http://www2.augsburg.de/), [Augsburg Wiki](http://www.augsburgwiki.de/index.php/AugsburgWiki/Aphrodite-Kunstskandal)
