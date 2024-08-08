@@ -9,6 +9,7 @@ remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_vegane-alternativen__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAmEAACAgEEAQUBAAMAAAAAAAABAgMEEQAFEiExExQiMkEGFSNx/8QAFwEBAQEBAAAAAAAAAAAAAAAABAIBBf/EAB8RAAICAgIDAQAAAAAAAAAAAAECABEDEgQhEzFBUf/aAAwDAQACEQMRAD8Ao7Xwp2mtxzN/jLcssElazJwk9qIkSchlHzAkcfADkQ3XjS+6ixHDtNOx6Dbjt8821EiX1JOBXmGUAcSoYdMflk4/NTqk4vRvtlalEbUgMkktoGRFUFZAFTIPI8OyCOjjStzYty26vJb507Eyyc4Sp9u8TF+RBBYqyAEAZ8L4PR1xOOQrLfRjMjggiVt7m2uhLFFNtZnjtDh6tpkMsZBX7lS2CCT0Rh1+vyB0sWg9xPVhaF1hkMXKMkqcAfUn876PnGtLd/oavt4l3Gv7aUoos1JAvqlAWC+mQGKIxbBzgn9PWmzsSx14+IdJW/2ZZsSScuwx68nOf+daVXkXUGzMyOoqhUj1LkO0ym5YVWy5znoMuApGR4PQIJ6yNdbV0f2Rk2fbA4iJUSs8f0QfJgqrnlIVBAUHvOOvOjRofHUMoyH2JOQU+v7KyPVmisSV61SWu8Cl3mrqJEyxQTnJ5kj1PzJA8gnWn3qSN0jkMVmCq7RpNCe/ieIzyx18R5GRo0aXgYo1j7IzDYdz/9k=
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_07_vegane-alternativen-1.png__l.jpg
+imageCopyright: ulleo, pixabay
 labels:
   - Ernährung
   - Ernährung & Gesundheit
@@ -35,9 +36,9 @@ subTitle: 2,1 Millionen Euro für pflanzliche Proteinquellen
 
 **Das Technical Research Centre Of Finland (VTT) und die Uni Helsinki haben aus einem öffentlichen Fonds 2,1 Millionen Euro zur Erforschung heimischer Nutzpflanzen erhalten.**
 
-Tofu und Seitan, also Soja- und Weizenprotein dominieren den Markt für veganen Fleischersatz seit Jahren. Vor Kurzem haben sich auch Produkte aus [Erbsen](/2020/06/erbsen/) und Kichererbsenprotein dazugesellt. In Finnland wird jetzt fieberhaft an weiteren pflanzlichen Alternativen gearbeitet.
+Tofu und Seitan, also Soja- und Weizenprotein dominieren den Markt für veganen Fleischersatz seit Jahren. Vor Kurzem haben sich auch Produkte aus [Erbsen](/2020/06/erbsen/) und Kichererbsenprotein dazugesellt. In Finnland wird jetzt fieberhaft an weiteren pflanzlichen Alternativen gearbeitet[^1].
 
-Die staatliche Non-Profit-Organisation VTT und die Universität Helsinki haben von Business Finland (einem öffentlichen Innovationsfonds) 2,1 Millionen Euro erhalten. Gemeinsam soll am Aufbau eines nachhaltigen Lebensmittelindustrie-Ökosystems gearbeitet werden. Oberstes Ziel ist es, gesunde, pflanzliche Eiweißprodukte aus heimischen Nutzpflanzen zu entwickeln. Derzeit nehmen die Forscher\*innen des sogenannten EXPRO-Projekts Fababohnen, Raps und Hafer genauer unter die Lupe.
+Die staatliche Non-Profit-Organisation VTT und die Universität Helsinki haben von Business Finland (einem öffentlichen Innovationsfonds) 2,1 Millionen Euro erhalten. Gemeinsam soll am Aufbau eines nachhaltigen Lebensmittelindustrie-Ökosystems gearbeitet werden. Oberstes Ziel ist es, gesunde, pflanzliche Eiweißprodukte aus heimischen Nutzpflanzen zu entwickeln. Derzeit nehmen die Forscher\*innen des sogenannten EXPRO-Projekts Fababohnen, Raps und Hafer genauer unter die Lupe[^2].
 
 ## Vegane Alternativen bieten eine neue Perspektive
 
@@ -55,6 +56,5 @@ Die Projektleiterin und leitende Wissenschaftlerin Kaiso Honkapää ist überzeu
 
 Das Projekt ist im Juni 2020 gestartet.
 
-Quellen/Sources: [Live Kindly](https://www.livekindly.co/university-helsinki-healthy-vegan-meat/), [vegconomist](https://vegconomist.com/agriculture/finland-invests-e2-1m-to-create-globally-competitive-plant-protein-based-foods/)
-
-**Bild/Picture:** [ulleo](https://pixabay.com/de/users/ulleo-1834854/), pixabay
+[^1]: [Live Kindly](https://www.livekindly.co/university-helsinki-healthy-vegan-meat/)
+[^2]: [vegconomist](https://vegconomist.com/agriculture/finland-invests-e2-1m-to-create-globally-competitive-plant-protein-based-foods/)
