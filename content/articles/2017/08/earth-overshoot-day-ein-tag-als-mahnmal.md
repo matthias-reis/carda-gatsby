@@ -3,12 +3,8 @@ date: 2017-08-02T14:50:44.000Z
 title: Earth Overshoot Day 2017
 seoTitle: Earth Overshoot Day - Ein Tag als Mahnmal - Wir beuten unsere Erde aus
 ogTitle: Earth Overshoot Day - Ein Tag als Mahnmal - Wir beuten unsere Erde aus
-description: Heute ist Earth Overshoot Day - Zeit, über unser Verhalten
-  nachzudenken. Wir leben, als hätten wir 1,7 Erden zur Verfügung. Das kann
-  nicht so weitergehen.
-excerpt: Heute ist Earth Overshoot Day - Zeit, über unser Verhalten
-  nachzudenken. Wir leben, als hätten wir 1,7 Erden zur Verfügung. Das kann
-  nicht so weitergehen.
+description: Heute ist Earth Overshoot Day - Zeit, über unser Verhalten nachzudenken. Wir leben, als hätten wir 1,7 Erden zur Verfügung. Das kann nicht so weitergehen.
+excerpt: Heute ist Earth Overshoot Day - Zeit, über unser Verhalten nachzudenken. Wir leben, als hätten wir 1,7 Erden zur Verfügung. Das kann nicht so weitergehen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_08_16268715501_7356eaa87c_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_08_16268715501_7356eaa87c_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMHBgUI/8QALBAAAgIBBAEDAgUFAAAAAAAAAQIDEQQABRIhMQYTQQdRFBUiI3EzQmGxwf/EABcBAAMBAAAAAAAAAAAAAAAAAAACBAH/xAAgEQACAQIHAQAAAAAAAAAAAAABAgADBBESEyEiMUHw/9oADAMBAAIRAxEAPwDzvgbPPmRR/uqhkBKRtYsfHfjvv+KJPjXSm9MssqAO7K7cxIsdK0Nf1E+4JBA++rhNsPpn03JFj7heWshJ4wkBxyAjTsCgOHK/HZBrs3kt9gxtvzHEUkkuHEQyOzEc1quJ+QRXHrxWpa1fT4rhj95HDTPbP9Nc/OjV0hR1yFLKGJHsx8lqVj8X/wB+9DVDk+jG1SQti7PI+Xm46c8iampnIYgBR0BYoEMe/tVFuw7/AJmJtkMeFBHinITl7zI0zceuhYsKGBurvx8aNq3ncY5chcjccSOci44poDBGRyJNMK66Bo14A7rS293TJys3KIWMf6DjXHg/O5wuVlhmaMTAMqsP7iDfI/zpHqLfW3b1HmSZ2LBI2ExEZqiSqnyR5Fm6/wAaNGpCMtJQPYJuZRMFkXbpsf209oRxo6BQFZQWIUCv0rXVD/eonvW+wYma65eB+LgNq0XvcFstQK0LFXo0at0UcgsOpq7z/9k=
@@ -26,7 +22,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Ein Tag als Mahnmal
-
 ---
 
 **Die Menschheit lebt, als hätte sie 1,7 Erden zur Verfügung. Am heutigen Earth Overshoot Day überschreitet die globale Nachfrage nach Ressourcen die "Nachproduktion" der Erde.**
@@ -120,4 +115,4 @@ Wichtig ist vor allem, dass wir bewusst leben, nicht alles als gegeben hinnehmen
 
 Das geht ganz einfach, indem man den Ressourcen-Rechner verwendet. Er wird unter anderem angeboten von [ressourcen-rechner.de](http://ressourcen-rechner.de/) sowie dem [Global Footprint Network](http://www.footprintcalculator.org/#!/).
 
-_Quellen: [overshootday.org](http://www.overshootday.org/newsroom/infographics/),   [ressourcen-rechner.de](http://ressourcen-rechner.de/),   [Global Footprint Network](http://www.footprintcalculator.org/#!/) _
+**Quellen:** [overshootday.org](http://www.overshootday.org/newsroom/infographics/), [ressourcen-rechner.de](http://ressourcen-rechner.de/), [Global Footprint Network](http://www.footprintcalculator.org/#!/)

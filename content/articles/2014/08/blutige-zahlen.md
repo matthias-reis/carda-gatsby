@@ -3,10 +3,8 @@ date: 2014-08-22T12:54:02.000Z
 title: Blutige Zahlen
 seoTitle: Blutige Zahlen - Veganer retten Leben
 ogTitle: Blutige Zahlen - Veganer retten Leben
-description: Warum Veganer Leben retten - Blutige Zahlen geben Aufschluss - Eine
-  Reportage in Zahlen und Fakten
-excerpt: Wir lieben es nicht, Tiere, die wir zu unseren Sklaven gemacht haben,
-  als ebenbürtig zu betrachten. (Charles Darwin)
+description: Warum Veganer Leben retten - Blutige Zahlen geben Aufschluss - Eine Reportage in Zahlen und Fakten
+excerpt: Wir lieben es nicht, Tiere, die wir zu unseren Sklaven gemacht haben, als ebenbürtig zu betrachten. (Charles Darwin)
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2014_08_veganismus-zahlen__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2014_08_veganismus-zahlen__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBgcIBQn/xAAoEAACAQMDAwQCAwAAAAAAAAABAgMEBREAITEGEhMHFEFxIjJRYaH/xAAYAQACAwAAAAAAAAAAAAAAAAAAAgEDBP/EAB4RAQACAgEFAAAAAAAAAAAAAAEAAhEhAxITMVHw/9oADAMBAAIRAxEAPwC3unPUnpi+XVqG21vmw5QTbCNiBk8kHGPnH86n1L454klhZJInGVdCGVh/RGx154X2mjtNf7SKZp4wSWDcnDEBSOPg/edSSwdVXShkprQlxekoIZX8sSLnuAOSo3woOcYH+6avI3M+4nbDxNy3O52+2W9q6tqIoqVSF8hOQSTgAY5OdsDSNJdrdWUaVUFVF7d8gO58e45/bGsN0HVNVdOrxNLU1UsLzO0UVRUM6quPxQDhQN8Yxrs+rc0lV0vYXlRJaeKrmjjzyncoYr9HGfsaFRk9JiV7dpWapWT2qksvdkg9225Jwccb8acRRz1S1lbLBHFPBJHE3cWXLMGznJ5AUaNGs7drUx9uWm4vBZkC0tTFOkZbtkGSfxB+edPp7zJST1KVVUtwjJAijaM+JSMgOoJO4440aNDZsowdE//Z
@@ -45,18 +43,15 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: 10 Fakten über Veganismus - Teil III
-year: "2014"
-month: "08"
-
+year: '2014'
+month: '08'
 ---
-
-## Veganer retten Leben
 
 [Hier geht's zu Teil 2 des Artikels](2014/08/ich-war-so-muede/)
 
-**In Deutschland leben momentan rund 1,2 Millionen Veganer\*innen (Quelle: [VEBU](https://www.vebu.de/lifestyle/anzahl-der-vegetarierinnen), Stand Juli 2014), bei einer derzeitigen Gesamtbevölkerung von 81.890.000 (Stand heute) bedeutet das, dass 1,465 Prozent der Deutschen vegan leben, die Zahl wächst stetig.**
+**In Deutschland leben momentan rund 1,2 Millionen Veganer\*innen[^1], bei einer derzeitigen Gesamtbevölkerung von 81.890.000 (Stand heute) bedeutet das, dass 1,465 Prozent der Deutschen vegan leben, die Zahl wächst stetig.**
 
-Geht man davon aus, wie viele Tiere in Deutschland pro Kopf geschlachtet werden (\*), ergibt sich daraus, dass dadurch täglich gerettet werden:
+Geht man davon aus, wie viele Tiere in Deutschland pro Kopf geschlachtet werden[^2], ergibt sich daraus, dass dadurch täglich gerettet werden:
 
 - 25.210 Hühner
 - 2.243 Schweine
@@ -67,9 +62,9 @@ Geht man davon aus, wie viele Tiere in Deutschland pro Kopf geschlachtet werden 
 - 21 Gänse
 - 1 Ziege
 
-### 150 Milliarden geschlachtete Tiere jährlich
+## 150 Milliarden geschlachtete Tiere jährlich
 
-Leider nur ein kleiner Tropfen auf den heißen Stein, wenn man bedenkt, dass weltweit jährlich mehr als 150 Milliarden Tiere **geschlachtet** werden. In Deutschland sind das jährlich u. A. 58 Millionen Schweine, 630 Millionen Hühner und 3,2 Millionen Rinder. In den USA schlachtet alleine die Gesellschaft "Tyson Foods" mehr als 42 Millionen Tiere in einer einzigen Woche, in China werden über 660 Millionen Schweine pro Jahr geschlachtet. (\*)
+Leider nur ein kleiner Tropfen auf den heißen Stein, wenn man bedenkt, dass weltweit jährlich mehr als 150 Milliarden Tiere **geschlachtet** werden. In Deutschland sind das jährlich u. A. 58 Millionen Schweine, 630 Millionen Hühner und 3,2 Millionen Rinder. In den USA schlachtet alleine die Gesellschaft "Tyson Foods" mehr als 42 Millionen Tiere in einer einzigen Woche, in China werden über 660 Millionen Schweine pro Jahr geschlachtet[^3].
 
 <RemoteImage
   alt={`Geschlachtete Tiere in Deutschland - bund.net`}
@@ -84,7 +79,7 @@ Mit 58 Millionen getöteten Schweinen im Jahr steht Deutschland bei der Schweine
 
 > Wir lieben es nicht, Tiere, die wir zu unseren Sklaven gemacht haben, als ebenbürtig zu betrachten. (Charles Darwin)
 
-### Billigfleisch durch Dumpinglöhne
+## Billigfleisch durch Dumpinglöhne
 
 <RemoteImage
   alt={`Zutritt verboten`}
@@ -114,9 +109,11 @@ Rinder werden meist mit Bolzenschussgeräten betäubt, Schweine mit Gas oder ein
 
 ## Mangelhafte Betäubung
 
-Eine Umfrage der Grünen bestätigte, dass die Betäubung bei rund 4 - 9 Prozent der Rinder und bei 10 - 12 Prozent der Schweine mangelhaft ist, oder sogar gänzlich fehlt. ( [Hier eine Drucksache des Bundestages dazu](http://dipbt.bundestag.de/dip21/btd/17/100/1710021.pdf) ) Dabei besteht kein Unterschied bei der Schlachtung von Biotieren, wie u. A. [dieses Video beweist](https://www.youtube.com/watch?v=HWYuYZ_KfdE).
+Eine Umfrage der Grünen bestätigte, dass die Betäubung bei rund vier bis neun Prozent der Rinder und bei zehn bis 12 Prozent der Schweine mangelhaft ist, oder sogar gänzlich fehlt. [Hier eine Drucksache des Bundestages dazu](http://dipbt.bundestag.de/dip21/btd/17/100/1710021.pdf). Dabei besteht kein Unterschied bei der Schlachtung von Biotieren[^4], wie unter anderem dieses Video beweist:
 
-Mehr über die Wahrheit zur Schlachtung von Biotieren ist auf der Seite [biowahrheit.de](http://www.biowahrheit.de/inhalt/schlachtung.htm) zu finden, hier werden Videos gezeigt, Zahlen genannt, Vergleiche angestellt zwischen z.B. Naturland und Demeter, Beispiele gezeigt und über die Hintergründe und die Tierhaltung aufgeklärt.
+<YouTube id="HWYuYZ_KfdE" />
+
+Mehr über die Wahrheit zur Schlachtung von Biotieren ist auf der Seite biowahrheit.de zu finden, hier werden Videos gezeigt, Zahlen genannt, Vergleiche angestellt zwischen z.B. Naturland und Demeter, Beispiele gezeigt und über die Hintergründe und die Tierhaltung aufgeklärt.
 
 <RemoteImage
   alt={`Weideland`}
@@ -129,7 +126,7 @@ Mehr über die Wahrheit zur Schlachtung von Biotieren ist auf der Seite [biowahr
 
 Rund zehn Prozent der geschlachteten weiblichen Kühe in Deutschland sind trächtig, [hier eine Drucksache des Bundestages](http://dip21.bundestag.de/dip21/btd/18/013/1801391.pdf) zum Thema. Der überwiegende Teil dieser Kühe befindet sich in einem fortgeschrittenen Trächtigkeitsstadium. Pro Jahr trifft dies auf 180 000 Tiere zu. Der Drucksache liegt eine Studie von Rhien et. al. (2011) zugrunde, die Daten aus 53 Schlachtbetrieben in Deutschland auswertet.
 
-Über 55 Prozent der in Deutschland geschlachteten Schweine fallen auf die drei größten Schlachtkonzerne, Westfleisch, Tönnies und Vion, bei Geflügel führt die PHW-Gruppe, bekannt durch "Wiesenhof"die Branche an, es lässt sich also durchaus von einer Zentralisierung sprechen. (\*)
+Über 55 Prozent der in Deutschland geschlachteten Schweine fallen auf die drei größten Schlachtkonzerne, Westfleisch, Tönnies und Vion, bei Geflügel führt die PHW-Gruppe, bekannt durch "Wiesenhof"die Branche an, es lässt sich also durchaus von einer Zentralisierung sprechen.
 
 <RemoteImage
   alt={`Weltweite Schlachtungen bund.net`}
@@ -149,15 +146,15 @@ Rund zehn Prozent der geschlachteten weiblichen Kühe in Deutschland sind träch
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAHBAj/xAAoEAACAgEDBAEDBQAAAAAAAAABAgMEBQYRIQAHEjETCCJBMkJRUnH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAECBf/EABoRAAMBAAMAAAAAAAAAAAAAAAABAgMhMUH/2gAMAwEAAhEDEQA/APQWorseCgfI7RSu/wAdeKOScQo0hJ/dsdidgPz6HocgvX1laWSu0+BqmtK6kTVsrG4UMikMAQCeHB452Pr112d3I8FkcbTxmfe6gaws8LVVKsrhXUESEhVP3Ecnfngcg9Z7c7cYyTT1Mw6nkxc1h0WnVydiAEhFrD4wVHLGOon9thsNv1b0UolmoYG7LkclJDaw0lIwwpI4eR2X5HAYrygU7bkeSseR1dAdDaat3LWM1TjdRZMUr6JdeOxaEo8SIG+PwXxA8iJ1PvhU3G46uiLNeC11zyKdW4vM35hdaZbtJXV0pxCRvBQ2wKxoV83Pkd2Z/EKOF99Zt31tYXT/AGhyGOyK1m1DkhH8VWZIRYhBlVzzEOFHgW5PJJ5PrpEO9OlZa6RJTytlQAT40h+CCPbjbkcdEe4mvNG6rxGUinxGYXIWaT1IrDU0Jh3YEEL8oG/kibn2QAN9h0DK0+2OXNLwRfTPAtfs9ipFkcPYs2JWHiPQkKgA/kfaT/pPV0O0T3O07pLT9fBxUs68NUSGMTRQqQGYt47iT+WPJ5O/V04qhLsztI0dNpH/2Q=="
 />
 
-Wer sich diese unfassbaren Zahlen nicht vorstellen kann, besucht den [Animal Kill Counter](http://www.occupyforanimals.org/animal-kill-counter.html) auf der Seite von [Occupy For Animals](http://www.occupyforanimals.org/animal-kill-counter.html). Öffnet man die Seite, aktiviert sich ein Zähler, der anzeigt, wie viele Tiere seit dem Öffnen der Seite weltweit geschlachtet wurden. Lässt man sie nur eine kurze Zeit lang geöffnet, offenbart sich einem das Grauen.
+Wer sich diese unfassbaren Zahlen nicht vorstellen kann, besucht den Animal Kill Counter auf der Seite von Occupy For Animals[^4]. Öffnet man die Seite, aktiviert sich ein Zähler, der anzeigt, wie viele Tiere seit dem Öffnen der Seite weltweit geschlachtet wurden. Lässt man sie nur eine kurze Zeit lang geöffnet, offenbart sich einem das Grauen.
 
 Und dabei werden die Tiere, die in der Folge von Tierversuchen, Tierquälerei, das Einschläfern in **Tötungsstationen** und weitere Eingriffe in die Natur durch Menschen noch nicht mal mit eingerechnet.
 
-### Fleischkonsum weltweit nimmt weiter zu
+## Fleischkonsum weltweit nimmt weiter zu
 
 In Deutschland ist der Pro Kopf Fleischkonsum im letzten Jahr durchschnittlich um zwei Kilo pro Einwohner zurückgegangen.
 
-Weltweit muss man allerdings von steigenden Zahlen sprechen. In Asien findet zum Beispiel aktuell im Schnelldurchgang ein Wandel statt, den die Industrieländer bereits hinter sich haben. Die wachsende Mittelschicht v. A. in Indien und China löst eine Anfrage nach Fleisch aus, die man sich schier nicht vorstellen kann. Auf diese boomenden Länder werden laut dem aktuellen [Fleischatlas](http://www.bund.net/fileadmin/bundnet/publikationen/landwirtschaft/140108_bund_landwirtschaft_fleischatlas_2014.pdf) bis 2022 rund 80 Prozent des Wachstums im Fleischsektor entfallen.
+Weltweit muss man allerdings von steigenden Zahlen sprechen. In Asien findet zum Beispiel aktuell im Schnelldurchgang ein Wandel statt, den die Industrieländer bereits hinter sich haben. Die wachsende Mittelschicht v. A. in Indien und China löst eine Anfrage nach Fleisch aus, die man sich schier nicht vorstellen kann. Auf diese boomenden Länder werden laut dem aktuellen Fleischatlas bis 2022 rund 80 Prozent des Wachstums im Fleischsektor entfallen[^5].
 
 <RemoteImage
   alt={`Trends der Fleischerzeugung in Millionen Tonnen bund.net`}
@@ -170,14 +167,19 @@ Weltweit muss man allerdings von steigenden Zahlen sprechen. In Asien findet zum
 
 In Indien boomt der Handel mit Büffelfleisch, hier hat sich das Wachstum von 2010 bis 2013 so gut wie verdoppelt. 25 Prozent des auf dem Weltmarkt gehandelten Rindfleischs stammt aus Indien, rechnet man das **Büffelfleisch** als Rindfleisch mit ein. Indien ist somit seit 2012 der größte Exporteur auf diesem Sektor, dicht gefolgt von Brasilien.
 
-### Das blutige Geschäft
+## Das blutige Geschäft
 
-Da Büffel kostengünstiger zu halten sind, liegt der Kilopreis in der Erzeugung hier um mehr als einen Dollar unter dem von Rindfleisch, in Indien wird also stark in Schlachthäuser investiert.
+Da Büffel kostengünstiger zu halten sind, liegt der Kilopreis in der Erzeugung hier um mehr als einen Dollar unter dem von Rindfleisch, in Indien wird also stark in Schlachthäuser investiert[].
 
-Setzt man den gegenwärtigen Fleischerzeugungstrend von derzeit 300 Millionen Tonnen pro Jahr bis Mitte dieses Jahrhunderts fort, kommt man bis zu diesem Zeitpunkt auf fast eine halbe Milliarde Tonnen pro Jahr. Hinzukommt, dass sich die [Sojaproduktion](/2014/07/10-fakten-uber-vegane-ernahrung/) für das Futter zur Mästung der Tiere von heute 260 auf über 500 Millionen Tonnen nahezu verdoppeln wird. (\*\*)
+Setzt man den gegenwärtigen Fleischerzeugungstrend von derzeit 300 Millionen Tonnen pro Jahr bis Mitte dieses Jahrhunderts fort, kommt man bis zu diesem Zeitpunkt auf fast eine halbe Milliarde Tonnen pro Jahr. Hinzukommt, dass sich die [Sojaproduktion](/2014/07/10-fakten-uber-vegane-ernahrung/) für das Futter zur Mästung der Tiere von heute 260 auf über 500 Millionen Tonnen nahezu verdoppeln wird[^6].
 
 > Nichts auf der Welt ist so mächtig wie eine Idee, deren Zeit gekommmen ist. (Victor Hugo,1802-1885)
 
-[Hier geht's zu Teil 4 des Artikels\*\*](/2014/08/vitamin-b12-mythos-und-wahrheit/)
+[Hier geht's zu Teil 4 des Artikels](/2014/08/vitamin-b12-mythos-und-wahrheit/)
 
-Quellen: \* [Fleischatlas 2014](http://www.bund.net/fileadmin/bundnet/publikationen/landwirtschaft/140108_bund_landwirtschaft_fleischatlas_2014.pdf), \*\* [bund.net](http://www.bund.net/fleischatlas), \*\*\* [Campact Blog](http://blog.campact.de/2014/01/wir-habens-satt-750-mio-tiere-werden-pro-jahr-in-deutschland-geschlachtet/),   [biowahrheit.de](http://www.biowahrheit.de), [Occupy For Animals](http://www.occupyforanimals.org/animal-kill-counter.html)
+[^1]: [VEBU, Stand Juli 2014](https://www.vebu.de/lifestyle/anzahl-der-vegetarierinnen)
+[^2]: [Campact Blog](http://blog.campact.de/2014/01/wir-habens-satt-750-mio-tiere-werden-pro-jahr-in-deutschland-geschlachtet/)
+[^3]: [Fleischatlas 2014](http://www.bund.net/fileadmin/bundnet/publikationen/landwirtschaft/140108_bund_landwirtschaft_fleischatlas_2014.pdf)
+[^4]: [biowahrheit.de](http://www.biowahrheit.de)
+[^5]: [Occupy For Animals](http://www.occupyforanimals.org/animal-kill-counter.html)
+[^6]: [bund.net](http://www.bund.net/fleischatlas)

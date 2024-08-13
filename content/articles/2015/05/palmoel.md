@@ -3,16 +3,13 @@ date: 2015-05-14T16:24:09.000Z
 title: Warum wir auf Palmöl verzichten sollten
 seoTitle: Warum wir auf Palmöl besser verzichten sollten - Regenwaldabholzung
 ogTitle: Warum wir auf Palmöl besser verzichten sollten - Regenwaldabholzung
-description: Durch den Anbau von Palmöl wird nicht nur Regenwald abgeholzt, um
-  Platz für Monoplantagen zu schaffen - Tiere werden aus ihren Lebensräumen
-  vertrieben.
-excerpt: Durch den Anbau von Palmöl wird nicht nur Regenwald abgeholzt, um Platz
-  für Monoplantagen zu schaffen - Tiere werden für immer aus ihren Lebensräumen
-  vertrieben.
+description: Durch den Anbau von Palmöl wird nicht nur Regenwald abgeholzt, um Platz für Monoplantagen zu schaffen - Tiere werden aus ihren Lebensräumen vertrieben.
+excerpt: Durch den Anbau von Palmöl wird nicht nur Regenwald abgeholzt, um Platz für Monoplantagen zu schaffen - Tiere werden für immer aus ihren Lebensräumen vertrieben.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_02_palmoel-sarangib__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_02_palmoel-sarangib__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcI/8QAJhAAAQQCAQQBBQEAAAAAAAAAAQIDBBEFIQAGEjFBYQcTFlGBMv/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUG/8QAHxEBAAEEAgMBAAAAAAAAAAAAAQACAxEhBAUSMaHw/9oADAMBAAIRAxEAPwCw/O4LU5xlTaXWnEKXFcbOlVrtVewb9caMHmcdlPtNtOoEhxRSGge4ivFkaF8wDrg45iSZeHefahWVx2Xk2pK1DaVEfOh8AcsOlMjN6WwzcpuO8vJh5LhStdoKABSS3Wj53dj+8Onsrg5qTH71IXi041OjhA+OVXVijjOnpstNpKEf6Aur145nvS31SnDJKXKbfnQXl96kKT2qbu9AnX61+h64xdffUJsYkxMEw6ZEloKD6yEhsGrBFG7Fjz52OUPZ266E9P2LOLUMyDGhE+MWF4+RIcdRaHFqUlIAFiiU7OvPGCPj8/JipmJgAhxVBlTlOti73fm7Irhw5zV98HU0jZGLCYeOw87InsdidKr7ncLI91o+x65HPP49tSgMQ0+tAtKy3pFjyNgfzhw4m2+SrDxpn//Z
 ogImage: null
+imageCopyright: sarangib, pixabay
 labels:
   - Abholzung
   - Bio-Palmöl
@@ -28,7 +25,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Von Regenwaldabholzung bis Cholesterin
-
 ---
 
 **Neulich war ich mit einer Freundin in der nächsten Filiale einer bekannten Drogeriemarktkette einkaufen. Sie sah, dass ich einige der dort auch zum Verkauf angebotenen, veganen Lebensmittel nach dem Durchlesen der Zutatenlisten wieder zurück ins Regal stellte, weil die Produkte Palmöl enthielten.**
@@ -148,12 +144,6 @@ Dass es manchmal gar nicht so einfach ist, Palmöl als solches zu erkennen, habe
 
 Da auch in vielen Bioprodukten Palmöl zum Einsatz kommt, ist es selbst bei bewusster Ernährung häufig schwierig, darauf zu verzichten. Viele bekannte Firmen, unter ihnen Alnatura, Allos und Rapunzel verwenden das billige Öl bei die Herstellung ihrer Produkte. Ob diesen Firmen Siegel wie "Fairtrade" und "Bio" auch weiterhin zustehen, wird derzeit heiß diskutiert.
 
-### Quellen:
+---
 
-[Umweltblick](http://www.umweltblick.de/)
-
-[Tierrechts-Initiative Freiburg](http://tif.objectis.net/themen/palmoel)
-
-[Rettet den Regenwald e. V.](https://www.regenwald.org/petitionen)
-
-**Foto:** [sarangib](https://pixabay.com/de/users/sarangib-37542/), pixabay
+**Quellen/Sources:** [Umweltblick](http://www.umweltblick.de/), [Tierrechts-Initiative Freiburg](http://tif.objectis.net/themen/palmoel), [Rettet den Regenwald e. V.](https://www.regenwald.org/petitionen)

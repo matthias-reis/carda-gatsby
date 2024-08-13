@@ -3,10 +3,8 @@ date: 2020-09-01T06:00:28.000Z
 title: Vegan Food Management
 seoTitle: Vegan Food Management - der vegane Studiengang
 ogTitle: Vegan Food Management - der vegane Studiengang
-description: Etwa 1,36 Prozent der Deutschen leben vegan. Das Interesse wächst.
-  Seit 2016 kann man jetzt sogar Vegan Food Management studieren.
-excerpt: Etwa 1,36 Prozent der Deutschen leben vegan. Das Interesse wächst. Seit
-  2016 kann man jetzt sogar Vegan Food Management studieren.
+description: Etwa 1,36 Prozent der Deutschen leben vegan. Das Interesse wächst. Seit 2016 kann man jetzt sogar Vegan Food Management studieren.
+excerpt: Etwa 1,36 Prozent der Deutschen leben vegan. Das Interesse wächst. Seit 2016 kann man jetzt sogar Vegan Food Management studieren.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_08_vegan-food-management__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_08_vegan-food-management__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwYE/8QAJhAAAQMDAgYDAQAAAAAAAAAAAQACEQMEBSFBBhITFDGRIlFhgf/EABgBAAIDAAAAAAAAAAAAAAAAAAADBAUG/8QAHREAAwACAgMAAAAAAAAAAAAAAAECAxESEzFBkf/aAAwDAQACEQMRAD8AY2uJLgPiul2FjyITbE5LHVXNZ3IB8S5haPaqu+MuHO4Y0VLl06dRtAlggx539Jby5nWpl/DMdc8dtiS4xMCQJH2EovLLlB0WtqZ7B3FEVLe+EugcvIQ7UaAiFmMrf06jndFxjbRSMN5G9NMVcSvZkHXdwWx1nx+GFRqdz7QhWqSXgQEukEEgjeVILhqHOH9QhAH/2Q==
@@ -23,7 +21,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Der vegane Studiengang
-
 ---
 
 **Etwa 1,13 Millionen Menschen leben in Deutschland derzeit vegan. Das sind immerhin 1,36 Prozent der Bevölkerung. Weil auch beim Rest der Deutschen das Interesse immer größer wird, kann man seit 2016 Vegan Food Management studieren.**
@@ -46,6 +43,6 @@ Nachhaltigkeit, Ethik und Gesundheit spielen in der heutigen Zeit eine immer gr�
 
 Der Studiengang "Vegan Food Management" hat eine Regelstudienzeit von sechs Semestern. Mit inbegriffen sind 24 Wochen Praxisphase im In- und Ausland. Das Studium wird als Vollzeitstudium angeboten und endet mit dem Abschluss "Bachelor of Arts". Die Kosten für die Ausbildung belaufen sich je nach Standort auf zwischen 540 und 640 Euro pro Monat. Eine Finanzierung über BAföG oder Bildungskredit ist möglich.
 
-Quellen: [Statista](https://de.statista.com/statistik/daten/studie/445155/umfrage/umfrage-in-deutschland-zur-anzahl-der-veganer/), Fachhochschule des [Mittelstandes](https://www.fh-mittelstand.de/vegan/)
+**Quellen:** [Statista](https://de.statista.com/statistik/daten/studie/445155/umfrage/umfrage-in-deutschland-zur-anzahl-der-veganer/), Fachhochschule des [Mittelstandes](https://www.fh-mittelstand.de/vegan/)
 
-Bild: [Pexels](https://pixabay.com/de/photos/sonnenaufgang-absolventen-1840298/), pixabay
+**Bild:** [Pexels](https://pixabay.com/de/photos/sonnenaufgang-absolventen-1840298/), pixabay

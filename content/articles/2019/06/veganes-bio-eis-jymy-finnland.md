@@ -3,10 +3,8 @@ date: 2019-06-18T15:42:02.000Z
 title: Veganes Bio-Eis aus Finnland
 seoTitle: Veganes Bio-Eis aus Finnland - Jymy mit Zutaten aus dem Wald
 ogTitle: Veganes Bio-Eis aus Finnland - Jymy mit Zutaten aus dem Wald
-description: "Aus Finnland kommt jetzt was ganz Neues: naturreines Eis auf der
-  Basis von Vollkornhafer und Ackerbohnen - eine beerige Angelegeheit."
-excerpt: "Aus Finnland kommt jetzt was ganz Neues: naturreines Eis auf der Basis
-  von Vollkornhafer und Ackerbohnen - eine beerige Angelegeheit."
+description: 'Aus Finnland kommt jetzt was ganz Neues: naturreines Eis auf der Basis von Vollkornhafer und Ackerbohnen - eine beerige Angelegeheit.'
+excerpt: 'Aus Finnland kommt jetzt was ganz Neues: naturreines Eis auf der Basis von Vollkornhafer und Ackerbohnen - eine beerige Angelegeheit.'
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_veganes-bio-eis-jymy-finnland__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_veganes-bio-eis-jymy-finnland__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcFBggDBP/EACoQAAEEAQIFBAEFAAAAAAAAAAECAwQRBQAhBhITMUEHIlFhFBUjQoGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIE/8QAHBEAAwEAAgMAAAAAAAAAAAAAAAERAgMxEiLw/9oADAMBAAIRAxEAPwCocVZReUTHxbCpDbUwREpbTv0l2buv5G+21/1pyemciJE4Vn42VLjNyEqWiK2qY0laUBtCQkcy/abCvFedZ1xkx6WqM3DaEnkkIeUhCylKeUkld9gSaFn4Fah5caO2vKNyokYvlSwXFJCi2oX2P2fOozv2pPgpDTPppCb/AFDKwM2wzHyR6LzSepbi2zytlRWlXKrwexBu6Gpj1dxTEaGmK7kpX4+QdbZfSu1XYUmwU0UgggUmwfjvpD8KceZnC5fFLS3H6EYM4tcIxkoSuMOXmQfaF9TYK5ztYHjTc9RfUzG5DhyaqGTIxERxv9wSum844ClYACt72Ff7sdK585ST+oPjfYi8QHUJdjtvkNKa9ymvYDtdfY2GvOMZjpKmHFsNuukEqU7uodu9nRo1ns6NecqFuZxUJGNROWT+R1A11lLN8nLdE+aA7fA12434cXl+GYTMJ1qO5Fc6zxfWoJcBTR3AP0bqvGjRqm4qER//2Q==
@@ -37,7 +35,6 @@ isAffiliate: false
 language: de
 subTitle: Jymy Speiseeis mit Zutaten aus dem Wald
 advertisement: true
-
 ---
 
 **Aus Finnland kommt jetzt was ganz Neues: naturreines Speiseeis auf der Basis von Vollkornhafer und Ackerbohnen.**
@@ -74,13 +71,9 @@ Rohstoffe wie **Waldbeeren** gedeihen im kühlen Klima Finnlands sehr gut. Etwa 
 
 [Auf der Jymy Homepage](http://www.jymy.fi) findet Ihr weitere Infos über das neue vegane Eis.
 
-### Quellen
+**Quellen:** [Business Finland](https://www.businessfinland.fi/en/do-business-with-finland/home/), [Finnisches Institut für natürliche Ressourcen (Luke)](https://www.luke.fi/ruokafakta/de/titelseite/)
 
-[Business Finland](https://www.businessfinland.fi/en/do-business-with-finland/home/), [Finnisches Institut für natürliche Ressourcen (Luke)](https://www.luke.fi/ruokafakta/de/titelseite/)
-
-### Foto im Header
-
-© Suomisen Maito Oy 2019
+**Foto im Header:** © Suomisen Maito Oy 2019
 
 [^1]: [Food from Finland](https://www.businessfinland.fi/en/do-business-with-finland/explore-finland/food-drinks/food-from-finland-in-brief/)
 [^2]: [Business Finland](https://www.businessfinland.fi/en/do-business-with-finland/home/)

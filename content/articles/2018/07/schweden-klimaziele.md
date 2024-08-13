@@ -3,10 +3,8 @@ date: 2018-07-24T14:54:12.000Z
 title: Schweden zeigt, dass die EU-Klimaziele schaffbar sind
 seoTitle: Schweden zeigt, dass die EU-Klimaziele schaffbar sind
 ogTitle: Schweden zeigt, dass die EU-Klimaziele schaffbar sind
-description: Schweden erreicht die bis 2030 gesteckten Klimaziele allem Anschein
-  nach bereits in diesem Jahr. Daran sollten wir uns ein Beispiel nehmen.
-excerpt: Schweden erreicht die bis 2030 gesteckten Klimaziele allem Anschein
-  nach bereits in diesem Jahr. Daran sollten wir uns ein Beispiel nehmen.
+description: Schweden erreicht die bis 2030 gesteckten Klimaziele allem Anschein nach bereits in diesem Jahr. Daran sollten wir uns ein Beispiel nehmen.
+excerpt: Schweden erreicht die bis 2030 gesteckten Klimaziele allem Anschein nach bereits in diesem Jahr. Daran sollten wir uns ein Beispiel nehmen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_windrader-1048981_640__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_windrader-1048981_640__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAUACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIHBAMG/8QALRAAAQIEBAMHBQAAAAAAAAAAAQIDAAQRIQUHEjEGMnETFRYiQVFhI4GTodH/xAAYAQADAQEAAAAAAAAAAAAAAAABAwQCBf/EACARAAEEAQQDAAAAAAAAAAAAAAABAgORBBEUIeEyQUL/2gAMAwEAAhEDEQA/APNTXAmLy7RccdbSgcylOIASPcmth8xiVwjiaUgl1qh2PapFf3Fun8ssYmG9PeRc1ocQoaykeZNPa8czllPl1KHDrtdWu23SKo83ITze2jMsGL8MdaEQc4VxBIqZhj8yf7CeF5okaplr5+qmLZMZdPMuIbUwSoipNbD7xlksv5pYfKpZagl1SQbco29L9Yfvn6cuSuxCQR+mLfRdhf1h0io3MEEcgsUUig3J6wQQQFCh/9k=
@@ -34,7 +32,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: 2018 statt 2030
-
 ---
 
 **Dem Klima geht es schlecht. Das lässt sich nicht nur an den derzeit herrschenden Temperaturen in Nord- und Mitteleuropa unschwer erkennen. Der Meeresspiegel steigt unaufhaltsam, es kommt zu Überschwemmungen, Bränden und weiteren dramatischen Auswirkungen der Klimaerwärmung.**
@@ -87,6 +84,6 @@ Bereits im Jahr 2012 hatte Schweden gemeinsam mit Norwegen ein Abkommen zur Stro
 
 \*Interessierte finden hier [die Analyse der CAN als praktisches PDF](http://www.caneurope.org/docman/climate-energy-targets/3357-off-target-ranking-of-eu-countries-ambition-and-progress-in-fighting-climate-change/file).
 
-Quellen: weforum.org, bento.de, energimyndigheten.se, ec.europa.euF
+**Quellen:** weforum.org, bento.de, energimyndigheten.se, ec.europa.euF
 
-Titelbild: [Oimheidi](https://pixabay.com/de/users/Oimheidi-1660138/), pixabay
+**Titelbild:** [Oimheidi](https://pixabay.com/de/users/Oimheidi-1660138/), pixabay

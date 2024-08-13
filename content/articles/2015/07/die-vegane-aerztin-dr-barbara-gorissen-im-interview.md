@@ -5,11 +5,8 @@ typeName: Interview
 title: Die vegane Ärztin Dr. Barbara Gorißen
 seoTitle: Die vegane Ärztin Dr. Barbara Gorißen im Interview
 ogTitle: Die vegane Ärztin Dr. Barbara Gorißen im Interview
-description: Vor Kurzem habe ich die vegane Ärztin Dr. Barbara Gorißen
-  kennengelernt und mich mit ihr zum Interview verabredet.
-excerpt: Vor Kurzem habe ich die vegan lebende Ärztin Dr. Barbara Gorißen
-  kennengelernt und mich mit ihr zum Interview verabredet. Unser Gespräch war
-  sehr aufschlusreich.
+description: Vor Kurzem habe ich die vegane Ärztin Dr. Barbara Gorißen kennengelernt und mich mit ihr zum Interview verabredet.
+excerpt: Vor Kurzem habe ich die vegan lebende Ärztin Dr. Barbara Gorißen kennengelernt und mich mit ihr zum Interview verabredet. Unser Gespräch war sehr aufschlusreich.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_07_qimono-pixabay__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_07_qimono-pixabay__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMFBgII/8QAJxAAAQQBBAAFBQAAAAAAAAAAAQIDBBEABRIhMRMiQVFxBiNhgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABgRAQEBAQEAAAAAAAAAAAAAAAABESFh/9oADAMBAAIRAxEAPwD0WzIjPvvMsSGHXmCA62hxKlNk9BQBsfvOnVpbSolJ4I/F/HvkJCWJmqajG02emNMcQXHSxGO4WoUpSyKv049zkrVI31BF8USYjc5jaUpkRPtvtgiiQCCLr1o5N8Mzeq0vU1wZ73nEpp10ApVIaQmIgCirgXV13zZylou1WmsESzMHNPl1LhXz3uTwfbjM1pGp6bqWqNRYDkGJPIDspmVp1vOoBCeVggbr48199ZrmkFpam2mAmOlRSlKEhG34TQFXfNnEGLZnHUUupnJELw9hilkHzXe4Lu79K6x7bSWkBLY2pHQu8MMJMNukyYESUQZEZpwjkFSef7jkthAASSEjod4YYh//2Q==
@@ -33,7 +30,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: '"Es war ein langer Reifungsprozess!"'
-
 ---
 
 **Vor Kurzem habe ich über ein soziales Netzwerk die nette vegane Ärztin Dr. Barbara Gorißen kennengelernt. Über die Chatfunktion kam ich mit der Internistin und Notärztin ins Gespräch und wir stellten sehr schnell fest, dass wir uns einiges zu sagen haben.**
@@ -226,7 +222,4 @@ Meine Erfahrungen zum Thema alternative Medizin, Akupunktur, Traditionelle Chine
 
 Wer gerne mehr über Frau Dr. Barbara Gorißen erfahren oder gerne mit Ihr in Kontakt treten möchte, der findet sie auf ihrer [Homepage](http://www.praxis-dr-gorissen.de/).
 
-### Bildquellen/References pictures
-
-**Portrait:** Barbara Gorißen privat **Gemüse/Nahrungsergänzungsmittel:** Selbst fotografiert **Tabletten:** [Taki Steve](http://Tabletten? Oder einfach), Flickr (Creative Commons) **Spritze/Pillen:** [qimono](https://pixabay.com/de/illustrations/spritze-pille-kapsel-morphin-nadel-1884784/), pixabay
-
+**Bildquellen:** Portrait: Barbara Gorißen privat, Gemüse/Nahrungsergänzungsmittel: Selbst fotografiert, Tabletten: [Taki Steve](http://Tabletten? Oder einfach), Flickr (Creative Commons), Spritze/Pillen: [qimono](https://pixabay.com/de/illustrations/spritze-pille-kapsel-morphin-nadel-1884784/), pixabay

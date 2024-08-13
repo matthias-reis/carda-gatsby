@@ -1,13 +1,10 @@
 ---
 date: 2020-06-10T07:10:57.000Z
 title: Neues von Snoop Dog
-seoTitle: "Neues von Snoop Dog - seine vegane Marke spendet für #Blacklivesmatter"
-ogTitle: "Neues von Snoop Dog - seine vegane Marke spendet für #Blacklivesmatter"
-description: Snoop Dog spendete jetzt mit seiner veganen Lebensmittelmarke über
-  20.000 Dollar für Hilfsorganisationen, die sich gegen Rassismus einsetzen.
-excerpt: Rapper Snoop Dog spendete jetzt mit seiner veganen Lebensmittelmarke
-  über 20.000 Dollar für Hilfsorganisationen, die sich gegen Rassismus
-  einsetzen.
+seoTitle: 'Neues von Snoop Dog - seine vegane Marke spendet für #Blacklivesmatter'
+ogTitle: 'Neues von Snoop Dog - seine vegane Marke spendet für #Blacklivesmatter'
+description: Snoop Dog spendete jetzt mit seiner veganen Lebensmittelmarke über 20.000 Dollar für Hilfsorganisationen, die sich gegen Rassismus einsetzen.
+excerpt: Rapper Snoop Dog spendete jetzt mit seiner veganen Lebensmittelmarke über 20.000 Dollar für Hilfsorganisationen, die sich gegen Rassismus einsetzen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_06_snoop-dog__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_06_snoop-dog__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAX/xAAoEAACAQMDBAEEAwAAAAAAAAABAgMEBREABhIHITFBIhMUMlFhcZH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAgP/xAAlEQACAQMDAgcAAAAAAAAAAAABAhEAA1ESIUEEsQUUMmFxgcH/2gAMAwEAAhEDEQA/AGmjtdVc9o1Vrs4lUR3GGEJS1H27LTq6NKquGXGQW9jzqZ7w3Em3bnbaGmrIDdoYaZKqqIFUoMUKLwDE/LuG7g+R3OnDflwsezundStj3fXXGpllWBUnqomZ0c4k/BASQmcEnzj+tSaoo6IWqZ7xDdKOfhKsTfZMI3Y4wWVlyuVAzxOM4x7zloVVi4YPFIKuXgLOaeLHvOe2irp6eujuMla0ZE0cf0oI3BBckY48iPJ9kE+9W9KPbu49s2dLrTNXU8cIEfyeMZzxbuGXIyP8/jWTt1zWmx1VNBtNnEU0RjqYGYfKNXyASCcs/wAskgYGMDGtb9OK4XnZtqmaGBgtPFFEUIkJRUXGf0fOR6xqm22UyKjTHqEHHap3WJbErhRVW3Irvc7hT/WjVFhSKNVd2YlJTxHbjkgdyAfOn+nuFTc9l0UohgiuskaQyxGXm0bjIIyP1jyR60aNR4jZW5bBbcn4zH5T7B0srffes8dSelt9oL49zeWa53G5z8okjj7sQAT3J8AesYwPI1yLTvG+W+0ptG6xCkpzIKoLICjHEnIkkYIyQfB8Z0aNFRmRDbmQJxwPam+XtlU6kCGJE43aOa//2Q==
@@ -25,7 +22,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: 20.000 Dollar gegen Rassismus
-
 ---
 
 **Snoop Dog spendete jetzt mit seiner veganen Lebensmittelmarke über 20.000 Dollar für Hilfsorganisationen, die sich gegen Rassismus einsetzen.**
@@ -52,6 +48,6 @@ Jetzt versprach die Firma, 50 Prozent ihrer durch Online-Verkäufe erzielten Gew
 
 Bravo! Outstanding Foods geht mit der Aktion mit guten Beispiel voran und ist ein glänzendes Vorbild für andere Unternehmen. Hoffentlich lassen sich viele davon inspirieren und unterstützen den so wichtigen Kampf gegen Rassismus mit ihrem Geld.
 
-Quellen: [Veconomist](https://vegconomist.com/marketing-and-media/snoop-dogg-invests-in-pigless-pork-rinds-from-outstanding-foods/), [Plantbased News](https://www.plantbasednews.org/news/vegan-brand-donates-to-charities-fighting-racism), [Vegworld](https://vegworldmag.com/outstanding-foods-donates-100-of-online-profits-to-snoop-doggs-youth-football-league-and-eji/), [Snoop Youth Football League](http://snoopyfl.net/)
+**Quellen:** [Veconomist](https://vegconomist.com/marketing-and-media/snoop-dogg-invests-in-pigless-pork-rinds-from-outstanding-foods/), [Plantbased News](https://www.plantbasednews.org/news/vegan-brand-donates-to-charities-fighting-racism), [Vegworld](https://vegworldmag.com/outstanding-foods-donates-100-of-online-profits-to-snoop-doggs-youth-football-league-and-eji/), [Snoop Youth Football League](http://snoopyfl.net/)
 
-Bild im Header / picture in header: [Outstandig Foods](https://vegworldmag.com/outstanding-foods-donates-100-of-online-profits-to-snoop-doggs-youth-football-league-and-eji/)
+**Bild im Header:** [Outstandig Foods](https://vegworldmag.com/outstanding-foods-donates-100-of-online-profits-to-snoop-doggs-youth-football-league-and-eji/)

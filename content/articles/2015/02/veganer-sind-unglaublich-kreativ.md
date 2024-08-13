@@ -5,10 +5,8 @@ typeName: Interview
 title: Margit Ricarda Rolf von der SoLaWi
 seoTitle: Veganer sind unglaublich kreativ! - Interview mit Ricarda aus Hamburg
 ogTitle: Veganer sind unglaublich kreativ! - Interview mit Ricarda aus Hamburg
-description: Was es mit der Kreativität der Veganer auf sich hat, hat mir
-  Ricarda von der SoLaWi Hamburg im Interview erzählt.
-excerpt: Was es mit der Kreativität der Veganer auf sich hat, hat mir Ricarda
-  von der SoLaWi Hamburg im Interview erzählt.
+description: Was es mit der Kreativität der Veganer auf sich hat, hat mir Ricarda von der SoLaWi Hamburg im Interview erzählt.
+excerpt: Was es mit der Kreativität der Veganer auf sich hat, hat mir Ricarda von der SoLaWi Hamburg im Interview erzählt.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2015_02_altes-land-2012__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2015_02_altes-land-2012__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAPACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGAQf/xAApEAABBAEDAgQHAAAAAAAAAAABAgMEEQUAEiEHIgYxQYETFDJhcZHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGxEBAAMAAwEAAAAAAAAAAAAAAQACIQMRkaH/2gAMAwEAAhEDEQA/AMgdc80pguyoMBzggBplSaV+Sr+6NhOv2dcmlC8fAcb71KaQ2vckUdtKv09bGoBteKUsb3p1E3Y2176dxI+N+SeYiuOIcloI+PXeU3RrjjWNeZtg/ZB0uSsjdUfF6oSAvNIEpaQ6CqI3WwmhYCPfTyF16nSIrTowLDlilFD5qxwa48tcbzXhpKYkcwo8jIgnuSXUt7RX1dxon7aDhcKy4VKi5V9aW+FIUwAR5gEc153+tK3sZnkNJ//Z
@@ -38,7 +36,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: '"Veganer*innen sind unglaublich kreativ!"'
-
 ---
 
 **In Zeiten von Globalisierung und TTIP werden regionale Produkte f** **ü** **r die Menschen immer wichtiger. Wir wollen einfach wissen, was da auf unserem Teller landet. Aus genau diesem Grund haben sich ein paar Hamburger zusammengetan, um eine SoLaWi (Solidarische Landwirtschaft) zu gr** **ü** **nden.**

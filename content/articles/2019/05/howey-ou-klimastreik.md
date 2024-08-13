@@ -3,12 +3,8 @@ date: 2019-05-29T09:33:36.000Z
 title: Howey Ou im Klimastreik
 seoTitle: Howey Ou im Klimastreik - 16-jährige Schülerin demonstriert in China
 ogTitle: Howey Ou im Klimastreik - 16-jährige Schülerin demonstriert in China
-description: "Jetzt sorgt wieder ein Mädchen in der Klimaschutzbewegung für
-  Aufmerksamkeit: Howey Ou geht im chinesischen Guilin ganz alleine auf die
-  Straße."
-excerpt: "Jetzt sorgt wieder ein Mädchen in der Klimaschutzbewegung für
-  Aufmerksamkeit: Howey Ou geht im chinesischen Guilin ganz alleine auf die
-  Straße."
+description: 'Jetzt sorgt wieder ein Mädchen in der Klimaschutzbewegung für Aufmerksamkeit: Howey Ou geht im chinesischen Guilin ganz alleine auf die Straße.'
+excerpt: 'Jetzt sorgt wieder ein Mädchen in der Klimaschutzbewegung für Aufmerksamkeit: Howey Ou geht im chinesischen Guilin ganz alleine auf die Straße.'
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_05_howey-ou__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_05_howey-ou__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBQECCP/EAC8QAAEEAAQFAgMJAAAAAAAAAAECAwQRAAUSIQYTIjFhCEEHFHEVIzJRgZGxwdH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/xAAdEQADAQABBQAAAAAAAAAAAAAAAQIRAxITISJB/9oADAMBAAIRAxEAPwDoSFw8wyI2tpk6VhQ6d7o7Hx4wkeoFLmV8IszIEh6M67KajK5KtNoKVkixvvQwiveoaWHl8jhRSm0i2z8y5eoggX93R7g7YTOL/itn3G0JOXZtlbEWGh1MhJaYWCFpsAaio3so+3thJu91htTmIq0ylNN2yAVKFUo1iNKVOebJVrSgizoTpvb8yR/GNYotYElLjTRTqQttSFE1tRGoaf174I+ZsuF1DkDMw2NXWt1pIoD3rUb79vGG7i+h9LH9PDU5JuLmiVpGwDrH+HFZPy2fC/F9nvd+lNJJ8UU/3gwYFFMxIyKTkPNkPQ4z7chykJYTzSmk2RVdvpffENeaQEMlUrLUo1dJQtjSd79iPr+484MGL5kuOnMmz7eWf//Z
@@ -26,7 +22,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: 16-jährige Schülerin demonstriert in China
-
 ---
 
 **Junge Menschen streiken derzeit weltweit für eine bessere Klimapolitik. Die Schwedin Greta Thunberg gilt als Vorreiterin der Bewegung. Jetzt sorgt wieder ein Mädchen für Aufmerksamkeit: Howey Ou geht im chinesischen Guilin ganz alleine auf die Straße.**
@@ -57,12 +52,6 @@ Für mich ist Howey definitiv eine Heldin. Mit ihren zarten 16 Jahren nimmt sie 
 
 > The Day 3 of School Strike for Climate. If you don’t trust me, look at the Chinese flag. Thank you for all your support and the strikers who are panic.I have seen all your reviews carefully,though some of them I didn’t reply.<br />Sorry! [pic.twitter.com/L0VU8uO6WY](https://t.co/L0VU8uO6WY) — [Howey Ou (@howey_ou) May 28, 2019](https://twitter.com/howey_ou/status/1133366733505421313?ref_src=twsrc%5Etfw)
 
-### Quellen:
+**Quellen:** [Howey Ou Twitter](https://twitter.com/howey_ou), [t-online.de](https://www.t-online.de/nachrichten/ausland/krisen/id_85829546/vorbild-greta-thunberg-howey-ou-16-in-china-ganz-allein-im-klimastreik.html)
 
-[Howey Ou Twitter](https://twitter.com/howey_ou)
-
-[t-online.de](https://www.t-online.de/nachrichten/ausland/krisen/id_85829546/vorbild-greta-thunberg-howey-ou-16-in-china-ganz-allein-im-klimastreik.html)
-
-### Bilder:
-
-Howey Ou privat ( [Twitter](https://twitter.com/howey_ou) )
+**Bilder:** Howey Ou privat (via Twitter)

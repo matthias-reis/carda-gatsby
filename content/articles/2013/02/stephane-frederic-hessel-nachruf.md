@@ -3,11 +3,8 @@ date: 2013-02-28T11:29:18.000Z
 title: Nachruf für Stéphane Frédéric Hessel
 seoTitle: Nachruf für Stéphane Frédéric Hessel
 ogTitle: Nachruf für Stéphane Frédéric Hessel
-description: Der Poet des Widerstands Stéphane Frédéric Hessel ist heute im
-  Alter von 95 Jahren gestorben. Stéphane Frédéric Hessel kämpfte für die
-  Menschenrechte
-excerpt: In der Nacht von Dienstag auf Mittwoch ist der Résistance-Kämpfer und
-  KZ-Überlebende Stéphane Frédéric Hessel  im Alter von 95 Jahren gestorben.
+description: Der Poet des Widerstands Stéphane Frédéric Hessel ist heute im Alter von 95 Jahren gestorben. Stéphane Frédéric Hessel kämpfte für die Menschenrechte
+excerpt: In der Nacht von Dienstag auf Mittwoch ist der Résistance-Kämpfer und KZ-Überlebende Stéphane Frédéric Hessel  im Alter von 95 Jahren gestorben.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2013_02_9574608875_a986eb8c9c_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2013_02_9574608875_a986eb8c9c_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAcIBAb/xAAnEAABAwMDBAIDAQAAAAAAAAABAgMEBREhAAYSBxMiMUFRMmKBof/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwT/xAAdEQACAwACAwAAAAAAAAAAAAABAgADERIhEzFB/9oADAMBAAIRAxEAPwBOIVJnS0waYJMh2Y4ltltAJ7h9hPH5N/vGqM2Z0WoYjNu7neFRqhCFrabdU0wwBc9tISQSCSCSfdsWGln0Bi02RuqVLUUF6FGStpm18qVZTmfVgCm/7aedVlrZkrkNh0vtAktpPoDFrE5t/o1nVQihiNi1pyOTnuofSiKqjk7Og9pSLpeitum7icG7YUT5Y9AjBxn2hqxTJ5nxI3beCmmQ8koZ81kKtn4CgRa+PWq8oNSkPQwqQ1xXyI4hZOBg2J+/7qeq8+iF1L3BGWC7GRNKS4TfiVXUUgXxxKuJ+Lg/yFwweRB7g6cDFr02ri9tbwh1IR1WdSW32hkuNEeRAx6IBtf41Sze6KRuJHONNgLfbCXVK5cClAVxuQsggaNGqiwk8Pkas9zFUd60ilwHVSaswEKQUMLiu9xZKb/iE3HLkRe/oHSEYqs2RIdqLqLEul2QttPiOarquPq5OB96NGo2nejFtOmf/9k=
@@ -63,7 +60,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Poet des Widerstands im Alter von 95 Jahren gestorben
-
 ---
 
 **In der Nacht von Dienstag auf Mittwoch ist der Résistance-Kämpfer und KZ-Überlebende [Stéphane Frédéric Hessel](http://de.wikipedia.org/wiki/St%C3%A9phane_Hessel)   im Alter von 95 Jahren gestorben. Hessel setzte sich Zeit seines Lebens für die Menschenrechte ein. Er ist vor allem als Stimme gegen den Finanzmarkt-Kapitalismus bekannt geworden.**
@@ -103,4 +99,6 @@ Auf die Frage, ob er den Tod fürchten würde, soll Hessel einmal geantwortet ha
 - "Ô ma mémoire – Gedichte, die mir unentbehrlich sind" von Stéphane Hessel ISBN-10: 3899781244 Grupelo-Verlag, broschiert, 346 Seiten, 22,90 €, ins Deutsche übersetzt von Michael Korgon
 - "Empört Euch!" von Stéphane Hessel, ISBN-10: 3550088833, Ullstein-Verlag, broschiert, 3,99, ins Deutsche übersetzt von Michael Korgon
 
-Quellen: Wikipedia, Süddeutsche Zeitung, Tagesspiegel
+---
+
+**Quellen/Sources:** Wikipedia, Süddeutsche Zeitung, Tagesspiegel

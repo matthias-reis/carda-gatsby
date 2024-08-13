@@ -3,10 +3,8 @@ date: 2019-08-07T09:45:18.000Z
 title: Das Cradle-to-Cradle-Prinzip
 seoTitle: Das Cradle-to-Cradle-Prinzip - "Die Natur kennt keinen Müll"
 ogTitle: Das Cradle-to-Cradle-Prinzip - "Die Natur kennt keinen Müll"
-description: Hinter dem Begriff "Cradle-to-Cradle" verbirgt sich die Philosophie
-  der konsequenten Kreislaufwirtschaft. Ich habe mir das mal genauer angeschaut.
-excerpt: Hinter dem Begriff "Cradle-to-Cradle" verbirgt sich die Philosophie der
-  konsequenten Kreislaufwirtschaft. Ich habe mir das mal genauer angeschaut.
+description: Hinter dem Begriff "Cradle-to-Cradle" verbirgt sich die Philosophie der konsequenten Kreislaufwirtschaft. Ich habe mir das mal genauer angeschaut.
+excerpt: Hinter dem Begriff "Cradle-to-Cradle" verbirgt sich die Philosophie der konsequenten Kreislaufwirtschaft. Ich habe mir das mal genauer angeschaut.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_08_cradle-to-cradle__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_08_cradle-to-cradle__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAgDBQYE/8QAKhAAAgEDAwMCBgMAAAAAAAAAAQIDAAQRBRIxBhMhUXEHFDJBYYGRscH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwAB/8QAHBEAAgICAwAAAAAAAAAAAAAAAAECEQMSISJh/9oADAMBAAIRAxEAPwBdraJlVHiBdOWBX6SPet/0tpl5dHMFoioqM7ySrsjAAz5b1PjAqXpC20zswW+tRGwunbd3AomZUxz2yMA+Of3TFdKTaPFpVtDpGrStboNowEZnH5yP8qMsO67BpMWDU4Q1w0VyolliDOWjcDZ5P8D+6zeqbposohWMDc33/ftTRfELo/QupfntQtL0xXaQMcSkKmB6+Mfb15pfLmFHtBawKQyglgq7yVAzwBmjGGnooqikt766EhmuJ5J9y7yHPknjkea0Y6nvrY26WrtbqhKkQtt3ceSaKKtsxVycmodS6pfrGkt3M+GAXuyNJtHsTjP5xVNotxcWuowzwXEqT9piXDY5yDRRWR0//9k=
@@ -27,7 +25,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: '"Die Natur kennt keinen Müll"'
-
 ---
 
 **Beschäftigt man sich mit fairem nachhaltigem Handel, stolpert man irgendwann über den Begriff "Cradle-to-Cradle". Dahinter verbirgt sich die Philosophie der konsequenten Kreislaufwirtschaft.**
@@ -111,7 +108,7 @@ Der Cradle to Cradle e. V. hat das Prinzip Cradle-to-Cradle in diesem Video sehr
 
 ### Quellen:
 
-- [Cradle to Cradle e. V](https://c2c-ev.de/).
+- [Cradle to Cradle e. V](https://c2c-ev.de/)
 - [EPEA](https://epea-hamburg.com)
 - [Wikipedia](https://de.wikipedia.org/wiki/Cradle_to_Cradle)
 - Cradle-to-Cradle

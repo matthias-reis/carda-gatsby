@@ -3,10 +3,8 @@ date: 2019-11-24T15:57:03.000Z
 title: 18 Schweinswale sterben bei Minensprengung
 seoTitle: 18 Schweinswale bei Minensprengung in der Ostsee getötet
 ogTitle: 18 Schweinswale bei Minensprengung in der Ostsee getötet
-description: Die deutsche Marine hat bei einer Übung auf der Ostsee 39 Seeminen
-  gesprengt. Dabei haben 18 Schweinswale ihr Leben verloren.
-excerpt: Die deutsche Marine hat vor einer Übung auf der Ostsee 39 Seeminen
-  gesprengt. Dabei haben 18 Schweinswale ihr Leben verloren.
+description: Die deutsche Marine hat bei einer Übung auf der Ostsee 39 Seeminen gesprengt. Dabei haben 18 Schweinswale ihr Leben verloren.
+excerpt: Die deutsche Marine hat vor einer Übung auf der Ostsee 39 Seeminen gesprengt. Dabei haben 18 Schweinswale ihr Leben verloren.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_11_sprengung-ostsee-picture-alliance-dpa__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_11_sprengung-ostsee-picture-alliance-dpa__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAATACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAAAAIDBQYEBwj/xAAtEAABAwMCBAILAAAAAAAAAAABAgMEAAURBjESExQhQYEiMlFSU1RhkZKTwf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAQQF/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAESESA//aAAwDAQACEQMRAD8As7TtQuvr49ZtMvSIqVc5a0tJcSM8rJ7qPkD54ppq6RfmW/vSL9FVqDR+okRGn5Co7LXIDSSQ68pXqBQ8eEbbVqk0LMpKtmhLDarqi6W9mUlJbLieItndJ9lOOu/WoqzxYtrsZhyrpHFwiNcbsdS8OtpUcoCgO2SCP5WO7c4x2ktfmKFW6FiEy8mpzu1cZvEB1cj9hq7aPvlya0/d4rcx0MyVNc0ZypXASpPpbjuAex7+NFFNfRFJhkjrW+XG7IlOTpSlrjJaQ0pCQ2UjA90DO53rXL1xmhJPVyN/iGiih88GSW07P//Z
@@ -23,7 +21,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Rücksichtsloses Militärmanöver in der Ostsee
-
 ---
 
 **Die deutsche Marine hat vor einer Übung auf der Ostsee 39 Seeminen gesprengt. Dabei haben 18 Schweinswale ihr Leben verloren.**
@@ -61,15 +58,6 @@ Die wirklichen Schäden lassen sich bislang nur grob schätzen. Eine Sprengung i
 
 Funktioniert Ihr Gehör nicht mehr, können sie sich nicht mehr verständigen und ihr Orientierungssinn funktioniert nicht mehr. In vielen Fällen endet das leider tödlich. Spätestens nach dem Publik werden der [umstrittenen Sonartests im Meer](/2015/09/sonartests-eingestellt-ndrc-erfolg/) sollte diese Tatsache bekannt sein. Ein weiteres schwerwiegendes Problem stellt die Vergiftung des Wassers durch die aus den alten Minen ausströmenden Gefahrstoffe dar. Bis zum Bekanntwerden der gesamten Tragweite der Tragödie wird es sicher noch viel Zeit vergehen.
 
-### Quellen
+**Quellen:** [Nabu](https://schleswig-holstein.nabu.de/tiere-und-pflanzen/saeugetiere/meeressaeugetiere/03366.html), [Die Grünen](https://www.steffi-lemke.de/uploads/2019/11/KlAnfrage-BMVg-Drs.-19_13878.pdf), [Tagesschau / NDR](https://www.tagesschau.de/investigativ/ndr/marine-minensprengung-101.html)
 
-[Nabu](https://schleswig-holstein.nabu.de/tiere-und-pflanzen/saeugetiere/meeressaeugetiere/03366.html)
-
-- [Die Grünen](https://www.steffi-lemke.de/uploads/2019/11/KlAnfrage-BMVg-Drs.-19_13878.pdf)
-
-[Tagesschau / NDR](https://www.tagesschau.de/investigativ/ndr/marine-minensprengung-101.html)
-
-### Bilder:
-
-- [Schweinswal: harbour porpoises Michael &amp; Jose in 2012, Ecomare](https://www.ecomare.nl/)
-- Sprengung: picture alliance/dpa
+**Bilder:** [Schweinswal: harbour porpoises Michael &amp; Jose in 2012, Ecomare](https://www.ecomare.nl/), Sprengung: picture alliance/dpa

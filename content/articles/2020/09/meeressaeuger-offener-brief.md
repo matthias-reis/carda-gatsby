@@ -3,12 +3,8 @@ date: 2020-09-24T06:00:29.000Z
 title: Meeressäuger in Gefahr
 seoTitle: Meeressäuger in Gefahr - offener Brief ruft zur Rettung der Wale auf
 ogTitle: Meeressäuger in Gefahr - offener Brief ruft zur Rettung der Wale auf
-description: In einem offenen Brief haben über 300 Walexpert*innen ihre Sorge um
-  Wale und Delfine zum Ausdruck gebracht. Sie rufen zur Rettung der Meeressäuger
-  auf.
-excerpt: In einem offenen Brief haben über 300 Walexpert*innen ihre Sorge um
-  Wale und Delfine zum Ausdruck gebracht. Sie rufen zur Rettung der Meeressäuger
-  auf.
+description: In einem offenen Brief haben über 300 Walexpert*innen ihre Sorge um Wale und Delfine zum Ausdruck gebracht. Sie rufen zur Rettung der Meeressäuger auf.
+excerpt: In einem offenen Brief haben über 300 Walexpert*innen ihre Sorge um Wale und Delfine zum Ausdruck gebracht. Sie rufen zur Rettung der Meeressäuger auf.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_meeressaeuger__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_meeressaeuger__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcCBQYD/8QAJRAAAgEEAQQCAwEAAAAAAAAAAQIDAAQFERIGITFBEyIyUWGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREAAwEBAQAAAAAAAAAAAAAAAAEhEQID/9oADAMBAAIRAxEAPwB/x3jEV0gv45efxyK/BzG/FgeLDyp/RGx2/tLjOW8nUmHnx01/JaLLx+0em1pgSNeCCAQQfRqHRHTK9KNcC0uJJIp5GeRDOxRmJ3zWMAKp9aH+1Bobu36swlxdva2+Yx8k6J8jotyh4jlx7neh39eatEu1kjSSNucbqGVlOwwPgg+xS6zXSWAzeSkvr6zBmeERajYIuwWPPWtFjvR3vYAq5w9rZ4LFxWWPiaO3i/FWkLa7d9fodvA7D0BQUS+EyxMn2km3/WIpk9MNLfMFRSwPvZoop2qR5NtGryGJltLQSfNExI3x33FYXKZsWjEF/v8ArdFFGqXs0//Z
@@ -27,7 +23,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Offener Brief ruft zur Rettung der Wale auf
-
 ---
 
 **In einem offenen Brief haben jetzt über 300 Walexpert\*innen ihre große Sorge um Wale und Delfine klar zum Ausdruck gebracht. Sie rufen in ihrem Schreiben zu weltweiten Maßnahmen zum Schutz der Meeressäuger auf.**
@@ -80,6 +75,6 @@ schreiben die Walexpert⋆innen.
 
 Die Wissenschaftler⋆innen beschreiben die Meerestiefen als "Wächter über die Gesundheit unserer Ozeane". Die tragende Rolle der Wale und Delfine bei der Erhaltung der aquatischen Ökosysteme heben sie in ihrem Schreiben ausdrücklich hervor.
 
-Quellen: [Offener Brief der Walexpert⋆innen](https://static1.squarespace.com/static/5b8797f45417fc360d47af9f/t/5f6208182e7ca571c59baa55/1600260123630/Scientists+Sign+on+Final+16+September_MasterDocument.pdf), [Mamal Research Institute](https://www.mammalresearchinstitute.science/whale-unit), [International Union for Conservation of Nature](https://www.iucn.org/theme/marine-and-polar), [Independent Online](https://www.iol.co.za/saturday-star/news/experts-letter-calls-for-action-to-save-cetaceans-261cb195-9b11-4b51-95f0-03a858885bec)
+**Quellen:** [Offener Brief der Walexpert⋆innen](https://static1.squarespace.com/static/5b8797f45417fc360d47af9f/t/5f6208182e7ca571c59baa55/1600260123630/Scientists+Sign+on+Final+16+September_MasterDocument.pdf), [Mamal Research Institute](https://www.mammalresearchinstitute.science/whale-unit), [International Union for Conservation of Nature](https://www.iucn.org/theme/marine-and-polar), [Independent Online](https://www.iol.co.za/saturday-star/news/experts-letter-calls-for-action-to-save-cetaceans-261cb195-9b11-4b51-95f0-03a858885bec)
 
-Bild: [Free Photos](https://pixabay.com/de/users/free-photos-242387/), pixabay
+**Bild:** [Free Photos](https://pixabay.com/de/users/free-photos-242387/), pixabay

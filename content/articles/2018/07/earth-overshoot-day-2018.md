@@ -3,12 +3,8 @@ date: 2018-07-31T16:30:45.000Z
 title: Earth Overshoot Day 2018
 seoTitle: Earth Overshoot Day 2018 - Der Menschheit ist die Sicherung durchgebrannt
 ogTitle: Earth Overshoot Day 2018 - Der Menschheit ist die Sicherung durchgebrannt
-description: Ich erinnere mich an den Earth Overshoot Day 2017. Der Tag fiel auf
-  den 2. August. 2018 haben wir unsere Ressourcen schon einen Tag früher
-  verbraucht.
-excerpt: Ich erinnere mich noch sehr gut an den Earth Overshoot Day 2017.
-  Letztes Jahr fiel der Tag noch auf den 2. August. 2018 haben wir unsere
-  Ressourcen bereits einen Tag früher aufgebraucht.
+description: Ich erinnere mich an den Earth Overshoot Day 2017. Der Tag fiel auf den 2. August. 2018 haben wir unsere Ressourcen schon einen Tag früher verbraucht.
+excerpt: Ich erinnere mich noch sehr gut an den Earth Overshoot Day 2017. Letztes Jahr fiel der Tag noch auf den 2. August. 2018 haben wir unsere Ressourcen bereits einen Tag früher aufgebraucht.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_07_forest-fire-432870_640__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_07_forest-fire-432870_640__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwH/xAAqEAACAQIFAwMEAwAAAAAAAAABAgMEEQAFEiExBkFRExQiIzJhcYGh8P/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAv/EABwRAAICAwEBAAAAAAAAAAAAAAECAAMRMUEhEv/aAAwDAQACEQMRAD8AS5Zl0tHTGeZXDyxPJptwLiw8X3xYJLTL0/IJI2JQF1s5uO9hhHTdX5fTZRBDmEcslWsBV9LRoDsPsN9z+sIT1Vl0FA9ND6ksciEWnspRydwTxwTvidd4JYHUbalVVxvs0PP+oRneW5hJR63p0YhbjQ19Ci24HFuTzjF85p5Y6BaxwPrfDi25sTf87+cUVHnj0lNXR0tLU1D1T3QNZkBJIG9+LHz4wk6kroKfKJsojEsjPJFUEtuYnAYOpHHcDY9sZtvB+QvsKq1IYscGQ7TNHCC7PJ6a2TUx2/1/xhnFRe+yz3TMiNDIgKLH8XDrqsf5H94MGIWEr6InU5T11RVmQTyH00Q6Y0AVVsL7AfrDfLmirSlDFTQw6lZmlZdbWHbfbBgxOwAA45Dk/9k=
@@ -38,7 +34,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Der Menschheit ist die Sicherung durchgebrannt
-
 ---
 
 **Ich erinnere mich noch sehr gut an den [Earth Overshoot Day 2017](/2017/08/earth-overshoot-day-ein-tag-als-mahnmal/). Letztes Jahr fiel der Tag noch auf den 2. August. 2018 ist es bereits einen Tag früher soweit: Die menschliche Nachfrage an natürlichen Ressourcen übersteigt das Angebot und die Kapazität der Erde, diese zu reproduzieren.**

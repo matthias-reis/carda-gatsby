@@ -3,12 +3,8 @@ date: 2020-11-09T11:13:48.000Z
 title: 17 Millionen Nerze getötet
 seoTitle: 17 Millionen Nerze getötet - Mutiertes COVID-19 Virus
 ogTitle: 17 Millionen Nerze getötet - Mutiertes COVID-19 Virus
-description: Letzte Woche rief die dänische Premier-Ministerin dazu auf, alle
-  Nerze auf den Farmen ihres Landes zu töten. Grund ist eine Mutation des
-  COVID-19 Virus.
-excerpt: Letzte Woche rief die dänische Premier-Ministerin dazu auf, alle Nerze
-  auf den Farmen ihres Landes zu töten. Grund ist eine Mutation des COVID-19
-  Virus.
+description: Letzte Woche rief die dänische Premier-Ministerin dazu auf, alle Nerze auf den Farmen ihres Landes zu töten. Grund ist eine Mutation des COVID-19 Virus.
+excerpt: Letzte Woche rief die dänische Premier-Ministerin dazu auf, alle Nerze auf den Farmen ihres Landes zu töten. Grund ist eine Mutation des COVID-19 Virus.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_11_nerze__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_11_nerze__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwP/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMABBEFBiETMVESFCJhcYEHMkFysf/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBQL/xAAbEQEAAwADAQAAAAAAAAAAAAABAAIDERIhIv/aAAwDAQACEQMRAD8AR6jI0F0JIZGieS5LyOj+lggzx+T/AJVLp88l9CWmidSficn91Z1uK/trbdMxumKxLAmAD3JJ5P2zWh7duJrvTkvZYfbdRQ6xM3qKDGM/nvU3Gv1yyrex0AhdXCWEgzOAG5CnhTXHQNQbUrq6VoYInt5kTERbBBGckN2pHuO+jbU0tTCA+Vk67H4hScEAfySfHj6Uv0zci2GorbsiuJ5lQkcHJOMn7UNOe/kIDkrIz9QL+EbpCMBIscKoxDZ9JPPA88+attubqU6PELS2V4ooRC7dZSUwScgZyeD2PPFFFMuBQYrKy3ayb3Hr1nqOq+4iYp0sCNSQCMHjzgn6nBqe0e+ebcNoHUh/cIxD/wBsmiit1oBF20Vn/9k=
@@ -28,7 +24,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Mutiertes COVID-19 Virus in Dänemark
-
 ---
 
 **Letzte Woche rief die dänische Premier-Ministerin Mette Frederiksen dazu auf, alle Nerze auf den Farmen ihres Landes zu töten. Grund dafür ist eine Mutation des COVID-19 Virus.**
@@ -63,6 +58,6 @@ Der Vorfall zeigt ein weiteres Mal, wie sinnlos das Tragen von Pelzen ist. Die T
 
 Warum Leder genauso grausam ist, wie Pelze, [erfahrt Ihr hier](/2020/07/leder-pelz/).
 
-Quellen: [Veg News](https://vegnews.com/2020/11/denmark-to-kill-up-to-17-million-mink-to-stop-spread-of-mutated-covid-19-virus), [Tagesschau](https://www.tagesschau.de/ausland/daenemark-coronavirus-mutiert-nerze-101.html)
+**Quellen:** [Veg News](https://vegnews.com/2020/11/denmark-to-kill-up-to-17-million-mink-to-stop-spread-of-mutated-covid-19-virus), [Tagesschau](https://www.tagesschau.de/ausland/daenemark-coronavirus-mutiert-nerze-101.html)
 
-Bild: [272447](https://pixabay.com/de/photos/nerz-jung-baby-portr%C3%A4t-gesicht-934581/), Pixabay
+**Bild:** [272447](https://pixabay.com/de/photos/nerz-jung-baby-portr%C3%A4t-gesicht-934581/), Pixabay
