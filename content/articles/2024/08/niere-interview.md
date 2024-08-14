@@ -141,6 +141,10 @@ In Deiner Frage geht es ja um Veränderung, was ja nicht unbedingt bedeutet, da
 
 Nieres neuestes Projekt heißt "Metzger". Das Stück ist ab sofort unter anderem auf Bandcamp verfügbar.
 
+## Nachtrag vom 14. August 2024
+
+Unter der Headline "Vegan ist nicht verhandelbar" reagierte Niere vor Kurzem auf die Kommentare, die auf unser Interview hin bei ihm eingingen. Ihr findet den Text [auf seiner Webseite](https://www.veganauditiv.de/#neu).
+
 <iframe
   style="border: 0; width: 100%; height: 120px;"
   src="https://bandcamp.com/EmbeddedPlayer/album=3372302035/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
