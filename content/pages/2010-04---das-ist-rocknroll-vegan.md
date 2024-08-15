@@ -126,7 +126,7 @@ Wenn Ihr Interesse habt und mehr wissen möchtet, könnt Ihr Euch gerne jederzei
 
 Ich bin gespannt auf Eure Zuschriften! Wir lesen uns!
 
-[Im Interview](/soundsvegan-blick-hinter-die-kulissen/interview-anne/) habe ich ein paar Bloggern noch mehr über mich verraten.
+Soraya Garcia von der veganen Agentur GreenVisions hat mich interviewt. Dabei ist ein angeregtes Gespräch über Veganismus, Musik und das Leben entstanden. [Lest es jetzt hier](https://www.webagentur-vegane-marken.de/post/sounds-vegan-das-beste-aus-musik-veganismus)!
 
 Anne Reis [info@soundsvegan.com](mailto:info@soundsvegan.com)
 
