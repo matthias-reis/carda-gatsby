@@ -12,6 +12,7 @@ labels:
   - Hund
   - Hunde
   - Hundeernährung
+  - Vally
 language: de
 advertisement: true
 affiliate: true
@@ -55,7 +56,7 @@ Wenn Ihr Eure [VEGDOG Produkte über die Links in diesem Artikel kauft](https://
 
 Aufgrund seiner hervorragenden Nährstoffkombination eignet sich das [Green Crunch Trockenfutter](https://assets.ikhnaie.link/click.html?wgcampaignid=1428775&wgprogramid=300670&clickref=soundsvegan&wgtarget=https://www.vegdog.de/products/new-green-crunch?variant=46861052641623) als Alleinfuttermittel. Es enthält alle wichtigen Vitamine und Spurenelemente, die ein gesunder, erwachsener Hund benötigt. Der Clou: Auch empfindliche Hunde vertragen es gut. Zusammengesetzt ist es auch Trockenfutter, Süßkartoffeln, Linsen, Erbsen und Blaubeeren.
 
-Als wir Vally von der [Tierrettung Nyirbator](https://soundsvegan.com/2024/02/tierrettung-nyirbator-interview/) adoptiert haben, bekam sie ein klassisches Trockenfutter mit, das wir ihr als Alleinfuttermittel geben sollten. Nach einiger Recherche fiel uns sofort auf, dass in diesem nicht veganen Futter weder alle Nährstoffe und Spurenelemente noch genügend Vitamine und Ballaststoffe enthalten waren. Einige Vergleiche sowie ein Gespräch mit unserer Tierärztin später, stand der Beschluss fest, so bald wie möglich auf ein anderes Futter umzustellen. Die Wahl fiel auf das Green Crunch von VEGDOG, da es uns nicht nur von besagter Tierärztin, sondern auch noch von zwei Hundehalter:innen empfohlen wurde – unter anderem, weil es sogar hypoallergen ist. Anders als viele Marken, die Hundefutter mit Fleisch verkaufen, listet VEGDOG alle Inhaltsstoffe und Nährwerte sehr genau auf und es schneidet in diesem Punkt im Vergleich mit klassischem Futter extrem gut ab.
+Als wir [Vally](/tag/vally) von der [Tierrettung Nyirbator](https://soundsvegan.com/2024/02/tierrettung-nyirbator-interview/) adoptiert haben, bekam sie ein klassisches Trockenfutter mit, das wir ihr als Alleinfuttermittel geben sollten. Nach einiger Recherche fiel uns sofort auf, dass in diesem nicht veganen Futter weder alle Nährstoffe und Spurenelemente noch genügend Vitamine und Ballaststoffe enthalten waren. Einige Vergleiche sowie ein Gespräch mit unserer Tierärztin später, stand der Beschluss fest, so bald wie möglich auf ein anderes Futter umzustellen. Die Wahl fiel auf das Green Crunch von VEGDOG, da es uns nicht nur von besagter Tierärztin, sondern auch noch von zwei Hundehalter:innen empfohlen wurde – unter anderem, weil es sogar hypoallergen ist. Anders als viele Marken, die Hundefutter mit Fleisch verkaufen, listet VEGDOG alle Inhaltsstoffe und Nährwerte sehr genau auf und es schneidet in diesem Punkt im Vergleich mit klassischem Futter extrem gut ab.
 
 Weil Vally einen empfindlichen Magen hat, waren wir bei der Umstellung sehr vorsichtig. Es bekommt Ihr hervorragend, sie frisst es trocken oder eingeweicht und mit oder ohne Ölbeigabe [(Ich kann Euch das Vish Oil von VEGDOG empfehlen)](https://assets.ikhnaie.link/click.html?wgcampaignid=1428775&wgprogramid=300670&clickref=soundsvegan&wgtarget=https://www.vegdog.de/products/nahrungsergaenzung-vish-oil?variant=44258987966778). Sie mag es so gerne, dass sie es sogar als Leckerli nimmt, wenn wir unterwegs sind. Inzwischen haben wir das VEGDOG Green Crunch immer vorrätig und es bildet die Basis für ihre Ernährung.
 

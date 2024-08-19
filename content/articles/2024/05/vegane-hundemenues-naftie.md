@@ -17,6 +17,7 @@ labels:
   - vegane Hunde
   - Ernährung & Gesundheit
   - Klima- & Umweltschutz
+  - Vally
 language: de
 advertisement: true
 affiliate: true
@@ -36,7 +37,7 @@ Vally bekommt von uns in der Regel dreimal am Tag ihr veganes Trockenfutter. Das
 
 Das Prinzip bei Naftie ist eigentlich ganz einfach: Man mischt eine Grundzutat (Hundemüsli) mit einem veganen Protein und fügt anschließend ganz nach Wunsch und Bedürfnissen des Hundes Öl oder Kräuter (z. B. gegen Sodbrennen, für die Verdauung oder für das Zahnfleisch) hinzu.
 
-Je nach Größe des Hundes wiegt Ihr das Futter ab und bereitet es dann frisch zu. Aus meiner Erfahrung heraus kann ich sagen: Lest Euch die Angaben auf der Verpackung sehr genau durch. Als ich das Naftie Futter zum ersten Mal zubereitet habe, habe ich mich zuerst gewundert, dass die Portion so groß war. Während Vally von unserem Trockenfutter dreimal am Tag 25 Gramm bekommt, waren es bei den Hundemenüs zum selbst Zusammenstellen plötzlich 50 Gramm Hundemüsli plus 50 Gramm Protein. Bis mir dann mal aufgefallen ist, dass beides zusammen auf 50 Gramm pro Portion kommen muss. Also 150 Gramm pro Tag bei einem fünf Kilo schweren Hund. Kein Wunder, dass Vally ihre Portion am ersten Tag nicht geschafft hat. Inzwischen hat sich das aber eingespielt und mit der Futterwaage habe ich ruckzuck die richtige Portion im Napf.
+Je nach Größe des Hundes wiegt Ihr das Futter ab und bereitet es dann frisch zu. Aus meiner Erfahrung heraus kann ich sagen: Lest Euch die Angaben auf der Verpackung sehr genau durch. Als ich das Naftie Futter zum ersten Mal zubereitet habe, habe ich mich zuerst gewundert, dass die Portion so groß war. Während [Vally](/tag/vally) von unserem Trockenfutter dreimal am Tag 25 Gramm bekommt, waren es bei den Hundemenüs zum selbst Zusammenstellen plötzlich 50 Gramm Hundemüsli plus 50 Gramm Protein. Bis mir dann mal aufgefallen ist, dass beides zusammen auf 50 Gramm pro Portion kommen muss. Also 150 Gramm pro Tag bei einem fünf Kilo schweren Hund. Kein Wunder, dass Vally ihre Portion am ersten Tag nicht geschafft hat. Inzwischen hat sich das aber eingespielt und mit der Futterwaage habe ich ruckzuck die richtige Portion im Napf.
 
 <Gallery name="vegane-hundemenues-naftie-1" />
 

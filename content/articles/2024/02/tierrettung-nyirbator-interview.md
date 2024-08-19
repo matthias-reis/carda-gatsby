@@ -4,13 +4,8 @@ typeName: Interview
 title: Interview mit Lena von der Tierrettung Nyirbator
 subTitle: '"Man lernt, seine eigenen Bedürfnisse hintanzustellen"'
 seoTitle: Tierrettung Nyirbator – Interview mit Lena
-description: Im Interview hat mir Lena von der Tierrettung Nyirbator verraten,
-  wie für sie Tierschutz aussieht. Erfahrt jetzt alles über die
-  Hundevermittlung!
-excerpt: Lena von der Tierrettung Nyirbator hat mir im Interview verraten, wie
-  der Tierschutz-Alltag in Ost-Ungarn aussieht, wir haben darüber unterhalten,
-  warum der Tierschutz aus ihrem Leben nicht mehr wegzudenken ist und wieso der
-  Veganismus dabei eine tragende Rolle spielt.
+description: Im Interview hat mir Lena von der Tierrettung Nyirbator verraten, wie für sie Tierschutz aussieht. Erfahrt jetzt alles über die Hundevermittlung!
+excerpt: Lena von der Tierrettung Nyirbator hat mir im Interview verraten, wie der Tierschutz-Alltag in Ost-Ungarn aussieht, wir haben darüber unterhalten, warum der Tierschutz aus ihrem Leben nicht mehr wegzudenken ist und wieso der Veganismus dabei eine tragende Rolle spielt.
 image: https://storage.googleapis.com/cardamonchai-media/2024-02-02/tierrettung-nyirbator-lena-interview-soundsvegan-com-11-jpg-imagine-080808_636062_1024_768/640.webp
 copyright: null
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-02-02/2024-02-02-tierrettung-nyirbator-lena-interview-soundsvegan-com-og-jpg-imagine-080808_6b655f_1200_628/640.webp
@@ -30,11 +25,11 @@ labels:
   - Tierrettung Ungarn
   - Tierschutz Ungarn
   - adopt don't shop
+  - Vally
 focusKeyword: Tierrettung Nyirbator Interview
 advertisement: false
 affiliate: false
 language: de
-
 ---
 
 **Tierrettung Nyirbator – dieser Name steht für konsequenten Tierschutz. Der Verein kümmert sich in Ungarn um Hunde – vor allem Straßenhunde – und vermittelt sie über das dortige Tierheim nach Deutschland. Auf diesem Weg ist vor kurzem ein wunderbares Wesen bei uns zu Hause eingezogen – die kleine Vally, die unser Leben seit dem 6. Dezember 2023 glücklicher, schöner, strukturiert, chaotischer, verspielter und mobiler macht.**
@@ -197,7 +192,7 @@ Ich finde auch vieles nicht gut, aber ich nutze meine fünf Minuten, die ich abe
 
 Ich kann mich noch genau daran erinnern, als ich das erste Mal in Nyirbator war. Ich saß abends mit Henrietta beim Essen und ihr Telefon ging. Sie meinte sofort, es sei ein Unfallhund und packte so eine riesige Rolle schwarze Plastiksäcke ein. Ich habe sie ganz ungläubig angeschaut und sie meinte nur "Wir wissen nicht, ob der Hund noch lebt, wenn wir dort ankommen". Das sind die prägenden Momente, die einen nie wieder loslassen. Man geht auch nicht nach Hause und nimmt sich einfach mal den Nachmittag frei, weil man es immer im Hinterkopf hat.
 
-**Anne:** Ihr erlebt täglich krasse Dinge. Erst vor ein paar Tagen habe ich die Nachricht von einem Hund gelesen, der angeschossen wurde. Ihr habt ihn dann zum Tierarzt gebracht, wo er notoperiert werden musste. Genauso bewegend war die Geschichte der Hündin, die ihre Welpen nicht bekommen konnte. Die Halterin hat sich mit Euch in Verbindung gesetzt und der Tierarzt konnte dann nur noch feststellen, dass ihre Welpen im Mutterleib gestorben sind. Zum Glück konnte die kleine Maus (die übrigens starke Ähnlichkeit mit unserer lieben [Vally](/2024/01/stuch-hundegeschirr/) hat) geschafft und ist über den Berg. Wie schaffst Du es, damit umzugehen?
+**Anne:** Ihr erlebt täglich krasse Dinge. Erst vor ein paar Tagen habe ich die Nachricht von einem Hund gelesen, der angeschossen wurde. Ihr habt ihn dann zum Tierarzt gebracht, wo er notoperiert werden musste. Genauso bewegend war die Geschichte der Hündin, die ihre Welpen nicht bekommen konnte. Die Halterin hat sich mit Euch in Verbindung gesetzt und der Tierarzt konnte dann nur noch feststellen, dass ihre Welpen im Mutterleib gestorben sind. Zum Glück konnte die kleine Maus (die übrigens starke Ähnlichkeit mit unserer lieben [Vally](/tag/vally) hat) geschafft und ist über den Berg. Wie schaffst Du es, damit umzugehen?
 
 **Lena:** Man härtet mit der Zeit schon ein wenig ab. Die Zeit in Rumänien war für mich mit das Schlimmste, was ich gesehen habe. Seitdem wird es für mich immer besser. Trotzdem weine ich um jeden Hund, der bei uns stirbt und um jeden toten Hund, den Henrietta findet. Ich saß schon beim Weihnachtsessen mit der Firma und habe plötzlich weinend in der Ecke gesessen. Das gehört für mich dazu.
 

@@ -17,6 +17,7 @@ labels:
   - Hundepflege
   - Lavaerde
   - Tiershampoo
+  - Vally
 language: de
 advertisement: true
 affiliate: true
@@ -50,7 +51,7 @@ Ist Euer Hund sensibel und hat häufiger rote Hautstellen – vor allem im Winte
 
 Der erdige Geruch mag Euch im ersten Moment vielleicht etwas gewöhnungsbedürftig erscheinen – Eure Hunde werden sich daran erfreuen. Weil er besonders natürlich ist, konkurriert er nicht mit ihrem Eigengeruch und sie können sich, anders als bei anderen Pflegeprodukten, noch selbst riechen. Das ist für die Tiere besonders wichtig und trägt zu ihrem Wohlbefinden bei.
 
-Das Hundeshampoo ist genau wie die Spülung vollständig biologisch abbaubar, zu 100 Prozent vegan und wird ohne chemische Zusätze oder Seife hergestellt. Was meiner Hündin Vally ziemlich egal ist, mich aber interessiert, ist ein weiterer Pluspunkt der beiden Pflegeprodukte für Hunde: LT Naturprodukte verzichtet vollständig auf unnötige Umverpackungen und setzt bei den Flaschen auf vollständig recycelbare Materialien. Die Bio-Rohstoffe, aus denen sie hergestellt werden, stammen laut der Brand aus ressourcenschonendem Anbau.
+Das Hundeshampoo ist genau wie die Spülung vollständig biologisch abbaubar, zu 100 Prozent vegan und wird ohne chemische Zusätze oder Seife hergestellt. Was meiner Hündin [Vally](/tag/vally) ziemlich egal ist, mich aber interessiert, ist ein weiterer Pluspunkt der beiden Pflegeprodukte für Hunde: LT Naturprodukte verzichtet vollständig auf unnötige Umverpackungen und setzt bei den Flaschen auf vollständig recycelbare Materialien. Die Bio-Rohstoffe, aus denen sie hergestellt werden, stammen laut der Brand aus ressourcenschonendem Anbau.
 
 ## Hundeshampoo garantiert ohne Tierversuche
 
