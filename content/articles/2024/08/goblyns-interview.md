@@ -1,6 +1,6 @@
 ---
 date: 2024-08-22T11:30:06.561Z
-title: 'Keine Bad Hair Days mehr!'
+title: '"Keine Bad Hair Days mehr!"'
 subTitle: 'Interview mit der Psych-Groove-Band Goblyns'
 type: article
 typeName: Interview
