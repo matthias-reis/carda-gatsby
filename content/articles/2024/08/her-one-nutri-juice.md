@@ -69,11 +69,11 @@ Im Vergleich mit anderen kombinierten Vitaminpräparaten, die ich bisher probier
 
 Weil das allein natürlich noch längst nicht alles ist, habe ich noch fünf weitere Pluspunkte für Euch:
 
-1. Der HER ONE NUTRI JUICE ist sehr lange haltbar – besonders, wenn Ihr ihn im Kühlschrank aufbewahrt. In der Regel hält er sogar über das Best-Before-Datum hinaus.
-2. Ihr zahlt pro Portion lediglich 2,49 Euro. Das ist weit weniger als bei gängigen Präparaten aus der Apotheke. Diese enthalten zudem keine zusätzlichen Vitamine, die ja im NUTRI JUICE direkt mit drin sind.
-3. Neben Vitamin D, C, Zink und Magnesium enthält der NUTRI JUICE jeweils die empfohlene Tagesmenge an Vitamin E, Niacin, Pantothensäure, Vitamin B12, Vitamin B6, Vitamin A sowie Riboflavin.
-4. Eine Flasche reicht bei regelmäßiger Anwendung einen kompletten Monat.
-5. Die Zutaten sind natürlicher Herkunft, vollständig vegan und es ist kein Raffinadezucker zugesetzt. Neben Orangensaft (56 Prozent) enthält der Saft unter anderem Ananassaft aus Konzentrat und Weizenkeimextrakt.
+1. **Der HER ONE NUTRI JUICE ist sehr lange haltbar** – besonders, wenn Ihr ihn im Kühlschrank aufbewahrt. In der Regel hält er sogar über das Best-Before-Datum hinaus.
+2. **Ihr zahlt pro Portion lediglich 2,49 Euro.** Das ist weit weniger als bei gängigen Präparaten aus der Apotheke. Diese enthalten zudem keine zusätzlichen Vitamine, die ja im NUTRI JUICE direkt mit drin sind.
+3. **Neben Vitamin D, C, Zink und Magnesium enthält der NUTRI JUICE noch viele weitere Vitamine und Nährstoffe.** Unter anderem stecken in der Tagesportion jeweils die empfohlene Tagesmenge an Vitamin E, Niacin, Pantothensäure, Vitamin B12, Vitamin B6, Vitamin A sowie Riboflavin.
+4. **Eine Flasche NUTRI JUICE Tropical Orange reicht bei regelmäßiger Anwendung einen kompletten Monat.**
+5. **Die Zutaten sind natürlicher Herkunft, vollständig vegan und es ist kein Raffinadezucker zugesetzt.** Neben Orangensaft (56 Prozent) enthält der Saft unter anderem Ananassaft aus Konzentrat und Weizenkeimextrakt.
 
 ## So wirkt der NUTRI JUICE Tropical Orange
 
