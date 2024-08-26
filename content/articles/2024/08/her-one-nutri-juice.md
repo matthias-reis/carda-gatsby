@@ -4,7 +4,7 @@ title: 'HER ONE NUTRI JUICE mit Vitamin D & C + Magnesium & Zink – 5 Vorteile,
 subTitle: Hochdosierter Vitaminmix mit Vitaminen zur Stärkung des Immunsystems und Vorbeugung von Vitamin-D-Mangel
 type: article
 typeName: Produkttest
-description: 'Vitamin D, C + Magnesium & Zink – das alles verspricht HER ONE mit dem Nutri Juice Tropical Orange. Testet ihn hier und holt Euch einen veganen Boost für Euer Immunsystem.'
+description: 'Vitamin D & C + Magnesium & Zink – das alles verspricht HER ONE mit dem Nutri Juice Tropical Orange. Testet ihn hier und holt Euch einen veganen Boost für Euer Immunsystem.'
 labels:
   - Vitamin D
   - Vitamin C
