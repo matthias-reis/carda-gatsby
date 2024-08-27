@@ -36,7 +36,7 @@ focusKeyword: Vitamin D, C + Magnesium
 
 ---
 
-Warum ich unter anderem einen erhöhten Bedarf an Magnesium habe, könnt Ihr [hier](/2023/02/endometriose/) nachlesen. Das kann bei Euch aus den verschiedensten Gründen (Endometriose, starke Regelblutungen, körperliche Belastung, chronische Erkrankungen etc.) der Fall sein. Wenn es Euch auch so geht, kann ich Euch den NUTRI JUICE mit Vitamin D und Magnesium von HER ONE empfehlen.
+Ein erhöhter Bedarf an Magnesium, Vitamin D und anderen Spurenelemten und Vitaminen kann zahlreiche Gründe haben. Solltet Ihr zum Beispiel von starken Regelblutungen, [Endometriose](/2023/02/endometriose/), dauerhafter erhöhter körperlicher Belastung oder chronischen Erkrankungen betroffen sein, solltet Ihr daher möglichst regelmäßig Euer Blutbild checken lassen. Wenn es Euch auch so geht, kann ich Euch den NUTRI JUICE mit Vitamin D und Magnesium von HER ONE empfehlen.
 
 ## Meine Erfahrungen mit HER ONE
 
