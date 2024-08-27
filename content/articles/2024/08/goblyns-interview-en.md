@@ -37,7 +37,7 @@ focusKeyword: 'Goblyns Interview'
 
 **Gio:** We're thrilled with how it came out and how it's been received. Andre really put in the work with the recording and mixing, and we're definitely very happy. The feedback has been overwhelmingly positive, and it's quite amazing to see how supportive people have been throughout the process. We just feel truly grateful!
 
-**Anne:** It is said that you channelled influences from projects like Kikagaku Moyo, The Meters, Khruangbin, Budos Band, W.I.T.C.H. and CAN, "Hunki Bobo" for the record. Are these your musical role models?
+**Anne:** You said that you channelled influences from projects like Kikagaku Moyo, The Meters, Khruangbin, Budos Band, W.I.T.C.H. and CAN, "Hunki Bobo" for the record. Are these your musical role models?
 
 ## "It’s all about finding the balance"
 
@@ -47,11 +47,11 @@ focusKeyword: 'Goblyns Interview'
 
 **Anne:** Have you always wanted to make a groovy instrumental sound? Listening to the eight songs on "Hunki Bobo", you get the feeling that this is your vocation!
 
-Frank: I don't think it's something we've necessarily always wanted to do, but we have always loved a good groove. And then, with us having been in a bunch of bands before, it allowed us to figure out what we liked and didn't like. When it came to playing and what kind of music we wanted to play right now, which led to Goblyns. And then it felt great, so we kept doing it.
+**Frank:** I don't think it's something we've necessarily always wanted to do, but we have always loved a good groove. And then, with us having been in a bunch of bands before, it allowed us to figure out what we liked and didn't like. When it came to playing and what kind of music we wanted to play right now, which led to Goblyns. And then it felt great, so we kept doing it.
 
 **Anne:** So you already had a few other projects before Goblyns?
 
-**Liam:**Yeah, quite a few, actually. Frank started out in a bit of a successful kid band called River Road when he was maybe 12. Then, I started playing in a bit of an indie band with Frank when I was around 13. It went through loads of name changes and sound changes and eventually became In Bloom a few years later. Gio was in a garage band called the Gumbo Yaya's, and some years after that, when we met, we had another garage surf rock band called Skeleton Coast. I think Frank's been in 100 more bands as well; I can't remember all the names. Basically, we've always loved playing music, so we've been doing it for a while.
+**Liam:** Yeah, quite a few, actually. Frank started out in a bit of a successful kid band called River Road when he was maybe 12. Then, I started playing in a bit of an indie band with Frank when I was around 13. It went through loads of name changes and sound changes and eventually became In Bloom a few years later. Gio was in a garage band called the Gumbo Yaya's, and some years after that, when we met, we had another garage surf rock band called Skeleton Coast. I think Frank's been in 100 more bands as well; I can't remember all the names. Basically, we've always loved playing music, so we've been doing it for a while.
 
 **Anne:** You come from Berlin and Amsterdam. Which of these two trendy cities would you describe as your musical home base?
 
@@ -59,7 +59,7 @@ Frank: I don't think it's something we've necessarily always wanted to do, but w
 
 **Anne:** At the moment, you are in South Africa. What brought you there?
 
-Frank: Oh yeah, we just went for a visit. We're all actually South African, and Gio had his wedding there in February. So, we were all down simultaneously and decided to have a little homecoming show.
+**Frank:** Oh yeah, we just went for a visit. We're all actually South African, and Gio had his wedding there in February. So, we were all down simultaneously and decided to have a little homecoming show.
 
 **Anne:** Last year, you released "This is Spaghettification". What has changed for you since that record?
 
@@ -69,7 +69,7 @@ Frank: Oh yeah, we just went for a visit. We're all actually South African, and 
 
 **Anne:** Will you be going on tour with 'Hunki Bobo'? Where can we see you live next?
 
-Frank: In September/October, the Gobs will take Hunki Bobo around Europe. We'll be playing in cities around Germany (Berlin, Dresden, Stuttgart, Mainz, Cologne, and Hamburg), and then we have Paris, London, and Luxembourg. We're super excited about it.
+**Frank:** In September/October, the Gobs will take Hunki Bobo around Europe. We'll be playing in cities around Germany (Berlin, Dresden, Stuttgart, Mainz, Cologne, and Hamburg), and then we have Paris, London, and Luxembourg. We're super excited about it.
 
 **Anne:** What are your plans for after the tour? Do they already exist?
 

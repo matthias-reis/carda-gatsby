@@ -47,7 +47,7 @@ focusKeyword: 'Interview Goblyns'
 
 **Anne:** Wolltet Ihr schon immer groovigen Instrumentalsound machen? Wenn man die acht Songs auf "Hunki Bobo" anhört, bekommt man ja das Gefühl, das ist Eure Berufung!
 
-Frank: Ich glaube nicht, dass es etwas ist, das wir unbedingt immer machen wollten, aber wir haben einen guten Groove immer geliebt. Nachdem wir alle in ein paar Bands gewesen sind, konnten wir herausfinden, was wir mögen und was wir nicht mögen. Als wir dann angefangen, gemeinsam Musik zu machen, führte das auf ganz natürliche Weise dahin, was Goblyns heute sind. Und es fühlte sich gut an, also haben wir weitergemacht.
+**Frank:** Ich glaube nicht, dass es etwas ist, das wir unbedingt immer machen wollten, aber wir haben einen guten Groove immer geliebt. Nachdem wir alle in ein paar Bands gewesen sind, konnten wir herausfinden, was wir mögen und was wir nicht mögen. Als wir dann angefangen, gemeinsam Musik zu machen, führte das auf ganz natürliche Weise dahin, was Goblyns heute sind. Und es fühlte sich gut an, also haben wir weitergemacht.
 
 **Anne:** Da gab es für Euch vor Goblyns schon einige andere Projekte?
 
@@ -59,7 +59,7 @@ Frank: Ich glaube nicht, dass es etwas ist, das wir unbedingt immer machen wollt
 
 **Anne:** Im Moment haltet Ihr Euch in Südafrika auf, wenn ich richtig informiert bin? Was hat Euch dorthin verschlagen?
 
-Frank: Oh ja, wir waren gerade zu Besuch. Wir sind eigentlich alle Südafrikaner, und Gio hat dort im Februar geheiratet. Wir waren also alle zur gleichen Zeit dort und haben beschlossen, eine kleine Heimkehrshow zu veranstalten.
+**Frank:** Oh ja, wir waren gerade zu Besuch. Wir sind eigentlich alle Südafrikaner, und Gio hat dort im Februar geheiratet. Wir waren also alle zur gleichen Zeit dort und haben beschlossen, eine kleine Heimkehrshow zu veranstalten.
 
 **Anne:** Erst letztes Jahr habt Ihr "This is Spaghettification" veröffentlicht. Was hat sich für Euch seit dieser Platte verändert?
 
@@ -69,7 +69,7 @@ Frank: Oh ja, wir waren gerade zu Besuch. Wir sind eigentlich alle Südafrikaner
 
 **Anne:** Werdet Ihr mit "Hunki Bobo" auf Tour gehen? Wo können wir Euch als Nächstes live erleben?
 
-Frank: Im September/Oktober werden die Gobs mit Hunki Bobo durch Europa reisen. Wir werden in Städten in Deutschland spielen (Berlin, Dresden, Stuttgart, Mainz, Köln und Hamburg) und dann haben wir Paris, London und Luxemburg. Wir freuen uns schon sehr darauf.
+**Frank:** Im September/Oktober werden die Gobs mit Hunki Bobo durch Europa reisen. Wir werden in Städten in Deutschland spielen (Berlin, Dresden, Stuttgart, Mainz, Köln und Hamburg) und dann haben wir Paris, London und Luxemburg. Wir freuen uns schon sehr darauf.
 
 **Anne:** Wie sehen Eure Pläne für nach der Tour aus? Gibt es die schon?
 
