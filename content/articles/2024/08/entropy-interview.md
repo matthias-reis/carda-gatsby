@@ -23,7 +23,7 @@ seoTitle: 'Entropy – Interview zum neuen Album "Dharmakāya"'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-08-27/entropy-interview-soundsvegan-com-og-jpg-imagine-080818_72767e_1200_628/640.webp
 imageCopyright: Entropy
 languageLink:
-excerpt: Dharmakāya" heißt das neue Album der Hamburger Band Entropy. Es erscheint am 30. August und ist ganz fantastisch geworden – höchste für ein Interview! Ich habe mich mit Sänger und Gitarrist Hans Frese unterhalten und dabei einiges über das Projekt und seine Entwicklung erfahren. Wir haben uns auch über Genres ausgetauscht und uns dabei beide köstlich amüsiert.
+excerpt: Dharmakāya" heißt das neue Album der Hamburger Band Entropy. Es erscheint am 30. August und ist ganz fantastisch geworden – höchste Zeit für ein Interview! Ich habe mich mit Sänger und Gitarrist Hans Frese unterhalten und dabei einiges über das Projekt und seine Entwicklung erfahren. Wir haben uns auch über Genres ausgetauscht und uns dabei beide köstlich amüsiert.
 focusKeyword: Entropy Interview
 ---
 
