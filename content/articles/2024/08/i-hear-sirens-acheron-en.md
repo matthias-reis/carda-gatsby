@@ -42,7 +42,7 @@ At the same time, I Hear Sirens' "Acheron" is heavier and more multi-layered tha
 
 Darker, heavier and more experimental—that's basically how you could summarise it. But there is much more to it. Inspired by Greek mythology, the result of IHS' work is a sonic hero's journey—a true one-of-a-kind one. "Acheron" has its name from the death's-head hawk moth "Acherontia Atropos". Acheron, the god of the underworld river of lost souls, wanders from door to door through all eight pieces and enchants with his mysticism.
 
-## Horror movie music and mystical moments
+## Horror movie sounds and mystical moments
 
 ![I Hear Sirens](https://storage.googleapis.com/cardamonchai-media/2024-08-29/i-hear-sirens-photo-by-sean-oliver-soundsvegan-com-jpg-imagine-080808_000000_1500_1500/640.webp 'I Hear Sirens')
 
