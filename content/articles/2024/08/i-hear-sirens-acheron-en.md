@@ -36,7 +36,7 @@ There are eight stories on this album—told entirely without words, making them
 
 ![I Hear Sirens – "Acheron"](https://storage.googleapis.com/cardamonchai-media/2024-08-29/i-hear-sirens-acheron-album-art-by-enrique-morales-soundsvegan-com-jpg-imagine-181838_363352_1084_1076/640.webp 'I Hear Sirens – "Acheron"')
 
-"Acheron" is masterfully staged and composed like a dramatic stage play. But the curtain simply doesn't fall. When hearing the last note, I immediately feel the urge to listen to the album again. It's post-rock the way I like it—full of musical diversity, magical, creative, beautiful small details and feel-good moments.
+"Acheron" is masterly staged and composed like a dramatic stage play. But the curtain simply doesn't fall. When hearing the last note, I immediately feel the urge to listen to the album again. It's post-rock the way I like it—full of musical diversity, magical, creative, beautiful small details and feel-good moments.
 
 At the same time, I Hear Sirens' "Acheron" is heavier and more multi-layered than their last album, "Stella Mori". Daved Herris (guitar and keys), David Qualls (drums, samples, and drum programming), Adrienne Robson (bass), and Wes Johnson (guitar and keys) are venturing into new realms but without losing touch with their characteristic, emotionally charged sound.
 
