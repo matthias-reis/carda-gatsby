@@ -51,7 +51,7 @@ Das Leid der Nutztiere in der industriellen Tierhaltung und die Tatsache, dass e
 
 Die Erfolgsgeschichte der Intensivtierhaltung und die Geschichte der Ausbeutung der Natur kommt durch die klare Sprache des Films auch sehr gut ohne Schlachthofbilder aus. Dafür setzt Mark DeVries auf eine klare Sprache und macht den Zuschauer\*innen bewusst, was sie mit ihrem Konsumverhalten auslösen. Die Präsidentin der Tierrechtsorganisation PETA beschreibt die Doku mit den folgenden Worten:
 
-> "Mach Dich bereit, Dich wie ein kleines Kind vor die Wahrheit zu setzen und Dich von ihr leiten zu lassen. "Humans and Other Animals ist schockierend, überraschend und unglaublich fesselnd. Bitte bring jeden, den Du kennst, dazu, sich diesen Film anzusehen."
+> "Mach Dich bereit, Dich wie ein kleines Kind vor die Wahrheit zu setzen und Dich von ihr leiten zu lassen. "Humans and Other Animals" ist schockierend, überraschend und unglaublich fesselnd. Bitte bring jeden, den Du kennst, dazu, sich diesen Film anzusehen."
 
 Ähnlich ging es mir mit dem Film, mit dem sich für mich vor einigen Jahren alles änderte: "[Earthlings](/2020/07/earthlings/)". Bei diesem waren es aber, ganz im Gegenteil, tatsächlich die Schockbilder (unter anderem aus einem Lederbetrieb), die mich überzeugten. Dass es mit "Humans and Other Animals" auf eine andere Art auch funktioniert, begeistert mich sehr. Vor allem natürlich auch, weil nicht alle Menschen dazu bereit sind, sich Bilder aus den Abgründen der Tierausbeutung anzuschauen. Sich einen unterhaltsamen Film mit zahlreichen Informationen anzuschauen, fällt da schon viel leichter.
 
@@ -63,7 +63,7 @@ Wir befinden uns am wohl bedeutendsten Scheidepunkt der Menschheit. Wir müssen 
 
 Ich kann nur so viel sagen: Investiert die eine Stunde und 24 Minuten – ob Ihr Veganer\*innen seid oder nicht, spielt keine Rolle. Es lohnt sich. Meine Empfehlung habt Ihr.
 
-[Hier könnt Ihr "Humans and Other Animals streamen](https://www.humansandotheranimalsmovie.com/watch).
+[Hier könnt Ihr "Humans and Other Animals" streamen](https://www.humansandotheranimalsmovie.com/watch).
 
 ## "Humans and Other Animals" – Trailer
 
