@@ -148,4 +148,6 @@ Wenn Ihr neugierig geworden seid und die Wild Produkte gerne mal testen möchtet
 
 Happy Shopping!
 
+[Hier erfahrt Ihr noch mehr über das Wild Deo](/2024/09/wild-deo/)
+
 <Gallery name="wild-cosmetics-2-1" />
