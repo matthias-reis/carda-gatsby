@@ -27,11 +27,11 @@ seoTitle: Manu Chao – "Viva Tu" – listen to the new album!
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-08-30/manu-chao-viva-tu-moises-saman-magnum-photos-soundsvegan-com-jpg-imagine-080808_67584c_1200_628/640.webp
 imageCopyright: Moises Saman, Magnum Photos
 languageLink: /2024/08/manu-chao-viva-tu/
-excerpt: Thoughtful, encouraging, gentle and wonderful—that's the sound of the new album by vegan musician Manu Chao. Yes, you read that right! Everyone eagerly awaiting new music from this exceptional artist can now celebrate. He's back again! "Viva Tu" will be released on 20 September. I'm already sharing the first three songs with you in this preview!
+excerpt: Thoughtful, encouraging, gentle and wonderful—that's the sound of the new album by vegan musician Manu Chao. Yes, you read that right! Everyone eagerly awaiting new music from this exceptional artist can now celebrate. He's back! "Viva Tu" will be released on 20 September. And the best thing is—you can already listen to three pre-released songs! Please enjoy my preview!
 focusKeyword: 'Manu Chao – "Viva Tu"'
 ---
 
-**Thoughtful, encouraging, gentle and wonderful—that's the sound of the new album by vegan musician Manu Chao. Yes, you read that right! Everyone eagerly awaiting new music from this exceptional artist can now celebrate. He's back again! "Viva Tu" will be released on 20 September. I've already got a taster for you. You can already listen to three pre-releases. The best thing is: I'm already sharing the first three songs with you in this preview!**
+**Thoughtful, encouraging, gentle and wonderful—that's the sound of the new album by vegan musician Manu Chao. Yes, you read that right! Everyone eagerly awaiting new music from this exceptional artist can now celebrate. He's back! "Viva Tu" will be released on 20 September. And the best thing is: You can already listen to three pre-released songs! Please enjoy my preview!**
 
 Manu Chao's first studio album in 17 years contains some exciting collaborations—including one with country legend Willie Nelson. 13 brand-new songs await you on "Viva Tu". Manu already released three of the pieces in advance: "Viva Tu", "São Paulo Motoboy", and "Tu Te Vas". They sound as versatile, open-minded and language-loving as their names promise. And ten more tracks of this kind await you on "Viva Tu"! So, you can definitely look forward to it and send off your pre-order now.
 
