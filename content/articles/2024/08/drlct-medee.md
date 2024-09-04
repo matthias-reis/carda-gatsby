@@ -46,6 +46,8 @@ Die vier je rund zehnminütigen Songs drehen sich um die Erlebnisse des schweize
 
 Ich kann Euch nur empfehlen, Euch das Album anzuhören, falls noch nicht geschehen. Ab sofort freut sich Fantin auch über Eure Vinyl-Bestellungen.
 
+[Lest jetzt mein Interview mit DRLCT Gründer Fantin](https://soundsvegan.com/2024/09/drlct-interview/)!
+
 ## DRLCT – "Médéé"
 
 <iframe
