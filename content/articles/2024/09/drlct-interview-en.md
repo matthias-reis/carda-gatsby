@@ -90,6 +90,8 @@ Creative processes can be a very strong tool in processing moments we live throu
 
 **Fantin:** Thanks again for having me and for shedding some light on DRLCT. It was really lovely.
 
+[Check out my "Médéé" review now](/2024/08/drlct-medee-en/)!
+
 ## DRLCT – "Flow Your Tears, that Bluebird said"
 
 <YouTube id="VGFo3tYTgew" />

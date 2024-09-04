@@ -96,6 +96,8 @@ Anschließend habe ich dann eine Pink Floyd Coverband namens Picture Folded gest
 
 **Fantin:** Danke für Deine Einladung und dafür, etwas Licht auf DRLCT zu werden. Es war wirklich schön!
 
+[Lest jetzt meine Review und erfahrt alles über Fantins Album "Médéé"](/2024/08/drlct-medee/)!
+
 ## DRLCT – "Flow Your Tears, that Bluebird said"
 
 <YouTube id="VGFo3tYTgew" />
