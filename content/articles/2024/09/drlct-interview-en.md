@@ -22,11 +22,11 @@ seoTitle: DRLCT – "Médéé" – interview with Fantin Reichler (The Kompresso
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-09-04/drlct-interview-soundsvegan-com-og-jpg-imagine-080808_1b2930_1200_628/640.webp
 imageCopyright: Fantin Reichler
 languageLink: /2024/09/drlct-interview/
-excerpt: I recently introduced you to Fantin Reichler (The Kompressor Experiment, Méandre) and his project DRLCT in my review of his album, 'Médéé'—a record that deals with grief and farewells but also gives hope. In my recent interview, he revealed numerous details about his music and life
+excerpt: I recently introduced you to Fantin Reichler (The Kompressor Experiment, Méandre) and his project DRLCT in my review of his album, 'Médéé'—a record that deals with grief and farewells but also gives hope. In my interview with him, he revealed numerous details about his music and life.
 focusKeyword: 'Interview – "Médéé" – DRLCT'
 ---
 
-**I recently introduced you to Fantin Reichler (The Kompressor Experiment, Méandre) and his project DRLCT in my review of his album, 'Médéé'—a record that deals with grief and farewells but also gives hope. In my recent interview, he revealed numerous details about his music and life**.
+**I recently introduced you to Fantin Reichler (The Kompressor Experiment, Méandre) and his project DRLCT in my review of his album, 'Médéé'—a record that deals with grief and farewells but also gives hope. In my interview with him, he revealed numerous details about his music and life.**.
 
 **Anne:** Hi Fantin! Thanks so much for taking the time! How are you doing today? What are you currently working on?
 
