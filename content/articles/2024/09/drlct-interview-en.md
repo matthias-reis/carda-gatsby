@@ -26,7 +26,7 @@ excerpt: I recently introduced you to Fantin Reichler (The Kompressor Experiment
 focusKeyword: 'Interview – "Médéé" – DRLCT'
 ---
 
-**I recently introduced you to Fantin Reichler (The Kompressor Experiment, Méandre) and his project DRLCT in my review of his album, 'Médéé'—a record that deals with grief and farewells but also gives hope. In my interview with him, he revealed numerous details about his music and life.**.
+**I recently introduced you to Fantin Reichler (The Kompressor Experiment, Méandre) and his project DRLCT in my review of his album, 'Médéé'—a record that deals with grief and farewells but also gives hope. In my interview with him, he revealed numerous details about his music and life.**
 
 **Anne:** Hi Fantin! Thanks so much for taking the time! How are you doing today? What are you currently working on?
 
