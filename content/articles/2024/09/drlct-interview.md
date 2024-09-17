@@ -18,7 +18,7 @@ labels:
   - Musik
 language: de
 image: https://storage.googleapis.com/cardamonchai-media/2024-09-04/drlct-interview-soundsvegan-com-jpg-imagine-080808_1b292f_1024_768/640.webp
-seoTitle: '"Médéé – DRLCT – Interview mit Fantin Reichler (The Kompressor Experiment, Méandre)'
+seoTitle: '"Médéé" – DRLCT – Interview mit Fantin Reichler (The Kompressor Experiment, Méandre)'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-09-04/drlct-interview-soundsvegan-com-og-jpg-imagine-080808_1b2930_1200_628/640.webp
 imageCopyright: Fantin Reichler
 languageLink: /2024/09/drlct-interview-en/
