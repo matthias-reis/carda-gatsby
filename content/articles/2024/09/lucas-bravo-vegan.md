@@ -4,7 +4,7 @@ title: 'Emily In Paris Chefkoch Gabriel aka Lucas Bravo wünscht sich veganes Re
 subTitle: 'Die Verbindung von Eskapismus und Aktivismus'
 type: article
 typeName: Serientipp
-description: 'Emily In Paris Star Lucas Bravo wünscht sich für seine Rolle, den Chefkoch Gabriel ein veganes Restaurant. Holt Euch hier alle Details zum heißen Juice!'
+description: 'Emily In Paris Star Lucas Bravo wünscht sich für seine Rolle, den Chefkoch Gabriel, ein veganes Restaurant. Holt Euch hier alle Details zum heißen Juice!'
 labels:
   - Lucas Bravo
   - Paris
