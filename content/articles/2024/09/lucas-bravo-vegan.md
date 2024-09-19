@@ -31,7 +31,7 @@ Dieses Zitat aus der neuesten Emily In Paris Staffel könnte passender nicht sei
 
 Die beliebte Serie von Darren Star läuft bereits seit 2020 beim Streaming-Dienst und überrascht immer wieder mit spannenden Wendungen.
 
-## Vegane Speisen im L’Espirit de Gigi
+## Vegane Speisen im L'Espirit de Gigi
 
 Lucas Bravo spielt in der Serie den On-Off-Partner der Protagonistin Emily, die zunächst als Praktikantin in einer Werbeagentur in Paris anfängt und sich schließlich fest in der Stadt an der Seine niederlässt. Er betreibt ein schickes Restaurant, das im Laufe der Staffeln immer wieder seinen Namen wechselt. So wird aus dem "Les Deux Comperes" das "Chez Lavaux", das später "L’Espirit de Gigi" heißt. Ob der nächste Name auf vegane Speisen hindeuten könnte, steht in den Sternen. Es gibt jedoch Gerüchte in diese Richtung. Gegenüber dem Sharp Magazine[^1] äußerte sich der Schauspieler mit den folgenden Worten:
 
