@@ -30,6 +30,8 @@ focusKeyword: 'The Kills, "Happier Girls Sessions" Billie Eilish'
 
 **Heute ist es so weit: The Kills haben ihre neue EP "Happier Girls Sessions" veröffentlicht. Mit drauf auf der Platte ist, neben Non-Electric-Versionen der Stücke "103", "New York", "Better Days" und "My Girls My Girls", auch eine grandiose, elektrische Variante von Billie Eilishs "Happier Than Ever" von 2021. The Kills hatten den Song bereits akustisch in einer Radiosendung gespielt.**
 
+![The Kills – "Happier Girls Sessions"](https://storage.googleapis.com/cardamonchai-media/2024-09-20/thekills-happiergirlssessions-epcover-jpg-imagine-08a868_3e907a_3000_3000/640.webp 'The Kills – "Happier Girls Sessions"')
+
 Die "Chain Smoking Vegans" (The Guardian, 2005[^1]) Alison Mosshart und Jamie Hince haben die neue EP auf Domino veröffentlicht und in den Church Studios in London aufgenommen. Die fünf Stücke entstanden in Zusammenarbeit mit dem preisgekrönten Producer Paul Epsworth und Sound Engineer Riley McIntyre. Ihr könnt sie ab sofort auf allen Streamingplattformen hören und als 7" im Plattenladen Eures Vertrauens erwerben.
 
 In der offiziellen Presskonferenz berichtet Alison, wie es zu der Coverversion von Billies Song kam:
