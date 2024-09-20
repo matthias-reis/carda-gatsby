@@ -4,7 +4,7 @@ title: 'The Kills – "Happier Girls Sessions"'
 subTitle: 'Alison Mosshart dankt Billie Eilish für brillanten Song'
 type: article
 typeName: Review
-description: 'Ich habe mich mit Grey Skies Ahead Gitarrist Martin über das bald erscheinend Album "Endling" und seinen Veganismus unterhalten. Lest jetzt das Interview und erfahrt spannende Details über die entstehung der Platte und Martins Aktivismus.'
+description: 'The Kills – "Happier Girls Sessions" ist eine erfrischende EP mit überraschenden Wendungen. Hört Sie Euch jetzt an und erfahrt spannende Insights zur Platte.'
 labels:
   - Music
   - The Kills
