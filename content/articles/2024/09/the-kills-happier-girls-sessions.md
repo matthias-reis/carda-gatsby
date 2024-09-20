@@ -20,7 +20,7 @@ labels:
   - Heavy Music
 language: de
 image: https://storage.googleapis.com/cardamonchai-media/2024-09-20/the-kills-happier-girls-sessions-soundsvegan-com-jpg-imagine-080808_3b3e35_1024_768/640.webp
-seoTitle: 'The Kills veröffentlichen EP "Happier Girls Sessions mit grandiosem Billie Eilish Cover'
+seoTitle: 'The Kills veröffentlichen EP "Happier Girls Sessions" mit grandiosem Billie Eilish Cover'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-09-20/the-kills-happier-girls-sessions-soundsvegan-com-og-jpg-imagine-080808_415044_1200_628/640.webp
 imageCopyright: The Kills, Domino
 languageLink:
