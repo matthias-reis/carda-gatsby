@@ -72,7 +72,7 @@ Das Green Crunch besteht primär aus Süßkartoffeln. Bei der Entwicklung wurden
 
 Das [VEGDOG Simply Crunch](https://assets.ikhnaie.link/click.html?wgcampaignid=1428775&wgprogramid=300670&wgtarget=https://www.vegdog.de/products/simply-crunch) könnt Ihr Euren Hunden geben, sobald sie ausgewachsen sind. Dank der kleinen Kibbles können es auch kleine Hunde wie Vally (sie wiegt rund fünf Kilogramm) gut fressen.
 
-Laut VEGDOG ist es auch für gesunde Senioren geeignet, da es besonders ausgewogen ist. Falls Eure Hunde einen erhöhten Energiebedarf haben sollten, findet Ihr auf der Rückseite der Verpackung eine Tabelle mit Fütterungsempfehlungen (Richtwerte!).
+Laut VEGDOG ist es auch für gesunde Senioren geeignet, da es besonders ausgewogen ist. Falls Eure Hunde einen erhöhten Energiebedarf haben sollten, findet Ihr auf der Verpackung eine Tabelle mit Fütterungsempfehlungen (Richtwerte!).
 
 ## Auch wählerische Hunde werden glücklich
 
