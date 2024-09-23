@@ -48,6 +48,8 @@ Wenn Ihr das VEGDOG Futter für Eure Hunde über die Links in diesem Artikel kau
 
 [Jetzt VEGDOG Futter shoppen](https://assets.ikhnaie.link/click.html?wgcampaignid=1428775&wgprogramid=300670&wgtarget=https://www.vegdog.de/)
 
+Mit dem Rabattcode **soundsvegan10Aff** erhaltet Ihr bis einschließlich 31.01.2025 10% Rabatt auf Eure Bestellung bei VEGDOG\*! \*(nicht auf bereits rabattierte Produkte nur einmalig pro Kund\*in)
+
 ---
 
 **Hinweis:** Unter den Bildern geht es weiter!

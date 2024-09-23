@@ -44,6 +44,8 @@ Vally ist jetzt seit Dezember Teil unserer Familie und sie hat sich schnell als 
 
 Wenn Ihr Eure [VEGDOG Produkte über die Links in diesem Artikel kauft](https://assets.ikhnaie.link/click.html?wgcampaignid=1428775&wgprogramid=300670&clickref=soundsvegan&wgtarget=https://www.vegdog.de), erhalte ich für Eure Bestellung auch ein paar Cent. Mit den gesammelten Einnahmen kann ich dann Sounds Vegan für Euch weiterentwickeln und regelmäßig Produkttests wie diesen für Euch verfassen und veröffentlichen.
 
+Mit dem Rabattcode **soundsvegan10Aff** erhaltet Ihr bis einschließlich 31.01.2025 10% Rabatt auf Eure Bestellung bei VEGDOG\*! \*(nicht auf bereits rabattierte Produkte nur einmalig pro Kund\*in)
+
 ---
 
 **Hinweis:** Unter den Bildern geht es weiter!
