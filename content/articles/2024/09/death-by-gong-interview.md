@@ -30,7 +30,7 @@ focusKeyword: '"Descalator" – Death By Gong – Interview'
 
 **Death By Gong haben letzten Freitag ihr spektakuläres Album "Descalator" veröffentlicht. Genau, wie vermutlich auch bei Euch, läuft es hier hoch und runter und verbreitet gute Stimmung. Das Berliner Trio hat für die Platte alle möglichen Stile verbunden und dabei etwas Großes geschaffen. Ich hatte das Glück, mich mit Sänger und Gitarrist Jobst M. Feit über das unbeschreibliche Meisterwerk zwischen psychedelischem Post-Metal und Synthesizer-infiziertem Grunge zu unterhalten.**
 
-Death By Gong ist ein Projekt von Jobst M. Feit (Radare), Jobst Breuer (Zahn, Heads) and Peter Voigtmann (SHRVL/ex-[The Ocean](/2020/09/the-ocean-robin-staps-interview/)). Peter Voigtmann hat "Descalator" im legendären Die Mühle Studio aufgenommen. Das Mixing und Mastering hat Joe Joaquin von Custom Mojo MK III übernommen.
+Death By Gong ist ein Projekt von Jobst M. Feit (Radare), Chris Breuer (Zahn, Heads) und Peter Voigtmann (SHRVL/ex-[The Ocean](/2020/09/the-ocean-robin-staps-interview/)). Peter Voigtmann hat "Descalator" im legendären Die Mühle Studio aufgenommen. Das Mixing und Mastering hat Joe Joaquin von Custom Mojo MK III übernommen.
 
 **Anne:** Hi Jobst! Danke, dass Du Dir die Zeit nimmst. Wie geht es Dir gerade?
 
