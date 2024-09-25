@@ -4,7 +4,7 @@ title: 'Grey Skies Ahead Gitarrist Martin über das kommende Album "Endling"'
 subTitle: '"Ausgestorbene Tiere wie der Tasmanische Tiger und der Dodo haben uns beim Schreiben inspiriert"'
 type: article
 typeName: Interview
-description: 'Ich habe mich mit Grey Skies Ahead Gitarrist Martin über das bald erscheinend Album "Endling" und seinen Veganismus unterhalten. Lest jetzt das Interview und erfahrt spannende Details über die entstehung der Platte und Martins Aktivismus.'
+description: 'Ich habe mich mit Grey Skies Ahead Gitarrist Martin über das bald erscheinend Album "Endling" und seinen Veganismus unterhalten. Lest jetzt das Interview und erfahrt spannende Details über die Entstehung der Platte und Martins Aktivismus.'
 labels:
   - Music
   - Band
@@ -23,6 +23,7 @@ labels:
   - Heavy Music
   - Metal
   - Heavy Metal
+  - Grey Skies Ahead
 language: de
 image: https://storage.googleapis.com/cardamonchai-media/2024-09-17/grey-skies-ahead-interview-soundsvegan-com-5-jpg-imagine-080808_070708_1024_768/640.webp
 seoTitle: '"Endling" – Grey Skies Ahead – Interview mit Gitarrist Martin – Musik & Veganismus'
