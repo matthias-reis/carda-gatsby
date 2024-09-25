@@ -132,6 +132,6 @@ Insofern war ich froh, einfach freundlich darauf angesprochen zu werden.
 - 30.10.2024 Saarbrücken, Commune
 - 31.10.2024 Nürnberg, Z-Bau
 
-## Death By Gong – "Troy Troy"
+## Death By Gong – "Troy Toy"
 
 <YouTube id="ZzMW9S_lDJk" />
