@@ -135,3 +135,15 @@ Insofern war ich froh, einfach freundlich darauf angesprochen zu werden.
 ## Death By Gong – "Troy Toy"
 
 <YouTube id="ZzMW9S_lDJk" />
+
+## Death By Gong – Descalator
+
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=1766101403/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://deathbygong.bandcamp.com/album/descalator">
+    Descalator by DEATH BY GONG
+  </a>
+</iframe>
