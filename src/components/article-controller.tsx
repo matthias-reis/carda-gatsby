@@ -139,6 +139,7 @@ export const query = graphql`
           languageLink
           image
           copyright
+          excerpt
         }
       }
     }
