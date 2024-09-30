@@ -112,7 +112,7 @@ Weil er die Produkte vom Entwurf bis zur fertigen Jeans verantworten wollte, war
 
 Das Ausmaß der Konsequenzen dieses Verfahrens war ihm in diesem Moment noch nicht bewusst. Allerdings sah er mit eigenen Augen, wie das mit Chemikalien verseuchte Abwasser über ein System aus Rinnen ungefiltert in einen See floss, der in einer unnatürlichen azurblauen Farbe schimmerte. Von dort aus sicherte das Wasser in den trockenen Wüstenboden und gelangte ungebremst ins Grundwasser und damit ins Trinkwasser und die Nahrung der Menschen in der Umgebung des Betriebes.
 
-## Ein Richtungswechsel
+## Der Richtungswechsel
 
 Für einen Moment stellte Holger ragwear infrage, entschloss sich aber schließlich für eine Neudefinition und einen kompletten Richtungswechsel. Faire Arbeitsbedingungen, der respektvolle Umgang miteinander sowie Tier- und Umweltschutz stehen seither klarer im Fokus der Brand. So steht sie heute für alles, was den Menschen dahinter wichtig ist und am Herzen liegt.
 
