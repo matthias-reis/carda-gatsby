@@ -74,7 +74,7 @@ Ihr könnt beim Mantel Pavla aus vier unterschiedlichen Farben wählen. Ich habe
 
 Bei Größe S hat der Mantel eine Länge von 92 Zentimetern. Die Ärmel sind in dieser Größe 66 Zentimeter lang. Ihr könnt den Mantel Pavla von ragwear in Größe XS bis XXL bestellen. Ihr könnt ihn bei 30 Grad in der Waschmaschine waschen.
 
-[Mantel Pavla jetzt bei ragwear anschauen](https://assets.ikhnaie.link/click.html?wgcampaignid=1428775&wgprogramid=306613&wgtarget=https://www.ragwear.com/de/pavla/1984?number=2421-60045-3012-XS).
+[Mantel Pavla jetzt bei ragwear anschauen](https://assets.ikhnaie.link/click.html?wgcampaignid=1428775&wgprogramid=306613&wgtarget=https://www.ragwear.com/de/pavla/1984?number=2421-60045-3012-XS)
 
 ## 2. T-Shirt Fllorah Print
 
