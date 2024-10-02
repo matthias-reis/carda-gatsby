@@ -1,5 +1,5 @@
 ---
-date: 2024-10-02T10:00:06.561Z
+date: 2024-10-02T09:30:06.561Z
 title: 'Interview mit Patrick Büch von Hypertonus'
 subTitle: '"Wir wollten die Energie unseres Zusammenspiels möglichst roh und ungefiltert einfangen"'
 type: article
