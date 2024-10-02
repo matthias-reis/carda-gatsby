@@ -16,7 +16,7 @@ labels:
   - Tierrechte
 language: de
 image: https://storage.googleapis.com/cardamonchai-media/2024-10-02/vegan-bullerbyn-anna-ritzinger-interview-soundsvegan-com-anne-reis-q-1-jpg-imagine-c8d8e8_748084_1024_768/640.webp
-seoTitle: '"Gravity Unmapped" – Hypertonus – Interview mit Gitarrist Patrick Büch'
+seoTitle: 'Vegan Bullerbyn Gründer Anna Ritzinger – Hypertonus – Interview Sounds Vegan'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-10-02/vegan-bullerbyn-anna-ritzinger-interview-soundsvegan-com-anne-reis-og-jpg-imagine-180808_40312d_1200_628/640.webp
 imageCopyright: Anna Ritzinger
 languageLink:
