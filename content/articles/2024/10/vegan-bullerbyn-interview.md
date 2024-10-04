@@ -84,7 +84,7 @@ Jetzt vor dem Winter konzentrieren wir uns auf das Wohnhaus, damit wir rechtzeit
 
 **Anne:** Habt Ihr Euch aus Platzgründen für den neuen Standort entschieden?
 
-**Anna R.:** Ja genau. Den ersten Hof, den wir kaufen wollten, befand sich zwar nur 15 Kilometer von unserem alten Standort entfernt, was wesentlich einfacherer gewesen wäre. Der Verkäufer, der zum Rindermastverband gehört, war jedoch mit unserem Vereinszweck nicht ganz einverstanden und wir haben uns schlussendlich auch selbst dagegen entschieden.
+**Anna R.:** Ja genau. Der erste Hof, den wir kaufen wollten, befand sich zwar nur 15 Kilometer von unserem alten Standort entfernt, was wesentlich einfacherer gewesen wäre. Der Verkäufer, der zum Rindermastverband gehört, war jedoch mit unserem Vereinszweck nicht ganz einverstanden und wir haben uns schlussendlich auch selbst dagegen entschieden.
 
 Wir sind dann mit mehreren Höfen in die Verhandlung gegangen und haben uns letzten Endes vor allem aufgrund der sieben Hektar, die uns hier zur Verfügung stehen, für diesen Standort entschieden. Das Gelände ist zudem sehr schön. Es gibt hier Biotope und Wälder und sogar einen Bachlauf, der sich durch das Grundstück zieht. Den Tieren bietet das alles natürlich einen erhöhten Wohnkomfort.
 
