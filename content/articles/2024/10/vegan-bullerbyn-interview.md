@@ -38,7 +38,7 @@ Hühner klettern auf Bäume, Schweine verstecken sich im Wald und Nutrias baden 
 
 **Anne:** Im Moment ist es besonders morgens schon ziemlich kalt. Das ist sicher eine ziemliche Herausforderung, oder?
 
-**Anna R.:** Auf jeden Fall. 30 Tiere zu versorgen und die Kinder für die Schule fertig zu machen ist im Moment schon noch mal was anderes. Besonders, wenn es morgens regnet und kalt ist.
+**Anna R.:** Auf jeden Fall. 130 Tiere zu versorgen und die Kinder für die Schule fertig zu machen ist im Moment schon noch mal was anderes. Besonders, wenn es morgens regnet und kalt ist.
 
 **Anne:** Ist dann so auch Dein heutiger Morgen verlaufen?
 
@@ -206,9 +206,9 @@ Ganz groß ist auch ein Aspekt, der uns sehr stolz macht: Landwirt\*innen, die s
 
 Ehemalige "Haustiere" zum Beispiel von Verstorbenen und Tiere aus dem [Auslandstierschutz](/2024/02/tierrettung-nyirbator-interview/) wie zum Beispiel unsere rumänischen Straßenhunde aus einem Shelter, das schließen musste und die nicht mehr vermittelbar waren.
 
-**Anne:** Wie viele Tiere leben dann insgesamt bei Euch? Das sind ja insgesamt auch ziemlich viele unterschiedliche Tierarten.
+**Anne:** Du meintest vorhin, bei Euch leben 130 Tiere. Anders als auf vielen anderen Lebenhöfen, sind es bei Euch ja die unterschiedlichsten Tierarten. Möchtest Du mir darüber noch etwas mehr erzählen?
 
-**Anna R.:** Aktuell leben bei uns etwa 130 Tiere. Außer Kühen beherbergen wir alle Tiere, die man sich auf einem Lebenshof vorstellen kann – darunter auch Kleintiere wie eine Gruppe Singvögel und ehemalige Käfigtiere. Wobei sich das wahrscheinlich auch bald ändern wird, einfach, weil wir jetzt die Möglichkeiten haben, welche aufzunehmen. Während wir vor unserem Umzug flächenmäßig vermutlich der kleinste Lebenshof Deutschlands waren, steht uns heute viel mehr Platz zur Verfügung.
+**Anna R.:** Aktuell leben bei uns etwa 130 Tiere, das ist richtig. Außer Kühen beherbergen wir alle Tiere, die man sich auf einem Lebenshof vorstellen kann – darunter auch Kleintiere wie eine Gruppe Singvögel und ehemalige Käfigtiere. Wobei sich das wahrscheinlich auch bald ändern wird, einfach, weil wir jetzt die Möglichkeiten haben, welche aufzunehmen. Während wir vor unserem Umzug flächenmäßig vermutlich der kleinste Lebenshof Deutschlands waren, steht uns heute viel mehr Platz zur Verfügung.
 
 Unseren Nutria steht zum Beispiel ein knapp einen Hektar großes Biotop-Arial mit Teichen und Höhlen zur Verfügung, indem sie in ihrer natürlichen Umgebung leben können.
 
