@@ -246,7 +246,7 @@ Ich denke, dass die Menschen, wenn sie eine Packung Wurst oder Milch aus dem Kü
 
 ---
 
-**Anne:** Würdest Du dann auch sagen, dass darin einer der Hauptgründe für den allgegenwärtigen Speziesismus liegt – dass wir unsere Katze bei uns im Bett schlafen lassen und das Schwein wir anonym als Nummer im dunklen Transporter zum Schlachter gekarrt?
+**Anne:** Würdest Du dann auch sagen, dass darin einer der Hauptgründe für den allgegenwärtigen Speziesismus liegt – dass wir unsere Katze bei uns im Bett schlafen lassen und das Schwein wird anonym als Nummer im dunklen Transporter zum Schlachter gekarrt?
 
 ## "Der Wert von Haustieren ist meist nicht höher, als der von Tieren in der Industrie"
 
