@@ -93,7 +93,7 @@ Vitamin B12 ist essenziell für die Blutbildung und Zellteilung verantwortlich. 
 
 ## HER ONE NUTRI JUICE mit Vitamin D, C + Magnesium & Zink bestellen und Sounds Vegan supporten
 
-Wenn Ihr bei HER ONE bestellt und dabei über die Links in diesem Artikel geht, bekomme ich für Eure Bestellung auch ein paar Cent gutgeschrieben. Diese Mikrobeträge helfen mir in Summe dabei, Sounds Vegan laufend besser zu machen und mit Artikeln und Produkttipps wie diesem hier zu füllen. Ich danke Euch für Euren Support!
+Wenn Ihr bei HER ONE bestellt und dabei über [die Links in diesem Artikel](https://tidd.ly/4cqOA0y) geht, bekomme ich für Eure Bestellung auch ein paar Cent gutgeschrieben. Diese Mikrobeträge helfen mir in Summe dabei, Sounds Vegan laufend besser zu machen und mit Artikeln und Produkttipps wie diesem hier zu füllen. Ich danke Euch für Euren Support!
 
 Wenn Ihr den NUTRI JUICE bestellen wollt, könnt Ihr eine Single oder eine Double-Packung ordern. Mit dem Double-Paket spart Ihr fünf Prozent und bezahlt pro Portion nur noch 2,37 Euro. Wenn Ihr häufiger bestellt, profitiert Ihr außerdem vom HER ONE Treueprogramm.
 
