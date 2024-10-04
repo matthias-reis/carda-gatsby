@@ -300,7 +300,7 @@ Für mich war das eine intensive Phase des Entsetzens über mich selbst und wie 
 
 Ich gebe meinen Kindern ja meine Werte und Überzeugungen mit und da wäre es für mich vollkommen widersprüchlich, zu sagen, dass ich zwar Tierrechtsaktivistin bin und aus ethischen Gründen vegan lebe, meine Kinder aber trotzdem tierische Produkte bekommen. Ich finde es auch wichtig, dass in diese Richtung weiter geforscht wird und mögliche Schwierigkeiten auch offen angesprochen werden. Dennoch ist es für mich keine Option, einfach weiter Tiere zu essen.
 
-**Anne:** Wie hast Du das dann wahrgenommen, Du zwischendurch immer mal wieder in Deinen ursprünglichen Beruf als Sozialpädagogin gearbeitet hast?
+**Anne:** Wie hast Du das dann wahrgenommen, als Du zwischenzeitlich immer mal wieder in Deinen ursprünglichen Beruf als Sozialpädagogin gearbeitet hast?
 
 **Anna R.:** Das ist tatsächlich ziemlich spannend. Während die vegan lebende Eltern, die ich kenne, bei ihren Kindern penibel darauf achten, dass sie alle relevanten und wichtigen Nährstoffe, Vitamine und Spurenelemente bekommen und ihre Ernährung möglichst ausgeglichen ist, habe ich mich schon häufig gewundert, was omnivor lebende Eltern ihren Kindern so alles in die Brotdose legen. Man bekommt als Veganer\*in so viele Ängste eingeredet – von Kinderärzt\*innen und allen möglichen Menschen, die es gut meinen – in Bezug auf irgendwelche Mängel. Niemand würde aber jemals fragen, warum ein Kind zum Beispiel nie Gemüse bekommt.
 
