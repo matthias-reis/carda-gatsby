@@ -162,7 +162,7 @@ Bei mir haben die ganzen Jahre, in denen ich Aktivismus mache und die Dinge, die
 
 Vielleicht ist das die Erklärung dafür, warum man das manchmal bei Menschen sieht und das Gefühl bekommt, dass das nicht passt. Aber ich denke, auch, dass es dauert, bis man da für sich selbst den besten Weg gefunden hat. Ich bin auch daher ein großer Fan davon, erst mal mit den Menschen ins Gespräch zu gehen, vorausgesetzt, dass es auch gewünscht ist, bevor man sich von jemandem abwendet. Man sollte die Chance nutzen und vielleicht etwas anregen.
 
-**Anne:** Vor allem können diese Menschen diesen Gedanken anschließend auch wieder weitertragen. Sprich, wenn Euch jetzt ein Star, der sich vegan ernährt und einen Hund aus dem Tierschutz adoptiert hat, aber noch eine Designer-Tasche unter dem Arm hat, besucht, klärt Ihr ihn\*sie auf und er\*sie postet anschließend von der Erkenntnis darüber und von der Entscheidung, in Zukunft veganem Leder den Vorzug zu geben.
+**Anne:** Vor allem können diese Menschen diesen Gedanken anschließend auch wieder weitertragen. Sprich, wenn Euch jetzt ein Star, der sich zwar vegan ernährt und einen Hund aus dem Tierschutz adoptiert hat, aber eine Designer-Tasche aus Leder bei sich hat, besucht, klärt Ihr ihn\*sie auf und er\*sie postet anschließend von der Erkenntnis darüber und von der Entscheidung, in Zukunft veganem Leder den Vorzug zu geben.
 
 ## "Unser System ist von Ausbeutung geprägt"
 
