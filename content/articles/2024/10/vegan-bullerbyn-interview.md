@@ -214,7 +214,7 @@ Unseren Nutrias steht zum Beispiel ein knapp einen Hektar großes Biotop-Arial m
 
 **Anne:** Wie schön, dass Ihr auch bald Kühe aufnehmen möchtet. Für mich war es auch einer der bewegendsten Momente, als ich auf [Butenland](/2023/05/butenland-besuch/) die Kühe umarmen durfte. Das werde ich niemals vergessen und ich muss auch immer jedem\*r erzählen, wie toll diese Tiere sind – anhänglich, kommunikativ und unterschiedlich von ihren Charakteren. Es wird wirklich Zeit, dass wir verstehen lernen, diese tollen sozialen Wesen besser zu verstehen.
 
-**Anna R.:** Ja, das stimmt. Ich finde auch, wenn man bei einer optimierten "Milchkuh" – also zum Beispiel einer Holstein-Friesian –die nicht mehr permanent schwanger gehalten wird, das Euter sieht. Da wird einem der Unterschied bewusst zwischen einem natürlichen Euter – was ja ohnehin schon nicht mehr natürlich ist, weil wir von einer optimierten Kuh ausgehen – und einem Euter, wenn die Kühe Milch haben.
+**Anna R.:** Ja, das stimmt. Ich finde auch, wenn man bei einer optimierten "Milchkuh" – also zum Beispiel einer Holstein-Friesian – die nicht mehr permanent schwanger gehalten wird, das Euter sieht. Da wird einem der Unterschied bewusst zwischen einem natürlichen Euter – was ja ohnehin schon nicht mehr natürlich ist, weil wir von einer optimierten Kuh ausgehen – und einem Euter, wenn die Kühe Milch haben.
 
 ## "Mit drei sah ich, wie ein Schwein geschlachtet wurde und wurde Vegetarierin"
 
