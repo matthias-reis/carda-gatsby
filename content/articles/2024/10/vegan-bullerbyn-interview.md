@@ -210,7 +210,7 @@ Ehemalige "Haustiere" zum Beispiel von Verstorbenen und Tiere aus dem [Auslandst
 
 **Anna R.:** Aktuell leben bei uns etwa 130 Tiere, das ist richtig. Außer Kühen beherbergen wir alle Tiere, die man sich auf einem Lebenshof vorstellen kann – darunter auch Kleintiere wie eine Gruppe Singvögel und ehemalige Käfigtiere. Wobei sich das wahrscheinlich auch bald ändern wird, einfach, weil wir jetzt die Möglichkeiten haben, welche aufzunehmen. Während wir vor unserem Umzug flächenmäßig vermutlich der kleinste Lebenshof Deutschlands waren, steht uns heute viel mehr Platz zur Verfügung.
 
-Unseren Nutria steht zum Beispiel ein knapp einen Hektar großes Biotop-Arial mit Teichen und Höhlen zur Verfügung, indem sie in ihrer natürlichen Umgebung leben können.
+Unseren Nutrias steht zum Beispiel ein knapp einen Hektar großes Biotop-Arial mit Teichen und Höhlen zur Verfügung, indem sie in ihrer natürlichen Umgebung leben können.
 
 **Anne:** Wie schön, dass Ihr auch bald Kühe aufnehmen wollte. Für mich war es auch einer der bewegendsten Momente, als ich auf [Butenland](/2023/05/butenland-besuch/) die Kühe umarmen durfte. Das werde ich niemals vergessen und ich muss auch immer jedem\*r erzählen, wie toll diese Tiere sind – anhänglich, kommunikativ und unterschiedlich von ihren Charakteren. Es wird wirklich Zeit, dass wir verstehen lernen, diese tollen sozialen Wesen besser zu verstehen.
 
