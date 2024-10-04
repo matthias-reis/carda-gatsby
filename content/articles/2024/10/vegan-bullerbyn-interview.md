@@ -348,7 +348,7 @@ Das bedeutet auch, dass unsere Hühner keine Angst vor Hunden haben. Der Schutz 
 
 **Anne:** Wie kann man Euch sonst noch unterstützen?
 
-**Anna R.:** Als gemeinnütziger Verein können wir Spenden[^4] entgegennehmen und es gibt natürlich Tierpatenschaften. Ab fünf Euro kann man im Monat Vereinsmitglied[^5] werden. Die Mitgliedschaft ist bei uns jederzeit kündbar und kann auf Anfrage auch gerne pausiert werden. Derzeit haben wir rund 600 Unterstützer\*innen aus Deutschland, Österreich, der Schweiz und sogar aus Indien und den USA. Natürlich freuen wir uns auch immer darüber, wenn die Menschen unsere Postings teilen oder darüber berichten, wenn sie uns besuchen oder sich mit uns unterhalten haben.
+**Anna R.:** Als gemeinnütziger Verein können wir Spenden[^4] entgegennehmen und es gibt natürlich Tierpatenschaften. Ab fünf Euro im Monat kann man Vereinsmitglied[^5] werden. Die Mitgliedschaft ist bei uns jederzeit kündbar und kann auf Anfrage auch gerne pausiert werden. Derzeit haben wir rund 600 Unterstützer\*innen aus Deutschland, Österreich, der Schweiz und sogar aus Indien und den USA. Natürlich freuen wir uns auch immer darüber, wenn die Menschen unsere Postings teilen oder darüber berichten, wenn sie uns besuchen oder sich mit uns unterhalten haben.
 
 **Anne:** Du kannst Dir sicher sein, dass ich allen von unserem Gespräch erzählen werde! Es hat mich sehr gefreut, Dich kennenzulernen! Vielen Dank für die spannende Unterhaltung. Du hast mich sehr inspiriert und auch dazu motiviert, weiterzumachen. Und wenn es dadurch nur ein paar Tieren besser geht – es lohnt sich! Danke, liebe Anna!
 
