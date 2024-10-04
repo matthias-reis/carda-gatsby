@@ -356,6 +356,8 @@ Das bedeutet auch, dass unsere Hühner keine Angst vor Hunden haben. Der Schutz 
 
 <Gallery name="vegan-bullerbyn-anna-ritzinger-tiere-soundsvegan.com-anne-reis" />
 
+**Bilder:** Vegan Bullerbyn
+
 [^1]: [Vegan Bullerbyn Webseite](https://veganbullerbyn.de/)
 [^2]: [Aninova Webseite](https://aninova.org/)
 [^3]: [Samara Eckhardt – "Hinter den Kulissen der Tierindustrie"](https://samaraeckardt.de/)
