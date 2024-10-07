@@ -83,6 +83,4 @@ Nacho interessiert sich schon seit er denken kann für Technologie und Computers
 
 Das finale Highlight seiner Reise war für ihn seine heutige Homebase Berlin. Er wusste sofort, dass die Stadt der Ort für ihn war, um seine Karriere weiter voranzubringen. Für Federica ist er der kühle Kopf hinter UpHavin, der die Ideen des Duos zum Leben erweckt.
 
-<YouTube id="vtcupi2wV94" />
-
 [^1] [UpHavin Homepage](https://uphavin.com/)
