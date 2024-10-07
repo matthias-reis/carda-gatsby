@@ -34,11 +34,11 @@ The release day for Isaurian's "The Pulsing Rush" is October 25th, and you can a
 
 With their new album, Isaurian put their focus on our human nature and the impact of our existence on Earth. The seven tracks, in total, are visually powerful and thought-provoking. "The Pulsing Rush" features both slow, heavy segments and entire songs ("Godlike," "Carved Earth"), as well as more lively and open-hearted topics ("Primal Life")—and, of course, Post-Rock anthems ("Murmurations"). Even on the first listen, the pieces leave a lasting impression and heighten the desire to delve deeper into this world of mysticism and clarity, rhythm and playfulness.
 
-## "The Pulsing Rush" as a Metaphor for Life
+## "The Pulsing Rush" as a metaphor for life
 
 ![Isaurian – "The Pulsing Rush"](https://storage.googleapis.com/cardamonchai-media/2024-10-07/keretta-the-pulsing-rush-soundsvegan-com-album-artwork-jpg-imagine-080808_1b130e_1080_1080/640.webp 'Isaurian – "The Pulsing Rush"')
 
-The pulsing rush of life that will forever accompany us—with all its good and dark times and the everlasting question of "why". What drives humans to place so much importance on themselves? How can we at least slightly erase the all-too-visible marks we leave behind? Why can't we just stop being cruel? This is what "The Pulsing Rush" is about—and much more.
+Besides the blood in our veins that keeps us alive, there's another pulsing rush we all know: The pulsing rush of life that will forever accompany us—with all its good and dark times and the everlasting question of "why". What drives humans to place so much importance on themselves? How can we at least slightly erase the all-too-visible marks we leave behind? Why can't we just stop being cruel? This is what "The Pulsing Rush" is about—and much more.
 
 Those who dive into the lyrics will quickly notice the entanglements and confusions of our present time haven't passed Isaurian without a trace. Climate crisis, wars, and social injustice may have influenced their writing, just as the impermanence of all life has. Isaurian also tackled themes like depression, love, sex, and loss. "The Pulsing Rush" is heavy, musically top-notch, and highly creative.
 
@@ -46,7 +46,7 @@ If you appreciate projects like Sumac, Pelican, and Caspian, this band is for yo
 
 Isaurian formed in Brazil in 2017. Their desire to create intense, emotional post-music together led to their first EP, "All The Darkness Looks Alive," in that very year. More EPs, remixes, and the debut album "Chains of Blue" followed. The band connected with some of the most renowned producers in the metal genre, leading to recordings with Rhys Fulber (Paradise Lost, Fear Factory), Matt Bayles (Mastodon, Caspian), Kevin Ratterman (Emma Ruth Rundle, Sumac), and Chris Common (Pelican, Chelsea Wolfe). He also supported the production of the critically acclaimed works "Chains of Blue" (2020) and "Deep Sleep Metaphysics" (2022).
 
-## First-rate Production
+## first-rate production
 
 ![Isaurian](https://storage.googleapis.com/cardamonchai-media/2024-10-07/keretta-the-pulsing-rush-soundsvegan-com-2-jpg-imagine-181818_6a6a6a_1024_768/640.webp 'Isaurian')
 
@@ -56,7 +56,7 @@ The five musicians seem to have found exactly what they were searching for, comp
 
 Isaurian consists of Jorge Rabelo (guitars, vocals, keys), Hoanna Aragão (vocals), Guilherme Tanner (guitars), Roberto Tavares (drums), and Renata Marim (bass).
 
-## "The Pulsing Rush" – Tracklist
+## "The Pulsing Rush" – tracklist
 
 1. Heart Like a Curse (6:22)
 2. Godlike (6:02)
