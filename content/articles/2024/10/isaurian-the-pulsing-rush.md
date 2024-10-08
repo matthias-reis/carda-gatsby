@@ -21,7 +21,7 @@ labels:
 language: de
 image: https://storage.googleapis.com/cardamonchai-media/2024-10-08/isaurian-soundsvegan-com-jpg-imagine-c8d8d8_7f9092_1024_768/640.webp
 seoTitle: 'Isaurian – "The Pulsing Rush" – Hört hier rein und holt Euch alle Infos zum spekatkulären Doomgaze/Post-Rock/Post-Metal-Album!'
-ogImage: https://storage.googleapis.com/cardamonchai-media/2024-10-07/keretta-the-pulsing-rush-soundsvegan-com-og-jpg-imagine-a8a8a8_949393_1200_628/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2024-10-08/isaurian-soundsvegan-com-og-jpg-imagine-181818_586567_1200_628/640.webp
 imageCopyright: Joe Espindola
 languageLink: /2024/10/isaurian-the-pulsing-rush-en/
 excerpt: Wer Isaurian kennt, erwartet von ihrem neuen Album Gegensätze, die diametral zueinander stehen und sich gegenseitig verstärken. Auf jede nachdenkliche Phase folgt Euphorie, auf Melancholie folgt Fröhlichkeit. Mit "The Pulsing Rush" hat die Band aus Distrito Federal do Brasil jetzt genau das erschaffen. Euch erwarten knapp 41 Minuten spannungsgeladene Doomgaze/Post-Rock/Post-Metal-Sounds.
