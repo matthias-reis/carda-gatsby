@@ -32,7 +32,7 @@ focusKeyword: TIZZ & TONIC nachhalige Wäsche
 
 **TIZZ & TONIC aus Bremen stellt nachhaltige und bequeme Wäsche in Deutschland und Portugal her. Als mich Nachhaltigkeitsmanagerin und Mitgründerein Yanna fragte, ob ich Lust hätte, mir die Sachen mal genauer anzuschauen, war meine Neugierde sofort geweckt. Et voilà: Hier kommt meine Produkt-Review! Getestet habe ich ein paar Teile, die extrem comfy sind und bin seither TIZZ & TONIC Fan.**
 
-Designt und produziert werden die TIZZ & TONIC Teile im wunderschönen Bremen. Das Kernteam der Brand besteht aus Yanna, deren Schwerpunkt auf der Nachhaltigkeit liegt; und Lead-Designerin und Kreativdirektorin Imke. Sie arbeitet schon ihr halbes Leben in der Bekleidungsindustrie und gründete bereits mit 15 ihre erste Marke, die sie mit zwei Kollektionen auf der Alternative Fashion Week in Tokio vorstellen durfte.
+Designt und produziert werden die TIZZ & TONIC Teile im wunderschönen Bremen. Das Kernteam der Brand besteht aus Yanna, deren Schwerpunkt auf der Nachhaltigkeit liegt; und Lead-Designerin und Kreativdirektorin Imke. Sie arbeitet schon ihr halbes Leben in der Bekleidungsindustrie und gründete bereits mit 15 ihre erste Marke, die sie mit zwei Kollektionen auf der Alternative Fashion Week in Toronto vorstellen durfte.
 
 Ihr Studium in Modetechnik hat sie am George Brown College im kanadischen Toronto absolviert. Ihr Stil ist geprägt von der Kombination von auffälligen mit einfachen Elementen. Am liebsten kreiert sie Looks, die Lebensfreude ausdrücken und schnörkellos und fröhlich daherkommen. TIZZ & TONIC beschreibt das als "gewagte Basics mit einem Twist" und besser kann man es vermutlich nicht in Worte fassen.
 
