@@ -36,7 +36,7 @@ With their new album, Isaurian put their focus on our human nature and the impac
 
 ## "The Pulsing Rush" as a metaphor for life
 
-![Isaurian – "The Pulsing Rush"](https://storage.googleapis.com/cardamonchai-media/2024-10-07/keretta-the-pulsing-rush-soundsvegan-com-album-artwork-jpg-imagine-080808_1b130e_1080_1080/640.webp 'Isaurian – "The Pulsing Rush"')
+![Isaurian – "The Pulsing Rush"](https://storage.googleapis.com/cardamonchai-media/2024-10-08/the-pulsing-rush-album-cover-by-jorge-rabelo-soundsvegan-com-jpg-imagine-280848_646464_2100_2100/640.webp 'Isaurian – "The Pulsing Rush"')
 
 Besides the blood in our veins that keeps us alive, there's another pulsing rush we all know: The pulsing rush of life that will forever accompany us—with all its good and dark times and the everlasting question of "why". What drives humans to place so much importance on themselves? How can we at least slightly erase the all-too-visible marks we leave behind? Why can't we just stop being cruel? This is what "The Pulsing Rush" is about—and much more.
 

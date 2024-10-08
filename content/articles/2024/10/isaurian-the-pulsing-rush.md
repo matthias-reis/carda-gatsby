@@ -36,7 +36,7 @@ Isaurian haben sich mit ihrer neuen Platte unserer menschlichen Natur und den Au
 
 ## "The Pulsing Rush" als Bild für das Leben
 
-![Isaurian – "The Pulsing Rush"](https://storage.googleapis.com/cardamonchai-media/2024-10-07/keretta-the-pulsing-rush-soundsvegan-com-album-artwork-jpg-imagine-080808_1b130e_1080_1080/640.webp 'Isaurian – "The Pulsing Rush"')
+![Isaurian – "The Pulsing Rush"](https://storage.googleapis.com/cardamonchai-media/2024-10-08/the-pulsing-rush-album-cover-by-jorge-rabelo-soundsvegan-com-jpg-imagine-280848_646464_2100_2100/640.webp 'Isaurian – "The Pulsing Rush"')
 
 Neben dem Blut in unseren Adern, das uns am Leben hält, gibt es noch einen weiteren "Pulsing Rush", den wir alle kennen: Das pulsierende Rauschen des Lebens, das uns für immer begleiten wird – mit all seinen guten und düsteren Zeiten und der immer lauter werdenden Frage nach dem Warum. Was bringt den Menschen dazu, sich so wichtig zu nehmen? Wie können wir es schaffen, unsere nur allzu sichtbaren Spuren zumindest ein klein wenig zu verwischen? Warum können wir nicht aufhören, ungerecht zu sein? Genau davon handelt "The Pulsing Rush" – und noch von so vielem mehr.
 
