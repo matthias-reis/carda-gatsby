@@ -185,6 +185,6 @@ Since 2021 teaming up with Benedikt Zillich Powerline Agency for all festival bo
   </a>
 </iframe>
 
-## P.D.O.A. – "Love Not War
+## P.D.O.A. – "Love Not War"
 
 <YouTube id="GuR0qLAlzj8" />
