@@ -4,7 +4,7 @@ title: 'Isaurian – "The Pulsing Rush"'
 subTitle: 'Top-Notch, Heavy Post-Music'
 type: article
 typeName: Preview
-description: 'Isaurian – "The Pulsing Rush – An outstanding doomgaze/post-rock/post-metal album will enter the stage, soon. You can already listen to a few songs here and find out what’s special about the record!"'
+description: 'Isaurian – "The Pulsing Rush" – An outstanding doomgaze/post-rock/post-metal album will enter the stage, soon. You can already listen to a few songs here and find out what’s special about the record!"'
 labels:
   - Music
   - Band

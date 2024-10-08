@@ -24,7 +24,7 @@ seoTitle: 'Isaurian – "The Pulsing Rush" – Hört hier rein und holt Euch all
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-10-07/keretta-the-pulsing-rush-soundsvegan-com-og-jpg-imagine-a8a8a8_949393_1200_628/640.webp
 imageCopyright: Isaurian
 languageLink: /2024/10/isaurian-the-pulsing-rush-en/
-excerpt: Wer Isaurian kennt, erwartet von ihrem neuen Album Gegensätze, die diametral zueinander stehen und sich gegenseitig verstärken. Auf jede nachdenkliche Phase folgt Euphorie, auf Melancholie folgt Fröhlichkeit. Mit "The Pulsing Rush" hat die Band aus Distrito Federal do Brasil jetzt genau das erschaffen. Euch erwarten knapp 41 Minuten spannungsgeladene Doomgaze/Post-Rock/Post-Metal-Sounds
+excerpt: Wer Isaurian kennt, erwartet von ihrem neuen Album Gegensätze, die diametral zueinander stehen und sich gegenseitig verstärken. Auf jede nachdenkliche Phase folgt Euphorie, auf Melancholie folgt Fröhlichkeit. Mit "The Pulsing Rush" hat die Band aus Distrito Federal do Brasil jetzt genau das erschaffen. Euch erwarten knapp 41 Minuten spannungsgeladene Doomgaze/Post-Rock/Post-Metal-Sounds.
 focusKeyword: 'Isaurian – "The Pulsing Rush" – Preview'
 ---
 
