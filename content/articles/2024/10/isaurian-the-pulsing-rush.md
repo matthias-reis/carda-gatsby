@@ -19,10 +19,10 @@ labels:
   - Doom
   - Isaurian
 language: de
-image: https://storage.googleapis.com/cardamonchai-media/2024-10-07/keretta-the-pulsing-rush-soundsvegan-com-jpg-imagine-f8f8f8_9f9e9f_1024_768/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2024-10-08/isaurian-soundsvegan-com-jpg-imagine-c8d8d8_7f9092_1024_768/640.webp
 seoTitle: 'Isaurian – "The Pulsing Rush" – Hört hier rein und holt Euch alle Infos zum spekatkulären Doomgaze/Post-Rock/Post-Metal-Album!'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-10-07/keretta-the-pulsing-rush-soundsvegan-com-og-jpg-imagine-a8a8a8_949393_1200_628/640.webp
-imageCopyright: Isaurian
+imageCopyright: Joe Espindola
 languageLink: /2024/10/isaurian-the-pulsing-rush-en/
 excerpt: Wer Isaurian kennt, erwartet von ihrem neuen Album Gegensätze, die diametral zueinander stehen und sich gegenseitig verstärken. Auf jede nachdenkliche Phase folgt Euphorie, auf Melancholie folgt Fröhlichkeit. Mit "The Pulsing Rush" hat die Band aus Distrito Federal do Brasil jetzt genau das erschaffen. Euch erwarten knapp 41 Minuten spannungsgeladene Doomgaze/Post-Rock/Post-Metal-Sounds.
 focusKeyword: 'Isaurian – "The Pulsing Rush" – Preview'
@@ -47,8 +47,6 @@ Wenn Ihr Projekte wie Sumac, Pelican und Caspian feiert: Diese Band ist für Euc
 Isaurian gründeten sich 2017 in Brasilien. Der Wunsch, gemeinsam intensive, emotionale Post-Musik zu machen, führte in diesem Jahr bereits zur ersten EP "All The Darkness Looks Alive". Es folgten weitere EPs, Remixes und das erste Album "Chains of Blue". Die Band vernetzte sich mit einigen der bekanntesten Produzent\*innen des Metal-Genres und nahm unter anderem mit Rhys Fülber (Paradise Lost, Fear Factory), Matt Bayles (Mastodon, Caspian), Kevin Ratterman (Emma Ruth Rundle, Sumac) und Chris Common (Pelican, Chelsea Wolfe) auf. Mit letztem entstanden die von der Kritik gefeierten Werke "Chains of Blue" (2020) und "Deep Sleep Metaphysics" (2022).
 
 ## Hochkarätige Produktion
-
-![Isaurian](https://storage.googleapis.com/cardamonchai-media/2024-10-07/keretta-the-pulsing-rush-soundsvegan-com-2-jpg-imagine-181818_6a6a6a_1024_768/640.webp 'Isaurian')
 
 Das neue Album entstand gemeinsam mit Jesse Gander (Brutus, Anciients) im 1234 Studio (Producing) und im Rain City Recorders Studio (Mixing). James Plotkin hat das Mastering übernommen. Jorge Rabelo, von dem das Cover-Artwork stammt, ist zudem für ein paar Überarbeitungen verantwortlich. Jesse Gander hat die Band neben seiner technischen Arbeit auch am Keyboard unterstützt. Isaurian streifen in den sieben Stücken Shoegaze und Post-Rock, um immer tiefer in Richtung Doom und Post-Metal abzutauchen. Dabei scheinen die fünf Musiker\*innen exakt das zu finden, was sie gesucht haben und sie gehen vollkommen darin auf.
 

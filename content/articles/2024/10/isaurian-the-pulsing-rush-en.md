@@ -19,7 +19,7 @@ labels:
   - Doom
   - Isaurian
 language: en
-image: https://storage.googleapis.com/cardamonchai-media/2024-10-07/keretta-the-pulsing-rush-soundsvegan-com-jpg-imagine-f8f8f8_9f9e9f_1024_768/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2024-10-08/isaurian-soundsvegan-com-jpg-imagine-c8d8d8_7f9092_1024_768/640.webp
 seoTitle: Isaurian – "The Pulsing Rush" – Learn everything about this outstanging doomgaze/post-rock/post-metal record!
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-10-07/keretta-the-pulsing-rush-soundsvegan-com-og-jpg-imagine-a8a8a8_949393_1200_628/640.webp
 imageCopyright: Isaurian
@@ -47,8 +47,6 @@ If you appreciate projects like Sumac, Pelican, and Caspian, this band is for yo
 Isaurian formed in Brazil in 2017. Their desire to create intense, emotional post-music together led to their first EP, "All The Darkness Looks Alive," in that very year. More EPs, remixes, and the debut album "Chains of Blue" followed. The band connected with some of the most renowned producers in the metal genre, leading to recordings with Rhys Fulber (Paradise Lost, Fear Factory), Matt Bayles (Mastodon, Caspian), Kevin Ratterman (Emma Ruth Rundle, Sumac), and Chris Common (Pelican, Chelsea Wolfe). He also supported the production of the critically acclaimed works "Chains of Blue" (2020) and "Deep Sleep Metaphysics" (2022).
 
 ## first-rate production
-
-![Isaurian](https://storage.googleapis.com/cardamonchai-media/2024-10-07/keretta-the-pulsing-rush-soundsvegan-com-2-jpg-imagine-181818_6a6a6a_1024_768/640.webp 'Isaurian')
 
 The new album was created in collaboration with Jesse Gander (Brutus, Anciients) at 1234 Studio (producing) and Rain City Recorders Studio (mixing). James Plotkin did the mastering. Jorge Rabelo, who is also responsible for the cover artwork, contributed some revisions. Alongside his technical work, Jesse Gander supported the band on keyboard. In the seven tracks, Isaurian traverse shoegaze and post-rock, delving ever deeper into doom and post-metal.
 
