@@ -118,7 +118,7 @@ Was mir ja auch schon positiv aufgefallen ist, sind die möglichst nachhaltigen 
 
 **Hier nochmal der Hinweis:** Wenn Ihr Eure Fußpflege-Produkte von tvey Bis zum 31. Oktober 2024 [über meinen Link bestellt](https://tidd.ly/4esRDap) bestellt, erhaltet Ihr mit meinem Rabattcode **ANNE-W10** 10 Prozent Rabatt! Auch wenn Ihr nach dieser Zeit meinen Link nutzt, unterstützt Ihr Sounds Vegan, da ich für jede Bestellung einen kleinen Betrag erhalte, den ich dazu nutzen kann, die Seite laufend besser zu machen und weiter zu betreiben.
 
---
+---
 
 ## Und in Zukunft?
 
