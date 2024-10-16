@@ -38,7 +38,7 @@ focusKeyword: Füße eincremen
 
 Seit Saskia und Lena tvey im Sommer 2019 gegründet haben, hat sich ihr Shop mit immer mehr praktischen, pflegenden und veganen Produkten rund um Wohlfühl-Füße gefüllt. Die beiden sind fest davon überzeugt: Wir sollten unseren Füßen alle mehr Aufmerksamkeit schenken. Schließlich sind sie es, die uns durch unser Leben tragen. Warum sollten wir uns dann nicht angemessen um sie kümmern?
 
-Weil viele das Füßeeincremen schlichtweg immer wieder vergessen, wollten die Gründerinnen möglichst praktische Produkte entwickeln. Der Spaß sollte dabei natürlich auch nicht zu kurz kommen. Die Fußcreme mit dem praktischen Applikator, der Hornhautweicher zum Aufsprühen und die nachhaltige Fußfeile aus Holz sind perfekte Beispiele dafür, dass Ihr Konzept aufgeht.
+Weil viele das Füßeeincremen schlichtweg immer wieder vergessen, wollten die Gründerinnen möglichst praktische Produkte entwickeln. Der Spaß sollte dabei natürlich auch nicht zu kurz kommen. Die Fußcreme mit dem praktischen Applikator, der Hornhautweicher zum Aufsprühen und die nachhaltige Feile aus Holz sind perfekte Beispiele dafür, dass Ihr Konzept aufgeht.
 
 ## Folgende tvey Produkte rund ums Füßeeincremen und Pflegen habe ich getestet:
 
