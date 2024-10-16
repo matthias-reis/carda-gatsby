@@ -108,7 +108,7 @@ Mit Ausnahme weniger synthetisch produzierter INCI (Urea), die man ausschließli
 
 Alle Cremes, Sprays & Co. von tvey kommen zudem ohne Mikroplastik und löslichen Kunststoff aus. Die tvey Rezepturen enthalten keine wasserlöslichen und biologisch abbaubaren Plastikteilchen oder löslichen Kunststoffe, Silikone oder mineralölbasierte Substanzen.
 
-Um ihre CO<sub>2</sub>-Bilanz zu verbessern, unterstützen Lena und Saskia ein Klimaschutz-Projekt: Gemeinsam mit Climate Partner[^1] behalten Sie den Treibhausgas-Ausstoß ihrer Produktion permanent im Auge. Durch ihre Meeresschutz-Kooperation mit plasticbank[^2] leisten die beiden einen weiteren Beitrag zum Umweltschutz.
+Um ihre CO<sub>2</sub>-Bilanz zu verbessern, unterstützen Lena und Saskia ein Klimaschutz-Projekt: Gemeinsam mit Climate Partner[^1] behalten Sie den Treibhausgas-Ausstoß ihrer Produktion permanent im Auge. Durch ihre Meeresschutz-Kooperation mit Plastic Bank[^2] leisten die beiden einen weiteren Beitrag zum Umweltschutz.
 
 Was mir ja auch schon positiv aufgefallen ist, sind die möglichst nachhaltigen Verpackungen. Diese permanent zu verbessern, ist bei tvey immer Thema. Derzeit verzichtet die Brand bereits, wo es geht, auf unnötige Umverpackungen. Falls diese sich nicht vermeiden lassen, bestehen sie aus FSC-zertifiziertem Material. Die Versandkartons sind aus recyceltem FSC-Papier. Auf individuelles Branding mit hohem Energieaufwand verzichtet tvey dabei ganz bewusst.
 
@@ -125,4 +125,4 @@ Was mir ja auch schon positiv aufgefallen ist, sind die möglichst nachhaltigen 
 Eines ist sicher: Ich werde weiterhin täglich meine Füße eincremen und auch in Zukunft darauf achten, dass es ihnen gut geht. Als Nächstes möchte ich gerne die Fußcreme "Wanderlust", das Nagelöl "gute geölt" und das Kühlspray "kühle Brise" testen. Bleibt also dran, vielleicht berichte ich in Kürze hier über diese drei Produkte von tvey.
 
 [^1]: [Climate Partner](https://www.climatepartner.com/de)
-[^2]: [plasticbank](https://plasticbankfoundation.de/)
+[^2]: [Plastic Bank](https://plasticbankfoundation.de/)
