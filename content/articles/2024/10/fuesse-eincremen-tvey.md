@@ -122,7 +122,7 @@ Was mir ja auch schon positiv aufgefallen ist, sind die möglichst nachhaltigen 
 
 ## Und in Zukunft?
 
-Eines ist sicher: Ich werde weiterhin täglich meine Füße eincremen und auch in Zukunft darauf achten, dass es ihnen gut geht. Als Nächstes möchte ich gerne die Fußcreme "Wanderlust", das Nagelöl "gute geölt" und das Kühlspray "kühle Brise" testen. Bleibt also dran, vielleicht berichte ich in Kürze hier über diese drei Produkte von tvey.
+Eines ist sicher: Ich werde weiterhin täglich meine Füße eincremen und auch in Zukunft darauf achten, dass es ihnen gut geht. Als Nächstes möchte ich gerne die Fußcreme "Wanderlust", das Nagelöl "gut geölt" und das Kühlspray "kühle Brise" testen. Bleibt also dran, vielleicht berichte ich in Kürze hier über diese drei Produkte von tvey.
 
 [^1]: [Climate Partner](https://www.climatepartner.com/de)
 [^2]: [Plastic Bank](https://plasticbankfoundation.de/)
