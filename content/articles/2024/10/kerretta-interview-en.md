@@ -82,6 +82,8 @@ Dynamics play an important part in what we do, so we try to make sure the mounta
 
 ## "We used a lot of 80s-based equipment"
 
+![Kerretta](https://storage.googleapis.com/cardamonchai-media/2024-10-17/kerretta-interview-soundsvegan-com-jpg-imagine-080808_384935_1024_768/640.webp 'Kerretta')
+
 **H. Walker:** Thank you! It has taken us a long time. We recorded it between Auckland and London, UK. Our last studio LP, Pirohia, was recorded in a large drum room, and this time, the rooms we opted for were a little smaller and a little tighter in sound for the most part. If we wanted a larger room sound with extravagant reverb, we'd open the live room doors and mic the stairwells to increase the reverb. When it came to recording any multitrack material, we like to use the studio as a tool, so we included a lot of outboard equipment, such as tape delays and odd 80s-based modulation equipment. Dave (the guitarist)would overdub a guitar, for example, and I'd be messing with the tape. We would use alternate guitar tunings sometimes, and additionally, we brought some guests in as well to add. "Pan Ultima", for example, has recordings from Antarctica, which our friend brought back, or we'd have additional percussion to give it a more otherworldly feel.
 
 Dave mixed 'Angelm' in a studio situated on a giant lightship on the River Thames in London.

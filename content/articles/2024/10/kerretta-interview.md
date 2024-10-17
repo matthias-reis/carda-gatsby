@@ -84,6 +84,8 @@ Die Dynamik spielt eine wichtige Rolle bei dem, was wir tun, also versuchen wir 
 
 ## "Wir haben eine Menge 80er-Jahre-Equipment verwendet"
 
+![Kerretta](https://storage.googleapis.com/cardamonchai-media/2024-10-17/kerretta-interview-soundsvegan-com-jpg-imagine-080808_384935_1024_768/640.webp 'Kerretta')
+
 **H. Walker:** Ich danke Dir! Wir haben sehr lange dafür gebraucht. Wir haben es zwischen Auckland und London, UK, aufgenommen. Unsere letzte Studio-LP Pirohia haben wir in einem großen Schlagzeugraum aufgenommen. Dieses Mal haben wir uns für etwas kleinere Räume entschieden, die größtenteils etwas enger im Klang sind. Wenn wir einen größeren Raumsound mit extravagantem Hall wollten, öffneten wir die Türen des Live-Raums und statteten die Treppenhäuser mit Mikros aus, um den Hall zu verstärken. Wenn es darum ging, mehrspuriges Material aufzunehmen, nutzen wir das Studio selbst als Werkzeug. Dabei haben wir viel Outboard-Equipment wie Tape-Delays und seltsame Modulationsgeräte aus den 80er Jahren eingesetzt. Unser Gitarrist Dave nahm zum Beispiel eine Gitarre auf, und ich spielte mit der Band. Manchmal haben wir auch alternative Gitarrenstimmungen verwendet, und auch einige Gäste dazu geholt. Im Stück "Pan Ultima" kannst Du zum Beispiel Aufnahmen aus der Antarktis hören, die unser Freund mitgebracht hat. Wir haben auch zusätzliche Perkussion eingesetzt, um dem Ganzen einen etwas anderen Charakter zu verleihen.
 
 Dave hat "Angelm" in einem Studio auf einem großen Lightship auf der Themse in London abgemischt.
