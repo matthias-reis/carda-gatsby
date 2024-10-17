@@ -26,7 +26,7 @@ language: de
 
 ---
 
-**Hinweis:** Mit dem Gutscheincode unter diesem Artikel erhaltet Ihr **20 Prozent Rabatt** auf alle Produkte im Wild Onlineshop!
+**Hinweis:** Mit dem Gutscheincode unter diesem Artikel erhaltet Ihr [nur über diesen Link](https://www.wearewild.com/de/?discount=SOUNDSVEGAN20) **20 Prozent Rabatt** auf alle Produkte im Wild Onlineshop!
 
 ---
 
@@ -142,7 +142,7 @@ Mir gefällt das Wild Konzept insgesamt gut. Die Möglichkeit, Refills zu bestel
 
 ## Mein exklusiver Gutscheincode für Euch!
 
-Wenn Ihr neugierig geworden seid und die Wild Produkte gerne mal testen möchtet, erhaltet Ihr, [wenn Ihr über diesen Link bestellt](https://tidd.ly/3tiOGGP), mit dem folgenden Gutscheincode 20 Prozent Rabatt auf alle Produkte im Wild Onlineshop:
+Wenn Ihr neugierig geworden seid und die Wild Produkte gerne mal testen möchtet, erhaltet Ihr, [wenn Ihr über diesen Link bestellt](https://www.wearewild.com/de/?discount=SOUNDSVEGAN20), mit dem folgenden Gutscheincode 20 Prozent Rabatt auf alle Produkte im Wild Onlineshop:
 
 **SOUNDSVEGAN20**
 

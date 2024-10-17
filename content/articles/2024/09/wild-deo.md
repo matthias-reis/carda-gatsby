@@ -43,7 +43,7 @@ Auf der Wild Webseite findet Ihr auch noch weitere Designs – das trifft sowohl
 
 ---
 
-**Hinweis:** Wenn Ihr Euer Wild Deo über [den Link in diesem Artikel](http://www.jdoqocy.com/click-101100252-15807673) bestellt, erhalte ich auch ein paar Cent. Ihr unterstützt damit Sounds Vegan aktiv und tragt dazu bei, dass ich Euch weiter mit Artikeln und Tipps wie diesem versorgen kann. Vielen Dank dafür schon mal an dieser Stelle!
+**Hinweis:** Wenn Ihr Euer Wild Deo über [den Link in diesem Artikel](https://www.wearewild.com/de/?discount=SOUNDSVEGAN20) bestellt, erhalte ich auch ein paar Cent. Ihr unterstützt damit Sounds Vegan aktiv und tragt dazu bei, dass ich Euch weiter mit Artikeln und Tipps wie diesem versorgen kann. Vielen Dank dafür schon mal an dieser Stelle!
 
 ---
 
@@ -101,6 +101,6 @@ Mit dem Gutscheincode **SOUNDSVEGAN20** erhaltet Ihr im Wild Shop 20 Prozent Rab
 
 ### Gutscheincode SOUNDSVEGAN20
 
-[Hier geht’s zum Wild Onlineshop](http://www.jdoqocy.com/click-101100252-15807673)
+[Hier geht's zum Wild Onlineshop](https://www.wearewild.com/de/?discount=SOUNDSVEGAN20)
 
 <Gallery name="wild-cosmetics-deo-soundsvegan.com-2" />
