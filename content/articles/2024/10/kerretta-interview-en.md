@@ -42,7 +42,7 @@ focusKeyword: 'Interview – "Angelm" – Kerretta'
 
 ## "We started writing the songs when people were separated from each other"
 
-![Kerretta – "Angelm"](https://storage.googleapis.com/cardamonchai-media/2024-10-17/Kerretta-angelm-soundsvegan-com-album-artwork-jpg-imagine-080808_1b130e_1080_1080/640.webp 'Kerretta – "Angelm"')
+![Kerretta – "Angelm"](https://storage.googleapis.com/cardamonchai-media/2024-10-17/keretta-angelm-soundsvegan-com-album-artwork-jpg-imagine-080808_1b130e_1080_1080/640.webp 'Kerretta – "Angelm"')
 
 **H. Walker:** When we began writing, it was during the time of lockdowns and when people were separated from each other. So, people were living in this existence of separation. We had this concept of fragmentation but a natural draw to some form of coalescence.
 

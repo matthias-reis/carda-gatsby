@@ -44,7 +44,7 @@ Thank you! Es hat eine Weile gedauert, bis wir so weit waren, dass wir neue Musi
 
 ## "Wir haben angefangen, die Songs zu schreiben, als die Menschen in Quarantäne waren"
 
-![Kerretta – "Angelm"](https://storage.googleapis.com/cardamonchai-media/2024-10-17/Kerretta-angelm-soundsvegan-com-album-artwork-jpg-imagine-080808_1b130e_1080_1080/640.webp 'Kerretta – "Angelm"')
+![Kerretta – "Angelm"](https://storage.googleapis.com/cardamonchai-media/2024-10-17/keretta-angelm-soundsvegan-com-album-artwork-jpg-imagine-080808_1b130e_1080_1080/640.webp 'Kerretta – "Angelm"')
 
 **H. Walker:** Als wir mit dem Schreiben anfingen, war das während der Zeit der Abriegelungen und Trennung der Menschen voneinander. Die Menschen lebten also in dieser Existenz der Trennung. Wir hatten dieses Konzept der Fragmentierung, aber auch eine natürliche Anziehungskraft für eine Form des Zusammenwachsens.
 
