@@ -40,7 +40,7 @@ focusKeyword: 'Interview – "Angelm" – Kerretta'
 
 **H. Walker:** The genesis of the idea was to have eight parts loosely based on the eight continental plates. There is a new one scientists believe they have discovered.
 
-## We began writing when people were separated from each other
+## "We started writing the songs when people were separated from each other"
 
 ![Kerretta – "Angelm"](https://storage.googleapis.com/cardamonchai-media/2024-10-17/keretta-angelm-soundsvegan-com-album-artwork-jpg-imagine-080808_1b130e_1080_1080/640.webp 'Kerretta – "Angelm"')
 
@@ -58,7 +58,7 @@ We didn't apply any strict rules, but as if you had fleeting moments of sound or
 
 **Anne:** The songs on "Angelm" evoke a sense of space and transcendence once again—following the tradition of "Vilayer" from 2009 and "Saansilo" from 2011. Did you intentionally design them with this specific atmosphere in mind, or did they naturally evolve like this while playing?
 
-## "Angelm" has a healthy amount of spontaneity
+## "Angelm" has a healthy amount of spontaneity"
 
 **H. Walker:** "Angelm" was a mix of intention with a healthy amount of spontaneity. We storied the album out so there would be healthy dynamics over the course of each track and then again over the record. There was a lot of writing on paper to map out each track into parts with certain ideas, atmospheres, or moods so the songs would feel right in a linear direction.
 
