@@ -58,7 +58,7 @@ We didn't apply any strict rules, but as if you had fleeting moments of sound or
 
 **Anne:** The songs on "Angelm" evoke a sense of space and transcendence once again—following the tradition of "Vilayer" from 2009 and "Saansilo" from 2011. Did you intentionally design them with this specific atmosphere in mind, or did they naturally evolve like this while playing?
 
-## "Angelm" has a healthy amount of spontaneity"
+## "'Angelm' has a healthy amount of spontaneity"
 
 **H. Walker:** "Angelm" was a mix of intention with a healthy amount of spontaneity. We storied the album out so there would be healthy dynamics over the course of each track and then again over the record. There was a lot of writing on paper to map out each track into parts with certain ideas, atmospheres, or moods so the songs would feel right in a linear direction.
 
