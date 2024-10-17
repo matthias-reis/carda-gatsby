@@ -42,7 +42,7 @@ Thank you! Es hat eine Weile gedauert, bis wir so weit waren, dass wir neue Musi
 
 **H. Walker:** Unsere ursprüngliche Idee war es, acht Teile zu haben, die lose auf den acht Kontinentalplatten basieren. Es gibt ja diese neue Kontinentalplatte, die Wissenschaftler\*innen zu ihren Entdeckungen zählen.
 
-## "Wir haben angefangen zu schreiben, als die Menschen in Quarantäne waren"
+## "Wir haben angefangen, die Songs zu schreiben, als die Menschen in Quarantäne waren"
 
 ![Kerretta – "Angelm"](https://storage.googleapis.com/cardamonchai-media/2024-10-17/keretta-angelm-soundsvegan-com-album-artwork-jpg-imagine-080808_1b130e_1080_1080/640.webp 'Kerretta – "Angelm"')
 
@@ -60,7 +60,7 @@ Wir haben keine strikten Regeln angewandt, sondern so getan, als würde man flü
 
 **Anne:** Die Songs auf "Angelm" vermitteln erneut ein Gefühl von Raum und Transzendenz – ganz im Stil von "Vilayer" von 2009 und "Saansilo" von 2011. Habt Ihr sie absichtlich mit dieser speziellen Atmosphäre im Hinterkopf entwickelt, oder haben sie sich beim Spielen ganz natürlich in diese Richtung entwickelt?
 
-## In "Angelm" steckt eine gesunde Menge Spontanität"
+## "In 'Angelm' steckt eine gesunde Menge Spontanität"
 
 **H. Walker:** "Angelm" ist eine Mischung aus Absicht und einer gesunden Portion Spontaneität. Wir haben das Album so angelegt, dass sich eine gesunde Dynamik im Verlauf der einzelnen Tracks und dann wieder über die gesamte Platte hinweg ergibt. Wir haben viel auf Papier geschrieben, um jeden Track in Teile mit bestimmten Ideen, Atmosphären oder Stimmungen einzuteilen, damit sich die Songs in einer linearen Richtung richtig anfühle.
 
