@@ -1,10 +1,10 @@
 ---
 date: 2024-10-17T09:30:06.561Z
-title: 'Keretta Drummer H. Walker über das neue Album "Angelm"'
+title: 'Kerretta Drummer H. Walker über das neue Album "Angelm"'
 subTitle: '"Wir sollten alle freundlicher miteinander umgehen!"'
 type: article
 typeName: Interview
-description: 'Keretta haben ihr neues Album "Angelm" fertig. Lest jetzt mein Interview mit Drummer H. Walker und hört in die ersten Songs rein!'
+description: 'Kerretta haben ihr neues Album "Angelm" fertig. Lest jetzt mein Interview mit Drummer H. Walker und hört in die ersten Songs rein!'
 labels:
   - Musik
   - Band
@@ -17,16 +17,16 @@ labels:
   - Neuseeland
   - Experimental
 language: de
-image: https://storage.googleapis.com/cardamonchai-media/2024-10-17/keretta-angelm-soundsvegan-com-2-png-imagine-181818_6a6a6b_1024_768/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2024-10-17/Kerretta-angelm-soundsvegan-com-2-png-imagine-181818_6a6a6b_1024_768/640.webp
 seoTitle: 'Kerretta – "Angelm" – Lest jetzt das Interview zum neuen Album!'
-ogImage: https://storage.googleapis.com/cardamonchai-media/2024-10-17/keretta-angelm-soundsvegan-com-og-jpg-imagine-a8a8a8_949393_1200_628/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2024-10-17/Kerretta-angelm-soundsvegan-com-og-jpg-imagine-a8a8a8_949393_1200_628/640.webp
 imageCopyright: Kerretta
 languageLink: /2024/10/kerretta-interview-en/
-excerpt: Keretta haben ihr neues Album "Angelm" fertig – es erscheint am Freitag, 18. Oktober 2024. Drummer H. Walker hat meiner Interviewanfrage zugestimmt und ich habe ihn alles gefragt, was ich über die Meilenstein-Platte wissen wollte. Wir haben uns auch über den Kreativprozess der Band, ihre Einflüsse und Neuseeland unterhalten.
+excerpt: Kerretta haben ihr neues Album "Angelm" fertig – es erscheint am Freitag, 18. Oktober 2024. Drummer H. Walker hat meiner Interviewanfrage zugestimmt und ich habe ihn alles gefragt, was ich über die Meilenstein-Platte wissen wollte. Wir haben uns auch über den Kreativprozess der Band, ihre Einflüsse und Neuseeland unterhalten.
 focusKeyword: 'Kerretta – "Angelm" – Interview'
 ---
 
-**Keretta haben ihr neues Album "Angelm" fertig – es erscheint am Freitag, 18. Oktober 2024. Drummer H. Walker hat meiner Interviewanfrage zugestimmt und ich habe ihn alles gefragt, was ich über die Meilenstein-Platte wissen wollte. Wir haben uns auch über den Kreativprozess der Band, ihre Einflüsse und Neuseeland unterhalten.**
+**Kerretta haben ihr neues Album "Angelm" fertig – es erscheint am Freitag, 18. Oktober 2024. Drummer H. Walker hat meiner Interviewanfrage zugestimmt und ich habe ihn alles gefragt, was ich über die Meilenstein-Platte wissen wollte. Wir haben uns auch über den Kreativprozess der Band, ihre Einflüsse und Neuseeland unterhalten.**
 
 **Anne:** Hi! Danke, dass Du Dir die Zeit für das Interview nimmst. Wie geht es Dir im Moment?
 
@@ -44,7 +44,7 @@ Thank you! Es hat eine Weile gedauert, bis wir so weit waren, dass wir neue Musi
 
 ## "Wir haben angefangen, die Songs zu schreiben, als die Menschen in Quarantäne waren"
 
-![Kerretta – "Angelm"](https://storage.googleapis.com/cardamonchai-media/2024-10-17/keretta-angelm-soundsvegan-com-album-artwork-jpg-imagine-080808_1b130e_1080_1080/640.webp 'Kerretta – "Angelm"')
+![Kerretta – "Angelm"](https://storage.googleapis.com/cardamonchai-media/2024-10-17/Kerretta-angelm-soundsvegan-com-album-artwork-jpg-imagine-080808_1b130e_1080_1080/640.webp 'Kerretta – "Angelm"')
 
 **H. Walker:** Als wir mit dem Schreiben anfingen, war das während der Zeit der Abriegelungen und Trennung der Menschen voneinander. Die Menschen lebten also in dieser Existenz der Trennung. Wir hatten dieses Konzept der Fragmentierung, aber auch eine natürliche Anziehungskraft für eine Form des Zusammenwachsens.
 
@@ -102,7 +102,7 @@ Dave hat "Angelm" in einem Studio auf einem großen Lightship auf der Themse in 
 
 **H. Walker:** Für manche ja. Für andere vielleicht nicht so sehr. Wir wollten, dass diese Extreme da sind, weil wir wollten, dass es für uns aufregend ist, etwas zu machen und zu hören. Und wir hatten das Glück, das auch mit anderen teilen zu können – von Räumen bis zu einem Sturm der Sinne. Tage können oft routinemäßig oder betäubend sein. Wir wollen dem trotzen, indem wir Kopf und Körper anregen.
 
-**Anne:** Als Zuhörer\*in hat man keine Chance. Sobald man anfängt, Keretta zu hören und in einen Song eintaucht, begibt man sich auf eine Reise, die einen an fantasievolle Orte führt. War das schon immer Euer Ziel? Die Menschen dazu einzuladen, ihren Alltag für einen Moment zu vergessen und in eine Welt zu reisen, in der Dinge wie Zeit und Geld keine Rolle spielen?
+**Anne:** Als Zuhörer\*in hat man keine Chance. Sobald man anfängt, Kerretta zu hören und in einen Song eintaucht, begibt man sich auf eine Reise, die einen an fantasievolle Orte führt. War das schon immer Euer Ziel? Die Menschen dazu einzuladen, ihren Alltag für einen Moment zu vergessen und in eine Welt zu reisen, in der Dinge wie Zeit und Geld keine Rolle spielen?
 
 **H. Walker:** Ja! Ziemlich genau das! Du hast die Wahl zwischen einem Soundtrack des Lebens oder einem Leben in einem Soundtrack.
 

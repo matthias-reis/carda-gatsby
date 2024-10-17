@@ -1,10 +1,10 @@
 ---
 date: 2024-10-17T09:15:06.561Z
-title: 'Keretta Drummer H. Walker about the New Album, "Angelm"'
+title: 'Kerretta Drummer H. Walker about the New Album, "Angelm"'
 subTitle: '"We should all be kinder!"'
 type: article
 typeName: Interview
-description: 'Keretta have their new album, "Angelm" ready to be released. Read my interview with drummer H. Walker about it now and check out the first songs!'
+description: 'Kerretta have their new album, "Angelm" ready to be released. Read my interview with drummer H. Walker about it now and check out the first songs!'
 labels:
   - Musik
   - Band
@@ -17,16 +17,16 @@ labels:
   - New Zealand
   - Experimental
 language: en
-image: https://storage.googleapis.com/cardamonchai-media/2024-10-17/keretta-angelm-soundsvegan-com-2-png-imagine-181818_6a6a6b_1024_768/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2024-10-17/Kerretta-angelm-soundsvegan-com-2-png-imagine-181818_6a6a6b_1024_768/640.webp
 seoTitle: Kerretta – "Angelm" – Read the interview about their new album!
-ogImage: https://storage.googleapis.com/cardamonchai-media/2024-10-17/keretta-angelm-soundsvegan-com-og-jpg-imagine-a8a8a8_949393_1200_628/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2024-10-17/Kerretta-angelm-soundsvegan-com-og-jpg-imagine-a8a8a8_949393_1200_628/640.webp
 imageCopyright: Kerretta
 languageLink: /2024/10/kerretta-interview/
-excerpt: 'Keretta have their new album, "Angelm", ready to be released on Friday, October 18th, 2024. Drummer H. Walker agreed to an interview, and I asked him everything I wanted to know about this milestone record. We also talked about the band‘s creative process, their influences, and New Zealand.'
+excerpt: 'Kerretta have their new album, "Angelm", ready to be released on Friday, October 18th, 2024. Drummer H. Walker agreed to an interview, and I asked him everything I wanted to know about this milestone record. We also talked about the band‘s creative process, their influences, and New Zealand.'
 focusKeyword: 'Interview – "Angelm" – Kerretta'
 ---
 
-**Keretta have their new album, "Angelm" ready to be released on Friday, October 18th, 2024. Drummer H. Walker agreed to an interview, and I asked him everything I wanted to know about this milestone record. We also talked about the band's creative process, their influences, and New Zealand.**
+**Kerretta have their new album, "Angelm" ready to be released on Friday, October 18th, 2024. Drummer H. Walker agreed to an interview, and I asked him everything I wanted to know about this milestone record. We also talked about the band's creative process, their influences, and New Zealand.**
 
 **Anne:** Hi! Thanks for taking the time to do this interview! How are you doing right now?
 
@@ -42,7 +42,7 @@ focusKeyword: 'Interview – "Angelm" – Kerretta'
 
 ## "We started writing the songs when people were separated from each other"
 
-![Kerretta – "Angelm"](https://storage.googleapis.com/cardamonchai-media/2024-10-17/keretta-angelm-soundsvegan-com-album-artwork-jpg-imagine-080808_1b130e_1080_1080/640.webp 'Kerretta – "Angelm"')
+![Kerretta – "Angelm"](https://storage.googleapis.com/cardamonchai-media/2024-10-17/Kerretta-angelm-soundsvegan-com-album-artwork-jpg-imagine-080808_1b130e_1080_1080/640.webp 'Kerretta – "Angelm"')
 
 **H. Walker:** When we began writing, it was during the time of lockdowns and when people were separated from each other. So, people were living in this existence of separation. We had this concept of fragmentation but a natural draw to some form of coalescence.
 
@@ -100,7 +100,7 @@ Dave mixed 'Angelm' in a studio situated on a giant lightship on the River Thame
 
 **H. Walker:** For some, yes. For others, maybe not so much. We wanted the extremes to be there because we wanted it to be exciting for us to make and to listen to. And we were lucky to be able to share that with others, too—from spaces alone to a storm on the senses. Days can often be routine or numbing. We aim to defy that by energizing the head and body.
 
-**Anne:** As a listener, you just can't help yourself. As soon as you start listening to Keretta and immerse yourself in a song, you embark on a journey, taking you to imaginative places. Has this always been your goal? To invite people to forget their everyday lives for a few moments and travel to a world where things like time and money don't matter?
+**Anne:** As a listener, you just can't help yourself. As soon as you start listening to Kerretta and immerse yourself in a song, you embark on a journey, taking you to imaginative places. Has this always been your goal? To invite people to forget their everyday lives for a few moments and travel to a world where things like time and money don't matter?
 
 **H. Walker:** Yes! Pretty much exactly that! A choice of either a soundtrack to life or a life within a soundtrack.
 
