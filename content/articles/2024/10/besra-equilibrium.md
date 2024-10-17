@@ -37,7 +37,7 @@ Und genau so klingen die vier neuen Tracks auf der EP auch – direkt, klar und 
 
 ## Neue Direktheit und Härte
 
-![Besra – "Equilibrium"](https://storage.googleapis.com/cardamonchai-media/2024-10-08/the-pulsing-rush-album-cover-by-jorge-rabelo-soundsvegan-com-jpg-imagine-280848_646464_2100_2100/640.webp 'Besra – "Equilibrium"')
+![Besra – "Equilibrium"](https://storage.googleapis.com/cardamonchai-media/2024-10-17/besra-equilibrium-soundsvegan-com-ep-cover-jpg-imagine-080808_161b1e_425_425/640.webp 'Besra – "Equilibrium"')
 
 Mit diesem Ansatz ist es der Band gelungen, ihre dunklere Seite hervorzuarbeiten, die laut Hannes derzeit sehr präsent ist:
 
