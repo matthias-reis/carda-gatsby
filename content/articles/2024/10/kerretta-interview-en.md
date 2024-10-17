@@ -17,7 +17,7 @@ labels:
   - New Zealand
   - Experimental
 language: en
-image: https://storage.googleapis.com/cardamonchai-media/2024-10-17/Kerretta-angelm-soundsvegan-com-2-png-imagine-181818_6a6a6b_1024_768/640.webp
+image: https://storage.googleapis.com/cardamonchai-media/2024-10-17/keretta-angelm-soundsvegan-com-jpg-imagine-f8f8f8_9f9e9f_1024_768/640.webp
 seoTitle: Kerretta – "Angelm" – Read the interview about their new album!
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-10-17/Kerretta-angelm-soundsvegan-com-og-jpg-imagine-a8a8a8_949393_1200_628/640.webp
 imageCopyright: Kerretta
