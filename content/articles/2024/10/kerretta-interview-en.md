@@ -1,7 +1,7 @@
 ---
 date: 2024-10-17T09:15:06.561Z
 title: 'Kerretta Drummer H. Walker about the New Album, "Angelm"'
-subTitle: '"We should all be kinder!"'
+subTitle: '"We should all be more kind!"'
 type: article
 typeName: Interview
 description: 'Kerretta have their new album, "Angelm" ready to be released. Read my interview with drummer H. Walker about it now and check out the first songs!'
