@@ -29,9 +29,9 @@ focusKeyword: 'Besra – "Equilibrium" – Preview'
 
 **Besras neue EP "Equilibrium", die am 1. November 2024 erscheint, markiert den Kurswechsel in dunklere und direktere Gewässer. Im Vergleich zu ihrem 2023 veröffentlichten Album "Transitions", das über fast fünf Jahre hinweg reifte, hat die Band aus Finnland "Equilibrium" in einem rekordverdächtigen Zeitraum von nur fünf Monaten fertiggestellt.**
 
-Hierbei handelt es sich zunächst gefühlt eher um ein Experiment, als um einen umfassenden Wendepunkt in Besras künstlerischen Entwicklung. Während mir Hannes und Ville [im Interview zu "Transistions" im September 2023](/2023/10/besra-interview/) noch von ihren ausgedehnten Schaffensprozessen berichteten, in denen sie jedes Detail genau analysierten, bevor es Teil eines Songs wurde, steht die Entstehung von "Equilibrium" nun im klaren Kontrast zu dieser Vorgehensweise.
+Hierbei handelt es sich zunächst gefühlt eher um ein Experiment, als um einen umfassenden Wendepunkt in Besras künstlerischen Entwicklung. Während mir Sänger Hannes und Schlagzeuger Ville [im Interview zu "Transistions" im September 2023](/2023/10/besra-interview/) noch von ihren ausgedehnten Schaffensprozessen berichteten, in denen sie jedes Detail genau analysierten, bevor es Teil eines Songs wurde, steht die Entstehung von "Equilibrium" nun im klaren Kontrast zu dieser Vorgehensweise.
 
-Und genau so klingen die vier neuen Tracks auf der EP auch – direkt, klar und voll Tiefe und Dunkelheit. Bei der Arbeit an den Stücken setzte sich die Band bewusst einem gewissen Zeitdruck aus. Johannes (Hannes) Nygård erzählt:
+Und genau so klingen die vier neuen Tracks auf der EP auch – direkt, klar und voll Tiefe und Dunkelheit. Bei der Arbeit an den Stücken setzte sich die Band bewusst einem gewissen Zeitdruck aus. Gitarrist Johannes Nygård erzählt:
 
 > "Wir haben unseren kreativen Prozess auf fünf Monate komprimiert. Wir hatten noch Material von der letzten Platte, das wir nicht veröffentlicht hatten übrig. Wir hatten aber das Gefühl, dass neue Ideen in uns aufbrodelten. Also haben wir diese alten Entwürfe wieder aufgemacht und parallel dazu neues Material komponiert."
 
@@ -39,7 +39,7 @@ Und genau so klingen die vier neuen Tracks auf der EP auch – direkt, klar und 
 
 ![Besra – "Equilibrium"](https://storage.googleapis.com/cardamonchai-media/2024-10-17/besra-equilibrium-soundsvegan-com-ep-cover-jpg-imagine-080808_161b1e_425_425/640.webp 'Besra – "Equilibrium"')
 
-Mit diesem Ansatz ist es der Band gelungen, ihre dunklere Seite hervorzuarbeiten, die laut Hannes derzeit sehr präsent ist:
+Mit diesem Ansatz ist es der Band gelungen, ihre dunklere Seite hervorzuarbeiten, die laut Johannes derzeit sehr präsent ist:
 
 > "Unser enger Zeitplan für die Produktion sorgte für eine gewisse Unruhe. Er brachte uns jedoch auch eine neue Art von Kreativität und Einigkeit. Wir mussten unserer Intuition und den Ideen der anderen mehr denn je vertrauen. Am Ende war die EP in fünf Monaten statt in fünf Jahren fertig, was für uns wahrscheinlich eine Art Rekord ist. Eine gewisse Geradlinigkeit ist auch im Sound zu hören - dieses Material ist wahrscheinlich weniger progressiv, dafür aber umso intensiver und düsterer."
 
@@ -51,11 +51,11 @@ Wer jetzt in Sorge ist, auf die gewohnten Klanglandschaften verzichten zu müsse
 
 Magnus Lindberg, den ihr von seiner Arbeit mit Bands wie Cult of Luna, EF ([Interview hier](/2022/11/ef-interview/)) und Russian Circles kennt, hat "Equilibrium" produziert und abgemischt. Expert\*innen können seine Handschrift an verschiedenen Stellen hören. Der klare Sound, die Direktheit und die extremen Gegensätze sprechen für sich.
 
-Der straffe Zeitplan führte laut Hannes dazu, dass Besra über ihre Grenzen hinauswuchsen und mehr als je zuvor als eine Einheit funktionierten. Kein Wunder, dass die Platte so schön rund klingt. Zwar sind auch die Stücke kürzer geworden, als wir es von der Band gewohnt sind, sie klingen jedoch extrem straight forward und intensiv – ja fast hypnotisch. Zum Heraustreten aus der eher proggigen Ecke hin zu einer etwas offeneren und härteren Gangart fallen mir spontan diverse Bilder ein. Das von einem Raben, der in einer großen Bücherei lebt, in der er sich über die Jahrzehnte all das Wissen in ihr angeeignet hat und der jetzt den Staub aus seinem Gefieder schüttelt und zu einem Rundflug aufbricht, ist wohl am klarsten. Wie lange dieser Rundflug dauern wird und ob der Rabe anschließend wieder in seine Gemächer zurückkehrt, bleibt offen.
+Der straffe Zeitplan führte laut Johannes dazu, dass Besra über ihre Grenzen hinauswuchsen und mehr als je zuvor als eine Einheit funktionierten. Kein Wunder, dass die Platte so schön rund klingt. Zwar sind auch die Stücke kürzer geworden, als wir es von der Band gewohnt sind, sie klingen jedoch extrem straight forward und intensiv – ja fast hypnotisch. Zum Heraustreten aus der eher proggigen Ecke hin zu einer etwas offeneren und härteren Gangart fallen mir spontan diverse Bilder ein. Das von einem Raben, der in einer großen Bücherei lebt, in der er sich über die Jahrzehnte all das Wissen in ihr angeeignet hat und der jetzt den Staub aus seinem Gefieder schüttelt und zu einem Rundflug aufbricht, ist wohl am klarsten. Wie lange dieser Rundflug dauern wird und ob der Rabe anschließend wieder in seine Gemächer zurückkehrt, bleibt offen.
 
 ## Fazit: Unbedingt anhören!
 
-Mit "Equilibrium" liefern Besra ein intensives und direktes Werk ab. Ihre blumig-proggige Seite hat die Band dafür abgestreift und Emotionen und Raum geschaffen für dunkle Klarheit und raue Offenheit. Das kreative Experiment ist in meinen Augen definitiv aufgegangen – "Equilibrium" sollte in keinem Post-Music-Plattenschrank fehlen.
+Mit "Equilibrium" liefern Besra ein intensives und direktes Werk ab. Ihre blumig-proggige Seite hat die Band dafür abgestreift und Emotionen und Raum geschaffen für dunkle Klarheit und raue Offenheit. Das kreative Experiment ist in meinen Augen definitiv aufgegangen – "Equilibrium" sollte in keiner Post-Music-Sammlung fehlen.
 
 ## Track-Liste "Equilibrium"
 
