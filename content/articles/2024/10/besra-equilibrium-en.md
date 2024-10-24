@@ -23,11 +23,11 @@ seoTitle: Besra – "Equilibrium" – Find out everything about the new EP!
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-10-17/besra-equilibrium-soundsvegan-com-og-jpg-imagine-080808_1b1c1c_1200_628/640.webp
 imageCopyright: Besra
 languageLink: /2024/10/besra-equilibrium/
-excerpt: Besra's new EP, "Equilibrium", set to release on November 1, 2024, ventures a pleasant step into darker, heavier waters. Compared to their 2023 album "Transitions", which took nearly five years to ripen, the Finnish band completed "Equilibrium" in a record-breaking timeframe of just five months.
+excerpt: Besra's new EP, "Equilibrium", set to release on November 1st, 2024, ventures a pleasant step into darker, heavier waters. Compared to their 2023 album "Transitions", which took nearly five years to ripen, the Finnish band completed "Equilibrium" in a record-breaking timeframe of just five months.
 focusKeyword: 'Preview – Besra – "Equilibrum"'
 ---
 
-**Besra's new EP, "Equilibrium", set to release on November 1, 2024, ventures a pleasant step into darker, heavier waters. Compared to their 2023 album "Transitions", which took nearly five years to ripen, the Finnish band completed "Equilibrium" in a record-breaking timeframe of just five months.**
+**Besra's new EP, "Equilibrium", set to release on November 1st, 2024, ventures a pleasant step into darker, heavier waters. Compared to their 2023 album "Transitions", which took nearly five years to ripen, the Finnish band completed "Equilibrium" in a record-breaking timeframe of just five months.**
 
 Nevertheless, the new EP, for now, feels more like an experiment than a major turning point in Besra's artistic evolution. During [my interview with Hannes and Ville about "Transitions" in September 2023](/2023/10/besra-interview-en/), they shared insights about their extended creative processes, where they analysed every detail meticulously analysed before making it a part of a song. In a crass contrast to this, with their creation of "Equilibrium", they followed a much more immediate and instinctive approach.
 
