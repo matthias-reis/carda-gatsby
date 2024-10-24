@@ -4,7 +4,7 @@ title: 'Interview mit Maciek Stępniewski'
 subTitle: '"Wenn wir das Tierleid und die Industrie dahinter beenden, wird das auch zahlreiche weitere Probleme lösen"'
 type: article
 typeName: Interview
-description: 'Maciek Stępniewski (Haunted) hat sein neues Album "Somewhere Along" fertig. Lest jetzt mein Interview und erfahrt alles über seine Musik und seine Verbindung zum Veganismus.'
+description: 'Maciek Stępniewski (Haunting) hat sein neues Album "Somewhere Along" fertig. Lest jetzt mein Interview und erfahrt alles über seine Musik und seine Verbindung zum Veganismus.'
 labels:
   - Musik
   - Band
@@ -15,7 +15,7 @@ labels:
   - Vegan Celebrities
   - Ambient
   - Experimental
-  - Haunted
+  - Haunting
   - Maciek Stępniewski
   - Warschau
   - Portugal

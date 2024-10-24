@@ -4,7 +4,7 @@ title: 'Maciek Stępniewski – Interview About his Album, "Somewhere Along"'
 subTitle: '"If we Stop Industrial Animal Exploitation, We‘ll Probably Fix Many Other Problems at the Same Time"'
 type: article
 typeName: Interview
-description: 'Maciek Stępniewski (Haunted) just realeased his new album, "Somewhere Along". Read my interview and learn about his music and his vegan journey.'
+description: 'Maciek Stępniewski (Haunting) just realeased his new album, "Somewhere Along". Read my interview and learn about his music and his vegan journey.'
 labels:
   - Musik
   - Band
@@ -15,7 +15,7 @@ labels:
   - Vegan Celebrities
   - Ambient
   - Experimental
-  - Haunted
+  - Haunting
   - Maciek Stępniewski
   - Warsaw
   - Portugal
@@ -57,7 +57,7 @@ focusKeyword: 'Interview – "Somewhere Along" – Maciek Stępniewski – vegan
 
 ## "'Erase Myself' best expresses the mood of the album"
 
-**Maciek:** No, I wouldn't say so. I like it as a whole. If anything, I think that "erase myself" greatly conveys its atmosphere, which is not a surprise because I made it literally hours after returning home. I also have a sentiment about the title of "the new king of hell", it comes from a small piece of graffiti we've found in a park in Lisbon, which said to smile because you'll die soon anyway and become the new king of hell and it stayed with us and became an inside joke. To be fair, though, I'm a person with a lot of existential dread, and while I don't hold any magical beliefs about the afterlife or so, I could settle for going to hell to rule it.
+**Maciek:** I wouldn't say so. I like it as a whole. If anything, I think that "erase myself" greatly conveys its atmosphere, which is not a surprise because I made it literally hours after returning home. I also have a sentiment about the title of "the new king of hell", it comes from a small piece of graffiti we've found in a park in Lisbon, which said to smile because you'll die soon anyway and become the new king of hell and it stayed with us and became an inside joke. To be fair, though, I'm a person with a lot of existential dread, and while I don't hold any magical beliefs about the afterlife or so, I could settle for going to hell to rule it.
 
 **Anne:** How long did it take you to write and record "Somewhere Along"?
 
