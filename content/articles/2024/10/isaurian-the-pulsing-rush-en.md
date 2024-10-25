@@ -54,6 +54,8 @@ The five musicians seem to have found exactly what they were searching for, comp
 
 Isaurian consists of Jorge Rabelo (guitars, vocals, keys), Hoanna Aragão (vocals), Guilherme Tanner (guitars), Roberto Tavares (drums), and Renata Marim (bass).
 
+[Read my interview with Isaurian about "The Pulsing Rush" now](/2024/10/isaurian-interview-en/)!
+
 ## "The Pulsing Rush" – tracklist
 
 1. Heart Like a Curse (6:22)
