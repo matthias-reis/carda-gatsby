@@ -1,6 +1,6 @@
 ---
 date: 2024-10-25T12:15:06.561Z
-title: 'Isaurian About Their New Album, "The Pulsing Rush"s'
+title: 'Isaurian About Their New Album, "The Pulsing Rush"'
 subTitle: '"It‘s Time to Let Nature Take Over"'
 type: article
 typeName: Interview
