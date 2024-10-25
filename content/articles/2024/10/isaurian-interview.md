@@ -73,7 +73,7 @@ Glücklicherweise ist unsere spezielle Kunstform gemeinschaftlich. Musik bringt 
 
 ## "Songwriting braucht Emotionen"
 
-![Isaurian](https://storage.googleapis.com/cardamonchai-media/2024-10-25/isaurian-interview-soundsvegan-com-gramulho-instagram-jpg-imagine-081818_385559_1024_768/640.webp 'Isaurian')
+![Isaurian. Bild/Picture: © gramulho, Instagram](https://storage.googleapis.com/cardamonchai-media/2024-10-25/isaurian-interview-soundsvegan-com-gramulho-instagram-jpg-imagine-081818_385559_1024_768/640.webp 'Isaurian. Bild/Picture: © gramulho, Instagram')
 
 **Jorge:** Emotionen sind alles, wenn es ums Songwriting geht. Ich muss etwas fühlen, wenn ich Musik höre, und das gilt auch für die Musik, die ich schreibe. Wenn sie mich nicht emotional berührt, bedeutet sie nichts und wird verworfen. Was die inspirierendsten Emotionen angeht, oje, das ist eine gute Frage … für mich war es die Liebe. Ist Liebe eine Emotion? Ich habe das Gefühl, dass selbst Songs mit dunkleren Themen, wie "Árida" von unserem letzten Album, am Ende irgendwie von der Liebe beeinflusst sind. Von der Perspektive, in einer zunehmend schrecklichen Welt zu lieben. Die Begegnung mit meiner Frau hat mir das gebracht.
 
@@ -105,7 +105,7 @@ Außerdem hat er die Keys eingespielt, also möchte ich gerne damit angeben, das
 
 ## "Der Kapitalismus in seiner derzeitigen Form sollte zerstört werden"
 
-![Isaurian](https://storage.googleapis.com/cardamonchai-media/2024-10-25/isaurian-interview-soundsvegan-com-august-30th-30-de-agosto-stay-tuned-fiquem-atentos-gramulho-instagram-jpg-imagine-f8f8f8_606a70_1024_768/640.webp 'Isaurian')
+![Isaurian. Bild/Picture: © gramulho, Instagram](https://storage.googleapis.com/cardamonchai-media/2024-10-25/isaurian-interview-soundsvegan-com-august-30th-30-de-agosto-stay-tuned-fiquem-atentos-gramulho-instagram-jpg-imagine-f8f8f8_606a70_1024_768/640.webp 'Isaurian. Bild/Picture: © gramulho, Instagram')
 
 **Jorge:** Au Backe … Ich glaube, die Menschheit hat ihren Auftritt gehabt. Es ist an der Zeit, die Natur übernehmen zu lassen. Das Gefühl habe ich wirklich. Aber ja, wenn ich die Macht hätte, würde ich wahrscheinlich versuchen, den Kapitalismus in seiner jetzigen Form zu zerstören und damit die sozialen Ungleichheiten radikal zu verringern. Eine Welt ohne die Existenz von Milliardär\*innen. Ohne die permanente und unwiderrufliche Zerstörung von allem, was wichtig ist, damit 0,5 Prozent der Welt immer reicher werden. Aber ich fühle mich machtlos, also hoffe ich einfach, dass die Natur ihre Rache beschleunigt.
 

@@ -69,7 +69,7 @@ And fortunately for us, our specific art form is communal. Music brings people t
 
 ## "Songwriting needs emotions"
 
-![Isaurian](https://storage.googleapis.com/cardamonchai-media/2024-10-25/isaurian-interview-soundsvegan-com-gramulho-instagram-jpg-imagine-081818_385559_1024_768/640.webp 'Isaurian')
+![Isaurian. Bild/Picture: © gramulho, Instagram](https://storage.googleapis.com/cardamonchai-media/2024-10-25/isaurian-interview-soundsvegan-com-gramulho-instagram-jpg-imagine-081818_385559_1024_768/640.webp 'Isaurian. Bild/Picture: © gramulho, Instagram')
 
 **Jorge:** Emotions are everything when it comes to writing. I have to feel things when I am listening to music, which applies to the music I write. If it doesn't take me somewhere emotionally, it means nothing and will be discarded as such. As for the most inspiring emotion, oof, that is a good question… It has been love, to me. Is love an emotion? I feel that even songs with darker themes, like "Árida" from our previous record, end up slightly skewed by love, by the perspective of loving in an increasingly terrible world. Meeting my wife brought me that.
 
@@ -101,7 +101,7 @@ Plus, he played keys on the album, so I would love to be able to boast that he's
 
 ## "Capitalism as it is should be destroyed"
 
-![Isaurian](https://storage.googleapis.com/cardamonchai-media/2024-10-25/isaurian-interview-soundsvegan-com-august-30th-30-de-agosto-stay-tuned-fiquem-atentos-gramulho-instagram-jpg-imagine-f8f8f8_606a70_1024_768/640.webp 'Isaurian')
+![Isaurian. Bild/Picture: © gramulho, Instagram](https://storage.googleapis.com/cardamonchai-media/2024-10-25/isaurian-interview-soundsvegan-com-august-30th-30-de-agosto-stay-tuned-fiquem-atentos-gramulho-instagram-jpg-imagine-f8f8f8_606a70_1024_768/640.webp 'Isaurian. Bild/Picture: © gramulho, Instagram')
 
 **Jorge:** Oh boy… I think humanity has run its course. It is time to let nature take over. That is how I truly feel. But yeah, if I had that power, I'd probably try to destroy capitalism as it is, thus radically diminishing social inequalities. A world without the existence of billionaires, without the continuous destruction of all that is important so we can make 0.5 per cent of the world richer. But I feel powerless every day, so I just hope nature accelerates her vengeance.
 
