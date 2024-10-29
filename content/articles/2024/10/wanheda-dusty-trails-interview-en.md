@@ -24,7 +24,7 @@ excerpt: 'Wanheda have a new album ready. With "Dusty Trails", the band from Leu
 focusKeyword: 'Interview – "Dusty Trails" – Wanheda'
 ---
 
-**Wanheda have a new album ready. With "Dusty Trails", the band from Leuven, Belgium, leads us to a place where stories develop from their melodies and opposites inspire each other. I had the chance to talk to lead guitarist Jan Verduyckt and ask him everything that came to mind after listening to the six songs.**
+**Wanheda have a new album ready to be released on November 22nd. With "Dusty Trails", the band from Leuven, Belgium, leads us to a place where stories develop from their melodies and opposites inspire each other. I had the chance to talk to lead guitarist Jan Verduyckt and ask him everything that came to mind after listening to the six songs.**
 
 Here is what I wrote on Bandcamp about "Dusty Trails":
 

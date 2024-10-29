@@ -24,7 +24,7 @@ excerpt: Wanheda haben ihr neues Album fertig. Mit "Dusty Trails" führt uns die
 focusKeyword: 'Wandheda – "Dusty Trails" – Interview'
 ---
 
-**Wanheda haben ihr neues Album fertig. Mit "Dusty Trails" führt uns die Band aus dem belgischen Leuven an einen Ort, an dem sich aus Melodien Geschichten entwickeln und Gegensätze einander inspirieren. Ich hatte die Gelegenheit, mit Lead-Gitarrist Jan Verduyckt zu sprechen und ihn alles zu fragen, was mir nach dem Hören der sechs Songs durch den Kopf ging.**
+**Wanheda haben ihr neues Album fertig – es erscheint am 22. November. Mit "Dusty Trails" führt uns die Band aus dem belgischen Leuven an einen Ort, an dem sich aus Melodien Geschichten entwickeln und Gegensätze einander inspirieren. Ich hatte die Gelegenheit, mit Lead-Gitarrist Jan Verduyckt zu sprechen und ihn alles zu fragen, was mir nach dem Hören der sechs Songs durch den Kopf ging.**
 
 Das habe ich auf Bandcamp über "Dusty Trails" geschrieben:
 
