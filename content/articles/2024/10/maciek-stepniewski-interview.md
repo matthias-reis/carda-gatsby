@@ -26,7 +26,7 @@ ogImage: https://storage.googleapis.com/cardamonchai-media/2024-10-24/maciek-ste
 imageCopyright: Maciek Stępniewski
 languageLink: /2024/10/maciek-stepniewski-interview-en/
 excerpt: Maciek Stępniewski (Haunting) kontaktierte mich vor einigen Tagen bezüglich seines kürzlich veröffentlichten Albums "Somewhere Along". Nachdem ich es gehört hatte, war mir sofort klar, dass ich mehr über seine Kunst erfahren musste. Im Interview haben wir uns auch über seinen Weg zum Veganismus unterhalten.
-focusKeyword: 'Maciek Stępniewski – "Somewhere Along – Interview'
+focusKeyword: 'Maciek Stępniewski – "Somewhere Along" – Interview'
 ---
 
 **Maciek Stępniewski[^1] (Haunting) kontaktierte mich vor einigen Tagen bezüglich seines kürzlich veröffentlichten Albums "Somewhere Along". Nachdem ich es gehört hatte, war mir sofort klar, dass ich mehr über seine Kunst erfahren musste. Die zehn Stücke auf "Somewhere Along" sind eine Mischung aus verträumten Abblend-Experimenten und eingängigen Beats. Der in Warschau lebende Musiker sprach mich auch auf meinen Veganismus an, also wollte ich natürlich auch wissen, welche Rolle dieses Thema in seinem Leben spielt. Hier ist mein Interview.**
