@@ -23,11 +23,11 @@ seoTitle: 'Moon Lanterns founding member Jon about veganism and the EP "Volume O
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-11-05/moon-lanterns-interview-soundsvegan-com-og-jpg-imagine-383828_775041_1200_628/640.webp
 imageCopyright: Moon Lanterns
 languageLink: /2024/11/moon-lanterns-interview/
-excerpt: 'Moon Lanterns is an experimental psychedelic/space rock project from Denver, Colorado. I talked to founding member Jon about their debut EP, "Volume One". Half the band is vegan, so we had a lot to chat about besides their brilliant songs that you should definitely listen to right now!'
+excerpt: 'Moon Lanterns is an experimental psychedelic/space rock project from Denver, Colorado. I talked to founding member Jon about their debut EP, "Volume One". Half the band is vegan, so we had a lot to chat about—besides their brilliant songs that you should definitely listen to right now, of course!'
 focusKeyword: 'Interview – "Volume One" – Moon Lanterns – vegan musicians'
 ---
 
-**Moon Lanterns is an experimental psychedelic/space rock project from Denver, Colorado. I talked to founding member Jon about their debut EP, "Volume One". Half the band is vegan, so we had a lot to chat about besides their brilliant songs that you should definitely listen to right now!**
+**Moon Lanterns is an experimental psychedelic/space rock project from Denver, Colorado. I talked to founding member Jon about their debut EP, "Volume One". Half the band is vegan, so we had a lot to chat about—besides their brilliant songs that you should definitely listen to right now, of course!**
 
 Moon Lanterns is:
 
