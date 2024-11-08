@@ -21,7 +21,7 @@ labels:
 language: de
 image: https://storage.googleapis.com/cardamonchai-media/2024-11-08/gewalt-band-doppeldenk-interview-soundsvegan-com-jpg-imagine-182828_6a6469_1024_768/640.webp
 seoTitle: 'Gewalt – "Doppeldenk" – Wut Wave Band Berlin/Wien – Interview'
-ogImage: https://storage.googleapis.com/cardamonchai-media/2024-11-05/moon-lanterns-interview-soundsvegan-com-og-jpg-imagine-383828_775041_1200_628/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2024-11-08/gewalt-band-doppeldenk-interview-soundsvegan-com-og-jpg-imagine-182828_797378_1200_628/640.webp
 imageCopyright: Gewalt Band
 languageLink:
 excerpt: Gewalt ist ein Wut-Wave-Trio aus Berlin und Wien, das gerade ordentlich für Wirbel sorgt. Weil die Band um Helen Henfling, Jasmin Rilke und Patrick Wagner gerade ihr neues Album "Doppeldenk" fertig hat, habe ich sie schön spontan zum Interview eingeladen, um mir mal ein paar Fragen beantworten zu lassen, die mir schon länger auf den Nägeln brannten.
