@@ -40,7 +40,7 @@ focusKeyword: 'Gewalt – "Doppeldenk" – Interview'
 
 ![Gewalt – "Doppeldenk"](https://storage.googleapis.com/cardamonchai-media/2024-11-08/gewalt-doppeldenk-interview-soundsvegan-com-album-artwork-jpg-imagine-e8e8e8_dfa6a5_600_600/640.webp 'Gewalt – "Doppeldenk"')
 
-**Patrick:** Um ehrlich zu sein – sehr. Das merken wir daran, dass wir gerade die Songs für die Tour proben, es macht wirklich Spaß, das Zeug zu spielen. Oder wenn Schwarz Schwarz oder Sonnensturm (viel zu selten) im Radio laufen, denken wir: "Wow, das ist echt stark – besser und interessanter als der Rest." Aber das ist wohl derzeit auch nicht sonderlich schwer.
+**Patrick:** Um ehrlich zu sein – sehr. Das merken wir daran, dass wir gerade die Songs für die Tour proben, es macht wirklich Spaß, das Zeug zu spielen. Oder wenn "Schwarz Schwarz" oder "Sonnensturm" (viel zu selten) im Radio laufen, denken wir: "Wow, das ist echt stark – besser und interessanter als der Rest." Aber das ist wohl derzeit auch nicht sonderlich schwer.
 
 **Anne:** Eure Tour ist ja schon losgegangen. Für welche Locations kann man noch Tickets bekommen?
 
