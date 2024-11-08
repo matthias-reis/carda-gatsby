@@ -101,3 +101,7 @@ Minimalismus ist wohl auch wichtig – Sleaford Mods. Es braucht nicht viel, um 
 **Anne:** Vielen Dank, dass Ihr meine Fragen beantwortet habt! Es war mir eine Freude, Euch kennenzulernen!
 
 **Gewalt:** Danke für die Fragen!
+
+## Gewalt – "Schwarz Schwarz"
+
+<YouTube id="4HSIw0Idy4M" />
