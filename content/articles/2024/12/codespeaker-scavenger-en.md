@@ -27,7 +27,7 @@ excerpt: 'Codespeaker just released their second album, "Scavenger". Following t
 focusKeyword: 'Review – "Scavenger" – Codespeaker – post-metal'
 ---
 
-**Codespeaker just released their second album, "Scavenger". Following their critically acclaimed debut, the band has taken things one step further with this record, sure to warm the hearts of fans of Cult of Luna and Neurosis. Expect haunting, unforgettable, hypnotic riffs paired with emotionally charged vocals. Join Codespeaker on their journey into the darker realms of the human psyche starting November 8, 2024—the day "Scavenger" dropped on Ripcord Records.**
+**Codespeaker just released their second album, "Scavenger". Following their critically acclaimed debut, the band has taken things one step further with this record, sure to warm the hearts of fans of Cult of Luna and Neurosis. Expect haunting, unforgettable, hypnotic riffs paired with emotionally charged vocals await you. Join Codespeaker on their journey into the darker realms of the human psyche starting November 8, 2024—the day "Scavenger" dropped on Ripcord Records.**
 
 Several music magazines have already heaped praise on this band from the Scottish capital. If you haven't heard of them yet, don't waste any more time—dive into their music now. It's well worth it. When Codespeaker first gained attention in 2023, sharing stages with acts like Pound, Sylvaine, and Hundred Year Old Man, they quickly secured a permanent spot on the playlists of countless post-metal enthusiasts. Their unique mix of atmospheric, dark, and heavy elements is both memorable and distinct.
 
