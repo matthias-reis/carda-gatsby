@@ -5,12 +5,8 @@ typeName: Rezept
 title: Zwetsch­gen­mar­me­la­de mit Bir­ken­zu­cker
 seoTitle: Zwetschgenmarmelade mit Birkenzucker - lecker und gesundheitsbewusst
 ogTitle: Zwetschgenmarmelade mit Birkenzucker - lecker und gesundheitsbewusst
-description: Zwetschgen gehören zum Herbst einfach dazu. Mit einer leckeren,
-  selbst gemachten Zwetschgenmarmelade könnt Ihr ihren Geschmack das ganze Jahr
-  über genießen.
-excerpt: Zwetschgen gehören zum Herbst einfach dazu. Mit einer leckeren, selbst
-  gemachten Zwetschgenmarmelade könnt Ihr ihren Geschmack das ganze Jahr über
-  genießen.
+description: Zwetschgen gehören zum Herbst einfach dazu. Mit einer leckeren, selbst gemachten Zwetschgenmarmelade könnt Ihr ihren Geschmack das ganze Jahr über genießen.
+excerpt: Zwetschgen gehören zum Herbst einfach dazu. Mit einer leckeren, selbst gemachten Zwetschgenmarmelade könnt Ihr ihren Geschmack das ganze Jahr über genießen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-10-zwetschgenmarmelade-12__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-10-zwetschgenmarmelade-12__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQYH/8QAJxAAAQMEAgIBBAMAAAAAAAAAAQIDEQAEBSESMRNBBhQiJFEycaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAgP/xAAkEQABBAECBgMAAAAAAAAAAAABAAIDEQQxYRIhIlFxsYGh8f/aAAwDAQACEQMRAD8AQ+PMkqSogoQns9CtpbWy1sLLb7aF8SpttZCS5AniknUmCN/31XPbi3auLa1usmyt3GMSVNgkJJ2JJnQg9+iKZaydkxbLaurB93CeYptxzhxsFMlE9KjuQB3qj5PGGAsNc+fjbfT4TcTFEw6XdR0G/wCWn77OOM8S6pbjjqpZaUx4gWydSqexudbg1UjIsZQXAYMPNqKFoUZiNU7k8k3h3rj6KyQH3W/GhSjAt9ySn3+9Gs18Yx5aZeyN8442u6JdTPagZM1MBcS6ySO5r0FefG1jGGg1xuwLr7JPvyrwh17HWi7T8lTXKWSU9GP4gggkQdGAZqPI2+R+RZK1SnFJtUCPI4tIaAAj7pG970P8oopBNiijRZMkTeFhpaW8wNm6UuX7ir1QTxWCQlKiB7jfrqapc/cMqaAUlJPGOKCDH61RRUtAGiyllfIbebX/2Q==
@@ -34,11 +30,10 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Lecker und gesundheitsbewusst
-year: "2020"
-month: "09"
+year: '2020'
+month: '09'
 advertisement: false
-affiliate: true
-
+affiliate: false
 ---
 
 **Zwetschgen gehören zum Herbst einfach dazu. Mit einer leckeren, selbst gemachten Zwetsch­gen­mar­me­la­de könnt Ihr ihren wunderbaren Geschmack das ganze Jahr über genießen.**
@@ -48,7 +43,7 @@ Zwetsch­gen­mar­me­la­de ist wahnsinnig schmackhaft und der perfekte Beglei
 ## Zutaten
 
 - 1500 Gramm reife Zwetschgen
-- 500 Gramm Gelier-Birkenzucker (ich habe [den von Birkengold](https://t.adcell.com/p/click?promoId=229122&slotId=80259&param0=https%3A%2F%2Fshop.birkengold.com%2Fde%2Fgelier-birkenzucker-xylit-500-g.html) genommen und bin mit dem Ergebnis sehr zufrieden)
+- 500 Gramm Gelier-Birkenzucker
 
 ## Rezept für sechs bis acht Gläser Zetschgenmarmelade
 
@@ -64,7 +59,7 @@ Im nächsten Schritt kommt Euer Pürierstab zum Einsatz. Püriert die Zwetschgen
 
 ## Gelieren mit Xylit
 
-Wenn Ihr mit dem Pürieren durch seid, gebt Ihr die 500 Gramm [Gelier-Xylit](https://t.adcell.com/p/click?promoId=229122&slotId=80259&param0=https%3A%2F%2Fshop.birkengold.com%2Fde%2Fgelier-birkenzucker-xylit-500-g.html) hinzu. Stellt den Topf auf den Herd und stellt die Herdplatte auf volle Stufe. Legt einen Kochlöffel und eine Uhr bereit.
+Wenn Ihr mit dem Pürieren durch seid, gebt Ihr die 500 Gramm Gelier-Xylit hinzu. Stellt den Topf auf den Herd und stellt die Herdplatte auf volle Stufe. Legt einen Kochlöffel und eine Uhr bereit.
 
 Kocht die Zwetschgenmasse unter ständigem Rühren auf. Wenn sie sprudelnd kocht, beginnt die Gelierphase. Diese dauert zwischen fünf und zehn Minuten. Dreht den Herd eine Stufe nach unten und kocht die Marmelade ein. Das bedeutet: Ihr rührt permanent! Nach etwa fünf Minuten könnt Ihr die Konsistenz prüfen, indem Ihr ein paar Tropfen der Marmelade auf einen Teller gebt. Wenn sie Euch noch zu flüssig erscheint, kocht Ihr weiter. Bedenkt dabei, dass die Zwetsch­gen­mar­me­la­de beim Erkalten im Glas noch etwas fester wird. Ich habe meine Marmelade insgesamt zehn Minuten köcheln lassen.
 
