@@ -28,7 +28,7 @@ labels:
   - Vally
 focusKeyword: Hope for the Day
 advertisement: true
-affiliate: true
+affiliate: false
 language: de
 ---
 
@@ -60,4 +60,6 @@ Die Häuser und Wohnungen, die Ihr bei Hundemama Ferienhaus mieten könnt, sind 
 
 Gemeinsam erholt Ihr Euch dann im Umkreis von Olpenitz und geht zusammen mit Euren Hunden auf Spurensuche. Neben zahlreichen Möglichkeiten und Spazierengehen und Einkehren, findet Ihr vor Ort Hundestrände sowie die Möglichkeit Eurer (Wind-)surf und Kyte-Leidenschaft nachzugehen. Auch Ostseeschwimmer\*innen kommen voll auf Ihre Kosten – die Bademöglichkeiten sind zahlreich und sehr attraktiv. Die Anreise klappt klimafreundlich mit der Bahn.
 
-Wenn Ihr Interesse bekommen habt, könnt Ihr über das Internet Kontakt mit Hundemama Ferienhaus aufnehmen. Fragen beantwortet Tina persönlich per Mail und Eure Buchung könnt Ihr [direkt auf der Webseite erledigen](https://t.adcell.com/p/click?promoId=262875&slotId=80259&param0=https%3A%2F%2Fwww.hundemama-ferienhaus.de%2F).
+Wenn Ihr Interesse bekommen habt, könnt Ihr über das Internet Kontakt mit Hundemama Ferienhaus aufnehmen. Fragen beantwortet Tina persönlich per Mail und Eure Buchung könnt Ihr direkt auf der Webseite erledigen.
+
+**Hinweis:** Das das Programm beendet wurde, habe ich den Affiliate-Link aus diesem Artikel entfernt.
