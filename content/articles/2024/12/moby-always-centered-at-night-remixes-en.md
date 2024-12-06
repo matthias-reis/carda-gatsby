@@ -33,7 +33,7 @@ The musician, vegan animal rights activist, and producer has unveiled his new re
 
 ---
 
-Read This! You can find my interview with Moby here. In our in-depth conversation, we touched on the importance of animal rights activism—and, of course, his music.
+Read This! You can find my [interview with Moby](/2024/06/moby-interview-en/) here. In our in-depth conversation, we touched on the importance of animal rights activism—and, of course, his music.
 
 ---
 
