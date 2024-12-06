@@ -17,6 +17,7 @@ labels:
   - Veganism
   - Animal Rights
   - Los Angeles
+  - Vegan Celebrities
 language: en
 languageLink: /2024/06/moby-interview
 image: https://storage.googleapis.com/cardamonchai-media/2024-06-25/moby-c-lindsay-hicks-interview-soundsvegan-com-jpg-imagine-d8d8d8_a8a1a6_1024_768/640.webp
