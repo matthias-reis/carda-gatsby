@@ -63,7 +63,7 @@ Moby has created an entirely new soundscape based on the original material. It's
 
 What makes "Always Centered At Night – Remixes" so unique is the emotional depth amplified by the versatility of its remixes. Moby intertwines nostalgic nods to his musical roots with modern, occasionally avant-garde sounds. The result is a listening experience that invites you to explore uncharted territory—gently yet thrillingly.
 
-The way Moby merges intimate vocal passages with expansive, cinematic soundscapes is unmistakable and unparalleled. "Always Centered At Night – Remixes" is much more than just "another remix album". It's a homage to the magic of music, and artistic expression's transformative power—an extended love letter to the sound of the night.
+The way Moby merges intimate vocal passages with expansive, cinematic soundscapes is unmistakable and unparalleled. "Always Centered At Night – Remixes" is much more than just "another remix album". It's an homage to the magic of music, and artistic expression's transformative power—an extended love letter to the sound of the night.
 
 **Read the [interview with Moby](/2024/06/moby-interview-en/) in its entirety now!**
 
