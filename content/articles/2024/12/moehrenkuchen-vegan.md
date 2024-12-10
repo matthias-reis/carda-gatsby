@@ -100,7 +100,7 @@ Der perfekte vegane Schokoguss ist cremig, glänzend und lässt sich wunderbar l
 
 ## Zubereitung der veganen Schokoglasur
 
-Wie Ihr [Schokolade perfekt schmelzen](https://www.aldi-nord.de/ratgeber-tipps/kuechenhacks/schokolade-schmelzen.html) könnt, könnt Ihr zum Beispiel bei Aldi Nord nachlesen. Ich hacke meine Schokolade dafür in grobe Stückchen, mische sie mit Kokosöl oder Margarine und gebe sie in eine Tasse oder eine kleine hitzebeständige Schüssel. Im heißen Wasserbad (Wasser kurz vor dem Siedepunkt) gelingt das bei mir ausgezeichnet.
+Wie Ihr [Schokolade perfekt schmelzen](https://www.aldi-nord.de/ratgeber-tipps/kuechenhacks/schokolade-schmelzen.html 'follow') könnt, könnt Ihr zum Beispiel bei Aldi Nord nachlesen. Ich hacke meine Schokolade dafür in grobe Stückchen, mische sie mit Kokosöl oder Margarine und gebe sie in eine Tasse oder eine kleine hitzebeständige Schüssel. Im heißen Wasserbad (Wasser kurz vor dem Siedepunkt) gelingt das bei mir ausgezeichnet.
 
 ![Schokolade im Wasserbad](https://storage.googleapis.com/cardamonchai-media/2024-12-10/2024-12-10-moehrenkuchen-vegan-soundsvegan-com-06-jpg-imagine-080808_625953_1024_768/640.webp 'Schokolade im Wasserbad')
 
