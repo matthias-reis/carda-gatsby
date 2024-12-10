@@ -22,7 +22,7 @@ language: de
 image: https://storage.googleapis.com/cardamonchai-media/2024-12-10/2024-12-10-moehrenkuchen-vegan-soundsvegan-com-11-jpg-imagine-f8f8f8_a07256_1024_768/640.webp
 seoTitle: 'Möhrenkuchen mit und ohne Schokoguss – vegan – für Menschen und Hunde'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-12-10/moehrenkuchen-vegan-soundsvegan-com-og-jpg-imagine-f8f8f8_c3975c_1200_628/640.webp
-imageCopyright: Möhrenkuchen vegan
+imageCopyright:
 languageLink:
 excerpt: Möhrenkuchen ist vielseitig, saftig und er schmeckt den meisten Kindern und Erwachsenen ausgezeichnet. Das Beste ist, wenn Ihr beim Backen ein paar Punkte beachtet, ist er sogar für Eure Hunde geeignet! Wenn es bei Euch also etwas zu feiern gibt, kann ich ihn Euch wärmstens empfehlen. Holt Euch in diesem Artikel mein Rezept!
 focusKeyword: 'Möhrenkuchen mit und ohne Schokoguss – für Menschen und Hunde!'
