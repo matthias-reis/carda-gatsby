@@ -43,7 +43,7 @@ Auf der Wild Webseite findet Ihr auch noch weitere Designs – das trifft sowohl
 
 ---
 
-**Hinweis:** Wenn Ihr Euer Wild Deo über [den Link in diesem Artikel](https://www.wearewild.com/de/?discount=SOUNDSVEGAN20) bestellt, erhalte ich auch ein paar Cent. Ihr unterstützt damit Sounds Vegan aktiv und tragt dazu bei, dass ich Euch weiter mit Artikeln und Tipps wie diesem versorgen kann. Vielen Dank dafür schon mal an dieser Stelle!
+**Hinweis:** Wenn Ihr Euer Wild Deo über [den Link in diesem Artikel](https://www.awin1.com/cread.php?awinmid=108144&awinaffid=632580&ued=https%3A%2F%2Fwww.wearewild.com%2Fde%2F%3Fdiscount%3DSOUNDSVEGAN20%26utm_source%3DAWIN%26utm_medium%3Daffiliate%26utm_campaign%3D%21%21%21sitename%21%21%21%26utm_content%3D%21%21%21id%21%21%21) bestellt, erhalte ich auch ein paar Cent. Ihr unterstützt damit Sounds Vegan aktiv und tragt dazu bei, dass ich Euch weiter mit Artikeln und Tipps wie diesem versorgen kann. Vielen Dank dafür schon mal an dieser Stelle!
 
 ---
 
@@ -97,10 +97,10 @@ Gemeinsam mit ONAMISSION pflanzt Wild Cosmetics Bäume für die Bestellungen sei
 
 ## Euer exklusiver Wild Cosmetics Influencer-Gutscheincode von Sounds Vegan
 
-Mit dem Gutscheincode **SOUNDSVEGAN20** erhaltet Ihr im Wild Shop 20 Prozent Rabatt auf Eure Bestellung. Ich wünsche Euch happy Shopping. Wenn Ihr [diesen Link](http://www.jdoqocy.com/click-101100252-15807673) nutzt, unterstützt Ihr Sounds Vegan mit Eurer Bestellung.
+Mit dem Gutscheincode **SOUNDSVEGAN20** erhaltet Ihr im Wild Shop 20 Prozent Rabatt auf Eure Bestellung. Ich wünsche Euch happy Shopping. Wenn Ihr [diesen Link](https://www.awin1.com/cread.php?awinmid=108144&awinaffid=632580&ued=https%3A%2F%2Fwww.wearewild.com%2Fde%2F%3Fdiscount%3DSOUNDSVEGAN20%26utm_source%3DAWIN%26utm_medium%3Daffiliate%26utm_campaign%3D%21%21%21sitename%21%21%21%26utm_content%3D%21%21%21id%21%21%21) nutzt, unterstützt Ihr Sounds Vegan mit Eurer Bestellung.
 
 ### Gutscheincode SOUNDSVEGAN20
 
-[Hier geht's zum Wild Onlineshop](https://www.wearewild.com/de/?discount=SOUNDSVEGAN20)
+[Hier geht's zum Wild Onlineshop](https://www.awin1.com/cread.php?awinmid=108144&awinaffid=632580&ued=https%3A%2F%2Fwww.wearewild.com%2Fde%2F%3Fdiscount%3DSOUNDSVEGAN20%26utm_source%3DAWIN%26utm_medium%3Daffiliate%26utm_campaign%3D%21%21%21sitename%21%21%21%26utm_content%3D%21%21%21id%21%21%21)
 
 <Gallery name="wild-cosmetics-deo-soundsvegan.com-2" />
