@@ -71,7 +71,7 @@ Besonders an rauen Stellen wie Ellenbogen oder Knien zeigt die Peeling-Seife ihr
 
 **Ein besonderer Tipp von mir:** Nutzt die Peeling-Seife ein- bis zweimal pro Woche, um Eure Haut zu verwöhnen, ohne sie zu überfordern. Eure Haut wird es Euch mit einem strahlenden, gesunden Aussehen danken!
 
-<Gallery name="soundsvegan.com-wild-cosmetics-peeling-seifen-1" />
+<Gallery name="soundsvegan.com-wild-cosmetics-peeling-seifen-1-1" />
 
 <div id="seife-tipps"></div>
 
@@ -121,4 +121,4 @@ Mit dem Gutscheincode SOUNDSVEGAN20 erhaltet Ihr im Wild Shop 20 Prozent Rabatt 
 
 Gutscheincode SOUNDSVEGAN20 [Jetzt im WILD Cosmetics Onlineshop 20 % sparen!](https://www.awin1.com/cread.php?awinmid=108144&awinaffid=632580&ued=https%3A%2F%2Fwww.wearewild.com%2Fde%2F%3Fdiscount%3DSOUNDSVEGAN20)!
 
-<Gallery name="soundsvegan.com-wild-cosmetics-peeling-seifen-2" />
+<Gallery name="soundsvegan.com-wild-cosmetics-peeling-seifen-2-1" />
