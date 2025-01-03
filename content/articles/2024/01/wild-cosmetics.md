@@ -1,11 +1,11 @@
 ---
 date: 2024-01-10T14:32:12.086Z
 typeName: Produkttest
-title: 'Wild Cosmetics'
+title: 'WILD Cosmetics'
 subTitle: 'Vegane Beauty-Produkte ohne Einwegplastik'
-seoTitle: 'Deo und Duschgel von Wild - vegane Beauty-Produkte ohne Plastik'
-description: 'Wenn Ihr auf Social Media unterwegs seid, seid Ihr den veganen Deos und Duschgels von Wild sicher schon mal begegnet. Holt Euch jetzt 20 % Rabatt und erfahrt, was sie taugen!'
-excerpt: 'Die veganen Deos und Duschgels von Wild sind Euch sicher ein Begriff, solltet Ihr wie ich viel in den sozialen Netzwerken unterwegs sein. Ich habe sie jetzt getestet und mir genau angeschaut, was hinter der Brand steckt. Holt Euch jetzt alle Infos und 20 Prozent Rabatt auf alles aus dem Wild Onlineshop!'
+seoTitle: 'Deo und Duschgel von WILD - vegane Beauty-Produkte ohne Plastik'
+description: 'Wenn Ihr auf Social Media unterwegs seid, seid Ihr den veganen Deos und Duschgels von WILD sicher schon mal begegnet. Holt Euch jetzt 20 % Rabatt und erfahrt, was sie taugen!'
+excerpt: 'Die veganen Deos und Duschgels von WILD sind Euch sicher ein Begriff, solltet Ihr wie ich viel in den sozialen Netzwerken unterwegs sein. Ich habe sie jetzt getestet und mir genau angeschaut, was hinter der Brand steckt. Holt Euch jetzt alle Infos und 20 Prozent Rabatt auf alles aus dem WILD Onlineshop!'
 image: https://storage.googleapis.com/cardamonchai-media/2024-01-10/wild-cosmetics-soundsvegan-com-09-jpg-imagine-080868_476899_2048_1536/640.webp
 copyright: null
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-01-10/wild-cosmetics-soundsvegan-com-og-jpg-imagine-f8f8f8_528399_1200_628/640.webp
@@ -16,39 +16,40 @@ labels:
   - Deo
   - Duschgel
   - cruelty free
-focusKeyword: Wild Cosmetics Test
+  - WILD Cosmetics
+focusKeyword: WILD Cosmetics Test
 advertisement: true
 affiliate: true
 language: de
 ---
 
-**Wild Cosmetics – diesen Namen habt Ihr sicher schon mal gehört. Weil es mir auch so geht und das bis jetzt bisher nur Gutes war, sagte ich kurzerhand zu, als sich die vegane Beautybrand vor Kurzem bei mir meldete und anfragte, ob ich mal testen möchte. In diesem Artikel erfahrt Ihr alles, was mir beim Ausprobieren des Duschgels und Deos aufgefallen ist – und noch einiges mehr über Wild.**
+**WILD Cosmetics – diesen Namen habt Ihr sicher schon mal gehört. Weil es mir auch so geht und das bis jetzt bisher nur Gutes war, sagte ich kurzerhand zu, als sich die vegane Beautybrand vor Kurzem bei mir meldete und anfragte, ob ich mal testen möchte. In diesem Artikel erfahrt Ihr alles, was mir beim Ausprobieren des Duschgels und Deos aufgefallen ist – und noch einiges mehr über WILD.**
 
 ---
 
-**Hinweis:** Mit dem Gutscheincode unter diesem Artikel erhaltet Ihr [nur über diesen Link](https://www.awin1.com/cread.php?awinmid=108144&awinaffid=632580&ued=https%3A%2F%2Fwww.wearewild.com%2Fde%2F%3Fdiscount%3DSOUNDSVEGAN20%26utm_source%3DAWIN%26utm_medium%3Daffiliate%26utm_campaign%3D%21%21%21sitename%21%21%21%26utm_content%3D%21%21%21id%21%21%21) **20 Prozent Rabatt** auf alle Produkte im Wild Onlineshop!
+**Hinweis:** Mit dem Gutscheincode unter diesem Artikel erhaltet Ihr [nur über diesen Link](https://www.awin1.com/cread.php?awinmid=108144&awinaffid=632580&ued=https%3A%2F%2Fwww.wearewild.com%2Fde%2F%3Fdiscount%3DSOUNDSVEGAN20%26utm_source%3DAWIN%26utm_medium%3Daffiliate%26utm_campaign%3D%21%21%21sitename%21%21%21%26utm_content%3D%21%21%21id%21%21%21) **20 Prozent Rabatt** auf alle Produkte im WILD Onlineshop!
 
 ---
 
-Das Konzept von Wild Cosmetics ist anders, als bei den meisten anderen Kosmetik-Marken und dennoch einfach: Ihr sucht Euch Euer Case für Euer Deo oder Euren Spender für Euer Duschgel aus und könnt beides dann nach Bedarf auffüllen. Ich habe beides getestet und fand das schon mal praktisch. Dazu werde ich gleich noch etwas weiter ins Detail gehen.
+Das Konzept von WILD Cosmetics ist anders, als bei den meisten anderen Kosmetik-Marken und dennoch einfach: Ihr sucht Euch Euer Case für Euer Deo oder Euren Spender für Euer Duschgel aus und könnt beides dann nach Bedarf auffüllen. Ich habe beides getestet und fand das schon mal praktisch. Dazu werde ich gleich noch etwas weiter ins Detail gehen.
 
-Das Design der Flaschen und Cases ist zeitlos, die Refills könnt Ihr Euch so zuschicken lassen, wie es zu Euch und Euren Gewohnheiten passt. Wenn Ihr Euch dafür entscheidet, die Produkte regelmäßig zu nutzen, könnt Ihr mit Wild ein Abo abschließen. Dieses könnt Ihr jederzeit pausieren oder stoppen, wenn Ihr zum Beispiel für längere Zeit unterwegs seid oder erst mal kein Deo oder Duschgel benötigt.
+Das Design der Flaschen und Cases ist zeitlos, die Refills könnt Ihr Euch so zuschicken lassen, wie es zu Euch und Euren Gewohnheiten passt. Wenn Ihr Euch dafür entscheidet, die Produkte regelmäßig zu nutzen, könnt Ihr mit WILD ein Abo abschließen. Dieses könnt Ihr jederzeit pausieren oder stoppen, wenn Ihr zum Beispiel für längere Zeit unterwegs seid oder erst mal kein Deo oder Duschgel benötigt.
 
-Shoppen könnt Ihr die Produkte neben dem Wild Onlineshop auf in diversen Drogeriemärkten sowie Supermärkten. Die Verkaufsstellen könnt Ihr Euch auf der Webseite anschauen. Die Inhaltsstoffe wählt Wild laut eigenen Angaben sorgfältig aus. Sie schonen die Haut und pflegen sanft.
+Shoppen könnt Ihr die Produkte neben dem WILD Onlineshop auf in diversen Drogeriemärkten sowie Supermärkten. Die Verkaufsstellen könnt Ihr Euch auf der Webseite anschauen. Die Inhaltsstoffe wählt WILD laut eigenen Angaben sorgfältig aus. Sie schonen die Haut und pflegen sanft.
 
-## Deo von Wild
+## Deo von WILD
 
 Das Deo eignet sich auch für empfindliche Haut. Das kann ich nach meinem Test bestätigen – ich habe es sogar direkt nach der Rasur verwendet und konnte keine Reizungen oder Irritationen bemerken.
 
 Insgesamt sind die Inhaltsstoffe dieses Produkts unbedenklich. Sie setzen sich wie folgt zusammen:
 
-- Tapiokastärke wird aus der Maniokwurzel gewonnen. Sie besitzt die Eigenschaft, Flüssigkeit (also in diesem Fall Schweiß) zu absorbieren. Im Gegensatz zu Cremedeos bleiben Eure Achselhöhlen also mit dem Wild Deo trocken. Mir ist aufgefallen, dass sogar in Zeiten starker Belastung – wie bei intensiven Sporteinheiten, der Fall ist. Es hält, was es verspricht – Ihr habt keine Schweißflecken auf Euren Shirts. Den Duft kann ich dafür sogar noch am nächsten Morgen wahrnehmen. Schweißgeruch ist mir dafür, während ich das Deo verwendet habe, zu keinem Zeitpunkt aufgefallen.
-- Natron aka Natriumhydrogencarbonat (außer im Wild Deo für empfindliche Haut) bekämpft unerwünschte Gerüche. Wild setzt es lediglich in kleinen Mengen ein, um Hautirritationen zu vermeiden. Ich habe schon Deos auf der Basis von Natron getestet und habe davon rote Flecken bekommen – bei Wild ist mir das nicht passiert.
+- Tapiokastärke wird aus der Maniokwurzel gewonnen. Sie besitzt die Eigenschaft, Flüssigkeit (also in diesem Fall Schweiß) zu absorbieren. Im Gegensatz zu Cremedeos bleiben Eure Achselhöhlen also mit dem WILD Deo trocken. Mir ist aufgefallen, dass sogar in Zeiten starker Belastung – wie bei intensiven Sporteinheiten, der Fall ist. Es hält, was es verspricht – Ihr habt keine Schweißflecken auf Euren Shirts. Den Duft kann ich dafür sogar noch am nächsten Morgen wahrnehmen. Schweißgeruch ist mir dafür, während ich das Deo verwendet habe, zu keinem Zeitpunkt aufgefallen.
+- Natron aka Natriumhydrogencarbonat (außer im WILD Deo für empfindliche Haut) bekämpft unerwünschte Gerüche. WILD setzt es lediglich in kleinen Mengen ein, um Hautirritationen zu vermeiden. Ich habe schon Deos auf der Basis von Natron getestet und habe davon rote Flecken bekommen – bei WILD ist mir das nicht passiert.
 - Sonnenblumenkerwachs versorgt die empfindliche Haut unter den Achseln mit Feuchtigkeit und Vitamin E.
-- Für den natürlichen Duft sorgt bei den Wild Deos eine Mischung aus ätherischen Ölen, Extrakten sowie Duftmolekülen.
+- Für den natürlichen Duft sorgt bei den WILD Deos eine Mischung aus ätherischen Ölen, Extrakten sowie Duftmolekülen.
 - Kakaosamenbutter soll den Feuchtigkeitsverlust der Haut eindämmen. Das funktioniert, indem sie eine Barriere auf der Hautoberfläche bildet.
 - Tocopherol ist eine natürliche Form des Vitamins E. Dabei handelt es sich um ein Antioxidans, welches den Abbau der natürlichen Inhaltsstoffe, die Euch bei dem Deo den ganzen Tag über schützen sollen, verhindert und sie auf natürliche Art konserviert.
-- Capry/Caprinsäureglyceride sorgt dafür, dass die Wild Deos schön streichzart bleiben und Ihr es gut auf der Haut verteilen könnt.
+- Capry/Caprinsäureglyceride sorgt dafür, dass die WILD Deos schön streichzart bleiben und Ihr es gut auf der Haut verteilen könnt.
 - Stearylalkohol soll die Aufspaltung des Deos in seine öligen und flüssigen Komponenten verhindern. Es handelt sich dabei um einen wachsartigen, weißen Feststoff.
 - Triethylzitrat sorgt für frischen Geruch und eine gute Konsistenz bei den Refills.
 - Sonnenblumenkernöl sorgt genau wie das Capry bzw. die Caprinsäureglyceride dafür, dass Ihr das Deo einfach über Eure Haut gleiten lassen könnt.
@@ -56,19 +57,19 @@ Insgesamt sind die Inhaltsstoffe dieses Produkts unbedenklich. Sie setzen sich w
 - Sheabutter soll Eure Achselhöhlen pflegen und mit Feuchtigkeit versorgen.
 - Magnesiumhydroxid bekämpft Bakterien, die unerwünschte Gerüchte erzeugen könnten, direkt auf der Hautoberfläche.
 - Bei Zinc-Ricinoleate handelt es sich um eine in Rizinusöl enthaltene Fettsäure. Sie ist dazu in der Lage, Gerüche zu absorbieren – Ihr und die Leute in Eurer Umgebung können Sie dann nicht mehr wahrnehmen.
-- Reisstärke ersetzt in den Wild Deos für empfindliche Haut das Natron. Das Pulver ist besonders saugfähig und absorbiert Schweiß und überflüssiges Öl zuverlässig.
+- Reisstärke ersetzt in den WILD Deos für empfindliche Haut das Natron. Das Pulver ist besonders saugfähig und absorbiert Schweiß und überflüssiges Öl zuverlässig.
 
-**Tipp:** Für besonders empfindliche Haut gibt es eine natronfreie Version des Wild Deos!
+**Tipp:** Für besonders empfindliche Haut gibt es eine natronfreie Version des WILD Deos!
 
 **Hinweis:** Unter den Bildern geht es weiter!
 
 <Gallery name="wild-cosmetics-1-1" />
 
-Insgesamt hat das Wild Deo meine Überwartungen übertroffen. Ich habe in der letzten Zeit einige Deodorants getestet und wurde entweder in Sachen Nachhaltigkeit oder aufgrund der nicht vorhandenen Sicherheit im Hinblick auf Gerüche enttäuscht. Mir gefällt das Design des Spenders sehr gut und ich bin wirklich glücklich damit, dass es mich selbst auf längeren Wanderungen oder nach stundenlangen Yoga-Sessions nicht im Stich lässt.
+Insgesamt hat das WILD Deo meine Überwartungen übertroffen. Ich habe in der letzten Zeit einige Deodorants getestet und wurde entweder in Sachen Nachhaltigkeit oder aufgrund der nicht vorhandenen Sicherheit im Hinblick auf Gerüche enttäuscht. Mir gefällt das Design des Spenders sehr gut und ich bin wirklich glücklich damit, dass es mich selbst auf längeren Wanderungen oder nach stundenlangen Yoga-Sessions nicht im Stich lässt.
 
-Getestet habe ich übrigens die Sorte "Purple Rain". Mein Case hat die Farbe "Aqua". Ihr könnt zwischen vielen unterschiedlichen Farben und Designs wählen – es ist wirklich für jeden Geschmack ein Case dabei. Meinen hat Hanadi von Wild offenbar anhand meines Webseiten-Designs erraten und damit einen echten Volltreffer gelandet.
+Getestet habe ich übrigens die Sorte "Purple Rain". Mein Case hat die Farbe "Aqua". Ihr könnt zwischen vielen unterschiedlichen Farben und Designs wählen – es ist wirklich für jeden Geschmack ein Case dabei. Meinen hat Hanadi von WILD offenbar anhand meines Webseiten-Designs erraten und damit einen echten Volltreffer gelandet.
 
-Wenn Ihr Euch Euer Deo-Case im Wild Onlineshop ausgesucht habt, könnt Ihr Euch für einen Plan entscheiden. Je nachdem, ob Ihr erst mal nur eine einmalige Lieferung haben wollt, oder gleich eine der Abo-Varianten abschließen möchtet, passt sich Euer Preis automatisch an. Anschließend könnt Ihr zwischen den folgenden Duftrichtungen wählen:
+Wenn Ihr Euch Euer Deo-Case im WILD Onlineshop ausgesucht habt, könnt Ihr Euch für einen Plan entscheiden. Je nachdem, ob Ihr erst mal nur eine einmalige Lieferung haben wollt, oder gleich eine der Abo-Varianten abschließen möchtet, passt sich Euer Preis automatisch an. Anschließend könnt Ihr zwischen den folgenden Duftrichtungen wählen:
 
 - Sandalwood & Patchouli duftet erdig und edel.
 - Orange & Neroli ist citrisch und belebend.
@@ -84,23 +85,23 @@ Wenn Ihr Euch Euer Deo-Case im Wild Onlineshop ausgesucht habt, könnt Ihr Euch 
 - Purple Rain erinnert an Moschusduft und hat einige holzige Noten.
 - Linen & Lilac ist zart, frisch und herzlich.
 
-**Tipp:** Wenn Ihr Euer Wild Deo nach Eurem Hauttyp richten möchtet, kommt Ihr im Auswahlmenü im Onlineshop ganz leicht auf die Sorten für empfindliche Haut. Auch hier stehen Euch einige der oben genannten Duftvarianten zur Verfügung.
+**Tipp:** Wenn Ihr Euer WILD Deo nach Eurem Hauttyp richten möchtet, kommt Ihr im Auswahlmenü im Onlineshop ganz leicht auf die Sorten für empfindliche Haut. Auch hier stehen Euch einige der oben genannten Duftvarianten zur Verfügung.
 
 ## Smarter Bestellvorgang
 
 Habt Ihr Eure Lieblingsdüfte zusammengestellt, könnt Ihr auf Wunsch noch das passende Duschgel mit bestellen – als Einzelbestellung oder Abo. Auch hier könnt Ihr bei den Flaschen wieder zwischen unterschiedlichen Designs wählen. Auf meinen Fotos seht Ihr die Variante "Aqua".
 
-Den Duft könnt Ihr anschließend passend zum Deo oder in einer anderen Duftrichtung wählen. Oder Ihr mischt die Düfte ganz nach Eurem Geschmack – das überlässt Wild Euch. Wenn Ihr wollt, könnt Ihr Euch gegen kleines Geld anschließend noch eine Freude machen und kleines Extra in Form eines Mini-Deos, eines festen Shampoos, einer Seife oder eines Deo-Behälters machen, bevor Ihr Eure Bestellung abschließt.
+Den Duft könnt Ihr anschließend passend zum Deo oder in einer anderen Duftrichtung wählen. Oder Ihr mischt die Düfte ganz nach Eurem Geschmack – das überlässt WILD Euch. Wenn Ihr wollt, könnt Ihr Euch gegen kleines Geld anschließend noch eine Freude machen und kleines Extra in Form eines Mini-Deos, eines festen Shampoos, einer Seife oder eines Deo-Behälters machen, bevor Ihr Eure Bestellung abschließt.
 
-## Duschgel von Wild
+## Duschgel von WILD
 
 Wie Ihr an Euer Duschgel kommt, wisst Ihr ja nun schon. Ich selbst dusche sonst eigentlich ausschließlich mit festen Waschstücken und habe mich daher sehr auf den Test gefreut – einfach mal wieder was anderes! Enttäuscht wurde ich dabei nicht. Der Duft ("Purple Rain", siehe oben) gefällt mir sehr gut und es ist unglaublich ergiebig. Eine winzige Portion aus der Pumpflasche reicht mir für den ganzen Köper.
 
-Wild verspricht, dass die Duschgele auf natürlichen, feuchtigkeitsspendenden Inhaltsstoffe basieren, welche die Haut pflegen, ohne die Umwelt zu schädigen. Wie auch die Deos sind die Duschgele vegan und cruelty free. Ihr könnt sie also mit gutem Gewissen mit unter die Dusche nehmen.
+WILD verspricht, dass die Duschgele auf natürlichen, feuchtigkeitsspendenden Inhaltsstoffe basieren, welche die Haut pflegen, ohne die Umwelt zu schädigen. Wie auch die Deos sind die Duschgele vegan und cruelty free. Ihr könnt sie also mit gutem Gewissen mit unter die Dusche nehmen.
 
-**Tipp:** Wenn Ihr Euch die Inhaltsstoffe für einen bestimmten Duft genauer anschauen wollt: Ihr findet Sie im Wild Onlineshop.
+**Tipp:** Wenn Ihr Euch die Inhaltsstoffe für einen bestimmten Duft genauer anschauen wollt: Ihr findet Sie im WILD Onlineshop.
 
-Die Basis-Inhaltsstoffe sind bei allen Duschgel-Variationen von Wild gleich. Hinzu kommen dann noch die ätherischen Öle, die für die individuellen Düfte sorgen. Hier die Grund-INCIS:
+Die Basis-Inhaltsstoffe sind bei allen Duschgel-Variationen von WILD gleich. Hinzu kommen dann noch die ätherischen Öle, die für die individuellen Düfte sorgen. Hier die Grund-INCIS:
 
 - Wasser löst die weiteren Inhaltsstoffe auf, damit sie miteinander vermengt werden können.
 - Cocamidopropyl Betaine gewinnt man aus den Fettsäuren des Kokosnussöls. Es reinigt die Haut und schäumt schön.
@@ -120,34 +121,34 @@ Wenn Ihr Eure Refills bestellt, erhält Euer Paket mindestens drei Stück. Die D
 
 Wenn Ihr Euren Duschgel-Spender neu befüllen wollt, öffnet Ihr ihn über den Schraubverschluss an der Pumpe und entnehmt diese. Anschließend schraubt Ihr die Flasche in der Mitte auf, öffnet die kompostierbare, plastikfreie Innenflasche, setzt sie in den Pumpspender ein und verschraubt diesen wieder.
 
-**Hinweis:** Die Refills für die Wild Duschgele bestehen zu 70 Prozent aus Bambusfasern und zu 30 Prozent aus gemischten Pflanzenfasern aus landwirtschaftlichen Abfällen. Wenn Ihr sie (sie sind wirklich formschön!) anschließend nicht noch einem anderen Zweck zuführen möchtet, könnt Ihr sie einfach in den Bioabfall geben. Weil das Material kompostierbar ist, solltet Ihr Euer Duschgel nach sechs Monaten verbraucht haben.
+**Hinweis:** Die Refills für die WILD Duschgele bestehen zu 70 Prozent aus Bambusfasern und zu 30 Prozent aus gemischten Pflanzenfasern aus landwirtschaftlichen Abfällen. Wenn Ihr sie (sie sind wirklich formschön!) anschließend nicht noch einem anderen Zweck zuführen möchtet, könnt Ihr sie einfach in den Bioabfall geben. Weil das Material kompostierbar ist, solltet Ihr Euer Duschgel nach sechs Monaten verbraucht haben.
 
 ### Deo-Refill
 
-Wenn Ihr Refills für Euren Wild Deo-Spender bestellen wollt, könnt Ihr zwischen drei, sechs oder neun Refills in Euren Lieblings-Duftrichtungen wählen.
+Wenn Ihr Refills für Euren WILD Deo-Spender bestellen wollt, könnt Ihr zwischen drei, sechs oder neun Refills in Euren Lieblings-Duftrichtungen wählen.
 
 Euer Case füllt Ihr ganz einfach auf, indem Ihr den unteren Teil mit dem Deo-Sockel nach links dreht, bis er sich nicht mehr weiterdrehen lässt. Dann drückt ihr die Knöpfe auf beiden Seiten und zieht den Sockel nach unten aus dem Case. Entfernt den Deckel von der (wie beim Duschgel kompostierbaren) Nachfüllpackung und drückt sie leicht zusammen. Steckt sie auf den Sockel, schiebt das Gehäuse über die Nachfüllpackung und den Sockel, bis die Knöpfe wieder einrasten und dreht den Behälter nach rechts, bis etwa zwei bis drei Millimeter aus dem Case herausstehen.
 
 **Tipp:** Verwendet das Deo ausschließlich auf gereinigter Haut, um Fusseln im Deo oder Reizungen der Haut zu vermeiden. Ihr habt dann besonders lange etwas von Euren Refills. Nachzulegen braucht Ihr in der Regel über den Tag hinweg ohnehin nicht, da es lange wirkt.
 
-## Die Wild Mission
+## Die WILD Mission
 
-Die Gründer\*innen von Wild wollten mit ihrem Refill-Konzept Einweg-Deos und Wegwerf-Duschgelflaschen etwas entgegensetzen. Die Wegwerf-Kultur sollte aus den Badezimmern verbannt werden. Auf der Basis natürlicher Inhaltsstoffe und kompostierbarer Verpackungen riefen sie eine Brand ins Leben, die sich heute immer größerer Beliebtheit erfreut und sogar Nachahmer gefunden hat.
+Die Gründer\*innen von WILD wollten mit ihrem Refill-Konzept Einweg-Deos und Wegwerf-Duschgelflaschen etwas entgegensetzen. Die Wegwerf-Kultur sollte aus den Badezimmern verbannt werden. Auf der Basis natürlicher Inhaltsstoffe und kompostierbarer Verpackungen riefen sie eine Brand ins Leben, die sich heute immer größerer Beliebtheit erfreut und sogar Nachahmer gefunden hat.
 
-Wenn Ihr bei Wild bestellt, tragt Ihr mit dazu bei, dass das Unternehmen gemeinsam mit ONAMISSION Bäume pflanzt. Bis heute sind das bereits über 170.000.
+Wenn Ihr bei WILD bestellt, tragt Ihr mit dazu bei, dass das Unternehmen gemeinsam mit ONAMISSION Bäume pflanzt. Bis heute sind das bereits über 170.000.
 
 ## Fazit: Tolle Beauty-Produkte mit nachhaltigem Konzept
 
-Mir gefällt das Wild Konzept insgesamt gut. Die Möglichkeit, Refills zu bestellen und so weniger Plastik und Umverpackung zu verbrauchen, ist ein guter Gedanke. Da das Deo auch noch hält, was es verspricht und ich die Duftvariationen gut finde, kann ich mir definitiv vorstellen, die Produkte über einen längeren Zeitraum zu verwenden.
+Mir gefällt das WILD Konzept insgesamt gut. Die Möglichkeit, Refills zu bestellen und so weniger Plastik und Umverpackung zu verbrauchen, ist ein guter Gedanke. Da das Deo auch noch hält, was es verspricht und ich die Duftvariationen gut finde, kann ich mir definitiv vorstellen, die Produkte über einen längeren Zeitraum zu verwenden.
 
 ## Mein exklusiver Gutscheincode für Euch!
 
-Wenn Ihr neugierig geworden seid und die Wild Produkte gerne mal testen möchtet, erhaltet Ihr, [wenn Ihr über diesen Link bestellt](https://www.awin1.com/cread.php?awinmid=108144&awinaffid=632580&ued=https%3A%2F%2Fwww.wearewild.com%2Fde%2F%3Fdiscount%3DSOUNDSVEGAN20%26utm_source%3DAWIN%26utm_medium%3Daffiliate%26utm_campaign%3D%21%21%21sitename%21%21%21%26utm_content%3D%21%21%21id%21%21%21), mit dem folgenden Gutscheincode 20 Prozent Rabatt auf alle Produkte im Wild Onlineshop:
+Wenn Ihr neugierig geworden seid und die WILD Produkte gerne mal testen möchtet, erhaltet Ihr, [wenn Ihr über diesen Link bestellt](https://www.awin1.com/cread.php?awinmid=108144&awinaffid=632580&ued=https%3A%2F%2Fwww.wearewild.com%2Fde%2F%3Fdiscount%3DSOUNDSVEGAN20%26utm_source%3DAWIN%26utm_medium%3Daffiliate%26utm_campaign%3D%21%21%21sitename%21%21%21%26utm_content%3D%21%21%21id%21%21%21), mit dem folgenden Gutscheincode 20 Prozent Rabatt auf alle Produkte im WILD Onlineshop:
 
 **SOUNDSVEGAN20**
 
 Happy Shopping!
 
-[Hier erfahrt Ihr noch mehr über das Wild Deo](/2024/09/wild-deo/)
+[Hier erfahrt Ihr noch mehr über das WILD Deo](/2024/09/wild-deo/)
 
 <Gallery name="wild-cosmetics-2-1" />
