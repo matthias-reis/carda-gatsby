@@ -24,8 +24,8 @@ seoTitle: 'Veganuary – Rezept für süß-scharfen Ofenkürbis mit Mandarine'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2025-01-08/ofenkuerbis-mit-mandarine-soundsvegan-com-rezept-og-jpg-imagine-d87808_b65e13_1200_628/640.webp
 imageCopyright:
 languageLink:
-excerpt: 'Wenn ich von meinem Peeling-Wunder spreche, meine ich die Peeling Bars von WILD Cosmetics. Sie sind vegan, cruelty-free und wunderbar cremig. Zwei davon stelle ich Euch in diesem Artikel vor. Testet sie am besten selbst und holt Euch meine fünf wertvollen Tipps für die Pflege mit Seife!'
-focusKeyword: WILD Cosmetics Peeling-Seifen
+excerpt: 'Auch in der kalten Jahreszeit haben die lokalen Gemüsemärkte einiges zu bieten. Neben den unterschiedlichsten Kohlarten gibt es bei uns im Winter zum Beispiel immer Kürbisse. Pünktlich zum Veganuary habe ich mir daher mal wieder ein leckeres Rezept für Euch ausgedacht. Heute gibt es scharf-süßen Ofenkürbis mit Mandarinen!'
+focusKeyword: Ofenkürbis Veganuary
 ---
 
 **Auch in der kalten Jahreszeit haben die lokalen Gemüsemärkte einiges zu bieten. Neben den unterschiedlichsten Kohlarten gibt es bei uns im Winter zum Beispiel immer Kürbisse. Pünktlich zum Veganuary habe ich mir daher mal wieder ein leckeres Rezept für Euch ausgedacht. Heute gibt es scharf-süßen Ofenkürbis mit Mandarinen!**
@@ -65,4 +65,4 @@ Schiebt das Backblech in den Ofen und backt die Kürbishälften für ca. 35 bis 
 
 Holt Eure Kürbishälften aus dem Ofen und lasst sie kurz abkühlen. Serviert sie direkt in der Backform. In den beim Backen entstandenen süß-scharfen Saft könnt Ihr wunderbar Eure Kartoffeln (oder Euer Baguette) eintunken.
 
-_Guten Appetit und happy Veganuary!_
+Guten Appetit und happy Veganuary!
