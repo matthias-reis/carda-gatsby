@@ -29,7 +29,7 @@ excerpt: 'Wenn ich von meinem Peeling-Wunder spreche, meine ich die Peeling Bars
 focusKeyword: WILD Cosmetics Peeling-Seifen
 ---
 
-**Manchmal begegnen mir Produkten, die mich sofort begeistern – mit den neuen Peeling-Seifen von WILD Cosmetics ist es mir wieder so gegangen. Die French Lavender Seife und die Honey & Almond Peeling Bar sind nicht nur wahre Pflegewunder, sondern auch ein Erlebnis für die Sinne. Mit auf meinen Fotos seht Ihr das wunderschöne Deo-Case in der Limited Edition "Snow Flake" testen, das mit seinem winterlichen Design von Emma Bridgewater eine echte Augenweide ist.**
+**Manchmal begegnen mir Produkte, die mich sofort begeistern – mit den neuen Peeling-Seifen von WILD Cosmetics ist es mir wieder so gegangen. Die French Lavender Seife und die Honey & Almond Peeling Bar sind nicht nur wahre Pflegewunder, sondern auch ein Erlebnis für die Sinne. Mit auf meinen Fotos seht Ihr das wunderschöne Deo-Case in der Limited Edition "Snow Flake" testen, das mit seinem winterlichen Design von Emma Bridgewater eine echte Augenweide ist.**
 
 ---
 
