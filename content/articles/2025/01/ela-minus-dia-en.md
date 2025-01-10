@@ -26,7 +26,7 @@ excerpt: Dìa by Ela Minus drops on January 17th—and trust me, this one needs 
 focusKeyword: Preview – Ela Minus – "Dìa"
 ---
 
-**Ela Minus's "Dìa" drops on 17 January—and trust me, this one needs a place on your radar. Expect expansive soundscapes and wildly imaginative electronic vibes. Based in New York but deeply connected to her Colombian roots, Ela has already given us a taste of what's to come with her latest single, "Broken," alongside a stunning music video. You can check it out in this article.**
+**Ela Minus's "Dìa" drops on January 17th—and trust me, this one needs a place on your radar. Expect expansive soundscapes and wildly imaginative electronic vibes. Based in New York but deeply connected to her Colombian roots, Ela has already given us a taste of what's to come with her latest single, "Broken," alongside a stunning music video. You can check it out in this article.**
 
 Following her EPs and 2020 debut album, "Acts of Rebellion", Ela Minus has seriously levelled up with "Dìa". You'll absolutely adore her work if you're into quality electronic music. She's crafted a sonic mosaic that's rich in texture, blending a variety of musical influences. The minimalist feel of "Acts of Rebellion" has evolved—on "Dìa", Ela goes all out with a more opulent approach, which suits her like a dream.
 
@@ -40,7 +40,9 @@ Take, for example, the genesis of Dia's opening track, "Abrir Monta." Late one n
 
 > "'Abrir Monta' is a phrase from my home that describes cutting through dense foliage. I've always loved the poetry of that image. That's how creating this album felt—like carving new paths inward and outward, stepping into uncharted territory."
 
-For "Dìa", Ela once again collaborated with Marta Salogni (mixing) and Heba Kadry (mastering), who also contributed to "Acts of Rebellion". Of the ten tracks on the album, songs like "Broken" (track 2), "Upwards" (track 9), and "Combat" (track 10) are already available to stream. You can catch Ela Minus live on February 14th, at the Max Schmeling Halle in Berlin, supporting Caribou.
+For "Dìa", Ela once again collaborated with Marta Salogni (mixing) and Heba Kadry (mastering), who also contributed to "Acts of Rebellion". Of the ten tracks on the album, songs like "Broken" (track 2), "Upwards" (track 9), and "Combat" (track 10) are already available to stream.
+
+You can catch Ela Minus live on February 14th, at the Max Schmeling Halle in Berlin, supporting Caribou.
 
 Images: © Alvaro Arisó
 
