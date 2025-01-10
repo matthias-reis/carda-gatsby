@@ -4,7 +4,7 @@ title: 'Moby – "Always Centered At Night – Remixes"'
 subTitle: 'Eine Liebeserklärung an den Sound der Nacht'
 type: article
 typeName: Review
-description: 'Moby hat gerade sein neuestes Album "Always Centered At Night Remixes veröffentlicht. Lest jetzt meine Review und hört Euch die 58 Songs an!'
+description: 'Moby hat gerade sein neuestes Album "Always Centered At Night Remixes" veröffentlicht. Lest jetzt meine Review und hört Euch die 58 Songs an!'
 labels:
   - Moby
   - Review
