@@ -49,3 +49,13 @@ Images: © Alvaro Arisó
 ## Ela Minus – Broken (Directed by Losmose)
 
 <YouTube id="cF4kF48inMA" />
+
+## Ela Minus – "Dìa"
+
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=1056602543/size=large/bgcol=ffffff/linkcol=5c9b72/license_id=4110/tracklist=false/artwork=small/transparent=true/"
+  seamless
+>
+  <a href="https://elaminus.bandcamp.com/album/d-a">DÍA by Ela Minus</a>
+</iframe>
