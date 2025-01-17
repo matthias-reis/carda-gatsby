@@ -25,7 +25,7 @@ focusKeyword: 'Müllpfand Festivals'
 
 **Das Thema Nachhaltigkeit gewinnt auch auf Festivals immer mehr an Bedeutung. Vor allem Müllvermeidung ist ein zentraler Aspekt, der sowohl Veranstalter als auch Festivalbesucher beschäftigt. Doch wie effektiv ist das oft eingesetzte Müllpfandsystem wirklich? Ein aktuelles Urteil des Landesgerichts Eisenstadt zum Nova Rock Festival in Österreich hat neue Diskussionen über die Sinnhaftigkeit solcher Maßnahmen entfacht.**
 
-Das Gericht erklärte die verrechneten Müllpfand-Klauseln für unzulässig, was wichtige Fragen zur Wirksamkeit und Fairness von Nachhaltigkeitsmaßnahmen bei großen Festivals aufwirft. Der als "Festvivalprofessor" bekannte Experte für Nachhaltigkeit im Eventmanagement Prof. Dr. Matthias Johannes Bauer sieht in der Entscheidung des Gerichts wichtige Hinweise für die Weiterentwicklung von Nachhaltigkeitskonzepten:
+Das Gericht erklärte die verrechneten Müllpfand-Klauseln für unzulässig, was wichtige Fragen zur Wirksamkeit und Fairness von Nachhaltigkeitsmaßnahmen bei großen Festivals aufwirft. Der als "Festivalprofessor" bekannte Experte für Nachhaltigkeit im Eventmanagement Prof. Dr. Matthias Johannes Bauer sieht in der Entscheidung des Gerichts wichtige Hinweise für die Weiterentwicklung von Nachhaltigkeitskonzepten:
 
 ![Dr. Matthias Johannes Bauer](https://storage.googleapis.com/cardamonchai-media/2025-01-17/dr-johannes-matthias-bauer-jpg-imagine-181818_888683_1024_768/640.webp 'Dr. Matthias Johannes Bauer')
 
