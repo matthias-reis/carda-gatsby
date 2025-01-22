@@ -13,13 +13,9 @@ labels:
   - Meine Ernte
   - Selbstversorgung
 language: de
-advertisement: true
-affiliate: true
-productsProvided: false
 image: https://storage.googleapis.com/cardamonchai-media/2025-01-22/meine-ernte-gruenderinnen-wanda-ganders-natalie-kirchbaumer-soundsvegan-com-jpg-imagine-f8f8f8_cec3af_1024_768/640.webp
-ogImage: https://storage.googleapis.com/cardamonchai-media/2025-01-22/meine-ernte-gruenderinnen-wanda-ganders-natalie-kirchbaumer-fotograf-tammo-ganders-soundsvegan-com-jpg-imagine-183808_7e7d64_1200_628/640.webp
 seoTitle: 'Gemüsegarten mieten – mit Meine Erte klappt es!'
-ogImage: hhttps://storage.googleapis.com/cardamonchai-media/2025-01-22/meine-ernte-gruenderinnen-wanda-ganders-natalie-kirchbaumer-fotograf-tammo-ganders-soundsvegan-com-jpg-imagine-183808_7e7d64_1200_628/640.webp
+ogImage: https://storage.googleapis.com/cardamonchai-media/2025-01-22/meine-ernte-gruenderinnen-wanda-ganders-natalie-kirchbaumer-fotograf-tammo-ganders-soundsvegan-com-jpg-imagine-183808_7e7d64_1200_628/640.webp
 imageCopyright: Meine Ernte
 languageLink:
 excerpt: Lust, Euer eigenes Gemüse zu ernten? Dann solltet Ihr unbedingt weiterlesen! Dass Selbstversorgung viel mehr als nur ein Trend ist, hat Meine Ernte nämlich längst erkannt. Bereits seit 2009 beschäftigt sich die Organisation mit dem Thema Selbstversorgung und dem Anbau von Obst und Gemüse für den Eigenbedarf. In diesem Artikel stelle ich Euch die Meine Ernte Mietgärten vor – inklusive Statement von Gründerin Wanda.
