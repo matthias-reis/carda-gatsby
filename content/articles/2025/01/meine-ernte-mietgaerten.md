@@ -22,7 +22,7 @@ excerpt: Lust, Euer eigenes Gemüse zu ernten? Dann solltet Ihr unbedingt weiter
 focusKeyword: 'Gemüsegarten mieten'
 ---
 
-**Dass Selbstversorgung viel mehr als nur ein Trend ist, hat Meine Ernte längst erkannt. Bereits seit 2009 beschäftigt sich die Organisation mit dem Thema Selbstversorgung und dem Anbau von Obst und Gemüse für den Eigenbedarf. Heute stelle ich Euch die Meine Ernte Mietgärten vor.**
+**Dass Selbstversorgung viel mehr als nur ein hipper Trend ist, hat Meine Ernte längst erkannt. Bereits seit 2009 beschäftigt sich die Organisation mit dem Thema Selbstversorgung und dem Anbau von Obst und Gemüse für den Eigenbedarf. Heute stelle ich Euch die Meine Ernte Mietgärten vor.**
 
 Stellt Euch mal vor, Ihr steht früh morgens im Garten, die Sonne geht gerade auf und Ihr erntet Eure selbst angebauten Möhren und Kürbisse, die Ihr am Abend in einer wärmenden Suppe genießen werdet.
 
