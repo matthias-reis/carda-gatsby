@@ -18,7 +18,7 @@ image: https://storage.googleapis.com/cardamonchai-media/2025-01-17/rocknheim-af
 seoTitle: 'Festivals – Müllpfand pro und contra – Studie gibt Aufschluss'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2025-01-17/muellpfand-festivals-dr-johannes-matthias-bauer-soundsvegan-og-jpg-imagine-988878_797870_1200_628/640.webp
 imageCopyright: Creative Commons (Rock'n'Heim Festival – The Aftermath)
-languageLink: /2025/01/ela-minus-dia-en/
+languageLink:
 excerpt: Das Thema Nachhaltigkeit gewinnt auch auf Festivals immer mehr an Bedeutung. Vor allem Müllvermeidung ist ein zentraler Aspekt, der sowohl Veranstalter als auch Festivalbesucher beschäftigt. Doch wie effektiv ist das oft eingesetzte Müllpfandsystem wirklich? Ein aktuelles Urteil des Landesgerichts Eisenstadt zum Nova Rock Festival in Österreich hat neue Diskussionen über die Sinnhaftigkeit solcher Maßnahmen entfacht.
 focusKeyword: 'Müllpfand Festivals'
 ---
