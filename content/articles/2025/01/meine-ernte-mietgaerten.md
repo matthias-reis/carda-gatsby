@@ -14,7 +14,7 @@ labels:
   - Selbstversorgung
 language: de
 image: https://storage.googleapis.com/cardamonchai-media/2025-01-22/meine-ernte-gruenderinnen-wanda-ganders-natalie-kirchbaumer-soundsvegan-com-jpg-imagine-f8f8f8_cec3af_1024_768/640.webp
-seoTitle: 'Gemüsegarten mieten – mit Meine Erte klappt es!'
+seoTitle: 'Gemüsegarten mieten – mit Meine Ernte klappt es!'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2025-01-22/meine-ernte-gruenderinnen-wanda-ganders-natalie-kirchbaumer-fotograf-tammo-ganders-soundsvegan-com-jpg-imagine-183808_7e7d64_1200_628/640.webp
 imageCopyright: Meine Ernte
 languageLink:
