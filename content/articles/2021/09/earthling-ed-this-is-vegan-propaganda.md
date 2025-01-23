@@ -4,10 +4,7 @@ typeName: Buchtipp
 title: '"This Is Vegan Propaganda & Other Lies the Meat Industry Tells You"'
 subTitle: Das neue Buch von Earthling Ed
 seoTitle: '"This Is Vegan Propaganda" – Das neue Buch von Earthling Ed – Lesetipp'
-description: Earthling Ed aka Ed Winters hat jetzt sein erstes Buch vorgestellt.
-  Der Tierrechtsaktivist möchte mit "This Is Vegan Propaganda & Other Lies the
-  Meat Industry Tells You" zum "kompletten Lockdown" der Fleischindustrie
-  aufrufen.
+description: Earthling Ed aka Ed Winters hat jetzt sein erstes Buch vorgestellt. Der Tierrechtsaktivist möchte mit "This Is Vegan Propaganda & Other Lies the Meat Industry Tells You" zum "kompletten Lockdown" der Fleischindustrie aufrufen.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/this-is-vegan-propaganda-other-lies-the-meat-industry-tells-you-ed-winter-jpg-imagine-080808_616873_1024_768/640.webp
 copyright: Ed Winter
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/this-is-vegan-propaganda-other-lies-the-meat-industry-tells-you-ed-winter-fb-png-imagine-282828_58575d_1200_628/640.webp
@@ -29,9 +26,8 @@ labels:
   - Fleischindustrie
 focusKeyword: Earthling Ed
 advertisement: false
-affiliate: true
+affiliate: false
 language: de
-
 ---
 
 **Earthling Ed aka Ed Winters hat jetzt sein erstes Buch vorgestellt. Der bekannte Tierrechtsaktivist will mit dem Werk zum "kompletten Lockdown" der Fleischindustrie aufrufen.**
@@ -52,7 +48,7 @@ Zunächst geht er auf die Ethik des Veganismus ein – von der Moralphilosophie 
 
 Auch das Theme Zoonosen, insbesondere natürlich die COVID-19 Pandemie, lässt Ed nicht aus. Hier legt er besonderes Augenmerk auf Infektionskrankheiten und Antiobiotikaresistenz.
 
-Bereits kurz nach der Vorstellung wird das Buch von vielen als unverzichtbare Lektüre bezeichnet. Wenn Ihr es auch gerne lesen wollt: Ihr könnt es [ab sofort vorbestellen](https://amzn.to/3CIWS2s). Die englische Ausgabe wird am 6. Januar im Verlag Penguin Random House erscheinen.
+Bereits kurz nach der Vorstellung wird das Buch von vielen als unverzichtbare Lektüre bezeichnet. Wenn Ihr es auch gerne lesen wollt: Ihr könnt es ab sofort vorbestellen. Die englische Ausgabe wird am 6. Januar im Verlag Penguin Random House erscheinen.
 
 Senior Commissioning EditorSamantha Jackson äußerte sich so zu "This Is Vegan Propaganda & Other Lies the Meat Industry Tells You":
 
@@ -60,7 +56,7 @@ Senior Commissioning EditorSamantha Jackson äußerte sich so zu "This Is Vegan
 
 Eds Aktivismus findet schon längst nicht mehr nur auf der Straße statt. Erst vor Kurzem gründete er mit dem [Surge Santuary](/2020/12/earthling-ed-surge-sanctuary/) einen Rückzugsort und Lebenshof für Tiere. Durch seine TED-Talks und Reachout-Aktionen wurde er weltweit bekannt. Inzwischen erhält er als Speaker Einladungen von renommierten Unis wie [Harvard](/2020/11/earthling-ed-harvard/). Ich habe ihn vor einiger Zeit [in Hamburg getroffen](/2019/11/earthling-ed-zu-gast-in-hamburg/) und durfte ihm selbst ein paar Fragen stellen.
 
-[Vorbestellungen für "This Is Vegan Propaganda & Other Lies the Meat Industry Tells You" von Ed Winters sind ab sofort möglich](https://amzn.to/3CIWS2s). Das Buch erscheint am 6. Januar bei Penguin Random House.
+Vorbestellungen für "This Is Vegan Propaganda & Other Lies the Meat Industry Tells You" von Ed Winters sind ab sofort möglich. Das Buch erscheint am 6. Januar bei Penguin Random House.
 
 <YouTube id="sXiPiqC4Inw" />
 

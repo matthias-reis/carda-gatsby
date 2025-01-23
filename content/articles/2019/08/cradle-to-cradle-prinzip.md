@@ -104,7 +104,7 @@ Der Cradle to Cradle e. V. hat das Prinzip Cradle-to-Cradle in diesem Video sehr
 
 ### Literaturtipp:
 
-["Die nächste industrielle Revolution - die Cradle-to-Cradle-Community" von Michael Braungart und William McDonough](https://amzn.to/2M4HdEm)
+"Die nächste industrielle Revolution - die Cradle-to-Cradle-Community" von Michael Braungart und William McDonough
 
 ### Quellen:
 

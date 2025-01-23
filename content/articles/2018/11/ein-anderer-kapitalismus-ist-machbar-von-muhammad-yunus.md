@@ -5,12 +5,8 @@ typeName: Buchtipp
 title: '"Ein anderer Kapitalismus ist machbar"'
 seoTitle: '"Ein anderer Kapitalismus ist machbar" von Muhammad Yunus'
 ogTitle: '"Ein anderer Kapitalismus ist machbar" von Muhammad Yunus'
-description: Friedensnobelpreisträger Muhammad Yunus findet es im Angesicht der
-  Krise wichtiger den je, das Konzept des Kapitalismus zu überdenken. Sein neues
-  Buch.
-excerpt: Friedensnobelpreisträger Muhammad Yunus findet es im Angesicht der
-  Krise wichtiger den je, das Konzept des Kapitalismus zu überdenken. Ich habe
-  sein neues Buch gelesen.
+description: Friedensnobelpreisträger Muhammad Yunus findet es im Angesicht der Krise wichtiger den je, das Konzept des Kapitalismus zu überdenken. Sein neues Buch.
+excerpt: Friedensnobelpreisträger Muhammad Yunus findet es im Angesicht der Krise wichtiger den je, das Konzept des Kapitalismus zu überdenken. Ich habe sein neues Buch gelesen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_kapitalismus__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_kapitalismus__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYI/8QAJhAAAgEDBAEEAwEAAAAAAAAAAQIDAAQRBRIhMQZBUWFxEyKR4f/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/EABkRAQEBAQEBAAAAAAAAAAAAAAEAAhEhQf/aAAwDAQACEQMRAD8A6aYMz/Rqjf3BhJAhd8LyeeeM8e/FXg/BOOqX6q9wtvE0UskY2fttU45Hqf8AKkiz+t6rNb235EjZGV4h1kEGRVIPzhquyzmOQFj60t155m8fuGnklcq0TDeuBkSp0T3/ACp523Bkbl1PVOvkFqJGIBHxSHyO80qXTRFqVq16IiJFt1gkky4HGcD774ooqHTkeWcmvGQ6tPYyeMyWejwyRIQNkBt5EZTvDHhh908ktjJKHHWfeiisPQ85Uqqr1v/Z
@@ -43,8 +39,7 @@ isAffiliate: false
 language: de
 subTitle: Buch von Muhammad Yunus
 advertisement: false
-affiliate: true
-
+affiliate: false
 ---
 
 **Am 22.10. erschien das neue Werk von Muhammad Yunus. In "Ein neuer Kapitalismus ist möglich" zeigt der Nobelpreisträger positive Perspektiven auf und zeichnet motivierende Vorschläge für eine sozialere und nachhaltiger lebende Gesellschaft.**
@@ -83,6 +78,6 @@ Das Social Business ist in seinen Augen nicht einfach nur ein großartiges Werkz
 
 Professor Muhammad Yunus kam 1940 im heutigen Bangladesh zur Welt. Zunächst absolvierte er eine Ausbildung an der Dhaka University. Ab 1966 studierte er an der Vanderbilt University in den USA. Zu diesem Zweck wurde ihm ein Stipendium zur Verfügung gestellt. Im Jahr 1969 promovierte er in Volkswirtschaftslehre und wurde 1972 Professor an der Cittagong University in Bangladesh. Er gilt als Erfinder des Mikrokredits sowie des Social Business Konzepts für einen anderen Kapitalismus. Dem Gründer der Grameen-Bank wurde 2006 der Friedensnobelpreis verliehen.
 
-** "[Ein anderer Kapitalismus ist machbar](https://amzn.to/2T0Clnk)" ** von Muhammad Yunus erschienen im Gütersloher Verlagshaus, gebundene Ausgabe (Klimaneutrales Druckprodukt) 22,90 Euro. **ISBN: 9783579087153**
+** "Ein anderer Kapitalismus ist machbar" ** von Muhammad Yunus erschienen im Gütersloher Verlagshaus, gebundene Ausgabe (Klimaneutrales Druckprodukt) 22,90 Euro. **ISBN: 9783579087153**
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen Bestandteil meines Blogs etablieren. Meine Lesewut hat sich [seit ich gemeinsam mit meinem Mann Matze einen Roman geschrieben und veröffentlicht habe](https://amreis.de/hermetiker/), sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto mehr möchte ich darüber berichten.

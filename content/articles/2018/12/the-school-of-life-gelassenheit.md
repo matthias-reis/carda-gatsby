@@ -3,15 +3,10 @@ date: 2018-12-28T10:33:18.000Z
 type: Artikel
 typeName: Buchtipp
 title: '"The School of Life: Gelassenheit"'
-seoTitle: "The School of Life: Gelassenheit - Zeit für ein gutes Leben"
-ogTitle: "The School of Life: Gelassenheit - Zeit für ein gutes Leben"
-description: Der Ratgeber "Gelassenheit - Zeit für ein gutes Leben" ist 2018 in
-  der Reihe "School Of Life" im Süddeutsche Zeitung Verlag erschienen. Meine
-  Rezension.
-excerpt: Der Ratgeber "Gelassenheit - Zeit für ein gutes Leben" ist 2018 in der
-  Reihe "School Of Life" im Süddeutsche Zeitung Verlag erschienen. Ich habe ihn
-  zu Weihnachten bekommen und bin die letzten paar Tage in die Seiten
-  eingetaucht.
+seoTitle: 'The School of Life: Gelassenheit - Zeit für ein gutes Leben'
+ogTitle: 'The School of Life: Gelassenheit - Zeit für ein gutes Leben'
+description: Der Ratgeber "Gelassenheit - Zeit für ein gutes Leben" ist 2018 in der Reihe "School Of Life" im Süddeutsche Zeitung Verlag erschienen. Meine Rezension.
+excerpt: Der Ratgeber "Gelassenheit - Zeit für ein gutes Leben" ist 2018 in der Reihe "School Of Life" im Süddeutsche Zeitung Verlag erschienen. Ich habe ihn zu Weihnachten bekommen und bin die letzten paar Tage in die Seiten eingetaucht.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_gelassenheit__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_gelassenheit__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwADBQYI/8QAKRAAAgEEAQIEBwEAAAAAAAAAAQIDAAQFESEGEhMUMXEHMkFRYoGx0f/EABcBAQEBAQAAAAAAAAAAAAAAAAEDAgX/xAAeEQACAgICAwAAAAAAAAAAAAACAwABBCEREiIxQf/aAAwDAQACEQMRAD8A8+4/Gm4Xje9ce9NmKw+HgtIo7y0QyRoqbVEG9Afged75op6bkD3MMYPLMqj3JAH9p6a0x4ZlFspAJA27f7XOdkCoq7cywpJleM5PqmwxQwGQ8jahZfAfTntIHH27FoaymN8AnXoKfuo7exXp7KFIArLayMCHb6D3oUzsqENo1RT6bsYWq16Kazpe+it8vaTXJKwQSrNIwBPaqnZ4H6pTsviFhHiPmcjD4vcfljlUEb49V9aqqWYwOK7L5EG2FamLOda4W5w2Rht7+FpJLaRFALbYleByKJL28MpPNVVaSkVaGDGWfuf/2Q==
@@ -35,8 +30,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Mit mehr Ruhe ins neue Jahr
-affiliate: true
-
+affiliate: false
 ---
 
 **Der Ratgeber "Gelassenheit - Zeit für ein gutes Leben" ist 2018 in der Reihe "School Of Life" im Süddeutsche Zeitung Verlag erschienen. Ich habe ihn zu Weihnachten bekommen und bin die letzten paar Tage in die Seiten eingetaucht.**
@@ -101,16 +95,6 @@ Ein weiterer Punkt: Wir werden wütend auf Menschen, wenn wir denken, dass sie e
 
 Neben "Gelassenheit - Zeit für ein gutes Leben" sind in der "School of Life" Reihe bis jetzt auch noch die Bücher "Kleine Freuden - Großes Glück", "Traumjob - Von der Berufung zum Beruf", "Partnerschaft - Keine Frage des Glücks", "Freundlichkeit - Eine vergessene Tugend" und "Sex - Sehnsucht und Erfüllung" erschienen.
 
-** "[Gelassenheit - Zeit für ein gutes Leben](https://amzn.to/2VbMYR4)" - Süddeutsche Zeitung Verlag 2018, ISBN 978-3-86497-444-1**
+** "Gelassenheit - Zeit für ein gutes Leben" - Süddeutsche Zeitung Verlag 2018, ISBN 978-3-86497-444-1**
 
 Ihr habt bestimmt schon gemerkt, dass Bücher sich nach und nach zu einem festen Bestandteil meines Blogs etablieren. Meine Lesewut hat sich [seit ich gemeinsam mit meinem Mann Matze einen Roman geschrieben und veröffentlicht habe](https://amreis.de/hermetiker/), sogar noch ein bisschen gesteigert. Gut für Euch: Je mehr ich selbst lese, desto mehr möchte ich darüber berichten.
-
-<a target="_blank" href="https://amzn.to/2VbMYR4">
-  <RemoteImage
-    alt={`gelassenheit`}
-    size="full"
-    mediumUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_vincent-van-gogh-89422_1280__m.jpg"
-    largeUrl="https://storage.googleapis.com/cardamonchai-images/2018_12_vincent-van-gogh-89422_1280__l.jpg"
-    loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgL/xAAwEAACAgAFAQUFCQAAAAAAAAABAgMRAAQSITEFE0FhcbEGMjRRcjU2c3SBssHw8f/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAJBEAAQQABAcBAAAAAAAAAAAAAQACAxEEEiExIjJBUWFxwfD/2gAMAwEAAhEDEQA/AMN0rrUsORiacERO2lSw98AG7rx+eNN7P5WLqJllknMKMukBFaQEmwCSOAKJvnbEfKpKuRLhiCXVSWNitN84s9Ez69OWRWVFdtPANMKINn57jGOMXExx4avdIsidIQHnTypcjgujNlmeInU7DfSNZuv09ccTzxt0OadVCzC43G5oajVnyHOD5ho4I6gjQPWx0atVf5gaZvMvFJ2QDELQUooFb3gTscJW8tfvStHh8h1KP0mKSSIyTRSMHUEx69KggEEg8Vte+23lhLMyqZYlyisaILMTY7tj3+Phig/3dy35IfziNkfi5vqHrhCIZiXnoa+I0j9mgJnMdqziEFLYaVtq0eN/3nCmZmaLL1GS7XRIU7835jfnFLM934Z9RhV/s6X6F/bgjANBXZQLzWCv/9k="
-  />
-</a>

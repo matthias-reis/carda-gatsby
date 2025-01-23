@@ -3,10 +3,8 @@ date: 2019-07-29T16:44:44.000Z
 title: Wie Wildbienen von Honigbienen verdrängt werden
 seoTitle: Wie Honigbienen Wildbienen verdrängen - Artenschutz durch Wissen
 ogTitle: Wie Honigbienen Wildbienen verdrängen - Artenschutz durch Wissen
-description: Dass die Bienen sterben wissen wir - doch welche Bienen sind
-  eigentlich gemeint? Wildbienen oder Honigbienen? Und was ist der Unterschied?
-excerpt: Dass die Bienen sterben wissen wir - doch welche Bienen sind eigentlich
-  gemeint? Wildbienen oder Honigbienen? Und was ist der Unterschied?
+description: Dass die Bienen sterben wissen wir - doch welche Bienen sind eigentlich gemeint? Wildbienen oder Honigbienen? Und was ist der Unterschied?
+excerpt: Dass die Bienen sterben wissen wir - doch welche Bienen sind eigentlich gemeint? Wildbienen oder Honigbienen? Und was ist der Unterschied?
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_biene4__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_biene4__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBQQHCP/EACwQAAEEAQQBAgMJAAAAAAAAAAECAwQFEQAGEiExFUETUaEHFCIjMkJhccH/xAAYAQACAwAAAAAAAAAAAAAAAAADBQIEBv/EACYRAAEDAwIFBQAAAAAAAAAAAAECAxEABCESQQUTFVFhIoHB4fD/2gAMAwEAAhEDEQA/AOf6Skeegyp6mXSxGOHFhJ4pPyJ8adLnY9nQxINi6y1IhOtpdL8U5+ESM8VA95/kdHW190USbPa/o9Q4yxXurCXCwMuLx7JScdn5nV9Olx9vVLcBlpVlNSwlTVetAUXEhaE5UrHFP6us/LWT6s48pKkAQSZE504E+M/FFQ2VmBSxsWvrrXZdMy2+2xaTFKW0XW8qdIcyrIxkp4jH19tTvXYtXJnQZNRhIiv/AJoaZSnoHkSV5SEpSEkAnvOB3pkp6qy3a56xYIkUyWCYiGY8z7uviFZKFqH7eh47Pftpjfqmq5ieviqQwpoqWwo8wspJI4nzjGevrpLfPuWT3MaUSCVbYzsCew9vPa/atBwKbUM96TdoQFW7Pry5LjTcV1xsQ0jKFKGPxE/5jV5DoYYu3bVwLdny0JUXFq6QgjiEBPjAxn+9GjQuOpFqlsM+nUjMb5onDkJ1zG1L277VyFbwKH4LTsKc8G3eWQoAAeCCMHPeffxrG+0x+wo5ddGiWUkNtDKQCEjAJGCB5GOu9GjTCytGVWaXCkT9mpBauesz+iv/2Q==
@@ -32,9 +30,8 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Artenschutz durch Wissen
-year: "2019"
-month: "07"
-
+year: '2019'
+month: '07'
 ---
 
 **"Die Bienen sterben" - überall liest man im Moment diesen Satz. Doch welche Bienen sind eigentlich gemeint? Wildbienen oder Honigbienen? Und was ist der Unterschied?**
@@ -126,4 +123,4 @@ Wir sollten von "Wildbienenschutz" sprechen und nicht von Bienenschutz - um dami
 
 **Wichtiger Hinweis:** Wenn Ihr etwas für den Schutz der Wildbienen tun wollt und ein Insektenhotel aufstellen möchtet, solltet Ihr nicht irgendeins kaufen. Leider sind jede Menge unbrauchbare Modelle auf dem Markt, die den Bienen im schlimmsten Fall das Leben kosten können. [Tipps für das richtige Insektenhotel (Inklusive DIY-Hinweise) findet Ihr auch hier im Blog](/2019/05/insektenhotel-bienen-auf-dem-balkon/).
 
-Quellen: [Wildbienenschutz - von der Wissenschaft zur Praxis](https://amzn.to/2YxZls4), "[The Honey Industry Explained In 5 Minutes](https://youtu.be/AvV_vGFJa6s)" , "[More Than Honey](http://www.morethanhoney.ch/)" , [NABU Schleswig-Holstein](https://schleswig-holstein.nabu.de/tiere-und-pflanzen/insekten/wespen/19172.html)
+Quellen: "Wildbienenschutz - von der Wissenschaft zur Praxis", "[The Honey Industry Explained In 5 Minutes](https://youtu.be/AvV_vGFJa6s)" , "[More Than Honey](http://www.morethanhoney.ch/)" , [NABU Schleswig-Holstein](https://schleswig-holstein.nabu.de/tiere-und-pflanzen/insekten/wespen/19172.html)

@@ -22,7 +22,7 @@ labels:
   - Ernährung & Gesunheit
 focusKeyword: The Korean Vegan
 advertisement: false
-affiliate: true
+affiliate: false
 language: de
 ---
 
@@ -66,6 +66,6 @@ Im Buch findet man immer wieder Rezepte aus ihrer Kindheit. So ist der Schokolad
 
 Für Joanne Lee Molinaro ist ihr Kochbuch ein Porträt ihrer und der Erfahrungen ihrer Familie – gespickt mit zahlreichen Lektionen, die ihr das Leben mitgegeben hat. Von mir bekommt Ihr hiermit eine klare Leseempfehlung. Nicht nur, wenn Ihr Lust habt, die Rezepte nachzukochen oder Euch davon inspirieren zu lassen. Lasst auf Euch diese großartige, kulinarische Reise ein – Ihr werdet es ganz sicher nicht bereuen.
 
-["The Korean Vegan – Reflections and Recipes from Omma's Kitchen"](https://amzn.to/2YT49y2) von Joanne Lee Molinaro ist beim Verlag Penguin LCC US mit der ISBN-13 978-0593084274 auf Englisch erschienen. [Ihr könnt es hier bestellen und vorab auch schon mal einen Blick in das Buch werfen](https://amzn.to/2YT49y2).
+"The Korean Vegan – Reflections and Recipes from Omma's Kitchen" von Joanne Lee Molinaro ist beim Verlag Penguin LCC US mit der ISBN-13 978-0593084274 auf Englisch erschienen.
 
 **Bild/Picture:** © Joanne Lee Molinaro, Geoff Martin Photography

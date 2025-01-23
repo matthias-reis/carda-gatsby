@@ -5,10 +5,8 @@ typeName: Buchtipp
 title: '"Kracht kocht vegetarisch vegan"'
 seoTitle: '"Kracht kocht" - vegane und vegetarische Küche statt "Traumschiff"'
 ogTitle: '"Kracht kocht" - vegane und vegetarische Küche statt "Traumschiff"'
-description: Marion Kracht wurde bekannt mit "Aktenzeichen XY ungelöst" und
-  "Traumschiff". Jetzt hat sie ein vegan-vegetarisches Kochbuch veröffentlicht.
-excerpt: Marion Kracht wurde bekannt mit "Aktenzeichen XY ungelöst" und
-  "Traumschiff". Jetzt hat sie ein vegan-vegetarisches Kochbuch veröffentlicht.
+description: Marion Kracht wurde bekannt mit "Aktenzeichen XY ungelöst" und "Traumschiff". Jetzt hat sie ein vegan-vegetarisches Kochbuch veröffentlicht.
+excerpt: Marion Kracht wurde bekannt mit "Aktenzeichen XY ungelöst" und "Traumschiff". Jetzt hat sie ein vegan-vegetarisches Kochbuch veröffentlicht.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_soup-2897649_640__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_soup-2897649_640__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUEBgECA//EACYQAAICAgICAgICAwAAAAAAAAECAwQFEQASBiExQRMiUYFSYcH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAIFBv/EACQRAAICAQIFBQAAAAAAAAAAAAECAAMRBBITITFB4WGBodHw/9oADAMBAAIRAxEAPwB+ku4W7EBANE84+YY/IXMN43UqOyzVactmRAnc9JJO6g/YHRd/XyORbWbw2LASGxBn8kXCQ1ajMapkJ9GWYgBlHyVT517YDlYxdvzFvPLVmeeCzesokhaW3GkMiuevQjemQ60QAdAa16HMxp6XCtvOP2fqAUcE5cdY1wseTnSaKvXjsvDGzFUlKdvY6gMQR2O9dSdn+uZjzMMV1qlmrZrXA4jNaePqwf8AxI/7yR5eMrg8LPPisrXW1YeQ38VSY94h2/Qwx6DEBTog+wdkHR9aeTYrJ1YMd5FYs0MhFajhgaeu25U0ml79gd+gRsaOwB/vi1qKEDZ5npCWauxDmoch7xX4fi4IJTkrlcS1KAEjRE+ppGVlji/sks38KjH+OQrGGuW8ktuGZEURhBHohQoJICb2fs/O/ne+HDk+O9e3afX58S5trWzO4Zls8MzdelPdTLKe7Rj8M8EZdmKr+ySkfHoAjfogjetcZzPFZxeNendWXH5ANLdo/gTuku/QZhplCE/B398OHFHqVLA47+YkaEDg4n//2Q==
@@ -28,25 +26,24 @@ isAffiliate: false
 language: de
 subTitle: Internationale Küche statt "Traumschiff"
 advertisement: false
-affiliate: true
-
+affiliate: false
 ---
 
 **Marion Kracht ist eine deutsche Schauspielerin. Bekannt wurde sie u. a. mit "Wer zuletzt lacht, lacht am besten", "Aktenzeichen XY ungelöst" und "Traumschiff".**
 
 ## Friends? Not food, OK?
 
-Jetzt hat die Münchnerin [ein Kochbuch veröffentlicht](https://amzn.to/2MLIK3k). "Kracht kocht vegetarisch vegan". Nimmt man das Buch zur Hand, sticht einem sofort das ausgefallene Titelbild ins Auge: Marion Kracht hält ein großes Fleischermesser in der Hand. Darauf aufgespießt: Eine rote Paprikaschote. Die andere Hand hat die Mimin in die Hüfte gestemmt. Sie wirkt wild entschlossen. Ihr T-Shirt ziert ein Schaf, versehen mit den Worten "Friends? Not food, OK?"
+Jetzt hat die Münchnerin ein Kochbuch veröffentlicht. "Kracht kocht vegetarisch vegan". Nimmt man das Buch zur Hand, sticht einem sofort das ausgefallene Titelbild ins Auge: Marion Kracht hält ein großes Fleischermesser in der Hand. Darauf aufgespießt: Eine rote Paprikaschote. Die andere Hand hat die Mimin in die Hüfte gestemmt. Sie wirkt wild entschlossen. Ihr T-Shirt ziert ein Schaf, versehen mit den Worten "Friends? Not food, OK?"
 
 <RemoteImage
-alt={`kracht-kocht`}
-size="full"
-mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_kracht-kocht1-219x250__m.jpg"
-largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_kracht-kocht1-219x250__l.jpg"
-loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcIBf/EAC4QAAEEAQMDAwEIAwAAAAAAAAECAwQRBQASIQYTMQciQVEIFBUWJFJhcYGR8f/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAAL/xAAjEQABAwMDBQEAAAAAAAAAAAABAAIDERIxBFFhITJxsfDh/9oADAMBAAIRAxEAPwCuQPUI5XpFvOs49yIyttxZ7jqV7dqin4/kD/ep9guop0htXUS8lMXO76Uo3PqSgoDiQpBbPtKSDwP6rRb1Ty0roTB4jovGOfetwWqRkHWChtQKypLYFmlfJ58VxzoFMy2SaxDUCNBQJpk98vMyFOB80UJQE+Ks+TZuqrQNVFJJJWLtGEvTyRRtIkyVtP8AM2HHUYwQntjLFIWI1KuikqHNVdC6u612grj66A+nmNj5DFYvqDJQA3nO1sU48inWSPYW7PNDbX/dOgrSmknKO+zpaDzXdZe9RmVT8L1G7PO79S200gr7ZS4XK3A/uATSfr4+dBusGMVMGHkdHBuLJcDCVJpQKFUEpVzQBDgN8fAsm+Vn2g5uPZS5EcsPzG0PtNJUpPuCtpJ2kcHbdmwFAcc6hUGVIW/tXIIkOtkd1ThUo0eBfnyL1CCGQNoN/vajMHl1135x95W4+i5WVxOKxeOy8XZOluKVsUDaLUBatthN+41fyNKsXOkSoTb77TDZc9yUoWpVJ+LJA0KwL34jgcDlMa+0hD8Jly3WC4oLAO5QUTYJP+PbpVgwY+ObZUvvbLSDsCAAPACR4GumMLDbXC1znuuccr//2Q=="
+  alt={`kracht-kocht`}
+  size="full"
+  mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_kracht-kocht1-219x250__m.jpg"
+  largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_kracht-kocht1-219x250__l.jpg"
+  loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcIBf/EAC4QAAEEAQMDAwEIAwAAAAAAAAECAwQRBQASIQYTMQciQVEIFBUWJFJhcYGR8f/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAAL/xAAjEQABAwMDBQEAAAAAAAAAAAABAAIDERIxBFFhITJxsfDh/9oADAMBAAIRAxEAPwCuQPUI5XpFvOs49yIyttxZ7jqV7dqin4/kD/ep9guop0htXUS8lMXO76Uo3PqSgoDiQpBbPtKSDwP6rRb1Ty0roTB4jovGOfetwWqRkHWChtQKypLYFmlfJ58VxzoFMy2SaxDUCNBQJpk98vMyFOB80UJQE+Ks+TZuqrQNVFJJJWLtGEvTyRRtIkyVtP8AM2HHUYwQntjLFIWI1KuikqHNVdC6u612grj66A+nmNj5DFYvqDJQA3nO1sU48inWSPYW7PNDbX/dOgrSmknKO+zpaDzXdZe9RmVT8L1G7PO79S200gr7ZS4XK3A/uATSfr4+dBusGMVMGHkdHBuLJcDCVJpQKFUEpVzQBDgN8fAsm+Vn2g5uPZS5EcsPzG0PtNJUpPuCtpJ2kcHbdmwFAcc6hUGVIW/tXIIkOtkd1ThUo0eBfnyL1CCGQNoN/vajMHl1135x95W4+i5WVxOKxeOy8XZOluKVsUDaLUBatthN+41fyNKsXOkSoTb77TDZc9yUoWpVJ+LJA0KwL34jgcDlMa+0hD8Jly3WC4oLAO5QUTYJP+PbpVgwY+ObZUvvbLSDsCAAPACR4GumMLDbXC1znuuccr//2Q=="
 />
 
- Mir stellte sich gleich als Erstes die Frage: Was bedeutet vegetarisch vegan? Kocht sie nun vegetarisch? Oder vegan? Oder beides? Das Kochbuch noch nicht wirklich aufgeblättert, gleich die nächste: Was macht Johann Lafer in einem veganen Kochbuch?
+Mir stellte sich gleich als Erstes die Frage: Was bedeutet vegetarisch vegan? Kocht sie nun vegetarisch? Oder vegan? Oder beides? Das Kochbuch noch nicht wirklich aufgeblättert, gleich die nächste: Was macht Johann Lafer in einem veganen Kochbuch?
 
 ## Johann Lafer in einem veganen Kochbuch
 
@@ -80,7 +77,7 @@ Den QR-Code konnte ich auch nach mehrfacher, intensiver Begutachtung des Buches 
 
 ## Fazit
 
-[Das Buch](https://amzn.to/2MLIK3k) ist gut gemacht, dennoch hätte ich mir mehr erwartet. Für "Fleischis", die neugierig auf die vegane bzw. vegetarische Küche sind, sicher eine Anschaffung wert, für überzeugte Ethik-Veganer gibt es jedoch andere Kochbücher.
+Das Buch ist gut gemacht, dennoch hätte ich mir mehr erwartet. Für "Fleischis", die neugierig auf die vegane bzw. vegetarische Küche sind, sicher eine Anschaffung wert, für überzeugte Ethik-Veganer gibt es jedoch andere Kochbücher.
 
 Alles in Allem gebe ich 5,5 von 10 Sternen auf meiner persönlichen Kochbuch-Skala. Wer gerne mehr über Marion Kracht und ihr Buch erfahren möchte, kann sie auf ihrer Homepage besuchen.
 

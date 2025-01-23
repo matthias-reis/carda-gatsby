@@ -5,12 +5,8 @@ typeName: Buchtipp
 title: '"So geht vegan" von Patrick Bolk'
 seoTitle: '"So geht vegan" von Patrick Bolk - ein Buch für Vegan-Einsteiger'
 ogTitle: '"So geht vegan" von Patrick Bolk - ein Buch für Vegan-Einsteiger'
-description: Patrick Bolk berichtet in seinem Buch "So geht vegan" von seinen
-  persönlichen Erfahrungen und erzählt u. a., wie es ihm gelang 25 Kilo
-  abzunehmen.
-excerpt: Patrick Bolk berichtet in seinem Buch "So geht vegan" von seinen
-  persönlichen Erfahrungen und erzählt u. a., wie es ihm gelang 25 Kilo
-  abzunehmen.
+description: Patrick Bolk berichtet in seinem Buch "So geht vegan" von seinen persönlichen Erfahrungen und erzählt u. a., wie es ihm gelang 25 Kilo abzunehmen.
+excerpt: Patrick Bolk berichtet in seinem Buch "So geht vegan" von seinen persönlichen Erfahrungen und erzählt u. a., wie es ihm gelang 25 Kilo abzunehmen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUHBgL/xAAqEAABAwMEAQMDBQAAAAAAAAABAgMEAAURBhIhMVETIkEVYXEHFjKBof/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAAC/8QAHxEAAgICAQUAAAAAAAAAAAAAAQIAEgMhERMxMnGB/9oADAMBAAIRAxEAPwDrTGl25cSNIkOlKVp3bAjJx+c+PtWtu+l7b9CkrjsqDzTZdSVLKgSBnBHRFS6z60uqmlFtyHBt7Cyw0pMYvOrAO0YBOM8eKcXS/wB/Fj+pRr7JMUqDT0aTFaSlaVEA7SE88H4qPJmxg1Pr7KFVvKUhWmbYLay2iIkkNpTvUolR9o57qc6xsKLbG9eKVlIWErS4QeCD1x9vnzW+1Vchb9ORJra3SQ0oekmWWQohsEdfyIx1kfOM1Gl60lXZEmFOlPodLZWgKWhSVLTztIIyAfgg5rvqKGrNQlbSZWy6XK3DEOa42gknbgEf7TGfqeXc0x0z1PPqY63OkJVz4AoopoRebcbibHtNTqL9R7tIYFmjtR2GIboSHCn1FL2gj3BXtIOesf3Sr9yT5ZCXGoCdvZQxgkeM7uB+KKKAUHfG4SxGp//Z
@@ -31,8 +27,7 @@ isAffiliate: false
 language: de
 subTitle: Ein Buch für Vegan-Einsteiger
 advertisement: false
-affiliate: true
-
+affiliate: false
 ---
 
 **"So geht vegan" von Patrick Bolk hebt sich in einem Punkt von sehr vielen anderen Büchern und Veröffentlichungen des Genres ab: Es ist sehr positiv geschrieben. Bolk ist schon sehr viel weiter, als einige andere Vertreter der Szene. Bei ihm ist der Veganismus bereits in der Mitte der Gesellschaft angekommen.**
@@ -42,16 +37,6 @@ Ob das wirklich so ist, sei dahingestellt, auf Neuveganer wirkt es sehr motivier
 Von dieser Form der Miesepeterei müssen wir Veganer weg, wir müssen untereinander Positives weitergeben, um eine positive Sache voranzubringen und das hat Patrick Bolk verstanden. Vom Einstieg an macht er alles richtig. Als Neuling hätte ich mir ein solches Buch auf jeden Fall gewünscht.
 
 ## Der Autor berichtet von seinen Erfolgserlebnissen
-
-<a target="_blank" href="https://amzn.to/31ngUxz">
-  <RemoteImage
-    alt={`patrick-bolk`}
-    size="medium"
-    mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-2__m.jpg"
-    largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-2__l.jpg"
-    loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgAEAgX/xAAsEAABAwMDAgQGAwAAAAAAAAABAgMEAAURBhIhBxMUMUFhFiIjUnGRYsHR/8QAFwEBAAMAAAAAAAAAAAAAAAAAAwECBP/EAB8RAAEDBAMBAAAAAAAAAAAAAAEAAhEDEiEjIjFRQf/aAAwDAQACEQMRAD8A6g9SZiLrcIkfT0UoivqaClSHCSB68D3r1pXUK5rZw1ZYJJGcJLxx+8UBZW1bdW6j3lSFGasDtHAAUkE8fqtEi7goCS3MUyEDP1iBgf1/lQ0m0GETnbCLoyfUu0Dqp29TLqm7w4bZZ7Rb7W7kK35zkn7RVRHp+9i53lZCUhSWSAPQZd4qpCEtN8tBKOXa4P8AxjqNDDanD4/dgDjjGPP8VnmXhwlxiS2uOoK2uBZ5A9xjzp9J6P3C5ahuNxi6ojRESni4lvwy1lIPvuHNTvQuYlSnTq6Mt48nfCVyfXPz1nZM8ogDHqWuymW65uJz1EZ6+oRoq7tNT7oG3ApOxkAn8uVUmtXSSVZnpQOoIy+8QeIihjGf5e9VNeVVlIAL/9k="
-  />
-</a>
 
 Im Buch berichtet der Autor von seinen Erfolgserlebnissen, z. B. wie er mal nebenbei 25 Kilo abnahm, stellt sich dabei jedoch nicht in den Mittelpunkt oder arbeitet dies hervor, was sehr angenehm ist.
 
@@ -75,16 +60,6 @@ was Einsteigern die erste Orientierung erleichtert und auf jeden Fall sehr prakt
 
 ## "Ich habe das in meiner Küche gemacht, das schaffst du auch!"
 
-<a target="_blank" href="https://amzn.to/31ngUxz">
-  <RemoteImage
-    alt={`patrick-bolk`}
-    size="medium"
-    mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-4__m.jpg"
-    largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-4__l.jpg"
-    loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAcF/8QAKBAAAgEDBAEDBAMAAAAAAAAAAQIDBAURAAYSITETIkEHFVHBYZGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDAP/EABwRAAMAAgMBAAAAAAAAAAAAAAABAhExEhNhQf/aAAwDAQACEQMRAD8AnL9THpq2ppLdaKZ1gleJZ55mIfixXkEUDAOM4zpmpN332m4NebdTGCWGR40p09IhljZ193I5HtwQe+86x3Z1FFWyQ85emXm5wfb3g5OMfz50+PJJBuW2UE8ryLnggZs9MjAY/vQrDlpidl8k/SzXbq3YKeGpSvQiRVbgaOMp2OwBx/eq23N6XG53o269QUqFgCkscLRN5wcjOD5X4/OuRUvTSbcs9RJMFE0HEkqOipwe8HSjU3Gmtl1paqCp9ThJxYN44kYPwMef80z8NFUtsV9vGTkrK+PnGNaV93qLpuOz1qhYZKeSnQg+4OQwGfjGjRqVaKRKYmVW5547TT2QwRvHTSu6TFjyGcAjHjHWdU0tjXWFpHnEZ/AQn96NGm+Bwj//2Q=="
-  />
-</a>
-
 Besonders positiv fielen mir beim Lesen des Buches die Bilder auf. Sie wirken nicht inszeniert oder künstlich, man kann sich gut vorstellen, die Rezepte zu Hause nach zu kochen und im Anschluss ein ähnliches Foto auf Instagram zu posten. Die Aussage "Hallo, ich habe das in meiner kleinen, privaten Küche gemacht, das schaffst du auch!" finde ich toll.
 
 Hervorragend ist auch das Kapitel "Besondere Gelegenheiten". Hier werden Tipps gegeben zu z. B.
@@ -102,16 +77,6 @@ Auch das Thema "Vegan mit Kindern" wird kurz aufgegriffen. Hier rät Bolk ganz k
 Der Autor spricht sich ganz klar gegen ein striktes Fleischverbot bei Kindern aus. Er schlägt vor, gemeinsam mit dem Kind die Hintergründe zu erforschen (Klassiker der Kinderliteratur, moderne Gesellschaft etc.). Sobald die Kinder verstehen, sind sie sehr schnell und mit voller Motivation dabei. Auch im Kapitel "Vegan mit Kindern" gibt es Rezeptvorschläge, die sich auch gemeinsam mit den Kids nach kochen lassen.
 
 ## Grundrezepte für Sojadrink und Seitan
-
-<a target="_blank" href="https://amzn.to/31ngUxz">
-  <RemoteImage
-    alt={`patrick-bolk`}
-    size="medium"
-    mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-1__m.jpg"
-    largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_06_patrick-bolk-1__l.jpg"
-    loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUEBgcD/8QAKxAAAQQBAgQFBAMAAAAAAAAAAQIDBAURACEGBxITFBUxQWEyUZGhUnHC/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMF/8QAHhEAAQQCAwEAAAAAAAAAAAAAAgABAwQRIRITgTH/2gAMAwEAAhEDEQA/AONLdQq82DvlNq9DhyFR3JSGUlpKgQPUq+R+R99MpnMSgLHT5fYr2/i2P9ah8rp8k8S39MuQVVrjr0hUdSQUlfcSM7jPsPfGw1os6HCEN0JYZB7agMND1wdAmu9BuBDn1Oq0Csx9jFjxZZTWtZxA7L8GxIjeHWEqD4Tk5GRjBOjVc5YKCXLbqG5LR/StGtT4gjtsphwdbw6u7t7MykpluSX46GlqAQE9wbn3/Hzq7S+J7eL4xu0ixkKaCkpaacwHSMbh1ZSkJwQc7n41krfLi3sLWW8xaVrTL763E9anOrpUrIzgeurFD5WPxXS7cSKq1a6Rhtcp9rBBznKU533H70I68Uhcj26TFalhDgGmUDhORXR728brFumH0sKb7pyrcLyCf70aW0vCUmklzu5NiJDyh0oaC1BIBVtkgZ+rRpWVEWwy/9k="
-  />
-</a>
 
 Mit Rezepten, die neugierig machen, werden auch Superfoods und das Thema Rohkost kurz gestreift, die "Zweierlei Rabbit Balls mit Feige, Kokos und Limette" werde ich definitiv ausprobieren.
 

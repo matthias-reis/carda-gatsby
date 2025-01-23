@@ -2,14 +2,11 @@
 date: 2018-12-12T13:30:41.000Z
 type: Artikel
 typeName: Produkttest
-title: "Geschenkidee: Badesalz DIY Kit von Naissance"
+title: 'Geschenkidee: Badesalz DIY Kit von Naissance'
 seoTitle: 'Geschenkidee: DIY Badesalz von Naissance - "Soak The Day Away"'
 ogTitle: 'Geschenkidee: DIY Badesalz von Naissance - "Soak The Day Away"'
-description: Heute möchte ich Euch das Badesalz DIY Kit von Naissance
-  vorstellen. Eine wunderbare Geschenkidee, die ich sehr empfehlen kann!
-excerpt: Tipps für Weihnachtsgeschenke hatte ich versprochen, Tipps für
-  Weihnachtsgeschenke sollt Ihr bekommen. Heute möchte ich Euch das Badesalz DIY
-  Kit von Naissance vorstellen.
+description: Heute möchte ich Euch das Badesalz DIY Kit von Naissance vorstellen. Eine wunderbare Geschenkidee, die ich sehr empfehlen kann!
+excerpt: Tipps für Weihnachtsgeschenke hatte ich versprochen, Tipps für Weihnachtsgeschenke sollt Ihr bekommen. Heute möchte ich Euch das Badesalz DIY Kit von Naissance vorstellen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-naissance-badesalz-023__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-naissance-badesalz-023__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQG/8QAKhAAAQQABQMEAQUAAAAAAAAAAQIDBBEABRIhQQYTMSIyUXHBFEJhcqH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUG/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAAxEhBBMxQf/aAAwDAQACEQMRAD8AVdHdLByTDfKu0sJLi21GiBRoffyMdx0S00+qPKR2mm1harI06RX7ieePvCrJczy8Qgp1zWwkhnT2zqB43oGv92wwmT8pEX9GvMURghVvJdSQVEEG/jevI+MQyWtsLP8AJf5CvZsiYGW2HJsmDJStt5pJIdHJKiBvzfFcDCDOMhjHu6fXXkX7j/Ufx5rDjM85YecbEBSTFSUBLtEa1CxdHcitt+BijNZ4by4OuNstuNpoB1KlICiavbivxhSxWWzCQXQ2NiU5KlE6emTKmokREj0Ri2mgar3g2a3xGaonMTHFJTNcYJ1J7bXeBPgUQDX0ecGDGisrV/RNAyAjMwQ47slwtTniyu/SmQ8lD1nxSRRG3yOcYeq3Y2XJbW7HfnLUT63HjoQfobWfxgwYLXxqw669itjFaXZfRP/Z
@@ -36,7 +33,6 @@ isAffiliate: false
 language: de
 subTitle: '"Soak The Day Away"'
 advertisement: true
-
 ---
 
 **Tipps für Weihnachtsgeschenke hatte ich versprochen, Tipps für Weihnachtsgeschenke sollt Ihr bekommen. Heute möchte ich Euch das Badesalz DIY Kit von Naissance vorstellen.**
@@ -70,8 +66,6 @@ Dazu braucht Ihr das DIY Kit für Badezusätze "Soak The Day Away" (dt. "Wasche 
 Nach und nach fügt Ihr grobes und feines Himalayasalz sowie ätherisches Lavendel- und Bergamotteöl und Lavendblüten hinzu. Ein paar Tage ziehen lassen, schön beschriften und Voilà: Fertig ist das selbst gemachte Weihnachtsgeschenk für Vegan Beautys. Klasse, oder?
 
 Theoretisch könnte man es selbstverständlich auch mit anderen Duftrichtungen versuchen. Ich finde die Kombination aus Bergamotte und Lavendel sehr stimmig: Schön frisch, nicht zu süß und angenehm entspannend.
-
-Kaufen könnt Ihr das Set für 17,49. [Das geht ganz einfach online über diesen Link](https://amzn.to/2QMkZst).
 
 Übrigens gibt es von Naissance auch ein DIY-Kit für Badebomben. Ich persönlich habe es noch nicht ausprobiert, aber ich finde, es klingt auch sehr spannend. Vielleicht teste ich das ja auch bald mal.
 

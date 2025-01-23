@@ -5,12 +5,8 @@ typeName: Buchtipp
 title: '"Die Geschichte von Herrn Sommer" von Patrick Süskind'
 seoTitle: '"Die Geschichte von Herrn Sommer" von Patrick Süskind'
 ogTitle: '"Die Geschichte von Herrn Sommer" von Patrick Süskind'
-description: Mit "Die Geschichte von Herrn Sommer" hat Patrick Süßkind ein
-  besonderes Werk geschaffen. Eine liebevoll erzählte Geschichte mit einer
-  wertvollen Botschaft.
-excerpt: Mit "Die Geschichte von Herrn Sommer" hat Patrick Süßkind ein
-  besonderes Werk geschaffen. Eine liebevoll erzählte Geschichte mit einer
-  wertvollen Botschaft.
+description: Mit "Die Geschichte von Herrn Sommer" hat Patrick Süßkind ein besonderes Werk geschaffen. Eine liebevoll erzählte Geschichte mit einer wertvollen Botschaft.
+excerpt: Mit "Die Geschichte von Herrn Sommer" hat Patrick Süßkind ein besonderes Werk geschaffen. Eine liebevoll erzählte Geschichte mit einer wertvollen Botschaft.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_03_2019-13-19-die-geschichte-von-herrn-sommer-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwABBAgG/8QAJhAAAgICAgIBAwUAAAAAAAAAAQIDEQQFACESMUEGIoETFFFh4f/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAeEQACAQQDAQAAAAAAAAAAAAABAgADBBEhEhMiQf/aAAwDAQACEQMRAD8AMNHMZsrBxYXuWRkYoGJUASBSAfz67vvjdLr5p8qR4JYoIvOQIpAJcBq8gP44NfTeMR9RarCzGiuLIiaAtGUYlpASgv4uyff9cXMyOOGVgKaWLyeMFQQt35UbsdD45JaKDy+GawAxNL6kxpotJnKjxfqxwmRSiqCxDAgf764da1sjXmV5axsyeN4fJO5EB7NDuiQR2O64nbLGw9hqtlFGrrLJiyxESV3cZo++AGduUnzEMQSAACNiTf3gD49kdHr44F1Ty4ZTEuudzpLaazVDSS7FcSOLY4E5byT7VPi4tivq/FhRFHrnn8ib9wiuiO0gNgggDvly5ZcHrfUfS9LuYhzTHNHBM0ZjLUwLqtWO+c75+1zsKRxjTCJiWikIRbLKaPZFixR/J5cuJU9h9CE6AT//2Q==
@@ -44,8 +40,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Illustriert von Jean-Jaques Sempé
-affiliate: true
-
+affiliate: false
 ---
 
 **Mit "Die Geschichte von Herrn Sommer" hat Patrick Süßkind ein ganz besonderes Werk geschaffen. Es erzählt von der Kindheit eines Jungen und von den mysteriösen Spaziergängen des Herrn Sommer.**
@@ -71,7 +66,7 @@ Der Junge kommt dem Rästel um den aktiven Herrn nach und nach auf die Spur, erk
 
 Seine Situation spitzt sich nach und nach immer weiter zu. Nur ein einziges Mal hört der Junge ihn einen Satz sagen. Er richtet ihn nicht direkt an ihn. Das Kind sitzt in diesem Moment auf einem Baum über dem Kopf des Läufers, ohne, dass dieser von seiner Anwesenheit erfährt.
 
-"Die Geschichte von Herrn Sommer" ist ein Bilderbuch für Erwachsene. Es behandelt schwierige Themen wie das Heranwachsen und Älterwerden aber auch Depression und Suizid auf einfühlsame Weise. Sempé hat es sehr liebevoll bebildert. Dabei hat er die einzelnen Szenen gekonnt erfasst und mit viel Gefühl ausgestaltet. Das Buch ist 1991 im Diogenes Verlag erschienen und trägt die [ISBN 3-257-01895-9](https://amzn.to/2HvCs4m).
+"Die Geschichte von Herrn Sommer" ist ein Bilderbuch für Erwachsene. Es behandelt schwierige Themen wie das Heranwachsen und Älterwerden aber auch Depression und Suizid auf einfühlsame Weise. Sempé hat es sehr liebevoll bebildert. Dabei hat er die einzelnen Szenen gekonnt erfasst und mit viel Gefühl ausgestaltet. Das Buch ist 1991 im Diogenes Verlag erschienen und trägt die ISBN 3-257-01895-9.
 
 ## Meine Leseempfehlung
 
@@ -79,7 +74,7 @@ Patrick Süskind, der vor allem durch seinen Roman "Das Parfum" Berühmtheit erl
 
 Jean-Jaques Sempé kam 1932 in Bordeaux zur Welt. Der Zeichner und Karikaturist ist unter seinem Nachnamen bekannt. Schon während seiner Schulzeit erkannte er sein Zeichentalent. Für Diogenes hat er zahlreiche Bücher bebildert.
 
-Ich möchte Euch "[Die Geschichte von Herrn Sommer](https://amzn.to/2HvCs4m)" hiermit ans Herz legen. Mir hat das Buch während einer Bahnfahrt ein paar wirklich schöne Stunden beschert. Ich finde, es regt zum Denken an und transportiert eine wertvolle Botschaft. Beim Lesen beginnt man insgeheim sein eigenes Handeln zu hinterfragen und lernt obendrein einige hochinteressante Charaktere kennen. Der Vater des Jungen sowie seine ebenso einsame wie strenge Klavierlehrerin sind nur zwei von ihnen.
+Ich möchte Euch "Die Geschichte von Herrn Sommer" hiermit ans Herz legen. Mir hat das Buch während einer Bahnfahrt ein paar wirklich schöne Stunden beschert. Ich finde, es regt zum Denken an und transportiert eine wertvolle Botschaft. Beim Lesen beginnt man insgeheim sein eigenes Handeln zu hinterfragen und lernt obendrein einige hochinteressante Charaktere kennen. Der Vater des Jungen sowie seine ebenso einsame wie strenge Klavierlehrerin sind nur zwei von ihnen.
 
 ## Weiterlesen
 

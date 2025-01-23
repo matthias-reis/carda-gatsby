@@ -3,12 +3,8 @@ date: 2018-10-09T05:04:51.000Z
 title: Die vierte Welle
 seoTitle: Die vierte Welle - Unsere Science-Fiction Kurzgeschichte ist veröffentlicht!
 ogTitle: Die vierte Welle - Unsere Science-Fiction Kurzgeschichte ist veröffentlicht!
-description: 'Heute lüfte ich endlich das Geheimnis: Matze und ich haben eine
-  Science-Fiction Kurzgeschichte veröffentlicht. Doch: "Die vierte Welle" ist
-  erst der Anfang!'
-excerpt: 'Heute ist es endlich soweit und ich lüfte das Geheimnis: Matze und ich
-  haben eine Science-Fiction Kurzgeschichte veröffentlicht. Der Clou: "Die
-  vierte Welle" ist erst der Anfang!'
+description: 'Heute lüfte ich endlich das Geheimnis: Matze und ich haben eine Science-Fiction Kurzgeschichte veröffentlicht. Doch: "Die vierte Welle" ist erst der Anfang!'
+excerpt: 'Heute ist es endlich soweit und ich lüfte das Geheimnis: Matze und ich haben eine Science-Fiction Kurzgeschichte veröffentlicht. Der Clou: "Die vierte Welle" ist erst der Anfang!'
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_10_cover-image-only__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_10_cover-image-only__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFBgP/xAAqEAACAQMDAwQABwAAAAAAAAABAgMEBREAEiEHMVEGEyJBFCNhYnGRof/EABYBAQEBAAAAAAAAAAAAAAAAAAEEAP/EABwRAAMAAgMBAAAAAAAAAAAAAAABAjFBAxETUf/aAAwDAQACEQMRAD8AXsPTFJmRri8kUf2Ef5D/ADVmo6W2/wBnNLUS7weznIYeP0OrXu3alp5Zz6jgaB2Gyompw8UYOcKVA+J+9xJGAOfKS/jaiouTNIKqKmbdUGC4PGzoUAJQ7uQTkgD+O3Gq27eyVKPhJTpjET8m/pjrtL0tjUExzbuM4yRqxBcppJkWavutFRoEXLU53sMDJBCnsQR3Pn70nTXKGmSeomvdwrYVnKx1O90iz5YZBY/tAwMcA5J0L0eRb41gzNne5LX0UENqr6WZ/wAiNBCQrMQQAWIAGeeTxrb2+mtsLlYo2uVZT07s1PRyt7UTMNmxY9gOMMxBDDnJAxjRo03TYRKQxZ6i9UEFO88lyhSOIRR0TRxSRqxbLOx3ByMdgTx9Z1k7z6Tlq5Y5RTTNtqGljaleKH2A7HfmNyd4xtIAYY86NGtK2FZ6P//Z
@@ -33,17 +29,14 @@ isAffiliate: false
 language: de
 subTitle: Science-Fiction aus dem Hause Reis
 advertisement: true
-affiliate: true
-
+affiliate: false
 ---
 
 **Heute ist es endlich soweit und ich lüfte das Geheimnis, das ich so lange gehütet habe: Matze und ich haben zusammen eine Kurzgeschichte geschrieben. Doch "Die vierte Welle", so haben wir unser Werk getauft, ist erst der Anfang!**
 
 Das klingt spannend, oder? Ihr könnt Euch gar nicht vorstellen, wie sehr ich mich freue! **"Die vierte Welle"** wurde bereits veröffentlicht und das Tolle ist: Ihr könnt sie sofort lesen, wenn Ihr wollt!
 
-Dafür gibt es zwei Möglichkeiten: Entweder Ihr habt einen Kindle, dann könnt ihr sie [für schlanke 99 Cent runterladen](https://amzn.to/2RjhgjP) und genießen. Alle anderen können sich die Kindle-App auf das Smartphone oder Tablet laden und [das Buch erstehen](https://amzn.to/2RjhgjP). Der Preis ist selbstverständlich gleich.
-
-Eines möchte ich an dieser Stelle gerne gleich mal loswerden: Ich weiß, viele von Euch sind echte Leseratten und lieben eine gute Geschichte. Aus diesem Grund möchte ich Euch gerne um **Eure tatkräftige Unterstützung** bitten. Wir würden uns unheimlich freuen, wenn Ihr uns [auf Amazon eine Bewertung hinterlasst](https://amzn.to/2RjhgjP). Das wäre für uns wirklich das Allergrößte!
+Eines möchte ich an dieser Stelle gerne gleich mal loswerden: Ich weiß, viele von Euch sind echte Leseratten und lieben eine gute Geschichte. Aus diesem Grund möchte ich Euch gerne um **Eure tatkräftige Unterstützung** bitten. Wir würden uns unheimlich freuen, wenn Ihr uns im Online-Buchhandel eine gute Bewertung hinterlasse.
 
 ## Darum geht es in unserer Science-Fiction Kurzgeschichte
 
@@ -57,7 +50,7 @@ Mit ihrer Ankunft in dem fremden Universum können sie endlich mit dem Terraform
 
 </blockquote>
 
-[Die Geschichte um Mijkl und seine Gefährt\*innen](https://amzn.to/2RjhgjP) ist, wie schon kurz angedeutet, nicht unser einziges Projekt, in dem wir uns als Schriftsteller-Ehepaar versucht haben. In Kürze schon steht etwas Größeres an: Ein Roman! Für die Neugierigen unter Euch hat Matze [eine eigene Homepage für unsere Bücher](https://amreis.de/) gebaut. Dort findet Ihr unter anderem auch schon eine Leseprobe von "Die Hermetiker".
+Die Geschichte um Mijkl und seine Gefährt\*innen ist, wie schon kurz angedeutet, nicht unser einziges Projekt, in dem wir uns als Schriftsteller-Ehepaar versucht haben. In Kürze schon steht etwas Größeres an: Ein Roman! Für die Neugierigen unter Euch hat Matze [eine eigene Homepage für unsere Bücher](https://amreis.de/) gebaut. Dort findet Ihr unter anderem auch schon eine Leseprobe von "Die Hermetiker".
 
 <RemoteImage
   alt={`Science-Fiction Kurzgeschichte`}
@@ -67,11 +60,9 @@ Mit ihrer Ankunft in dem fremden Universum können sie endlich mit dem Terraform
   loadingUrl="data:image/jpeg;base64,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"
 />
 
-Wie gefällt Euch die Seite? Und vor allem, wie gefällt Euch das [unsere Kurzgeschichte](https://amzn.to/2RjhgjP) ? Ich bin schon sehr gespannt! Besonders klasse wäre es, wie gesagt, wenn Ihr uns [Eure Rezension auf Amazon](https://amzn.to/2RjhgjP) hinterlasst. Außerdem könnt Ihr unsere freudigen Nachrichten natürlich auch herzlich gerne weitererzählen! Leute, wir brauchen wirklich Eure Unterstützung! Das würde uns sehr glücklich machen! Also kommentiert am besten, was das Zeug hält!
+Wie gefällt Euch die Seite? Und vor allem, wie gefällt Euch das unsere Kurzgeschichte? Ich bin schon sehr gespannt! Besonders klasse wäre es, wie gesagt, wenn Ihr uns Eure positive Rezension hinterlasst. Außerdem könnt Ihr unsere freudigen Nachrichten natürlich auch herzlich gerne weitererzählen! Leute, wir brauchen wirklich Eure Unterstützung! Das würde uns sehr glücklich machen! Also kommentiert am besten, was das Zeug hält!
 
 Sorry, das war heute ganz schön viel Werbung in eigener Sache, ich weiß. Aber ihr wisst ja sicher auch, wie das ist, wenn man dieses eine ganz besondere Projekt hat, das einem so sehr am Herzen liegt, dass man es einfach in die Welt raus schrei(b)en möchte. Genau das ist "Die vierte Welle" für mich. Und "Die Hermetiker". Doch dazu bald mehr...
-
-[📖 Jetzt Buch auf Amazon ansehen](https://amzn.to/2RjhgjP)
 
 <RemoteImage
   alt={`Science-Fiction Kurzgeschichte`}

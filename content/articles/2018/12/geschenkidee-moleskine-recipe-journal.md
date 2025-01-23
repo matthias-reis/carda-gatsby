@@ -2,15 +2,11 @@
 date: 2018-12-11T07:14:41.000Z
 type: Galerie Rechts
 typeName: Produkttest
-title: "Geschenkidee: Moleskine Recipe Journal"
-seoTitle: "Geschenkidee: Moleskine Recipe Journal für persönliche Rezeptsammlung"
-ogTitle: "Geschenkidee: Moleskine Recipe Journal für persönliche Rezeptsammlung"
-description: Heute habe ich einen weiteren Geschenktipp für Euch vorbereitet.
-  Das Recipe Journal von Moleskine ist perfekt für alle, die sich gerne Rezepte
-  ausdenken.
-excerpt: Heute habe ich einen weiteren Geschenktipp für Euch vorbereitet. Das
-  Recipe Journal von Moleskine ist perfekt für alle, die sich gerne Rezepte
-  ausdenken.
+title: 'Geschenkidee: Moleskine Recipe Journal'
+seoTitle: 'Geschenkidee: Moleskine Recipe Journal für persönliche Rezeptsammlung'
+ogTitle: 'Geschenkidee: Moleskine Recipe Journal für persönliche Rezeptsammlung'
+description: Heute habe ich einen weiteren Geschenktipp für Euch vorbereitet. Das Recipe Journal von Moleskine ist perfekt für alle, die sich gerne Rezepte ausdenken.
+excerpt: Heute habe ich einen weiteren Geschenktipp für Euch vorbereitet. Das Recipe Journal von Moleskine ist perfekt für alle, die sich gerne Rezepte ausdenken.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-moleskine-koch-journal16__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_12_2018-12-09-moleskine-koch-journal16__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFBgED/8QAKBAAAgECBQIGAwAAAAAAAAAAAQIDBBEABRIhMRNBBhQiUXGBMmGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgUDBv/EACURAAIABQIGAwAAAAAAAAAAAAECAAMEETEhYQUGEhNxgUFRof/aAAwDAQACEQMRAD8AzHhExxymU5XM7WEYjhmAcltvRte/b+4ueI6nzUAp8vSenQapKi2kkn0iysLkjc345G4xJyyWbXJOr3aUs2piWI1G/wAX+tsOSUaVbqKkdQsy3JNibHjbt+uMRaquLsQDHX8L5YSRJW6gHOeq9/OnjPuPOCaPL5koqiXpxTRFxzIy6m4Y72IAG4wvnIy8uhNdTFCpCuHOwBOxGnb79++HpKVZZZ2SODW5JclTqb5PfEDxHpiy2olg6XVgkTWVG1ibEHAlTO5ZTn7gV/LrS0eahHSBe3ga7b2GgwIoRUFdlcPUqlgWnZgFKSg3c3NgOdwCeOxw/S1SNNFcjm+DBjOrlqHi9wCpeopbv8G3rSOZjUgsPLkLKQQZNQFh7fJ7YzeZVMMNGkSreM/ksgBJ97jBgw6YWYbRXqEDymU4II/I/9k=
@@ -35,8 +31,7 @@ isAffiliate: false
 language: de
 subTitle: Rezepte sammeln wie die Profis
 advertisement: true
-affiliate: true
-
+affiliate: false
 ---
 
 **Heute habe ich einen weiteren Geschenktipp für Euch vorbereitet. Das Recipe Journal von Moleskine ist genau das Richtige für alle, die sich gerne Rezepte ausdenken und sie nicht mehr vergessen möchten.**
@@ -57,7 +52,7 @@ Ein paar Themensticker sind übrigens auch dabei. Sie befinden sich, wie bei Mol
 
 Eine weitere Idee wäre natürlich, das Buch zunächst mit einigen Rezepten zu bestücken und es dann zu verschecken. Das verleiht dem Präsent gleich noch eine etwas persönlichere Note. Bei der Gestaltung sind der Phantasie keine Grenzen gesetzt. Die hübsche Feder, die ich unter mein Rezept geklebt habe, hat übrigens die liebe Nina gestaltet. Vielen Dank an dieser Stelle.
 
-Erworben werden kann das Recipe Journal [hier](https://amzn.to/2SzMKSr) und natürlich über Moleskine.com sowie in allen Moleskine-Stores weltweit. Es hat 400 Seiten, besteht in seinem Herzen aus elfenbeinweißem 70 g/m² säurefreien Papier und wird mit zwei Lesezeichenbändern geliefert. Moleskine S.r.l. fertigt und vertreibt FSC®-zertifizierte Produkte.
+Erworben werden kann das Recipe Journal unter anderem über Moleskine.com sowie in allen Moleskine-Stores weltweit. Es hat 400 Seiten, besteht in seinem Herzen aus elfenbeinweißem 70 g/m² säurefreien Papier und wird mit zwei Lesezeichenbändern geliefert. Moleskine S.r.l. fertigt und vertreibt FSC®-zertifizierte Produkte.
 
 Das Rezept, das ihr auf den Fotos sehen könnt, findet Ihr übrigens komplett hier im Blog. Wer meinen Kartoffelsalat mit Superfood und Zuckerschoten gerne mal genießen möchte, [liest am besten hier weiter](/2018/06/kartoffelsalat-mit-superfruits-und-zuckerschoten/).
 

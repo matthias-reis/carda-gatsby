@@ -25,7 +25,7 @@ labels:
   - Veganismus
   - Wissenschaft
 focusKeyword: Klimakatastrophe
-affiliate: true
+affiliate: false
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_bill-gates-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_bill-gates-1__m.jpg
 language: de
@@ -63,7 +63,7 @@ In seinem Buch möchte er das, was er in seinen Studien zum Klimawandel, die ihn
 
 Microsoft Gründer Bill Gates rief 1999 gemeinsam mit meiner seiner Frau Melinda die Bill &amp; Melinda Gates Foundation[^3] ins Leben. Die größte private Stiftung der Welt setzt sich unter anderem für die weltweite Verbesserung der Gesundheitsversorgung, die Ermöglichung des Zugangs zu Bildung und Informationstechnologie und die Bekämpfung extremer Armut ein. Ein Hauptschwerpunkt der wohltätigen Organisation ist der Kampf gegen Kinderlähmung und Malaria.
 
-Mit ihrer Foundation unterstützen Bill und Melinda immer wieder Projekte zur Hungerbekämpfung. Nahrungsmittel der Zukunft faszinieren Bill Gates besonders. 2020 steckte er eine große Summe in ein Forschungsprojekt für Fleisch aus dem Labor und auch die [Forschungen rund um Mikroben-Protein](/2021/01/mikroben-protein-als-fleischersatz/) fördert der Wegbereiter der modernen Computer-Welt. Sein Buch "Wie wir die Klimakatastrophe verhindern" erscheint heute und ist [ab sofort bestellbar](https://amzn.to/3mXfFk5).
+Mit ihrer Foundation unterstützen Bill und Melinda immer wieder Projekte zur Hungerbekämpfung. Nahrungsmittel der Zukunft faszinieren Bill Gates besonders. 2020 steckte er eine große Summe in ein Forschungsprojekt für Fleisch aus dem Labor und auch die [Forschungen rund um Mikroben-Protein](/2021/01/mikroben-protein-als-fleischersatz/) fördert der Wegbereiter der modernen Computer-Welt. Sein Buch "Wie wir die Klimakatastrophe verhindern" erscheint heute und ist ab sofort bestellbar.
 
 [^1]: [Bill Gates neues Buch: "Wie wir die Klimakatastrophe verhindern"](https://www.technologyreview.com/2021/02/14/1018296/bill-gates-climate-change-beef-trees-microsoft/)
 [^2]: [MIT Interview mit Bill Gates](https://www.technologyreview.com/2021/02/14/1018296/bill-gates-climate-change-beef-trees-microsoft/,)

@@ -1,7 +1,6 @@
 ---
 ogTitle: '"Das Minimalismus-Projekt" - das neue Buch von Christof Herrmann'
-excerpt: Christof Herrmann kenne ich schon länger über seinen Blog "Einfach
-  Bewusst". Jetzt hat er sein Buch "Das Minimalismus-Projekt" veröffentlicht.
+excerpt: Christof Herrmann kenne ich schon länger über seinen Blog "Einfach Bewusst". Jetzt hat er sein Buch "Das Minimalismus-Projekt" veröffentlicht.
 ogImage: https://storage.googleapis.com/cardamonchai-images/2020_09_minimalismus.png__l.jpg
 isAffiliate: false
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwAGBAX/xAAoEAACAgEEAgAFBQAAAAAAAAABAgMEBQARITEGEhMVQWGhIkRRcbL/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwL/xAAjEQABAwMDBQEAAAAAAAAAAAABAAIRAyHBElGhBDFBYZHR/9oADAMBAAIRAxEAPwAyo06M+MpyVZ0mYzVvYFfVkJtRjYjc7dnSLdryVM3aqJBjmihbYCWsC23qD2e+TrEeKrE9cxkBipxbKev3Cbn8aWXq18h57kYrTmOnE7TWZB2sSIC233PCj7toVMBjdAvG/u+VvrQTVnfFsLx8JQTJ5tKljH4oL8J5faKsA4K7bc9dn6ayefwiN5ZjlEY3WibD+q9kmQ8/z0NKfjN85Tyy1bkVI0WjIIoU4WGMFQqD+h+dzrJ5BlHmVskBhBioYuT0WRd/9HSqN/qGe8DyR+4Rj4gtmu8Xx54CrSVE2Uk7LHMH72H0GmFa+Gu2rlyS/YWa3zIqWkVTyp25HX6R3q1ahUZOoAxPFoVarySCV30vlGGktW61+SaV67xekk8ZGx54AA54GjOHM2YLGVuZWWN7NiBY1MQ2HC7AEcbcBdWrS6DBCOHHnBGV/9k=
@@ -12,7 +11,7 @@ isWerbung: false
 title: Das Minimalismus-Projekt
 subTitle: Neuer Ratgeber von Christof Herrmann
 focusKeyword: Minimalismus
-affiliate: true
+affiliate: false
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-15-das-minimalismus-projekt-01__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_09_%EF%BF%BC2020-09-15-das-minimalismus-projekt-01__m.jpg
 seoTitle: '"Das Minimalismus-Projekt" - das neue Buch von Christof Herrmann'
@@ -36,9 +35,7 @@ labels:
   - Zero Waste
 language: de
 type: Artikel
-description: Christof Herrmann kenne ich schon länger über seinen Blog "Einfach
-  Bewusst". Jetzt hat er sein Buch "Das Minimalismus-Projekt" veröffentlicht.
-
+description: Christof Herrmann kenne ich schon länger über seinen Blog "Einfach Bewusst". Jetzt hat er sein Buch "Das Minimalismus-Projekt" veröffentlicht.
 ---
 
 **Christof Herrmann kenne ich schon länger über seinen Blog "Einfach Bewusst". Wir leben schon lange eine freundliche Online-Nachbarschaft. Jetzt hat Christof sein Buch "Das Minimalismus-Projekt" veröffentlicht. Ich habe es natürlich gelesen.**
@@ -91,6 +88,4 @@ Als Informatiker bewegte sich Christof laut eigener Aussage viel zu wenig. Auße
 
 Insgesamt ist Christof Herrmanns Buch für mich ein wertvoller Ratgeber. Es enthält viele Tricks und Kniffe, auf die man auch nach langen Jahren mit dem Versuch, so wenig wie möglich Ballast mit sich herumzutragen und so wenig wie möglich Müll zu hinterlassen, nicht kommen würde. Ich kann die Lektüre allen empfehlen, die sich für Zero Waste, Nachhaltigkeit aber auch auch für Achtsamkeit und Selbstliebe interessieren.
 
-"Das Minimalismus-Projekt" ist gerade frisch beim Gräfe und Unzer Verlag München erschienen. Die ISBN für die Hardcover-Ausführung lautet 978-38338-7359-1, die für das E-Book 9783833876158. [Ihr könnt es hier bestellen](https://amzn.to/3mXfQvL).
-
-[Hier könnt Ihr Christof Herrmanns Blog "Einfach bewusst" besuchen](https://www.einfachbewusst.de/).
+"Das Minimalismus-Projekt" ist gerade frisch beim Gräfe und Unzer Verlag München erschienen. Die ISBN für die Hardcover-Ausführung lautet 978-38338-7359-1, die für das E-Book 9783833876158.

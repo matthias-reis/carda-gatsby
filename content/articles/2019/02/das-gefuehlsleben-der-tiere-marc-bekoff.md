@@ -5,13 +5,8 @@ typeName: Buchtipp
 title: '"Das Gefühlsleben der Tiere"'
 seoTitle: Buchtipp - "Das Gefühlsleben der Tiere"
 ogTitle: Buchtipp - "Das Gefühlsleben der Tiere"
-description: Heute möchte ich Euch das Buch "Das Gefühlsleben der Tiere" von
-  Marc Bekoff vorstellen. Es ist am 1. Mai 2008 im Verlag "animal learn"
-  erschienen.
-excerpt: Heute möchte ich Euch das Buch "Das Gefühlsleben der Tiere" von Marc
-  Bekoff vorstellen. Die deutsche Ausgabe ist am 1. Mai 2008 im Verlag "animal
-  learn" erschienen. Ich bin der Meinung, es sollte in keinem Bücherregal
-  fehlen.
+description: Heute möchte ich Euch das Buch "Das Gefühlsleben der Tiere" von Marc Bekoff vorstellen. Es ist am 1. Mai 2008 im Verlag "animal learn" erschienen.
+excerpt: Heute möchte ich Euch das Buch "Das Gefühlsleben der Tiere" von Marc Bekoff vorstellen. Die deutsche Ausgabe ist am 1. Mai 2008 im Verlag "animal learn" erschienen. Ich bin der Meinung, es sollte in keinem Bücherregal fehlen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-05-das-gefuehlsleben-der-tiere-marc-bekoff-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-05-das-gefuehlsleben-der-tiere-marc-bekoff-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBQf/xAAuEAACAgEDAgMFCQAAAAAAAAABAgMEEQAFIRIxIkFhBgdRkaETFCMyQlJxsdH/xAAYAQADAQEAAAAAAAAAAAAAAAABAwUCBP/EACARAAEEAQQDAAAAAAAAAAAAAAEAAgMRMQQFEiEioeH/2gAMAwEAAhEDEQA/AOR7ZZtV7MxhRbNaMFuYlkbpHc4IzwO58tWNB9zG3T3du3CWheqzhJQg6YZEZguDgeEjIHw51We6J9ls7e1+AOk7s0cllolXn9UZGeMj54057ypKk277ZV2+It9vaimu2Ivy+FwR1HseB/udIJI7TbB8Vj0tkvCQJHZjWT9sUrO+B6Ip1s071yrthrUt3jdeuVvxiXySnPL4P01q7fD90SZqltbaHrevafplki6vEAQBgYPGT37Y41K24AVsS1GrZZpJJ3iAjBZuAWBxg9xqdJNJwJa6iEdJt0MMzXO7zk389JXZ9yqSIGURgry6MMHH09efTVRX3VBybPgwxCswOQT5Lj+PmdGjVArkCcrmPc7jQyyU1ZWUs7FctnGACRgnv56Y9p7lDYvZ56e32Kywyk5ESAOOeSek8gH+z8NGjWm4tA5pf//Z
@@ -63,8 +58,7 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Buch von Marc Bekoff
-affiliate: true
-
+affiliate: false
 ---
 
 **Heute möchte ich Euch das Buch "Das Gefühlsleben der Tiere" von Marc Bekoff vorstellen. Die deutsche Ausgabe ist am 1. Mai 2008 im Verlag "animal learn" erschienen. Ich bin der Meinung, es sollte in keinem Bücherregal fehlen.**
@@ -169,7 +163,7 @@ Der Wissenschafter entschied sich aus ethischen Gründen dazu, Veganer zu werden
 
 "Wenn wir damit fortfahren, menschliche Interessen grundsätzlich über die Interessen anderer Tiere zu stellen, werden wir die zahlreichen und komplexen Probleme, denen wir uns gegenüber sehen, niemals lösen." sagt Bekoff auf Seite 189. Darum hält er es für besonders wichtig, dass wir so viel wie möglich über unsere Mitbewohner auf der Erde lernen. Er bittet uns darum, darüber nachzudenken, wie wir die Welt vor allem für die Tiere zu einem besseren Ort machen können. Er rät dazu, das ganz für sich zu tun, wenn man alleine ist und die Freiheit hat, tief in sich hineinzuschauen und seine Gewohnheiten und Handlungen ohne Erwartungen oder Druck von außen beurteilen kann.
 
-### "[Das Gefühlsleben der Tiere](https://amzn.to/2D9Sk7W)" von Marc Bekoff, Verlag animal learn, gebundene Ausgabe , 234 Seiten, 20 Euro, ISBN-13: 978-3936188424
+### "Das Gefühlsleben der Tiere" von Marc Bekoff, Verlag animal learn, gebundene Ausgabe , 234 Seiten, 20 Euro, ISBN-13: 978-3936188424
 
 \*Ihr wollt auch meine Rezension zum Buch "Das Seelenleben der Tiere" von Peter Wohlleben lesen? [Dann solltet Ihr hier klicken](/2019/01/das-seelenleben-der-tiere-peter-wohlleben/).
 
