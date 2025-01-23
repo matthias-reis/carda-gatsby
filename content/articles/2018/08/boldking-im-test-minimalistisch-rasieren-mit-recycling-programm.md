@@ -3,12 +3,8 @@ date: 2018-08-23T15:47:19.000Z
 title: Boldking im Test
 seoTitle: Boldking im Test - Minimalistisch rasieren mit Recycling-Programm
 ogTitle: Boldking im Test - Minimalistisch rasieren mit Recycling-Programm
-description: Rasieren muss für mich irgendwie sein. Aber geht das auch möglichst
-  umweltfreundlich? Dieser Frage bin ich mal nachgegangen und dabei auf Boldking
-  gestoßen.
-excerpt: Rasieren muss für mich irgendwie sein. Aber geht das auch möglichst
-  umweltfreundlich? Dieser Frage bin ich mal nachgegangen und dabei auf Boldking
-  gestoßen.
+description: Rasieren muss für mich irgendwie sein. Aber geht das auch möglichst umweltfreundlich? Dieser Frage bin ich mal nachgegangen und dabei auf Boldking gestoßen.
+excerpt: Rasieren muss für mich irgendwie sein. Aber geht das auch möglichst umweltfreundlich? Dieser Frage bin ich mal nachgegangen und dabei auf Boldking gestoßen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_44220183921_6291186304_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_44220183921_6291186304_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBAX/xAApEAABAwIFBAICAwAAAAAAAAABAgMEBREABhIhMQcTIkEUUSMycYGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQACA//EABoRAAMBAQEBAAAAAAAAAAAAAAABEQIhMWH/2gAMAwEAAhEDEQA/AIwKaTKQ5H7IquhKmVvo0NSgfV72S7sRzvv/ADh56esKk5rhpraYrTclK2mYiWyX1IsCpStzoF03APNv9z5IgUasvuokTJ0LMQBCQ9T/AJJRHQlNnGyLNp3PFjxtuRh8g0vJdMo1NqbFbMisQWruSJUtMd1wEnVrbvwAVBNwf7JvjedpaQa6oT/qvTKe5mBbDsfRT2UobC2EKL7BUT5kW80/YH16vfCtPp85qLqlTogpqDqTIiJT+ZB2QhA9G+obgAXtcjDbnas0WdS3J9O1Tn5cztKLhUGwEC6bkgFQsrgFO/v1jl0SLU8xUdVTTKhw4LcgQVxSgdpV0lQCWyLelEm4NhycO31ss+JG7ovmrL2WZtVTmF2agyGw0y+iMrsNA3Uobq1Jv4nj1hrp1U6T02rvVF9b9TlvKLaEzYJLUZBBV46whG4NwSSd/QwYMc5Ritgx97phmZLdPjKpDUiOolhmyoZC1Abp1BKVahbcFV8SXqBKoVMqIyxR2mjEhPGU733lKa+QRYi5/YgbW4HlgwYpHB+n/9k=
@@ -29,8 +25,7 @@ isAffiliate: false
 language: de
 subTitle: Minimalistisch rasieren mit Recycling-Programm
 advertisement: true
-affiliate: true
-
+affiliate: false
 ---
 
 **Rasieren muss für mich irgendwie sein. Aber geht das auch möglichst umweltfreundlich? Dieser Frage bin ich mal nachgegangen und dabei auf Boldking gestoßen.**
@@ -51,7 +46,7 @@ Neben der robusten Bauart sind beim Boldking auch die Klingen anders, als bei Ra
 
 Ich habe keine Angst, auszurutschen und die Rasur ist viel sauberer, als ich das von meinem Ladyshaver aus dem Drogeriemarkt gewohnt bin. Die Klingen sind, auch bei Dauerbenutzung und Ganzkörperrasur, langlebig und können ganz leicht gewechselt werden. Im Lieferumfang war auch eine praktische Wandhalterung inbegriffen.
 
-Auf unnötige Verpackung aus Plastik wurde bewusst verzichtet, der Boldking kommt in einem Karton. Im Gegensatz zu Rasierern gängiger Marken, die im Durchschnitt 21 Euro kosten, ist der schwarze Nassrasierer mit 10 Euro sehr günstig. Die Klingen können auch im Abo bezogen werden. Neben einem [Starterkit mit Rasierer, Halterung, Aftershave-Creme und einem Satz Klingen](https://www.amazon.de/gp/product/B076PQLT7X/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B076PQLT7X&linkCode=as2&tag=cardamonchai-21&linkId=07c9932854231dbbe6a74e3114cbc066) und Klingensets, sowie Rasierschaum, Gesichtscreme, Aftershave, Deo, Kulturbeutel und Boxershorts von Boldking zu kaufen.
+Auf unnötige Verpackung aus Plastik wurde bewusst verzichtet, der Boldking kommt in einem Karton. Im Gegensatz zu Rasierern gängiger Marken, die im Durchschnitt 21 Euro kosten, ist der schwarze Nassrasierer mit 10 Euro sehr günstig. Die Klingen können auch im Abo bezogen werden. Neben einem Starterkit mit Rasierer, Halterung, Aftershave-Creme und einem Satz Klingen und Klingensets, sowie Rasierschaum, Gesichtscreme, Aftershave, Deo, Kulturbeutel und Boxershorts von Boldking zu kaufen.
 
 ## Maskuline Optik
 
@@ -93,5 +88,3 @@ Insgesamt bin ich rundum zufrieden mit meinem Boldking. Mir gefällt die Optik, 
     },
   ]}
 />
-
-Online findet Ihr Boldking [hier](https://www.boldking.com/de?gclid=CjwKCAjwtvnbBRA5EiwAcRvnpnM0kMcWhsOzkva7IMEGUq7_mFi7JN46rYs9KL9Sy4NYs8tj7JEMjBoC3hoQAvD_BwE).  Hier könnt Ihr Euer  [Starterkit erwerben](https://www.amazon.de/gp/product/B076PQLT7X/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B076PQLT7X&linkCode=as2&tag=cardamonchai-21&linkId=07c9932854231dbbe6a74e3114cbc066)

@@ -3,12 +3,8 @@ date: 2018-09-18T11:48:26.000Z
 title: Reparieren statt wegwerfen
 seoTitle: Reparieren statt wegwerfen - Neue Kooperation der Repair Cafés
 ogTitle: Reparieren statt wegwerfen - Neue Kooperation der Repair Cafés
-description: Online-Händler und Reparaturdienstleister SOS Zubehör bietet jetzt
-  den Mitgliedern und Besuchern von Repair Cafés bei der Ersatzteilbestellung
-  Rabatte an.
-excerpt: Online-Händler und Reparaturdienstleister SOS Zubehör bietet jetzt den
-  Mitgliedern und Besuchern von Repair Cafés bei der Ersatzteilbestellung
-  Rabatte an.
+description: Online-Händler und Reparaturdienstleister SOS Zubehör bietet jetzt den Mitgliedern und Besuchern von Repair Cafés bei der Ersatzteilbestellung Rabatte an.
+excerpt: Online-Händler und Reparaturdienstleister SOS Zubehör bietet jetzt den Mitgliedern und Besuchern von Repair Cafés bei der Ersatzteilbestellung Rabatte an.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29822477627_8f4edaecf6_z__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_09_29822477627_8f4edaecf6_z__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAwX/xAAnEAACAgEEAQMEAwAAAAAAAAABAgMRBAAFEiExEyIyFEFRYRVxgv/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EABsRAAIDAQEBAAAAAAAAAAAAAAECAAMREyEx/9oADAMBAAIRAxEAPwCY7HmS7juORlbhkT5ORwTnLK9s9Uos/eh0NPX1UWLk+hPPDCluKZgreDxoefI1K8ETNPkttWRKmEWaFXcAOV+Q5fg8RfWm7Ahw8Wd/5LMgjKgcneZI+XQPZJsnvVVbBT9wSdlJju+bjMkYmlRJGX4qCT5+9XXX50v77M6Rl42dA0h9pA6XgtGv7vvWW5bzs8m2nG23KxZMlY6kXHiZvd6l0ZONfGj5rXNj3Nc/OjxM+DFii9zu8AaFgiAsxvkRfFSLr76bvg2HxJOCTza4Bk4WUXY3HT+ej4FV/rz+tdw7RFgYrOJHZumIUBVIISuq/Z70aNZT2MrYDNGutWHomW9Yjbbs6bkkiTLI9CGVOgOJPZBF6X4M1sx5IpIYEVAQPTUg0eqJvxXVaNGkRi2EwnAXwT//2Q==
@@ -28,7 +24,6 @@ isAffiliate: false
 language: de
 subTitle: Die nachhaltige Kooperation von SOS Zubehör mit Repair Cafés
 advertisement: true
-
 ---
 
 **Der Online-Händler und Reparaturdienstleister SOS Zubehör bietet jetzt den Mitgliedern und Besuchern von Repair Cafés bei der Ersatzteilbestellung Rabatte an. Außerdem stellt er kostenlose Anleitungen zur Fehlersuche und Reparatur-Tipps zur Verfügung.**
@@ -65,7 +60,7 @@ Die Besucher der Repair-Cafés freuen sich besonders über den Gemeinschafts-Ged
 
 "Wir freuen uns über unseren neuen Partner. Durch Unternehmen wie SOS Zubehör hat jeder die Möglichkeit, seine Elektro-Geräte zu warten und zu reparieren – auch wenn er kein Heimwerker-Profi ist.", so Martine Postma.
 
-SOS Zubehör wurde 2008 unter dem Namen SOS Accessoire SAS von Olivier de Montlivault in La Verrière, Yvelines in Frankreich gegründet. Das Unternehmen ist spezialisiert auf Fehlersuche, Kundensupport und Reparaturen. Das Konzept scheint aufzugehen. Inzwischen gibt es Dependancen in Deutschland und Italien. Weitere Standorte sind geplant. Die Ersatzteile werden auf der eigenen Homepage, auf Ebay und auf Amazon angeboten.
+SOS Zubehör wurde 2008 unter dem Namen SOS Accessoire SAS von Olivier de Montlivault in La Verrière, Yvelines in Frankreich gegründet. Das Unternehmen ist spezialisiert auf Fehlersuche, Kundensupport und Reparaturen. Das Konzept scheint aufzugehen. Inzwischen gibt es Dependancen in Deutschland und Italien. Weitere Standorte sind geplant. Die Ersatzteile werden unter anderem auf der eigenen Homepage angeboten.
 
 Die Repair Cafés sind online [hier zu finden](https://repaircafe.org/de/). Schaut doch mal in Eurer Stadt, ob es eines gibt, hier in Hamburg findet man gleich mehrere. Eines davon ist nur 700 Meter von meiner Haustür entfernt. Ich glaube, das nächste Mal, wenn bei mir etwas kaputt geht, gehe ich da auch mal vorbei.
 

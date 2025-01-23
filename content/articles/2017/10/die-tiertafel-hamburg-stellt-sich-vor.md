@@ -5,12 +5,8 @@ typeName: Interview
 title: Tierrechtsaktivistin Kara Schott
 seoTitle: Die Tiertafel Hamburg stellt sich vor - Interview mit Kara Schott Teil 1/2
 ogTitle: Die Tiertafel Hamburg stellt sich vor - Interview mit Kara Schott Teil 1/2
-description: Heute stelle ich Euch eine ganz besondere Frau vor. Kara Schott,
-  Leiterin der Tiertafel Hamburg (Tiertafel Hamburg e. V) liegen Mensch und Tier
-  am Herzen.
-excerpt: Heute stelle ich Euch eine ganz besondere Frau vor. Kara Schott,
-  Leiterin der Tiertafel Hamburg (Tiertafel Hamburg e. V) liegen  Mensch und
-  Tier am Herzen.
+description: Heute stelle ich Euch eine ganz besondere Frau vor. Kara Schott, Leiterin der Tiertafel Hamburg (Tiertafel Hamburg e. V) liegen Mensch und Tier am Herzen.
+excerpt: Heute stelle ich Euch eine ganz besondere Frau vor. Kara Schott, Leiterin der Tiertafel Hamburg (Tiertafel Hamburg e. V) liegen  Mensch und Tier am Herzen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_10_image3-1__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_10_image3-1__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGB//EACsQAAIBAwMDAgUFAAAAAAAAAAECAwQFEQASIQYTMRRBBzJRYXEWIiOBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAQFAQP/xAAiEQABAwIGAwAAAAAAAAAAAAABAAIDESEEEhMxYXEiUZH/2gAMAwEAAhEDEQA/ALOw3KGvkcTxLTBfBd/mP0GmNwu1poKqOmmkLSsu7+OMuFH3I8fjzqdtqU0NUskdSjRSEE5OCpAAIx/WqC8+lkopZIgsrg5U7N2M8EjPg6VNgQG1YhwY4udSQfFN3+4wtHUy0T96mJM5b06707aklQzMGGNvsCOdKpOsLPcOmrbX09dBTPUuqxwyFWdXJI2FecnJ84xjnTqeNai1PSiCAVojlWCUSbQC6kD9uOQSRx9dY58OqaGs6xpxX0gSSGmLIsnJM4G0MoBxkAN/g99RzEY3OzdqtqNla3L0mFdLFaGqJTHNUyU9QwXuVD7WUMRtYZ5GtBmtSDpmpqzIwlqKQTdtGYRJkbsBd3tjGc/fRo0h0sgbZxvytZDGXHxFh6HKnor5+rIpLdc4XSuhjFOLhTy7JHXB+ZcFT50g2Wnpw1twttpQ1EEQIM8pkyc8Hxwc4OR+NGjQZRSXTG1rLvBePOd1/9k=
@@ -39,7 +35,6 @@ isWerbung: false
 isAffiliate: false
 language: de
 subTitle: Teil 1/2 - Die Tiertafel Hamburg stellt sich vor
-
 ---
 
 **Heute möchte ich Euch eine ganz besondere Frau vorstellen. Kara ist Leiterin der Tiertafel Hamburg ( _Tiertafel Hamburg e. V._ ) sowie Gründerin der Tierschutzorganisation _Puss in Boots Animal Rescue_ , die sie gemeinsam mit Ihrer Mutter führt.**
@@ -84,7 +79,7 @@ Die Basis bleibt natürlich die Ernährung, im Speziellen die artgerechte Ernäh
 
 **Anne:** Habt Ihr dann Listen veröffentlicht, auf denen man als Spender sehen kann, was gebraucht wird?
 
-**Kara:** Ja, es gibt einen Amazon-Wunschzettel\* auf unserer Seite, auf dem aufgelistet wird, was gerade am dringendsten gebraucht wird. Letztendlich sind es eigentlich immer die selben Dinge. Die Basics sind eigentlich immer Nassfutter für Hunde und Katzen, Diabetes-Futter und Nierenfutter.
+**Kara:** Ja, es gibt einen Online-Wunschzettel\* auf unserer Seite, auf dem aufgelistet wird, was gerade am dringendsten gebraucht wird. Letztendlich sind es eigentlich immer die selben Dinge. Die Basics sind eigentlich immer Nassfutter für Hunde und Katzen, Diabetes-Futter und Nierenfutter.
 
 **Anne:** Kann man auch andere Dinge spenden, als Futter?
 
@@ -222,7 +217,7 @@ Natürlich könnt Ihr überweisen. Sendet Euer Geld bitte an folgendes Konto
 
 **tiertafelhamburg e.v. GLS Gemeinschaftsbank eG IBAN: DE95 4306 0967 2053 0658 00 BIC: GENODEM1GLS**
 
-Den Amazon-Wunschzettel sowie alle Infos, wie Ihr mit Sachspenden am besten verfahrt und wie Ihr sonst noch helfen könnt, [wird unter diesem Link genau erklärt](http://www.tiertafelhamburg.de/HelfenSieuns).
+Den Online-Wunschzettel sowie alle Infos, wie Ihr mit Sachspenden am besten verfahrt und wie Ihr sonst noch helfen könnt, [wird unter diesem Link genau erklärt](http://www.tiertafelhamburg.de/HelfenSieuns).
 
 [Hier geht's zu Teil 2/2 des Interviews](/2017/11/puss-in-boots-animal-rescue-and-adoption/)
 

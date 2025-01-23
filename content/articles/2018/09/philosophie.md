@@ -52,13 +52,6 @@ Warum das so ist? Das Denken und uns selbst Ergründen, lässt uns Zusammenhäng
 
 Sollen jetzt ein paar Bücherwürmer die Welt retten? Auch hierzu ein klares Nein. Aber sie können sie uns erklären und uns zeigen, wie wir selbst es zumindest versuchen können, sie zu begreifen. Und wer hat uns überhaupt beigebracht, dass Philosophen Bücherwürmer sind?
 
-<RemoteImage
-  size="medium"
-  mediumUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B00NTQ6K7E"
-  largeUrl="//ir-de.amazon-adsystem.com/e/ir?t=cardamonchai-21&amp;l=am2&amp;o=3&amp;a=B00NTQ6K7E"
-  loadingUrl="undefined"
-/>
-
 Nehmen wir Friedrich Nietzsche. "Wo selbst die Wege nachdenklich werden – Friedrich Nietzsche und der Berg" ist ein Werk, welches ich jedem\*r empfehlen kann. Als Hörbuch lässt es sich auch in hektischen Lebensphasen häppchenweise genießen. Wann immer sich Zeit findet. Morgens in der Bahn, oder abends beim Kochen.
 
 ## Nietzsche war kein Schreibtischtäter

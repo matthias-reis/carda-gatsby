@@ -22,13 +22,6 @@ affiliate: false
 
 **Es ist soweit! Unser Roman wurde veröffentlicht und kann ab sofort bestellt werden! Wir sind sehr stolz und freuen uns! Alle Fans von Thriller und Urban Fantasy sollten jetzt in den Buchladen gehen!**
 
-<RemoteImage
-  size="medium"
-  mediumUrl="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=DE&amp;ASIN=3748126522&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=\_SL250_&amp;tag=cardamonchai-21"
-  largeUrl="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=DE&amp;ASIN=3748126522&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=\_SL250_&amp;tag=cardamonchai-21"
-  loadingUrl="undefined"
-/>
-
 Die letzten Tage waren sehr spannend für Matze und mich. Am Sonntag, den 3. Februar haben wir unser Buch bei BOD veröffentlicht. Das bedeutet: An diesem Tag wurde es in Auftrag gegeben und es hat seine ISBN 978-3748126522 bekommen. Als offizielles VÖ-Datum geht der 12. Februar in die Geschichte ein. **Inzwischen ist "Die Hermetiker" von A.M. Reis bestellbar!** Das heißt, Ihr könnt in den Buchladen Eures Vertrauens gehen und es unter der Angabe der ISBN bestellen. Wir fänden es sogar noch toller, wenn Ihr darum bittet, dass noch ein paar weitere Exemplare bestellt und der Auslage hinzugefügt werden. Wir freuen uns nämlich, wenn so viele Menschen wie möglich unseren Roman lesen! Ganz Eilige können auch online bestellen.
 
 ## "Die Hermetiker" - darum geht es
@@ -43,7 +36,7 @@ Auch Gerd durfte es schon lesen. Von ihm stammt das folgende Zitat:
 
 > **"Für ein Erstlingswerk wirklich beachtlich! Eine gute Idee und ein exotisches Thema!"**
 
-Das klingt doch schon mal sehr gut, oder? Das finden wir auch und wir freuen uns schon auf Euer Feedback - gerne in Form einer Rezension bei Goodreads oder Amazon.
+Das klingt doch schon mal sehr gut, oder? Das finden wir auch und wir freuen uns schon auf Euer Feedback - gerne in Form einer Rezension zum Beispiel bei Goodreads.
 
 ## Über uns
 

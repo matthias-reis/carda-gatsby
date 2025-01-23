@@ -77,19 +77,6 @@ Marc Bekoff wurde am 6. September 1945 geboren. Er ist Professor an der Universi
 
 ## Tiere haben Emotionen
 
-<a
-  target="_blank"
-  href="https://www.amazon.de/gp/product/3936188424/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3936188424&linkCode=as2&tag=cardamonchai-21&linkId=693dee8b95b0762d280dfdb4912ce23e"
->
-  <RemoteImage
-    alt={`das-gefuehlsleben-der-tiere`}
-    size="medium"
-    mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-05-das-gefuehlsleben-der-tiere-marc-bekoff__m.jpg"
-    largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_2019-02-05-das-gefuehlsleben-der-tiere-marc-bekoff__l.jpg"
-    loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYEBwECBf/EACoQAAIBBAAFAwMFAAAAAAAAAAECAwAEBRESEyExQQYiUQcUcTNCYZGx/8QAGAEBAAMBAAAAAAAAAAAAAAAAAwABAgX/xAAhEQACAgIBBAMAAAAAAAAAAAABAgARAwSBBRIxUSFB8P/aAAwDAQACEQMRAD8AnxTGWSIYtA1uUB5rRN7t9dgHWh+aSjdZDJTZe8iyHJxmOuTNLHLNpdqwPCB3IY6IHbxSOMxeS3MYF1ddXUEGdz5H80/xYdDecmC7DvtuFFtXJOu+tn/KEbLlrY8R+pabaPYuJQ139geK9+bubWn1AyDqxjMD8OuMNbjodb8VPxnrSLL862uYYWuFBcIntZk310PkfFGG+3XHSrq2u1WXYdrceQOnuBPisZOC3lxl/wAi2gina2k4HjiVWBCkjqBvuKI77XS/uJWLUGRFLgC+a5lI4m7U5KyDMAvPj4jvQA4h/VXDBf21qblsddwhXLyRkyLLJCx937t9OLt8/iiitEV8zobTnIw7vUr71Tmbm0yKriMnJDA8QkkW1cxq0hZtkqOza1uuK3qXLqCDlr3eiP1mPeiioVBMbBS4VIE//9k="
-  />
-</a>
-
 Er erforscht seit mehr als 30 Jahren das Gefühlsleben der Tiere. Dies tut er aus seiner Leidenschaft und dem Wunsch, sich in sie hineinzuversetzen heraus. Sich selbst sieht er aus diesem Grund als glücklichen Menschen.
 
 Zunächst von seinen Kolleg\*innen für seine Ideen belächelt, kann er heute ganz klar sagen "Gegen die Existenz tierischer Emotionen zu argumentieren, ist schlechte Biologie. Die wissenschaftliche Forschung in evolutionärer Biologie, kognitiver Ethnologie und in den sozialen Neurowissenschaften unterstützt die Ansicht, dass zahlreiche unterschiedliche Arten ein reiches und tief empfundenes Gefühlsleben haben. " _(Seite 14)_
@@ -119,19 +106,6 @@ Auch der Frage, warum wir uns mit Tieren umgeben, geht Bekoff nach. "Tierische E
 Er findet, dass uns genau aus diesem Grund die Gefühle von Tieren besonders wichtig sein sollten.  Seine Empathie-Studien zeigen, dass Emotionen das sind, was Tiere und Menschen verbindet. Darum wünscht er sich, dass Menschen ihre Möglichkeit, Emotionen mit anderen Lebewesen zu teilen, nutzen. Dauerhaft macht uns der Umgang mit Tieren nachweislich ruhiger und zufriedener. Ihr Mitgefühl, ihre Sympathie und **Empathie** geben uns Kraft.
 
 ## Freundschaften zwischen verschiedenen Spezies
-
-<a
-  target="_blank"
-  href="https://www.amazon.de/gp/product/3936188424/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3936188424&linkCode=as2&tag=cardamonchai-21&linkId=693dee8b95b0762d280dfdb4912ce23e"
->
-  <RemoteImage
-    alt={`Marc Bekoff - Foto: Marc Bekoff Autorenseite Amazon`}
-    size="full"
-    mediumUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_marc-bekoff__m.jpg"
-    largeUrl="https://storage.googleapis.com/cardamonchai-images/2019_02_marc-bekoff__l.jpg"
-    loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHAwX/xAArEAABBAEDAwIFBQAAAAAAAAABAgMEBREAEiEGEzEiQRRCUWFxBxWhosH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgQDBf/EACARAAICAgICAwAAAAAAAAAAAAECABEDEiEyBBMxQZH/2gAMAwEAAhEDEQA/AE92InCil2KQPOE8D+2g/iqKNKiiwlLW2+4EbIrQCsk4HKjjGT51j1ki+k1/frIU1de81uQ42ydhVnCgSPoQRzjXE6x6ZSxbRm3JT20Ms7mXUbVFfbSpYSR8u4n24GNP1XZ/kxuxpBwJfK1qpoL2LT0Ud1bo3LlSV/NhJBJ59PIASCBnBwMc6a2ZyfilYc3KSSlSMgDHjGP91Jv09oYVfUxrJh2YbJ5xcZTyXOXUgZBVuyCMrwDjwj6nVINU9AhMWTk6PJWoYWlKQkFJzxuz6vYe2uf5eN8ijKAKH7N8WiMViz1FZU0Hp1iBXHtRlyQFehStil4HqBPp55P8aWurraFX/u0SUFWImFlpM2IhKlYRgPAKPKSQlPH301XFdW3TBXaVkSQ4rbuUQpJVg8ZIIzj76EsTHoOjrV2sr4DXYjrlpSWEkFxLZIJzqqywG3IEnVlsheLg1h1bRSq9hFQJEV2OpHYZcYIIRwMceOMEfjWvUnXVRNp2GY0B2NLS6UqIVltshXPA8pJz+POo/wBMdUW1vKZVZSg82t0AtBtLaMZ9ggDHnVS6hpYKq5stshnAGO3x5z9fxoaVj9f1AMgDXP/Z"
-  />
-</a>
 
 Und Tiere gehen laut seiner Forschungen nicht nur Beziehungen zu Menschen ein. Auf Seite 38 erzählt er beispielsweise von einer Löwin, die in fünf verschiedenen Fällen Oryxantilopenbabys adoptierte und sogar von der Freundschaft zwischen einem Koi und einem Golden Retriever weiß er zu berichten.
 

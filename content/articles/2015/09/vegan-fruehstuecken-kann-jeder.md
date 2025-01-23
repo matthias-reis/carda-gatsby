@@ -95,12 +95,3 @@ Eine Komponente, die mir bei Kochbüchern auch immer ziemlich wichtig ist, ist d
 Alles in allem ist "Vegan frühstücken kann jeder" eine gelungene Sammlung schmackhafter Frühstücksideen, die nicht nur Vegan-Einsteiger glücklich machen wird. Bei mir gibt es heute übrigens noch das "Full English Breakfast" – zum Abendbrot.
 
 "Vegan frühstücken kann jeder" ist beim Neun Zehn Verlag erschienen.
-
-<iframe
-  style="width: 120px; height: 240px;"
-  src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=DE&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=cardamonchai-21&amp;marketplace=amazon&amp;region=DE&amp;placement=394249163X&amp;asins=394249163X&amp;linkId=31c0307441004125afc03f9dd800609e&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=c4c4c4&amp;title_color=5c9b72&amp;bg_color=ffffff"
-  frameborder="0"
-  marginwidth="0"
-  marginheight="0"
-  scrolling="no"
-></iframe>

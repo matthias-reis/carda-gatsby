@@ -3,12 +3,8 @@ date: 2018-08-14T05:12:23.000Z
 title: All That Glitter
 seoTitle: All That Glitter And All That Glitter - Veganer Bio-Glitter von Naissance
 ogTitle: All That Glitter And All That Glitter - Veganer Bio-Glitter von Naissance
-description: Glitter ist toll! Glitter macht alles schöner und nicht nur
-  Einhörner glücklich. Ich habe jetzt die biologisch abbaubare Variante
-  getestet. Mein Fazit.
-excerpt: Glitter ist toll! Glitter macht alles schöner und nicht nur Einhörner
-  glücklich. Ich habe jetzt die biologisch abbaubare Variante getestet. Mein
-  Fazit.
+description: Glitter ist toll! Glitter macht alles schöner und nicht nur Einhörner glücklich. Ich habe jetzt die biologisch abbaubare Variante getestet. Mein Fazit.
+excerpt: Glitter ist toll! Glitter macht alles schöner und nicht nur Einhörner glücklich. Ich habe jetzt die biologisch abbaubare Variante getestet. Mein Fazit.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2018_08_2018-08-12-Naissance-Glitter-57__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2018_08_2018-08-12-Naissance-Glitter-57__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcDBggF/8QAKRAAAQMDAwMEAgMAAAAAAAAAAQIDBAAFEQYSIQciQRQxUWFxoTJykf/EABYBAQEBAAAAAAAAAAAAAAAAAAMCAP/EABsRAAMBAAMBAAAAAAAAAAAAAAABAhEDEtGB/9oADAMBAAIRAxEAPwDOE0ADAqfSttbu2prRbniEtS5bTCyeMJUsA/rNDMSTdZjUW3x3ZMl04Q00kqUo/gVcOmintI9SoEa/25UVx9fpVKktEOMAnBW34J4255GCaRhyW/qvp+zvLlzmUhEopSmO02hSOwdoG0jI4/QBpNtQitR35bOMp4J/34rReutrOo5VxnJ3MvJwwEDKEp2kJGaS7lrUy6sOlbaVOdu7OQM+PzU0kniNxVdTtrPPR1dPLTp3Qun0s3m4wY2pHSiRPTKUAlsbstsBftxjuGf5H6FdzWEq3TIsR1M6LN9OoPR2W0FW97YraSffCcqUAnycmiiq6psN8jU/ShMR75HujUa8SETlNbNyEDlLihwP7Jyc+KYln6fwXY02ZcghapSFBpCTkMZBCiD8knP1RRUMaXqP/9k=
@@ -34,7 +30,6 @@ isAffiliate: false
 language: de
 subTitle: Bio-Glitter von Naissance
 advertisement: true
-
 ---
 
 **Glitter ist toll! Glitter macht alles schöner und nicht nur Einhörner glücklich. Doch leider ist Glitter auch eine Umweltbelastung. Abgespült gelangen die kleinen Partikelchen ins Grundwasser und verbinden sich mit anderen** [**Mikroplastik**](/2018/05/mikroplastik-in-der-kosmetik/) **-Teilchen.**
@@ -59,7 +54,7 @@ Ob man den Glitter wirklich braucht, ist eine Frage, die man sicherlich diskutie
 
 Der Biospaß aus dem Röhrchen wird nicht wie herrkömmlicher Karnevalsglitter aus Plastik, sondern aus Pflanzenmaterial hergestellt. Es gibt ihn insgesamt in sechs verschiedenen Farben: Dunkelrosa, Fuchsia, Himmelblau, Silber, Türkis, Violett und in drei verschiedene Varianten: fein, mittel und grob. Für meine Bilderserie habe ich mich für den feinen Glitter in himmelblau entschieden.
 
-Zum Befestigen könnt Ihr wie ich einfach Gesichtscreme nehmen, oder Ihr macht es so, wie der Hersteller es empfiehlt und nehmt das [Aloe Vera Gel](https://www.amazon.de/gp/product/B00E4OLCEG/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B00E4OLCEG&linkCode=as2&tag=cardamonchai-21&linkId=6e86a39707db85a1e890e313c35cccee) von Naissance als "Kleber". Übrigens könnt ihr den Glitzer auch gut als lustigen Zusatz für selbstgemachte Badebomben oder Seifen benutzen.
+Zum Befestigen könnt Ihr wie ich einfach Gesichtscreme nehmen, oder Ihr macht es so, wie der Hersteller es empfiehlt und nehmt das Aloe Vera Gel von Naissance als "Kleber". Übrigens könnt ihr den Glitzer auch gut als lustigen Zusatz für selbstgemachte Badebomben oder Seifen benutzen.
 
 <Gallery
   images={[
