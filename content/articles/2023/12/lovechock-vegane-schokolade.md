@@ -4,14 +4,10 @@ typeName: Produkttest
 title: '"Cacao Magic"'
 subTitle: Neue vegane Schokolade von Lovechock
 seoTitle: Vegane Schokolade von Lovechock – "Cacao Magic"
-description: Vegane Schokolade – ist das Musik in Euren Ohren? Dann entdeckt
-  jetzt die neuen Lovechock Sorten in Kooperation mit belgischen Chocolatiers!
-excerpt: Wenn vegane Schokolade schon wie Musik in Euren Ohren klingt, werden
-  Euch die neuen "Cacao Magic" Sorten von Lovechock begeistern. Die Rezepte
-  kommen mit 30 Prozent weniger Zucker aus und die Brand arbeitet jetzt mit
-  belgischen Chocolatiers zusammen.
+description: Vegane Schokolade – ist das Musik in Euren Ohren? Dann entdeckt jetzt die neuen Lovechock Sorten in Kooperation mit belgischen Chocolatiers!
+excerpt: Wenn vegane Schokolade schon wie Musik in Euren Ohren klingt, werden Euch die neuen "Cacao Magic" Sorten von Lovechock begeistern. Die Rezepte kommen mit 30 Prozent weniger Zucker aus und die Brand arbeitet jetzt mit belgischen Chocolatiers zusammen.
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-01/lovechock-anne-reis-soundsvegan-com-03-jpg-imagine-080808_b07045_2048_1536/640.webp
-copyright: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-12-01/lovechock-og-jpg-imagine-080808_b96537_1200_628/640.webp
 labels:
   - Schokolade
@@ -22,9 +18,8 @@ labels:
   - Lovechock
 focusKeyword: vegane Schokolade
 advertisement: true
-affiliate: true
+affiliate: false
 language: de
-
 ---
 
 **Wenn Ihr vegane Schokolade liebt, ist Euch Lovechock sicher schon ein Begriff. Jetzt gibt es pünktlich zur kalten Jahreszeit Neuigkeiten von der süßen Brand aus Amsterdam. Die neuen Sorten aus der "Cacao Magic" Serie sind wirklich etwas ganz Besonderes. Ich erzähle Euch, warum.**
@@ -67,20 +62,7 @@ Das bedeutet: Die Kund\*innen sollen sich beim Verzehr der Schokolade gut fühle
 >
 > Nach langer Entwicklungszeit und dem Ausprobieren zahlreicher Geschmacksvariationen können wir heute mit Stolz sagen, dass die neue 'Cacao Magic' Serie genau das verkörpert. Mit 'Cacao Magic' haben wir die erste vegane Schokolade geschaffen, die in ihrem Geschmack, ihrer Beschaffenheit, ihrem Schmelz und ihrer Süße traditionellen First-Class-Schokoladen in nichts nachsteht – nur, dass sie eben vegan und auf allen Ebenen viel bewusster und nachhaltiger ist."
 
-Das passt zum Werbeclaim der Brand: "Vegan Goodness – always natural, organic and less sugar". Die neue Serie beinhaltet bis jetzt sechs verschiedene Sorten:
-
-- [Spirit (75 Prozent Kakaoanteil)](https://amzn.to/3To7WxB)
-- [Soul (75 Prozent Kakaoanteil, Karamell und Meersalz)](https://amzn.to/3GnFHqP)
-- [Cosy (58 Prozent Kakaoanteil, Haselnüsse)](https://amzn.to/3GpOed2)
-- [Dream (58 Prozent Kakaoanteil, Kokos)](https://amzn.to/3GpYlOX)
-- [Passion (rosafarbene Pink-Berry-Schokolade)](https://amzn.to/3sXGn38)
-- [Bliss (cremige weiße Schokolade)](https://amzn.to/3R0Gwed)
-
-Hinzu kommen die bereits kurz erwähnten Riegel mit dem schönen Namen "Gifting Bars":
-
-- [NussKuss (Haselnuss)](https://amzn.to/3GpdcZV)
-- [Alles Liebe (Hibiskus mit Kakaonibs)](https://amzn.to/410NSD9)
-- [Herzenswärme (Kirsch-Chili)](https://amzn.to/49YkSjp)
+Das passt zum Werbeclaim der Brand: "Vegan Goodness – always natural, organic and less sugar"
 
 ## Natürliche Süße
 

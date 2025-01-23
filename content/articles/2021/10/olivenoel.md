@@ -4,12 +4,9 @@ typeName: Beitrag
 title: Olivenöl
 subTitle: Darum ist das Pflanzenöl so wertvoll
 seoTitle: Olivenöl – darum ist das Pflanzenöl so wertvoll
-description: Olivenöl ist ein perfekter Allrounder – nicht nur in der Küche. Ein
-  paar Einsatzmöglichkeiten und Vorteile habe ich jetzt mal zusammengefasst –
-  von Salat-Dressing bis Hautpflege und von Olivenöl-Gewinnung bis
-  DIY-Beauty-Tipps mit Olivenöl.
+description: Olivenöl ist ein perfekter Allrounder – nicht nur in der Küche. Ein paar Einsatzmöglichkeiten und Vorteile habe ich jetzt mal zusammengefasst – von Salat-Dressing bis Hautpflege und von Olivenöl-Gewinnung bis DIY-Beauty-Tipps mit Olivenöl.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/2021-09-28-oele-30-jpg-imagine-b8b8a8_a09c94_1024_768/640.webp
-copyright: ""
+copyright: ''
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/olivenoel-fb-png-imagine-b8c8d8_959390_1200_628/640.webp
 labels:
   - Olivenöl
@@ -20,9 +17,8 @@ labels:
   - kaltgepresstes Olivenöl
 focusKeyword: Olivenöl
 advertisement: true
-affiliate: true
+affiliate: false
 language: de
-
 ---
 
 **Olivenöl ist ein perfekter Allrounder – nicht nur in der Küche. Ein paar Einsatzmöglichkeiten und Vorteile habe ich jetzt mal zusammengefasst – von Salat-Dressing bis Hautpflege und von Olivenöl-Gewinnung bis DIY-Beauty-Tipps mit Olivenöl.**
@@ -45,15 +41,15 @@ An einem Olivenbaum wachsen je nach Wetter, Wasser und Alter bis zu 300 Kilo Oli
 
 Die Früchte werden für die Ölproduktion geerntet, wenn sie ihre Farbe von grün zu lila oder rot wechseln. Je reifer sie sind, desto mehr Öl kann daraus gewonnen werden. Mein Beispiel ist also nur eine ungefähre Schätzung. Je genauer der Zeitpunkt der Ernte abgepasst wird, desto besser schmeckt das Olivenöl.
 
-Heute werden die Oliven häufig mechanisiert geerntet, da die traditionelle Ernte mit der Hand nicht nur anstrengend, sondern auch kostenintensiv und aufwendig ist. Die Erntehelfer\*innen breiten dafür Netze unter den Bäumen aus und die Oliven werden mit Stöcken und Kämmen von den Zweigen gestreift oder – [bei besonders hochwertigen Ölen](https://amzn.to/3vjkxDZ) – sogar komplett von Hand gepflückt.
+Heute werden die Oliven häufig mechanisiert geerntet, da die traditionelle Ernte mit der Hand nicht nur anstrengend, sondern auch kostenintensiv und aufwendig ist. Die Erntehelfer\*innen breiten dafür Netze unter den Bäumen aus und die Oliven werden mit Stöcken und Kämmen von den Zweigen gestreift oder – bei besonders hochwertigen Ölen – sogar komplett von Hand gepflückt.
 
 ## Traditionelle und moderne Olivenöl-Gewinnung
 
 Anschließend werden die Oliven gewaschen und in der Ölmühle zerkleinert – inklusive Kernen, gepresst und der Saft durch Schleudern gewonnen. Auch hier gibt es verschiedene traditionelle (Tropföl und Pressung) und moderne Verfahren.
 
-Heute wird Olivenöl in Güteklassen eingeteilt. In Europa gibt es acht Kategorien. Extra Virgin (englisch), Vierge Extra (franz.), Extra Vergine (italienisch), Virgen Extra (spanisch) oder Extra Virgem (portugiesisch) steht für [Natives Olivenöl Extra](https://amzn.to/3vjkxDZ).
+Heute wird Olivenöl in Güteklassen eingeteilt. In Europa gibt es acht Kategorien. Extra Virgin (englisch), Vierge Extra (franz.), Extra Vergine (italienisch), Virgen Extra (spanisch) oder Extra Virgem (portugiesisch) steht für natives Olivenöl Extra.
 
-Ihr könnt das Olivenöl selbst mit Gewürzen anreichern, als Basis für Salat-Dressings (zum Beispiel mit [Balsamico-Essig](https://amzn.to/3AEJ9rJ)) und leckere Saucen verwenden oder auch schmackhaftes Olivenöl erwerben, das bereits mit Gewürzen verfeinert wurde, im Handel erwerben. Als Delikatesse gilt beispielsweise Olivenöl mit Zitronenschalen (Limoli).
+Ihr könnt das Olivenöl selbst mit Gewürzen anreichern, als Basis für Salat-Dressings zum Beispiel mit Balsamico-Essig und leckere Saucen verwenden oder auch schmackhaftes Olivenöl erwerben, das bereits mit Gewürzen verfeinert wurde, im Handel erwerben. Als Delikatesse gilt beispielsweise Olivenöl mit Zitronenschalen (Limoli).
 
 <Gallery name="olivenoel-1" />
 

@@ -5,10 +5,8 @@ typeName: Produkttest
 title: Lovechock Rocks
 seoTitle: Lovechock Rocks im Test - richtig gute Schokolade
 ogTitle: Lovechock Rocks im Test - richtig gute Schokolade
-description: 'Ich habe Lovechock Rocks getestet. Der Anspruch: Superfood in
-  Bioqualität hübsch verpackt zum Snacken, das Motto: "Happiness inside".'
-excerpt: 'Ich habe Lovechock Rocks getestet. Der Anspruch: Superfood in
-  Bioqualität hübsch verpackt zum Snacken, das Motto: "Happiness inside".'
+description: 'Ich habe Lovechock Rocks getestet. Der Anspruch: Superfood in Bioqualität hübsch verpackt zum Snacken, das Motto: "Happiness inside".'
+excerpt: 'Ich habe Lovechock Rocks getestet. Der Anspruch: Superfood in Bioqualität hübsch verpackt zum Snacken, das Motto: "Happiness inside".'
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-2__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_06_lovechock-2__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAYHBf/EACoQAAEEAQMDAwMFAAAAAAAAAAECAwQRBQASIQYTMQciQRVxsSMyUWGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMCBAX/xAAdEQADAAEFAQAAAAAAAAAAAAAAAQIhAwQREmEx/9oADAMBAAIRAxEAPwBqwuVKJOWLWRRj2pkpMlmSllEhZSgVXbURt3Ajk8iiPnTN6ddMx8fHRKiSmy6ttIV2CoJW4r3blpu+Eke0gAWKGomiWiIllb8tuM81SVIQS9aT4IA55G4fB4/vVp6RyUWJgIzEQqjuPgrIccSpbhNDd5NGqFeQAONUnuH9o1tXa9Y7S8sU+u24jWcchFpt5Tm1zc8faSN3F3Yqh5/nU6zmVj4yKxsit0HO22ErJAJNq+fzqtdW9KTs1JTNTkYf6bYQEPtluhd2VCwTyOSOdQf1EgS8fm/p0ksJcipQtzYvcncvkcj5oA6VLVV4DiVp+mvEYXFfTLZdHdfabWApAKULACtwH31vJ6wkpyCiiO0YTqjujundRsEbVcVVmrB/zRo0qW6jJJN8jvEya5+JhubVJjyCm2HF7wOa88fjUMzkk5bM5aXICg7ImOj93CUoUUAV9gNGjQh4YLP/2Q==
@@ -25,11 +23,10 @@ labels:
   - vegane Schokolade
 focusKeyword: Lovechock
 isWerbung: true
-isAffiliate: true
+isAffiliate: false
 language: de
 subTitle: Rohe Schokolade mit dem gewissen Etwas
 advertisement: true
-
 ---
 
 **Seit April sind die kleinen "Lovechock Rocks" aus roher Schokolade in ausgewählten Bioläden zu haben. Der Anspruch: Superfood in Bioqualität hübsch verpackt zum Snacken, das Motto: "Happiness inside".**
@@ -46,7 +43,7 @@ Vor zwei Tagen traf ein kleines Paket bei uns zu Hause ein, auf das ich mich sch
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFBwYI/8QAJxAAAgEDBAEEAgMAAAAAAAAAAQIDAAQRBQYSITEiUWGhFHEHMpH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAQID/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAIBAxESIf/aAAwDAQACEQMRAD8A9HWlmgUFgBSura7pmkRzvdPiO3TnK48IPb3J+BVFGVzErHCdsTnGT4x91wP8r7bg3Fam1XUorKWRldTKeKniCMZyOu/Ao17uq6gilVZscu7W3jou6Y5TZC4t5I24vFdRhHU/oE9fNVb/AE6Nlb0g+4xWG7M2XrOk7utptQ/FsrCJiHmtpYwLhRkKq+rkckjIxjz3W42cxEcv5EqGdj/QPnio6AA/QrFFzP450vqVJjiRWzlw/PB5EYOScf5VLmsiYkjRh7MAR90UUiA8ij2linaWFoh85WFVP0KnSRwwOXihQSd+s9t38miipkaXZP/Z"
 />
 
-Im Paket enthalten waren zwei Päckchen "[Lovechock Rocks Raw Chocolate](https://amzn.to/3Rm1MMT)" in der Sorte "Maulbeere und Hanfsaat", sowie ein kleines Beutelchen mit rohen Schokoladenbohnen.
+Im Paket enthalten waren zwei Päckchen Lovechock Rocks Raw Chocolate in der Sorte "Maulbeere und Hanfsaat", sowie ein kleines Beutelchen mit rohen Schokoladenbohnen.
 
 Die Rocks beinhalten nicht nur Hanfsaat und Maulbeeren, sondern auch einen Hauch von Reishi. [Bei Wikipedia wird der Reishi als "Derber Pilz" beschrieben](https://de.wikipedia.org/wiki/Gl%C3%A4nzender_Lackporling), normalerweise kann mein Mann Pilze nicht ausstehen, doch der Reishi in den Rocks hat ihn nicht gestört. Ich selbst habe nur ein leichtes Aroma herausgeschmeckt, das sich harmonisch mit der Maulbeere verbindet. Die Hanfsaat macht die Rocks leicht knusprig, was das Nascherlebnis noch intensiviert.
 
@@ -128,8 +125,6 @@ Heute besteht ihr Team aus sechzehn Menschen, die so klangvolle Berufsbezeichnun
 Ich für meinen Teil kann die Lovechock Rocks auf jeden Fall empfehlen, ich werde mit Sicherheit auch alle weiteren Sorten probieren. Besonders gespannt bin ich auf "Mandel Zimt" und auf die Lovechock Bars, so heißen die Rohriegel aus Lauras Manufaktur.
 
 Ich könnte auf jeden Fall Lovechock Fan werden und das obwohl ich mich nicht mal als Chocoholic bezeichnen würde.
-
-[Online findet Ihr Lovechock Rocks hier](https://amzn.to/3Rm1MMT).
 
 <Gallery
   images={[
