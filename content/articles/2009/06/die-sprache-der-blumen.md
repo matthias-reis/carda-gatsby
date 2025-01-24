@@ -15,7 +15,7 @@ labels:
   - Geschichten & Erlebtes
 focusKeyword: Die Sprache der Blumen
 isWerbung: false
-isAffiliate: false
+isAffiliate: true
 language: de
 subTitle: Warum verschenken wir Blumen?
 ---
@@ -32,6 +32,12 @@ Der Brauch geht sehr weit zurück. Im antiken Rom wurde am 14. Februar die  [Lu
 
 Der Muttertag hat seinen Ursprung in der englischen und amerikanischen Frauenbewegung. Die Methodistin Anna Marie Jarvis, ein Mitglied der Frauenbewegung führte am 12. Mai 1907 ein Memorial Mothers Day Meeting durch. Es war der Sonntag nach dem 2. Todestag ihrer Mutter Ann Maria Reeves Jarvis, der Gründerin der Mütterbewegung "Mothers Friendships Day". Auf ihr Drängen hin wurde in ihrem Heimatort Grafton 1 Jahr später am 2. Maisonntag in der Kirche ein Gedenkgottesdienst zu Ehren aller Mütter gefeiert. Sie machte es sich zum Ziel, einen offiziellen Muttertag zu schaffen, schrieb an Politiker, diverse Frauenvereine und Geistliche. Bereits 1909 hatte sich der Muttertag in 45 Staaten der USA durchgesetzt.1914 wurde er das erste Mal als nationaler Feiertag der USA gefeiert.
 
+---
+
+**Lesetipp:** Das Buch "[Die Sprache der Blumen](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F47887767%2Fmarina_heilmeyer_die_sprache_der_blumen_pflanzen_und_ihre_symbolische_bedeutung.html)" von Marina Heilmeyer gibt Aufschluss über die schönste Sprache der Welt – mit 150 Blumengemälden.
+
+---
+
 Nachdem der Muttertag immer mehr kommerzialisiert wurde, kämpfte die Begründerin später erfolglos für seine Abschaffung.
 
 Der Muttertag setzte sich schnell auch in England, der Schweiz, Finnland, Norwegen und Schweden durch, 1923 wurde er in Deutschland, 1924 in Österreich das erste Mal gefeiert. In Deutschland wurde der Muttertag 1922/1923 durch den "Verband der Blumengeschäftsinhaber" etabliert. Plakate mit Sätzen wie "Ehret Eure Mutter" warben damals bei uns für den Muttertag. Er wird noch heute unpolitisch als "Tag der Blumenwünsche" gefeiert. In der Schweiz wurde der Muttertag unter anderem durch die Heilsarmee populär gemacht.
@@ -45,6 +51,12 @@ Der Name "Selam" geht auf das Osmanische Reich zurück. Lady Montagu reiste 1717
 ## Weitere Traditionen
 
 In einigen Ländern ist es Brauch bei jedem Besuch einen Strauß mitzubringen. In den USA schenken die jungen Männer ihren Tanzpartnerinnen zum Abschlussball ein kleines Sträußchen, daß sich die Mädchen dann anstecken. Nicht zu vergessen die Brautstrauß-Tradition: Die Braut wirft den Strauß den unverheirateten Frauen zu, diejenige, die den Strauß fängt, findet als nächstes einen Mann.
+
+---
+
+**Lesetipp:** Im Buch "[Charlotte und die Sprache der Blumen](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F24818906%2Fsiri_mitchell_charlotte_und_die_sprache_der_blumen.html)" von Siri Mitchell geht es um eine junge Frau, die ihre Leidenschaft für die Sprache der Blumen entdeckt und sich in der feinen Gesellschaft nicht wohlzuscheinen fühlt.
+
+---
 
 Ganz unabhängig vom Anlaß: es ist ein schöner Brauch, Blumen zu verschenken, ganz besonders, wenn man die "Sprache der Blumen" kennt. Am schönsten ist natürlich immer ein selbstgemachter Blumenstrauß.
 
@@ -107,6 +119,10 @@ Ganz unabhängig vom Anlaß: es ist ein schöner Brauch, Blumen zu verschenken, 
 - Zehrkraut - Aufregung, Überraschung, Unruhe
 - Zichorie - Genügsamkeit
 - Zitterpappel - Seufzer
+
+---
+
+**Lesetipp:** In "[Die Sprache der Blumen](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F39015316%2Falina_frey_die_sprache_der_blumen.html)" von Alina Frey geht es um die Bedeutung verschiedener Blumen und die Freude, sie zu den unterschiedlichsten Anlässen zu verschenken.
 
 ---
 
