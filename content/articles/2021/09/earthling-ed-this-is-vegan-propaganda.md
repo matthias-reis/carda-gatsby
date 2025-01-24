@@ -61,3 +61,8 @@ Vorbestellungen für "This Is Vegan Propaganda & Other Lies the Meat Industry Te
 <YouTube id="sXiPiqC4Inw" />
 
 Bilder/pictures: Earthling Ed, Instagram
+
+## "This Is Vegan Propaganda & Other Lies The Meat Industry Tells You" jetzt bestellen
+
+- [als E-Book](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F40486314%2Fed_winters_this_is_vegan_propaganda.html)
+- [als Taschenbuch](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F42664804%2Fed_winters_this_is_vegan_propaganda.html)
