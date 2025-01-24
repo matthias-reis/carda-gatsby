@@ -25,7 +25,7 @@ labels:
   - Veganismus
   - Wissenschaft
 focusKeyword: Klimakatastrophe
-affiliate: false
+affiliate: true
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2021_02_bill-gates-1__l.jpg
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2021_02_bill-gates-1__m.jpg
 language: de
