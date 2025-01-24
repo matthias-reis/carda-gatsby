@@ -5,10 +5,8 @@ typeName: Produkttest
 title: naturmädchen im Test
 seoTitle: Naturmädchen Kosmetik im Test - Mizellenwasser, Creme & Serum
 ogTitle: Naturmädchen Kosmetik im Test - Mizellenwasser, Creme & Serum
-description: Naturmädchen stellt Naturkosmetik für gestresste Haut her. Genau
-  das Richtige für mich, dachte ich mir - die musste ich einfach testen.
-excerpt: Naturmädchen stellt Naturkosmetik für gestresste Haut her. Genau das
-  Richtige für mich, dachte ich mir - die musste ich einfach testen.
+description: Naturmädchen stellt Naturkosmetik für gestresste Haut her. Genau das Richtige für mich, dachte ich mir - die musste ich einfach testen.
+excerpt: Naturmädchen stellt Naturkosmetik für gestresste Haut her. Genau das Richtige für mich, dachte ich mir - die musste ich einfach testen.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2020_01_naturkind-12__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2020_01_naturkind-12__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHAgX/xAApEAABAwMDBAEEAwAAAAAAAAABAgMEAAURBhIhEzFBYSIHMkKRFMHR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQMAAv/EABsRAQADAAMBAAAAAAAAAAAAAAEAAhEDEiEx/9oADAMBAAIRAxEAPwCSs6bltq67TLMmKhClFDjgG3t8sEc4AP7rFs1L/PhM2OyMuRLk6+BHfWU9NKSckEckDv4NdHTuqJk6I/HXb2Qy6ypHUQ4QUEggE5489qadE/T2ypskO8KamIubCkHcXwtpajwcox29ZBrksPkqoe1ijq666n0S9Dg3c2qa+80XusElW9JUQB+ODwfFPN2siS1kIGSkKIA7ZAP91RJtpgrvMNmRDjyAI6UqzHQsBOScEKCuDntkVHp01QbD4KkuKbUQ8fgUub9o84Odu3n8Rnii9uuQry4PaKVitlxajKPUZylBICV5KyOwHv8A2rHpIuStIMW94x47ylpK8hQIAAJyR790UVgCUeMzZUI1uYt8TfcW4zynACnIKtqduNuTyPP7qH6ssMGNOW01JSqL92T955PGO3A24PrNFFDUfsKgmM//2Q==
@@ -36,13 +34,12 @@ isAffiliate: false
 language: de
 subTitle: Mizellenwasser, Gesichtscreme und Serum
 advertisement: true
-affiliate: true
-
+affiliate: false
 ---
 
 **Naturmädchen stellt Naturkosmetik für gestresste Haut her. Genau das Richtige für mich dachte ich mir - die musste ich einfach testen.**
 
-Im Winter ist meine Haut hungrig. Sie sehnt sich nach Feuchtigkeit und liebevoller Pflege. Die [Gesichtscreme](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-gesichtscreme-50ml-vegane-naturkosmetik%2F), das [Mizellenwasser](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-mizellenwasser-100ml-vegane-naturkosmetik%2F)  und das [Intensivserum](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-intensivserum-30ml-vegane-naturkosmetik%2F) für empfindliche Haut von naturmädchen versprechen, genau das zu geben.
+Im Winter ist meine Haut hungrig. Sie sehnt sich nach Feuchtigkeit und liebevoller Pflege. Die Gesichtscreme, das Mizellenwasser und das Intensivserum für empfindliche Haut von naturmädchen versprechen, genau das zu geben.
 
 Ich nutze alle drei Produkte in Kombination seit inzwischen etwas über einer Woche. Ob sich meine Haut schon weniger gestresst anfühlt? Ich würde sagen ja.
 
@@ -50,19 +47,19 @@ Ich nutze alle drei Produkte in Kombination seit inzwischen etwas über einer Wo
 
 ## Eine neue Pflegeroutine für die nächsten Wochen
 
-Meine derzeitige neue Routine besteht nun also aus: Morgens weiterhin mit klarem Wasser waschen und anschließend mit kurzen Pausen dazwischen zuerst das  [Intensivserum](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-intensivserum-30ml-vegane-naturkosmetik%2F) und anschließend die Creme auftragen. Anschließend lege ich dann mein Make-up auf.
+Meine derzeitige neue Routine besteht nun also aus: Morgens weiterhin mit klarem Wasser waschen und anschließend mit kurzen Pausen dazwischen zuerst das  Intensivserum und anschließend die Creme auftragen. Anschließend lege ich dann mein Make-up auf.
 
-Wenn ich abends nach Hause komme, schminke ich mich mit dem  [Mizellenwasser](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-mizellenwasser-100ml-vegane-naturkosmetik%2F) ab und trage wieder das Serum auf. Das klappt super mit einem weichen Waschlappen. Das Mizellenwasser nimmt sogar wasserfestes Augen-Make-up ganz leicht ab. Im Anschluss spüle ich nochmal mit lauwarmem Wasser nach.
+Wenn ich abends nach Hause komme, schminke ich mich mit dem Mizellenwasser ab und trage wieder das Serum auf. Das klappt super mit einem weichen Waschlappen. Das Mizellenwasser nimmt sogar wasserfestes Augen-Make-up ganz leicht ab. Im Anschluss spüle ich nochmal mit lauwarmem Wasser nach.
 
 <Gallery name="naturkind" />
 
-Meine Haut sieht schon viel besser aus. Was mich besonders glücklich macht: Trotz der reichhaltigen  [Gesichtscreme](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-gesichtscreme-50ml-vegane-naturkosmetik%2F)  habe ich noch keine Hautunreinheiten zu verbuchen. Die stellen sich bei falscher Pflege bei mir immer recht schnell ein. Ebenso geht es mir mit meiner Rosacea: keine Spur von neuen roten Stellen. Das klingt gut, oder?
+Meine Haut sieht schon viel besser aus. Was mich besonders glücklich macht: Trotz der reichhaltigen Gesichtscreme habe ich noch keine Hautunreinheiten zu verbuchen. Die stellen sich bei falscher Pflege bei mir immer recht schnell ein. Ebenso geht es mir mit meiner Rosacea: keine Spur von neuen roten Stellen. Das klingt gut, oder?
 
 ## Duft und Textur sind angenehm leicht
 
-Die Creme hat eine sehr angenehme Textur und duftet wunderbar natürlich nach Orangen. Das  [Intensivserum](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-intensivserum-30ml-vegane-naturkosmetik%2F) ist nicht zu flüssig und sehr ergiebig. Für das komplette Gesicht benötige ich nur einen kleinen Tropfen. Auch vom Mizellenwasser reicht eine sehr kleine Menge. Ich durchtränke eine kleine Stelle meines Waschlappens und kann damit das komplette Make-up abnehmen.
+Die Creme hat eine sehr angenehme Textur und duftet wunderbar natürlich nach Orangen. Das Intensivserum ist nicht zu flüssig und sehr ergiebig. Für das komplette Gesicht benötige ich nur einen kleinen Tropfen. Auch vom Mizellenwasser reicht eine sehr kleine Menge. Ich durchtränke eine kleine Stelle meines Waschlappens und kann damit das komplette Make-up abnehmen.
 
-Natürlich habe ich mich wieder sehr genau für Euch nach den Inhaltsstoffen erkundigt. Ihr findet sie weiter unten. Sie sind bei allen drei Produkten zu 100 Prozent natürlichen Ursprungs. Außerdem sind das  [Mizellenwasser](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-mizellenwasser-100ml-vegane-naturkosmetik%2F), die Creme und das  [Intensivserum](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-intensivserum-30ml-vegane-naturkosmetik%2F) selbstverständlich vegan. naturmädchen setzt sich außerdem gegen Tierversuche ein.
+Natürlich habe ich mich wieder sehr genau für Euch nach den Inhaltsstoffen erkundigt. Ihr findet sie weiter unten. Sie sind bei allen drei Produkten zu 100 Prozent natürlichen Ursprungs. Außerdem sind das Mizellenwasser, die Creme und das Intensivserum selbstverständlich vegan. naturmädchen setzt sich außerdem gegen Tierversuche ein.
 
 Das Naturkosmetiklabel naturmädchen stammt aus Nordrhein-Westfalen. Genauer gesagt vom Niederrhein. Produziert wird reduzierte Pflege mit rein pflanzlichen Ölen und Extrakten. Sie soll sogar die zellschädigende HEV-Strahlung absorbieren. Hergestellt wird ausschließlich in Deutschland.
 
@@ -72,7 +69,7 @@ Entdeckt habe ich naturmädchen schon vor einiger Zeit auf der Suche nach mögli
 
 Die Grundzutaten der Pflegeserie sind Wiesenschaumkraut, Vitamin C und pflanzliche Hyaluronsäure. Wiesenschaumkraut, auch bekannt als Limanthes Alba, wächst auch hierzulande. Das in den naturmädchen Produkten stammt allerdings aus den USA. In der Inhaltsstoffliste findet Ihr es als "Limanthes Alba Seed Oil". Die weiß blühenden Sumpfblumen gedeihen auf feuchten Grasflächen.
 
-Für naturmädchen werden die Samen kaltgepresst. In ihnen stecken zwischen 24 und 30 Prozent grünliches Öl - durch Raffination wird es geruchslos und hellgelb. Neben der  [Gesichtscreme](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-gesichtscreme-50ml-vegane-naturkosmetik%2F) gibt es auch noch eine Sonnencreme mit Lichtschutzfaktor 20, in der das Wiesenschaumkrautöl enthalten ist. Es besitzt besonders feuchtigkeitsspendende Eigenschaften und soll so kleinen Linien und Fältchen entgegenwirken. Die Fettsäuren dringen din die Haut ein und der Rest bleibt als Feuchtigkeitsfilm auf der obersten Hautschicht liegen. Es lässt sich sehr leicht in die Haut einarbeiten - darum wird es auch häufig mit Jojobaöl verglichen.
+Für naturmädchen werden die Samen kaltgepresst. In ihnen stecken zwischen 24 und 30 Prozent grünliches Öl - durch Raffination wird es geruchslos und hellgelb. Neben der Gesichtscreme gibt es auch noch eine Sonnencreme mit Lichtschutzfaktor 20, in der das Wiesenschaumkrautöl enthalten ist. Es besitzt besonders feuchtigkeitsspendende Eigenschaften und soll so kleinen Linien und Fältchen entgegenwirken. Die Fettsäuren dringen din die Haut ein und der Rest bleibt als Feuchtigkeitsfilm auf der obersten Hautschicht liegen. Es lässt sich sehr leicht in die Haut einarbeiten - darum wird es auch häufig mit Jojobaöl verglichen.
 
 ## Veganes Hyaluron
 
@@ -84,23 +81,23 @@ Wenn wir älter werden, sinkt der Hyaluronanteil der Haut, weil das Hyaluronidas
 
 In den letzten Jahren kommen immer mehr Hersteller darauf, das wertvolle wasserlösliche Vitamin C (Ascorbinsäure) zu ihren Produkten hinzuzufügen. Als Antioxidans wirkt es gegen freie Radikale. Es kann Hautirritationen entgegenwirken, wirkt entzündungshemmend und fördert nicht nur den natürlichen Heilungsprozess, sondern ist auch als Anti-Aging Wirkstoff sehr beliebt.
 
-Wer jetzt neugierig geworden ist und naturmädchen selbst mal testen möchte: Ihr könnt die Produkte [direkt über den naturmädchen Onlineshop](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2F) oder bei verschiedenen Kosmetikinstituten kaufen.
+Wer jetzt neugierig geworden ist und naturmädchen selbst mal testen möchte: Ihr könnt die Produkte direkt über den naturmädchen Onlineshop oder bei verschiedenen Kosmetikinstituten kaufen.
 
 [grey]
 
-### Inhaltstoffe  [Gesichtscreme](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-gesichtscreme-50ml-vegane-naturkosmetik%2F), 50 ml
+### Inhaltstoffe  Gesichtscreme, 50 ml
 
 Aqua, Glyceryl Stearate Citrate, Olus Oil, Cetearyl Alcohol, Mangifera Indica Seed Butter**, Persea Gratissima Oil**, Limnanthes Alba Seed Oil**, Glycerin, Niacinamide, Betaine, Theobroma Cacao Seed Butter**, Sodium Hyaluronate, Xanthophyll, Sucrose, Tapioca Starch, Citrus Aurantium Dulcis Peel Oil\*_, Xanthan Gum, Hydroxyacetophenone, Caprylyl Glycol, 1,2-Hexanediol, Linalool_, Citral*, Limonene*
 
 \*Natürlicher Bestandteil des ätherischen Orangenöls \*\*Aus kontrolliert biologischem Anbau
 
-### Inhaltsstoffe  [Mizellenwasser](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-mizellenwasser-100ml-vegane-naturkosmetik%2F), 100 ml
+### Inhaltsstoffe Mizellenwasser, 100 ml
 
 Aqua, Polyglyceryl-10 Laurate, Maltooligosyl Glucoside, Levulinic Acid, Hydrogenated Starch Hydrolysate, Capryl / Capramidopropyl Betaine, Glycerin, Sodium, Levulinate, Sodium Cocoyl Apple Amino Acids, Magnolia Officinalis Bark Extract, Citric Acid, Sodium Chloride, Citrus Aurantium Dulcis (Sweet Orange) Peel Oil\*, Limonene\*\*
 
 \*Aus kontrolliert biologischem Anbau \*\*Natürlicher Bestandteil des ätherischen Orangenöls
 
-### Inhaltsstoffe  [Intensivserum](https://www.adcell.de/promotion/click/promoId/170417/slotId/80259?param0=https%3A%2F%2Fwww.naturmaedchen.com%2Fnaturprodukte%2Fnaturmaedchen-intensivserum-30ml-vegane-naturkosmetik%2F), 30 ml
+### Inhaltsstoffe Intensivserum, 30 ml
 
 Aqua, Glyceryl Stearate Citrate, Olus Oil, Cetearyl Alcohol, Mangifera Indica Seed Butter**, Persea Gratissima Oil**, Limnanthes Alba Seed Oil**, Glycerin, Niacinamide, Betaine, Theobroma Cacao Seed Butter**, Sodium Hyaluronate, Xanthophyll, Sucrose, Tapioca Starch, Citrus Aurantium Dulcis Peel Oil\*_, Xanthan Gum, Hydroxyacetophenone, Caprylyl Glycol, 1,2-Hexanediol, Linalool_, Citral*, Limonene*
 
