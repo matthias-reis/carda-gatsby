@@ -17,7 +17,7 @@ advertisement: false
 affiliate: true
 productsProvided: false
 image: https://storage.googleapis.com/cardamonchai-media/2025-01-23/jeremy-rifkin-planet-aqua-soundsvegan-com-jpg-imagine-081828_113048_1024_768/640.webp
-seoTitle: 'Jeremy Rifkin – Planet Aqua – vegan Buchtipp'
+seoTitle: 'Jeremy Rifkin – Planet Aqua – Sounds Vegan – Buchtipp'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2025-01-23/jeremy-rifkin-planet-aqua-soundsvegan-com-og-jpg-imagine-081828_0e2a41_1200_628/640.webp
 imageCopyright: Planet Aqua
 languageLink:
