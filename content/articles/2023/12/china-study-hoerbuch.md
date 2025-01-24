@@ -4,13 +4,8 @@ typeName: Hörbuchtipp
 title: Die China Study – das Hörbuch
 subTitle: Fakten zu veganer Ernährung – gesprochen von Christoph Maria Herbst
 seoTitle: China Study Hörbuch – Hören lohnt sich – nicht nur für Veganer*innen
-description: China Study Hörbuch – ja, Ihr könnt Euch die berühmteste Studie,
-  über die in der veganen Community so viel geredet wird auch einfach anhören.
-  Es lohnt sich! Holt Euch jetzt hier die Infos!
-excerpt: Die China Study gibt es auch als Hörbuch! Falls Ihr vegan lebt, habt
-  Ihr sicher schon mal was von der bahnbrechenden Arbeit gehört. Immer mehr
-  Forschende finden, sie sollte die Basis für unsere heutige innere Medizin
-  sein. Erfahrt jetzt alles über das Hörbuch und warum sich das Hören lohnt!
+description: China Study Hörbuch – ja, Ihr könnt Euch die berühmteste Studie, über die in der veganen Community so viel geredet wird auch einfach anhören. Es lohnt sich! Holt Euch jetzt hier die Infos!
+excerpt: Die China Study gibt es auch als Hörbuch! Falls Ihr vegan lebt, habt Ihr sicher schon mal was von der bahnbrechenden Arbeit gehört. Immer mehr Forschende finden, sie sollte die Basis für unsere heutige innere Medizin sein. Erfahrt jetzt alles über das Hörbuch und warum sich das Hören lohnt!
 image: https://storage.googleapis.com/cardamonchai-media/2023-12-21/china-study-audible-soundsvegan-jpg-imagine-e8d8c8_beb47b_1024_768/640.webp
 copyright: null
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-12-21/china-study-audible-soundsvegan-og-jpg-imagine-e8d8c8_bbb17c_1200_628/640.webp
@@ -25,7 +20,6 @@ focusKeyword: China Study Hörbuch
 advertisement: false
 affiliate: true
 language: de
-
 ---
 
 **Die China Study – wenn Ihr vegan lebt, habt Ihr sicher schon mal gehört. Das liegt daran, dass sie die Basis für eine gesunde vegane Ernährungsweise liefert und vor allem viele Verbindungen zieht zwischen pflanzlicher Nahrung und einem möglichst gesunden langen Leben. Weil es jedoch nicht jedermenschs Sache ist, sich durch eine lange Studie zu arbeiten, möchte ich Euch hiermit das Hörbuch empfehlen.**
@@ -58,3 +52,5 @@ Zusätzlich erhaltet Ihr konkrete Ratschläge, wie Ihr gesundheitliche Probleme 
 Das Hörbuch "Die China Study" ist 2011 im Verlag Systematische Medizin AG, Bad Kötztzing und München erschienen. Die Hörzeit beträgt drei Stunden und 36 Minuten. Der Titel der Originalausgabe lautet: "The China Study. The Most Comprehensive Study of Nutrition Ever Conducted and the Startling Implication for Diet, Weight Loss and Long-term Health." Das Buch erschien 2004 bei BenBella Books Inc., Dallas TX 2004 (P)2013 Argon Verlag GmbH, Berlin.
 
 [Holt Euch jetzt das China Study Hörbuch](https://c.trackmytarget.com/?a=05r4f0&i=ollnc3&r=https%3A%2F%2Fwww.audible.de%2Fpd%2FChina-Study-Hoerbuch%2FB00EUANASU%3Fqid%3D1703170546%26sr%3D1-10%26ref_pageloadid%3Dnot_applicable%26ref%3Da_search_c3_lProduct_1_10%26pf_rd_p%3De54013e2-074a-460e-861f-7feac676b789%26pf_rd_r%3D3TV0M0PRKMHBQY9YQHCD%26pageLoadId%3DHtZo9kTi03ISIgDa%26ref_plink%3Dnot_applicable%26creativeId%3D41e85e98-10b8-40e2-907d-6b663f04a42d)!
+
+**Tipp:** Ihr könnt [die China Study auch für kleines Geld als E-Book lesen](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F25818930%2Fsophie_taube_china_study_die_bibel_des_veganismus_inoffizielle_zusammenfassung.html).
