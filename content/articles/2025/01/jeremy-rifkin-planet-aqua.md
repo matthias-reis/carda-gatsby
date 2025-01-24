@@ -20,6 +20,9 @@ imageCopyright: Planet Aqua
 languageLink:
 excerpt: 'Jeremy Rifkins Erkenntnis, dass wir auf einem Wasserplaneten und nicht auf einem Landplaneten leben, könnte unsere Sicht auf die Welt grundlegend verändern. In seinem neuesten Buch, "Planet Aqua: Rethinking Our Home in the Universe", zeichnet der renommierte Autor ein eindringliches Bild von der hydrologischen Krise, die unser Überleben bedroht – und bietet zugleich eine Vision für eine nachhaltigere Zukunft.'
 focusKeyword: 'Jeremy Rifkin – "Planet Aqua"'
+advertisement: false
+affiliate: true
+language: de
 ---
 
 **"Wir leben nicht auf einem Landplaneten, sondern auf einem Wasserplaneten" – Diese Erkenntnis des Wirtschaftswissenschaftlers und Zukunftsforschers Jeremy Rifkin könnte unsere Sicht auf die Welt für immer grundlegend verändern. In seinem neuesten Buch, "Planet Aqua: Rethinking Our Home in the Universe"[^1], zeichnet der renommierte Autor ein eindringliches Bild von der hydrologischen Krise, die unser Überleben bedroht – und bietet zugleich eine Vision für eine nachhaltigere Zukunft.**
@@ -62,7 +65,7 @@ Das Buch hat bereits prominente Unterstützung gefunden:
 
 "Planet Aqua: Rethinking Our Home in the Universe" ist eine Einladung, die Welt neu zu denken. Rifkin liefert uns die Narrative und Werkzeuge, die wir brauchen, um uns den Herausforderung des Klimawandesl und eines sich wandelnden Wasserkreislaufs zu stellen. Dieses Werk ist ein Muss für alle, die an der Zukunft unseres Planeten interessiert sind.
 
-"Planet Aqua: Rethinking Our Home in the Universe" ist ab sofort im Buchhandel erhältlich.
+**Neugierig geworden?** "Planet Aqua: Rethinking Our Home in the Universe" [ist ab sofort im Buchhandel erhältlich](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F47919545%2Fjeremy_rifkin_planet_aqua.html).
 
-[^1]: [Rifkin, Jeremy – "Planet Aqua: Rethinking Our Home in the Universe", 2024](https://foet.org/project/planet-aqua/)
+[^1]: [Rifkin, Jeremy – "Planet Aqua", E-Book](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F47929592%2Fjeremy_rifkin_planet_aqua.html)
 [^2]: [Weitere Informationen zur "Blauen Wirtschaft" unter europa.eu](https://europa.eu)
