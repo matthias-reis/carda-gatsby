@@ -83,8 +83,6 @@ In den letzten Jahren kommen immer mehr Hersteller darauf, das wertvolle wasserl
 
 Wer jetzt neugierig geworden ist und naturmädchen selbst mal testen möchte: Ihr könnt die Produkte direkt über den naturmädchen Onlineshop oder bei verschiedenen Kosmetikinstituten kaufen.
 
-[grey]
-
 ### Inhaltstoffe  Gesichtscreme, 50 ml
 
 Aqua, Glyceryl Stearate Citrate, Olus Oil, Cetearyl Alcohol, Mangifera Indica Seed Butter**, Persea Gratissima Oil**, Limnanthes Alba Seed Oil**, Glycerin, Niacinamide, Betaine, Theobroma Cacao Seed Butter**, Sodium Hyaluronate, Xanthophyll, Sucrose, Tapioca Starch, Citrus Aurantium Dulcis Peel Oil\*_, Xanthan Gum, Hydroxyacetophenone, Caprylyl Glycol, 1,2-Hexanediol, Linalool_, Citral*, Limonene*
@@ -101,4 +99,4 @@ Aqua, Polyglyceryl-10 Laurate, Maltooligosyl Glucoside, Levulinic Acid, Hydrogen
 
 Aqua, Glyceryl Stearate Citrate, Olus Oil, Cetearyl Alcohol, Mangifera Indica Seed Butter**, Persea Gratissima Oil**, Limnanthes Alba Seed Oil**, Glycerin, Niacinamide, Betaine, Theobroma Cacao Seed Butter**, Sodium Hyaluronate, Xanthophyll, Sucrose, Tapioca Starch, Citrus Aurantium Dulcis Peel Oil\*_, Xanthan Gum, Hydroxyacetophenone, Caprylyl Glycol, 1,2-Hexanediol, Linalool_, Citral*, Limonene*
 
-\*Natürlicher Bestandteil des ätherischen Orangenöls \*\*Aus kontrolliert biologischem Anbau [/grey]
+\*Natürlicher Bestandteil des ätherischen Orangenöls \*\*Aus kontrolliert biologischem Anbau
