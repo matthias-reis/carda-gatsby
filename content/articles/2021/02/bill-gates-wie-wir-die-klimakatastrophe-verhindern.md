@@ -65,6 +65,11 @@ Microsoft Gründer Bill Gates rief 1999 gemeinsam mit meiner seiner Frau Melinda
 
 Mit ihrer Foundation unterstützen Bill und Melinda immer wieder Projekte zur Hungerbekämpfung. Nahrungsmittel der Zukunft faszinieren Bill Gates besonders. 2020 steckte er eine große Summe in ein Forschungsprojekt für Fleisch aus dem Labor und auch die [Forschungen rund um Mikroben-Protein](/2021/01/mikroben-protein-als-fleischersatz/) fördert der Wegbereiter der modernen Computer-Welt. Sein Buch "Wie wir die Klimakatastrophe verhindern" erscheint heute und ist ab sofort bestellbar.
 
+## "Wie wir die Klimakatastrophe verhindern" von Bill Gates jetzt bestellen
+
+- [Als E-Book](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F38486719%2Fbill_gates_wie_wir_die_klimakatastrophe_verhindern.html)
+- [Als Taschenbuch](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F41671592%2Fbill_gates_wie_wir_die_klimakatastrophe_verhindern.html)
+
 [^1]: [Bill Gates neues Buch: "Wie wir die Klimakatastrophe verhindern"](https://www.technologyreview.com/2021/02/14/1018296/bill-gates-climate-change-beef-trees-microsoft/)
 [^2]: [MIT Interview mit Bill Gates](https://www.technologyreview.com/2021/02/14/1018296/bill-gates-climate-change-beef-trees-microsoft/,)
 [^3]: [Bill &amp; Melinda Gates Foundation](https://www.gatesfoundation.org/)
