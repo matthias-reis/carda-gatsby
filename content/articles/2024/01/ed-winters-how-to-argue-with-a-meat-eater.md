@@ -69,6 +69,6 @@ Hinweis an alle, die sich Argumente beim Hören besser merken können: "How to A
 
 ## "How To Argue With A Meat Eater (And Win Every Time) jetzt bestellen
 
-- [Als Taschenbuch](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F47927226%2Fed_winters_how_to_argue_with_a_meat_eater_and_win_every_time.html)
-- [Als E-Book](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F45800981%2Fed_winters_how_to_argue_with_a_meat_eater_and_win_every_time.html)
-- [Als gebundenes Buch](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F45883767%2Fed_winters_how_to_argue_with_a_meat_eater_and_win_every_time.html)
+- [als Taschenbuch](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F47927226%2Fed_winters_how_to_argue_with_a_meat_eater_and_win_every_time.html)
+- [als E-Book](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F45800981%2Fed_winters_how_to_argue_with_a_meat_eater_and_win_every_time.html)
+- [als gebundenes Buch](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F45883767%2Fed_winters_how_to_argue_with_a_meat_eater_and_win_every_time.html)
