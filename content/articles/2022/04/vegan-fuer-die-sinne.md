@@ -22,7 +22,7 @@ labels:
   - Augsburg vegan
 focusKeyword: vegan für die Sinne
 advertisement: true
-affiliate: false
+affiliate: true
 language: de
 ---
 
@@ -75,6 +75,8 @@ Zudem bietet sie vegane Caterings an, bei denen sie ihre Gäste mit schmackhafte
 Seit 2017 arbeitet sie für die Plattform Seven Cooks[^2], für die sie nicht nur Rezepte entwickelt, sondern auch Food-Fotografie macht. Dieses Fachwissen half ihr unter anderem auch bei der Erstellung von "Vegan für die Sinne". Alle Bilder im Buch hat Lena Marie selbst aufgenommen. Ihr findet die Food-Expertin und Autorin im Netz auf ihrer Homepage[^3].
 
 "Vegan für die Sinne" von Lena Marie Radu ist am 15. März 2022 bei Ventil Vegan[^4] erschienen. Die ISBN lautet: 978-3-95575-163-0.
+
+["Vegan für die Sinne" jetzt bestellen](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F40994788%2Flena_maria_radu_vegan_fuer_die_sinne.html)
 
 [^1]: [Ecodemy](https://ecodemy.de/veganer-ernaehrungsberater-ausbildung-fernstudium/?l=custom-7)
 [^2]: [Seven Cooks](https://www.sevencooks.com/de)
