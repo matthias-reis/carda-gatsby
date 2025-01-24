@@ -5,6 +5,9 @@ ogImage: https://storage.googleapis.com/cardamonchai-images/2020_09_girl-in-a-ba
 isAffiliate: false
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBQcE/8QAKhAAAgIBAwMDAgcAAAAAAAAAAQIDBBEABQYSIVETMUEiMkJhYnGBkaH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQF/8QAIBEAAgEDBQEBAAAAAAAAAAAAAQIDAAQRBRIxUWETkf/aAAwDAQACEQMRAD8AWNs45V27a9l3abdL3p20isGAoHUlpGUofCYQnJ1oXIdjjS7NHAsNaLqORFC2WAwfcfb3JGR5H7aoOYy14uAcYl9VYq4Mc6BlwT9UuI8Dtj+dPe/NLLbiWNw0jBx0Y7E/SR3P6h/uo7o7CcGtfTwsiA7eef3HlZ3yCvV2zZJpSxWVYmKtI+HLYJAyfnsf60j2alixO1tbguV4Spekthw7AgnJVMt3yO+PjT/z7ZdwrbFBetq8hKLBe6owPSDyIQfH3Fh29u3nS3c3CtTFaKfb6Usu3xT145pUIYEMArFjgZAOACfk+BoWMZaNiGzk90upyRyyqoGAB1V0YV3/AIDxqlNZEMprOyHAJCiR1Bwe34gAdd1nkrvWYLDYMo6nDx5Y9HVjJx4Px799GjVNyiucGptOlaNQV9qfN+Q0924/PVqR3XtWBH0qKzhezkA5PtkgE5/LWdcjtehJfF/bq81iYdaSTRyMCzFSSrL9OexGCNGjS2UKwoQvdJfzN9F8Ff/Z
 date: 2020-09-04T13:12:13.000Z
+advertisement: false
+affiliate: true
+productsProvided: false
 typeName: Buchtipp
 isWerbung: false
 title: '"Girl In A Band" von Kim Gordon'
@@ -85,5 +88,7 @@ Als Bassistin, Sängerin und Songwriterin war Kim Gordon das Herz von Sonic Yout
 Letztes Jahr veröffentlichte Kim Gordon ihr erstes Soloalbum "No Home Record". Das Stück "Murdered Out" von dieser Platte hat es 2019 auf meine [Songs des Jahres Liste](/2019/12/die-12-songs-des-jahres-2019/) geschafft.
 
 Die gebundene deutsche Ausgabe von "Girl In A Band ist unter der ISBN 9780062295897 am 2. April 2015 im Verlag Kiepenheuer &amp; Witsch erschienen.
+
+**Jetzt bestellen:** ["Girl In A Band" von Kim Gordon als E-Book](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F23935613%2Fkim_gordon_girl_in_a_band.html)
 
 <YouTube id="8JGBNkLM9_8" />
