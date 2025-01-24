@@ -3,12 +3,8 @@ date: 2017-11-04T15:49:09.000Z
 title: Die Waffe der Frau
 seoTitle: Die Waffe der Frau - Dieser Umschlag war heute im Briefkasten
 ogTitle: Die Waffe der Frau - Dieser Umschlag war heute im Briefkasten
-description: Die Waffe der Frau stand auf dem Umschlag. Was konnte sich darin
-  verbergen? Etwas unheimlich war mir schon zumute. Doch dann öffnete ich ihn
-  trotzdem.
-excerpt: Die Waffe der Frau stand auf dem Umschlag. Was konnte sich darin
-  verbergen? Etwas unheimlich war mir schon zumute. Doch dann öffnete ich ihn
-  trotzdem. Mutig, wie ich bin.
+description: Die Waffe der Frau stand auf dem Umschlag. Was konnte sich darin verbergen? Etwas unheimlich war mir schon zumute. Doch dann öffnete ich ihn trotzdem.
+excerpt: Die Waffe der Frau stand auf dem Umschlag. Was konnte sich darin verbergen? Etwas unheimlich war mir schon zumute. Doch dann öffnete ich ihn trotzdem. Mutig, wie ich bin.
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2017_11_DSC01921__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2017_11_DSC01921__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAVACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFBgMECP/EACwQAAIBAwIDBgcBAAAAAAAAAAECAwAEEQUSBgchExQxQVFhIjKBkaGx0eH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAHxEAAQMEAwEAAAAAAAAAAAAAAQACAxIhMUERInHR/9oADAMBAAIRAxEAPwBD2VsGwx8DTH5Z6Baahqlybq3jmhhtz8Eihl3MwA6evQ1RNOcMqgH/AGm7ywXuuhatqG3LGRUUeoRcn8vUMQqlAOuVW6zLZKnLjgLh6cHOmxIT5xsyfo1WNa5baWiFrZruL2EgbH3FXdNZkDxZh3I4z4qMHqME56HoD9ayX1yslj2rrsypO0nNNLWnSFzJIxcrl6xnZeox44p38CXAXhK1heNXjlDu4Pnuc/wUUUUA7nz4lyE0j1TskkHZbe6Q7R1wRmtGa/aExMI0aOJg3ZH5SAc4PtRRRkBZU45K/9k=
@@ -20,10 +16,9 @@ labels:
   - Waffe der Frau
 focusKeyword: Die Waffe der Frau
 isWerbung: false
-isAffiliate: false
+isAffiliate: true
 language: de
 subTitle: Ein mysteriöser Umschlag
-
 ---
 
 **Habt Ihr auch diesen Umschlag bekommen? Ich muss ja zugeben, dass ich ein bisschen Angst hatte, ihn aufzumachen. "Die Waffe der Frau" stand darauf. In der Mitte konnte ich etwas Stabiles ertasten. Was konnte das wohl sein? Ein Giftpfeil? Eine Mini-Pistole?**
@@ -37,6 +32,12 @@ subTitle: Ein mysteriöser Umschlag
 />
 
 Meine Schüchternheit in Bezug auf den Umschlag mag mit meinem Pazifismus zusammenhängen. Am Schluss siegte dann doch die Neugierde, was sich wohl darin verbergen würde. Etwas verkrampft setzte ich den Brieföffner an. Die Namen der Damen im Absender-Feld, unter anderem Dunja Hayali und Senta Berger, gaben mir dann meine Gelassenheit zurück.
+
+---
+
+**Lesetipp:** Was genau "die Waffe der Frau" ist, haben wir nicht herausgefunden. Allen, die sich wirklich für Frauen und ihre Rechte einsetzen wollen, empfehle ich das Buch "[Unlearn Patriachy](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F42392608%2Fkenza_ait_si_abbou_kristina_lunz_lena_marbacher_friederike_otto_margret_rasfeld_unlearn_patriarchy.html)" von Kenza Ait Si Abbou, Kristina Lunz, Lena Marbacher, Friederike Otto und Margret Rasfeld. Es gibt echte feministische Impulse für ein besseres Leben abseits patriarchaler Normen & Werte.
+
+---
 
 ## Das Geheimnis um die Waffe der Frau
 
