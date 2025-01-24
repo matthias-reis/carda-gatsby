@@ -66,3 +66,9 @@ habe ich heute zwar schon zahlreiche Argumente parat. Diese jedoch auch noch kon
 Der erfahrene Redner, leidenschaftliche Disputant und Outreach-Aktivist Ed Winters teilt seine Geheimnisse – angereichert mit starken Fakten und Details, die selbst die überzeugtesten Fleischesser\*innen zum Nachdenken bringen. Zumindest für einen Moment innehalten und das eigene Handeln überdenken – ist es nicht genau das, was bei uns allen am Anfang unserer veganen Reise stand? Pünktlich zum [Veganuary 2024](/2023/11/veganuary-dokumentation/) könnt Ihr mit diesem wunderbaren Buch noch mehr Menschen unter die Arme greifen und ihnen Unterstützung beim Einstieg in eine emphatischere, einfühlsamere, freundlichere und nachhaltigere Welt bieten.
 
 Hinweis an alle, die sich Argumente beim Hören besser merken können: "How to Argue With a Meat Eater (And Win Every Time)" ist auch als Hörbuch erschienen! Ed Winters hat die knapp neun Stunden höchstpersönlich eingesprochen!
+
+## "How To Argue With A Meat Eater (And Win Every Time) jetzt bestellen
+
+- [Als Taschenbuch](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F47927226%2Fed_winters_how_to_argue_with_a_meat_eater_and_win_every_time.html)
+- [Als E-Book](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F45800981%2Fed_winters_how_to_argue_with_a_meat_eater_and_win_every_time.html)
+- [Als gebundenes Buch](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F45883767%2Fed_winters_how_to_argue_with_a_meat_eater_and_win_every_time.html)

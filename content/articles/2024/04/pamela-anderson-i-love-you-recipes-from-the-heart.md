@@ -19,7 +19,7 @@ labels:
   - Buchtipp
 focusKeyword: Pamela Anderson veganes Kochbuch
 advertisement: false
-affiliate: false
+affiliate: true
 language: de
 ---
 
@@ -44,3 +44,8 @@ Zu ihrem Kochbuch gab Pamela ein ähnliches Statement heraus:
 > "Ich schreibe ein Kochbuch und das Wort 'vegan' kommt darin nicht vor. Ich möchte einfach nicht in die Ecke mit den veganen Kochbüchern im Regal gestellt werden. Ich möchte den Zugang zu allen finden! Ich möchte Pflanzen feiern, meinen Garten, den nachhaltigen Umgang mit Lebensmitteln, Gemüse und richtig gesund zu essen und kein bisschen langweilig."
 
 Neben ihrer Schauspielerei machte sich Pamela Anderson auch schon früh als Tierrechtsaktivistin einen Namen. Sie posierte unter anderem in PETA Kampagnen und erschuf [ihre eigene vegane Schuhmarke](/2015/09/vegane-stiefel-von-pamela-anderson/). Gemeinsam mit der Brand Ashoka Paris kreierte sie 2022 eine vegane Handtaschenlinie mit Taschen aus Apfelleder. Sie setzt sich weltweit für Tiere ein und den Schutz der Meere, geht bis heute gegen die Pelzindustrie vor und kämpft für die Rechte von Geflüchteten und verfolgten Personen wie zuletzt den Gründer von Wikileaks Julian Assange.
+
+## Jetzt bestellen:
+
+- ["I Love You: Recipes From The Heart"als E-Book](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F47816403%2Fpamela_anderson_i_love_you_recipes_from_the_heart.html)
+- ["I Love You: Recipes From The Heart"als gebundenes Buch](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F47735606%2Fpamela_anderson_i_love_you_recipes_from_the_heart.html)
