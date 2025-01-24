@@ -44,6 +44,7 @@ labels:
   - vegane Mode
   - vegane Schuhe
   - Zündstoff
+  - Ragwear
 focusKeyword: Faire Klamotten
 isWerbung: false
 isAffiliate: false
@@ -82,6 +83,10 @@ Als Niklas Astor 2012 sein veganes Label [Green Shirts](https://www.adcell.de/pr
 
 Die Gründerin von Second Life Fashion hat es sich um Ziel gesetzt, mit bereits vorhandenen Ressourcen auszukommen. Getreu diesem Motto gibt es bei  [Second Life Fashion](https://www.awin1.com/cread.php?awinmid=19076&awinaffid=632580&clickref=&ued=https%3A%2F%2Fsecondlifefashion.de%2F) ausschließlich gebrauchte Kleidung - zum fairen Preis und in guter Qualität. Ich selbst habe mich vom Service überzeugt und bin komplett zufrieden mit dem Ergebnis meiner Bestellung. [Meinen Erfahrungsbericht findet Ihr hier](/2020/04/second-life-fashion/).
 
+### Ragwear
+
+ragwear steht für nachhaltige, vegane Mode. Ich trage die bequemen Jacken, T-Shirts & Co. von der Marke aus dem mittelfränkischen Schwaig schon lange und möchte nicht mehr darauf verzichten. [Jetzt bei ragwear stöbern](https://assets.ikhnaie.link/click.html?wgcampaignid=1428775&wgprogramid=306613&wgtarget=https://www.ragwear.com/de/).
+
 ### Recolution
 
 Das Hamburger Label habe ich hier vor Ort kennen und lieben gelernt. Jeden Winter findet in einer Eisdiele in der Schanze ein Pop-up-Verkauf statt. Dort kann man sich mit tollen, in Hamburg hergestellten Klamotten eindecken. Für Nicht-Hamburger gibt es Recolution natürlich auch Online.
@@ -89,10 +94,6 @@ Das Hamburger Label habe ich hier vor Ort kennen und lieben gelernt. Jeden Winte
 ### Armed Angels
 
 Im Netz unter anderem unter www.armedangels.de zu finden. Vertrieben wird die Eco &amp; Fair Kollektion übrigens inzwischen auch von einigen großen Modehäusern.
-
-### Bidges &amp; Sons
-
-Wir Hamburger\*innen haben es mit den Hanseatischen Kultklamotten von Bidges &amp; Sons natürlich gut, denn wir können einfach im Store auf der Reeperbahn vorbeischauen. Aber keine Sorge. Es gibt auch einen tollen Onlineshop:  www.bidges-sons.com
 
 ### Merijula
 
@@ -104,7 +105,7 @@ Wir Hamburger\*innen haben es mit den Hanseatischen Kultklamotten von Bidges &am
   loadingUrl="data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgABUDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUDBAYH/8QAKRAAAgIBAgQEBwAAAAAAAAAAAQIDEQQAEgUxQVEGEyEiFBUjMmGB0f/EABYBAQEBAAAAAAAAAAAAAAAAAAMFAf/EAB8RAAICAgEFAAAAAAAAAAAAAAABAhIDETJBUWFx4f/aAAwDAQACEQMRAD8A5TJjPD9LHMrqzBRHtsk16V10lzVyUyCszTKYlNxtakH8A9ddN8CZKYniOGWUuLieMOrUwYqQCD0PblpP41eLivHlz1V1keJEcymyWotZFnoR11q47JsOF2/Bm0V5lJVqokHc4X96NSAIs8mzH3p03C69SP5o1lUw7tGlyOMzS4sSQy+RhYmaVRd/UIgYFeRDe6776XcXdvmskqSpLG0a2VohStgV2Nems3hSJ8CQ5QyT5TzC2O4gHaa78tTHKLZLKXsS7aI5fcdWskoySSXRoGGJrHL2vpamKXu9os1XLto1Rnk8yT2ozEc676NR96Fr3P/Z"
 />
 
-Auch diese Brand kommt, Ihr ahnt es schon, aus Hamburg. Ich habe sie bei einem Pop-up-Verkauf in St. Pauli kennengelernt. Schaut Euch mal den Shop an: www.merijula.com
+Auch diese Brand kommt, Ihr ahnt es schon, aus Hamburg. Ich habe sie bei einem Pop-up-Verkauf in St. Pauli kennengelernt. Schaut Euch mal den Shop an: www.merijula com
 
 ### Save The Duck
 
@@ -112,7 +113,7 @@ Der fiese Trend zu [Echtpelz](/2014/11/fakepelz-echtpelz/) und Daunen nimmt und 
 
 ### Derbe
 
-Das Hamburger Label hat den Vegan Fashion Award gewonnen. Alle Produkte, zu denen zählen unter anderem tolle Friesennerze (Regenjacken), Softshelljacken und Winterjacken- und Mäntel, sind außerdem PETA-approved. Das Motto "Die Gans bleibt ganz" ist definitiv unterstützenswert. Hier gibt's was zu sehen: www.derbeshop.de
+Das Hamburger Label hat den Vegan Fashion Award gewonnen. Alle Produkte, zu denen zählen unter anderem tolle Friesennerze (Regenjacken), Softshelljacken und Winterjacken- und Mäntel, sind außerdem PETA-approved. Das Motto "Die Gans bleibt ganz" ist definitiv unterstützenswert.
 
 ## Faire Klamotten von verschiedenen Eco-Labels könnt Ihr außerdem bestellen bei:
 
@@ -126,23 +127,23 @@ Bei [Grundstoff](https://www.adcell.de/promotion/click/promoId/35310/slotId/8025
 
 ### Avocadostore
 
-Mehr als 130.000 nachhaltige Produkten von über 2000 Marken: www.avocadostore.de
+Mehr als 130.000 nachhaltige Produkten von über 2000 Marken: www.avocadostore de
 
 ### Greenality
 
-Biologische und faire Mode für jeden Anlass www.greenality.de
+Biologische und faire Mode für jeden Anlass www.greenality de
 
 ### Bleed Clothing
 
-Ökologisch, vegan und fair produzierte Sports- und Streetwear www.bleed-clothing.com
+Ökologisch, vegan und fair produzierte Sports- und Streetwear www.bleed-clothing com
 
 ### Shirts For Life
 
-Social Green Fashion unterstützt unter anderem "Save The Bees" www.shirtsforlife.de
+Social Green Fashion unterstützt unter anderem "Save The Bees" www.shirtsforlife de
 
 ### Fairtragen
 
-Onlineshop mit ökologischer Mode mit Sitz in Bremen www.fairtragen.de
+Onlineshop mit ökologischer Mode mit Sitz in Bremen www.fairtragen de
 
 ## Aktivisten bestellen ihre T-Shirts übrigens gerne hier:
 
@@ -173,7 +174,7 @@ Vegane Schuhe sind gar nicht so einfach zu finden, sagt Ihr? Ich behaupte das Ge
 
 **Sorbas Shoes**
 
-Oben schon kurz beschrieben. Ich bin vollkommen überzeugt von diesem Hersteller. Schaut mal rein bei  [Sorbas Shoes](https://sorbasshoes.com/?affiliates=8).
+Oben schon kurz beschrieben. Ich bin vollkommen überzeugt von diesem Hersteller. Schaut mal rein bei [Sorbas Shoes](https://sorbasshoes.com/?affiliates=8).
 
 ### EKN Schuhe
 
