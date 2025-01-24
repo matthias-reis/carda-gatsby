@@ -4,11 +4,7 @@ typeName: Beitrag
 title: Das Klimaquartett
 subTitle: Neues Kartenspiel für Umweltschützer*innen
 seoTitle: Das Klimaquartett – neues Kartenspiel für Umweltschützer*innen
-description: "Womit fasst man Daten und Fakten besser zusammen, als mit
-  Quartett-Karten? Was die meisten aus ihrer Kindheit mit Superheld*innen,
-  Fahrzeugen oder Raumschiffen kennen, gibt es jetzt auch zum Thema Umwelt und
-  Nachhaltigkeit: Beim Klimaquartett lernt Ihr beim Spielen ganz nebenbei, wie
-  Ihr das Klima schützt."
+description: 'Womit fasst man Daten und Fakten besser zusammen, als mit Quartett-Karten? Was die meisten aus ihrer Kindheit mit Superheld*innen, Fahrzeugen oder Raumschiffen kennen, gibt es jetzt auch zum Thema Umwelt und Nachhaltigkeit: Beim Klimaquartett lernt Ihr beim Spielen ganz nebenbei, wie Ihr das Klima schützt.'
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/klimaquartett-jpg-imagine-385848_627b69_1024_768/640.webp
 copyright: Ann Christin Müller
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/klimaquartett-fb-png-imagine-385848_7c8762_1200_628/640.webp
@@ -28,9 +24,8 @@ labels:
   - Bücher & Filme
 focusKeyword: Klimaquartett
 advertisement: false
-affiliate: false
+affiliate: true
 language: de
-
 ---
 
 **Womit fasst man Daten und Fakten besser zusammen, als mit Quartett-Karten? Was die meisten aus ihrer Kindheit mit Superheld\*innen, Fahrzeugen oder Raumschiffen kennen, gibt es jetzt auch zum Thema Umweltschutz und Nachhaltigkeit: Das Klimaquartett ist da.**
@@ -82,6 +77,8 @@ Erfinderin Carmen Gloger und ihr Team möchten mit ihrem Klimaquartett einen ges
 > "Wir wollen zeigen, dass es unzählige Möglichkeiten ist, selbst aktiv zu sein und zwar jeden Tag aufs Neue. Die Bereich Wohnen, Ernährung, Transport, Urlaub, Hobby, Strom und Konsum betreffen uns alle und hier müssen wir ansetzen."
 
 Wenn durch das Spiel einige Menschen sensibler werden und ein paar Leute mehr verstehen, dass es durchaus sinnvoll sein kann, seine Ernährung umzustellen und auf Fernreisen und dicke Autos zu verzichten, ist schon einiges gewonnen. Das ein Teil des Verkaufserlöses auch noch in Klimaschutz-Projekte fließt, ist ein schöner zusätzlicher Pluspunkt. Die Karten sind wirklich toll gestaltet und eine gute Alternative zum eingestaubten Flugzeug-Quartett, das einige vielleicht noch in der Schublade haben.
+
+**Tipp:** Kennt Ihr schon [das Hörbuch "Das Klimaquartett" von Maria Lunde](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F46450886%2Fmaja_lunde_das_klimaquartett.html)? Es handelt davon, was geschieht, wenn die Bienen aussterben, das Wasser knapp wird, die Arten aussterben und die Menschheit sich an wenigen Orten der Welt zurückziehen muss. Maja Lunde verbindet darin die Gegenwart und nahe Zukunft zu einer ergreifenden Geschichte über die Grundlagen des Lebens. Hören lohnt sich!
 
 <Gallery name="klimaquartett-unten" />
 
