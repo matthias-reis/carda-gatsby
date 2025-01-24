@@ -67,5 +67,5 @@ Das Buch hat bereits prominente Unterstützung gefunden:
 
 **Neugierig geworden?** "Planet Aqua: Rethinking Our Home in the Universe" [ist ab sofort im Buchhandel erhältlich](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F47919545%2Fjeremy_rifkin_planet_aqua.html).
 
-[^1]: [Rifkin, Jeremy – "Planet Aqua", E-Book](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F47929592%2Fjeremy_rifkin_planet_aqua.html)
+[^1]: [Rifkin, Jeremy – "Planet Aqua", E-Book](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F47929592%2Fjeremy_rifkin_planet_aqua.html), [Rifkin, Jeremy – "Planet Aqua", gebundenes Buch](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F47919545%2Fjeremy_rifkin_planet_aqua.html)
 [^2]: [Weitere Informationen zur "Blauen Wirtschaft" unter europa.eu](https://europa.eu)
