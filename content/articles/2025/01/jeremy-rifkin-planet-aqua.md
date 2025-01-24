@@ -20,9 +20,6 @@ imageCopyright: Planet Aqua
 languageLink:
 excerpt: 'Jeremy Rifkins Erkenntnis, dass wir auf einem Wasserplaneten und nicht auf einem Landplaneten leben, könnte unsere Sicht auf die Welt grundlegend verändern. In seinem neuesten Buch, "Planet Aqua: Rethinking Our Home in the Universe", zeichnet der renommierte Autor ein eindringliches Bild von der hydrologischen Krise, die unser Überleben bedroht – und bietet zugleich eine Vision für eine nachhaltigere Zukunft.'
 focusKeyword: 'Jeremy Rifkin – "Planet Aqua"'
-advertisement: false
-affiliate: true
-language: de
 ---
 
 **"Wir leben nicht auf einem Landplaneten, sondern auf einem Wasserplaneten" – Diese Erkenntnis des Wirtschaftswissenschaftlers und Zukunftsforschers Jeremy Rifkin könnte unsere Sicht auf die Welt für immer grundlegend verändern. In seinem neuesten Buch, "Planet Aqua: Rethinking Our Home in the Universe"[^1], zeichnet der renommierte Autor ein eindringliches Bild von der hydrologischen Krise, die unser Überleben bedroht – und bietet zugleich eine Vision für eine nachhaltigere Zukunft.**
