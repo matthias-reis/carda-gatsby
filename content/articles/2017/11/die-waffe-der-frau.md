@@ -14,6 +14,9 @@ labels:
   - Briefe
   - Frauen
   - Waffe der Frau
+advertisement: false
+affiliate: true
+productsProvided: false
 focusKeyword: Die Waffe der Frau
 isWerbung: false
 isAffiliate: true

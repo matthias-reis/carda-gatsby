@@ -13,6 +13,9 @@ labels:
   - Achtsamkeit
   - Blumen
   - Geschichten & Erlebtes
+advertisement: false
+affiliate: true
+productsProvided: false
 focusKeyword: Die Sprache der Blumen
 isWerbung: false
 isAffiliate: true
