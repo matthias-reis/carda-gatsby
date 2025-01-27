@@ -1,10 +1,10 @@
 ---
-date: 2025-01-27T11:15:06.561Z
+date: 2025-01-27T12:15:06.561Z
 title: '"Metal und Meditation"'
 subTitle: 'Interview mit Hjort Gründer Johannes Lenk zum Album "Evolve IV-VIII"'
 type: article
 typeName: Interview
-description: 'Hjort – Interview mit Johannes Lenk über sein Album "Evolve IV-VIII"'
+description: 'Hjort – Lest jetzt das Interview mit Johannes Lenk über sein Album "Evolve IV-VIII"!'
 labels:
   - Hjort
   - Interview

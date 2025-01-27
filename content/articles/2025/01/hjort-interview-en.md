@@ -1,5 +1,5 @@
 ---
-date: 2025-01-27T11:15:06.561Z
+date: 2025-01-27T12:15:06.561Z
 title: '"Metal and Meditation"'
 subTitle: 'Interview with Hjort Founder Johannes Lenk About his Album, "Evolve IV-VIII"'
 type: article
