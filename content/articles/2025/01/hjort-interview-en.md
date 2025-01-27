@@ -17,6 +17,8 @@ labels:
   - Mannheim
   - Band
   - Bands
+  - Metal
+  - Post-Metal
 language: en
 image: https://storage.googleapis.com/cardamonchai-media/2025-01-27/hjort-interview-soundsvegan-com-1-jpg-imagine-f8f8f8_838383_1024_768/640.webp
 seoTitle: 'Hjort – "Evolve IV-VIII" – Interview'
