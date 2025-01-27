@@ -1,10 +1,10 @@
 ---
-date: 2025-01-27T12:15:06.561Z
+date: 2025-01-27T11:15:06.561Z
 title: '"Metal and Meditation"'
-subTitle: 'Interview with Hjort Founder Johannes Lenk About his Album, "Evolve IV-VIII"'
+subTitle: Interview with Hjort Founder Johannes Lenk About his Album, "Evolve IV-VIII"
 type: article
 typeName: Interview
-description: 'Hjort's "Evolve IV-VIII" just dropped. Read my interview with founder Johannes Lenk now!'
+description: Hjort's "Evolve IV-VIII" just dropped. Read my interview with founder Johannes Lenk now!
 labels:
   - Hjort
   - Interview
@@ -23,7 +23,7 @@ seoTitle: 'Hjort – "Evolve IV-VIII" – Interview'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2025-01-27/hjort-interview-evolve-soundsvegan-com-og-jpg-imagine-080808_6f6f6e_1200_628/640.webp
 imageCopyright: Hjort
 languageLink: /2025/01/hjort-interview/
-excerpt: '"Evolve IV–VIII" is an album that is truly special to multi-instrumentalist Johannes Lenk. Fresh off the press, it captivates with gripping arrangements full of symphonic harmony, experimental sounds, and nearly impenetrable walls of guitar. I had the privilege of getting to know the artist behind the music, and today, I'm excited to share my interview with you.'
+excerpt: '"Evolve IV–VIII" is an album that is truly special to multi-instrumentalist Johannes Lenk. Fresh off the press, it captivates with gripping arrangements full of symphonic harmony, experimental sounds, and nearly impenetrable walls of guitar. I had the privilege of getting to know the artist behind the music, and today, I am excited to share my interview with you.'
 focusKeyword: 'Hjort – "Evolve IV-VIII"'
 ---
 
