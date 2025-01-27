@@ -37,8 +37,6 @@ This is an album to listen to repeatedly—whether in moments of quiet reflectio
 
 ![Hjort – "Evolve IV-VIII"](https://storage.googleapis.com/cardamonchai-media/2025-01-27/hjort-interview-evolve-soundsvegan-com-jpg-imagine-383838_8b8c86_1200_1200/640.webp 'Hjort – "Evolve IV-VIII"')
 
-![Johannes Lenk, Hjort](https://storage.googleapis.com/cardamonchai-media/2025-01-27/hjort-interview-soundsvegan-com-3-jpg-imagine-080808_6a6a6a_1024_768/640.webp 'Johannes Lenk, Hjort')
-
 **Anne:** Hi! Thanks for making the time! Your incredible album, "Evolve IV–VIII," is coming out soon. Are you excited?
 
 **Johannes:** Hi Anne! First off, thank you so much for the compliment—it's great to hear you like the album. And yes, I'm absolutely buzzing for the release. Even though I've been through quite a few releases with various bands and projects over the years, the anticipation leading up to release day never really changes. It's a mix of joy, pride, relief, and nerves—since you're essentially putting something deeply personal out there for everyone to see and critique. But that's also what makes it exciting. For me, the audience's reception and feedback are what truly complete a piece of art.
