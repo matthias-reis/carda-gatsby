@@ -20,7 +20,7 @@ labels:
   - Vally
 language: de
 advertisement: true
-affiliate: true
+affiliate: false
 productsProvided: true
 ogImage: https://storage.googleapis.com/cardamonchai-media/2024-05-06/vegane-hundemenues-naftie-soundsvegan-com-og-jpg-imagine-f8f8f8_937d71_1200_628/640.webp
 image: https://storage.googleapis.com/cardamonchai-media/2024-05-06/vegane-hundemenues-naftie-soundsvegan-com-56-jpg-imagine-f8f8f8_88746a_1024_768/640.webp
@@ -45,7 +45,7 @@ Das Hundemüsli gieße ich mit heißem Wasser auf, lasse es für mindestens zehn
 
 1. [Hundemüsli Vital Bio mit Gemüse](#hundemuesli-gemuese)
 2. [Hundemüsli Balance Bio mit Obst & Gemüse](#hundemuesli-obst-gemuese)
-3. [Neukunden Veganmenü Probierpaket 400 g (1 Dose Haferglück, 1 Dose Dinkel Held, 1 Dose, Linsen Power, 1 Dose Hirse Gold, 1 Dose Kürbis Liebe)](#probierpaket)
+3. [Neukunden Veganmenü Probierpaket 400 g](#probierpaket)
 4. [AniCanis Vital Mix Bio](#vital-mix)
 5. [AniCanis Atem Frisch Bio](#atem-frisch)
 6. [Haut & Fell Elixier Bio](#haut-und-fell-elixier)
@@ -70,14 +70,6 @@ Neben Gemüse ist das Hundemüsli Balance Bio mit Obst & Gemüse auch mit Apfel 
 <div id="probierpaket" />
 
 <Gallery name="vegane-hundemenues-naftie-2" />
-
----
-
-## Ihr habt Lust Sounds Vegan zu unterstützen?
-
-Wenn Ihr das Naftie Futter für Eure Hunde über den Link in diesem Absatz kauft, bekomme ein paar Cent von Naftie, die ich gerne in neues Hundefutter oder den Tee anlege, den ich trinke, wenn ich den nächsten Artikel für Euch schreibe: [Klickt zum Einkaufen einfach hier!](https://atlas.r.akipam.com/ts/i5042092/tsc?amc=con.blbn.494490.495090.14447749&rmd=3&trg=https%3A%2F%2Fwww.naftie.de)!
-
----
 
 ## 3. Neukunden Veganmenü Probierpaket 400 g
 
@@ -132,14 +124,6 @@ Naftie Gründer Andreas fragte sich, warum zwar inzwischen so viele Menschen ver
 ## Wichtiger Hinweis zu Futterumstellungen bei Hunden
 
 Vally bekommt ihr Futter immer in enger Abstimmung mit unserer Tierärztin, die ihre Bedürfnisse ganz genau kennt. Bitte stellt das Futter Eurer Hunde niemals von heute auf morgen einfach dauerhaft um. Besonders, wenn sie Allergien, Nahrungsmittelunverträglichkeiten oder andere Schwierigkeiten, wie zum Beispiel mit der Haut oder der Verdauung haben, ist immer äußerste Vorsicht geboten. Eine Futterumstellung benötigt immer Zeit und sollte niemals spontan erfolgen.
-
----
-
-## Hey, habt Ihr Lust Sounds Vegan zu unterstützen?
-
-Wenn Ihr das Naftie Futter für Eure Hunde über diesen Link kauft, bekomme ich auch ein paar Cent, die ich gerne in neues Hundefutter oder den Tee investiere, den ich trinke, wenn ich den nächsten Produkttest für Euch schreibe: [Zum Einkaufen hier klicken](https://atlas.r.akipam.com/ts/i5042092/tsc?amc=con.blbn.494490.495090.14447749&rmd=3&trg=https%3A%2F%2Fwww.naftie.de)!
-
----
 
 [Hier hat Vally das vegane, PETA-zertifizierte Hundegeschirr von Stuch getestet](/2024/02/stuch-hundegeschirr/).
 
