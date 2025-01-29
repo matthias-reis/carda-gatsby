@@ -31,7 +31,7 @@ productsProvided: true
 
 ---
 
-**Hinweis:** Mit dem Link und dem Influencer-Code unter diesem Artikel erhaltet Ihr 20 Prozent Rabatt auf alle Produkte im Wild Onlineshop!
+**Hinweis:** Mit dem Link und dem Influencer-Code unter diesem Artikel erhaltet Ihr **20 Prozent Rabatt auf alle Produkte im Wild Onlineshop**!
 
 ---
 
