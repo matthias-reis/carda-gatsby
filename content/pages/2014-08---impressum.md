@@ -28,7 +28,6 @@ Anne Reis<br /> Hermann-Balk-Str. 86 a<br /> 22147 Hamburg
 ## Kontakt
 
 E-Mail: anne.reis@soundsvegan.com
-Telefon: +49 (0) 16095029017 
 
 ## Redaktionell verantwortlich
 
