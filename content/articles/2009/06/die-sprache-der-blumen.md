@@ -57,7 +57,7 @@ In einigen Ländern ist es Brauch bei jedem Besuch einen Strauß mitzubringen. I
 
 ---
 
-**Lesetipp:** Im Buch "[Charlotte und die Sprache der Blumen](https://clk.tradedoubler.com/click?p=324630&a=3338415&epi=SoundsVegan&url=https%3A%2F%2Fwww.ebook.de%2Fde%2Fproduct%2F24818906%2Fsiri_mitchell_charlotte_und_die_sprache_der_blumen.html)" von Siri Mitchell geht es um eine junge Frau, die ihre Leidenschaft für die Sprache der Blumen entdeckt und sich in der feinen Gesellschaft nicht wohlzuscheinen fühlt.
+**Tipp:** Einfach mal wieder Blumen verschenken und die Liebsten in der schönsten Sprache der Welt grüßen. [Jetzt bei FloraQueen den perfekten Strauß finden](https://tidd.ly/3CgXAJK)!
 
 ---
 
