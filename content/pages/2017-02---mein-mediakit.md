@@ -22,7 +22,7 @@ remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJC
 subTitle: Seitendaten für Kooperationen und Projekte
 ---
 
-**Für meine Kooperationspartner\*innen habe ich ein [Mediakit](/soundsvegan-mediakit-02-2025.pdf) erstellt. Darin sind alle wichtigen Fakten über mich und meine Seite zu finden.**
+**Für meine Kooperationspartner\*innen habe ich ein [Mediakit](/img/soundsvegan-mediakit-02-2025.pdf) erstellt. Darin sind alle wichtigen Fakten über mich und meine Seite zu finden.**
 
 Zusammengefasst habe ich nicht nur die Views und Unique Visits sowie sämtliche Kennzahlen. Ihr findet darin auch Links zu Kooperationen, meine Ethik-Richtlinien, Erwähnungen und Zitate sowie alle wichtigen Social Media Links.
 
@@ -32,7 +32,7 @@ Weitere Infos gebe ich gerne auf Anfrage weiter. Sendet mir am besten einfach ei
 
 ## Mediakit jetzt anschauen
 
-[Das komplette Mediakit als PDF zum Download findet Ihr hier](/soundsvegan-mediakit-02-2025.pdf).
+[Das komplette Mediakit als PDF zum Download findet Ihr hier](/img/soundsvegan-mediakit-02-2025.pdf).
 
 Stand 02/2025 Sounds Vegan
 
