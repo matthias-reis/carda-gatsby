@@ -26,7 +26,7 @@ excerpt: '"End of Time" by An Evening With Knives will drop on March 1st—and y
 focusKeyword: '"End of Time" – An Evening With Knives'
 ---
 
-**An Evening With Knives have smashed out their third album, "End of Time", and let me tell you—it's a beast. The band takes on the chaos of our times, both politically and socially, and the result? Heavier, darker, and more intricate than ever. This one's a must-listen!**
+**An Evening With Knives are about to smash out their third album, "End of Time", and it's a must-listen. The band takes on the chaos of our times, both politically and socially, and the result? Heavier, darker, and more intricate than ever. Here is my preview!**
 
 Fueled by fresh energy and raw intensity, An Evening With Knives are back with a serious punch. Joining the band lineup for "End of Time" is drummer Jarno van Osch, completing a sound that's heavier than a ton of bricks. The album delivers crushing riffs, trippy psychedelic moments, and lyrics that hit deep—emotional, personal, and straight from the gut. It's raw, unfiltered, but somehow still polished to perfection.
 

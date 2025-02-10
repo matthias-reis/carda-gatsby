@@ -26,7 +26,7 @@ excerpt: Ela Minus – "Dìa" erscheint am 17. Januar. Das Album solltet Ihr Euc
 focusKeyword: 'Ela Minus – "Dìa"'
 ---
 
-**Ela Minus – "Dìa" erscheint am 17. Januar. Das Album solltet Ihr Euch auf jeden Fall schon mal vormerken – Euch erwarten ausladende Klanglandschaften und fantasievolle Sounds aus der elektronischen Ecke. Die in Kolumbien verwurzelte New Yorker Künstlerin hat ihre neueste Single "Broken" samt Video schon veröffentlicht. Ihr könnt Euch also auch schon einen Vorgeschmack holen.**
+**Ela Minus – "Dìa" erscheint am 17. Januar 2025. Das Album solltet Ihr Euch auf jeden Fall schon mal vormerken – Euch erwarten ausladende Klanglandschaften und fantasievolle Sounds aus der elektronischen Ecke. Die in Kolumbien verwurzelte New Yorker Künstlerin hat ihre neueste Single "Broken" samt Video schon veröffentlicht. Ihr könnt Euch also auch schon einen Vorgeschmack holen.**
 
 Nach EPs und ihrem Debütalbum "Acts of Rebellion" von 2020 hat Ela Minus mit "Dìa" Fahrt aufgenommen. Wer gute elektronische Musik zu schätzen weiß, wird ihre Songs lieben. Sie hat die verschiedensten musikalischen Elemente miteinander verbunden dabei ein Klangmosaik mit viel Tiefgang geschaffen. Die minimalistischen Strukturen von "Acts of Rebellion" kann man dabei nur noch erahnen. Auf "Dìa" geht es pompöser zu und das steht Ela erstaunlich gut zu Gesicht.
 

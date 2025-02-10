@@ -12,6 +12,7 @@ labels:
   - Stoner-Rock
   - An Evening With Knives
   - Eindhoven
+  - Heavy Music
 language: de
 typeName: Review
 title: An Evening With Knives
