@@ -32,7 +32,7 @@ Angereichert mit neuer Energie und Härte kommen An Evening With Knives zurück 
 
 ![An Evening With Knives – "End of Time"](https://storage.googleapis.com/cardamonchai-media/2025-02-10/an-evening-with-knives-end-of-time-album-cover-soundsvegan-com-jpg-imagine-281818_8d573a_1500_1500/640.webp 'An Evening With Knives – "End of Time"')
 
-Insgesamt ist "End of Time" ein Album, das 2025 perfekt vertont und ich Worte fasst. Ihr solltet es auf alle Fälle hören und in Eure Sammlung für dieses Jahr mit aufnehmen.
+Insgesamt ist "End of Time" ein Album, das 2025 perfekt vertont und ich Worte fasst. Ihr solltet es unbedingt hören und in Eure Sammlung für dieses Jahr mit aufnehmen.
 
 "End of Time" erscheint am 1. März 2025 auf Electric Spark Records (Vinyl) und Argonauta Records (CD). In Eindhoven wird es an diesem Tag eine Release-Party zum Album geben. Die erste ausgekoppelte Single "Voices" könnt Ihr jetzt schon hören. Ich verlinke sie Euch unter diesem Artikel.
 

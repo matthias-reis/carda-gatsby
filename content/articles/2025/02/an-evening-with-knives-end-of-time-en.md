@@ -32,7 +32,7 @@ Fueled by fresh energy and raw intensity, An Evening With Knives are back with a
 
 ![An Evening With Knives – "End of Time"](https://storage.googleapis.com/cardamonchai-media/2025-02-10/an-evening-with-knives-end-of-time-album-cover-soundsvegan-com-jpg-imagine-281818_8d573a_1500_1500/640.webp 'An Evening With Knives – "End of Time"')
 
-All in all, "End of Time" is the soundtrack to 2025's madness – powerful, unapologetic, and impossible to ignore. You need this in your collection if you're into music that leaves a mark. No excuses.
+All in all, "End of Time" is the soundtrack to 2025's madness—powerful, unapologetic, and impossible to ignore. You need this in your collection if you're into music that leaves a mark. No excuses.
 
 "End of Time" will drop on March 1st, 2025, via Electric Spark Records (Vinyl) and Argonauta Records (CD). Eindhoven is getting a proper release party to celebrate, and in the meantime, you can already check out the first single, "Voices". Link's below—you know what to do.
 
