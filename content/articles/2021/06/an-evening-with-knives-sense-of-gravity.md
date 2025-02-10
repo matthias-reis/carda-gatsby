@@ -11,19 +11,15 @@ labels:
   - Stoner
   - Stoner-Rock
   - An Evening With Knives
-  - English & German
+  - Eindhoven
 language: de
 typeName: Review
 title: An Evening With Knives
 subTitle: '"Sense of Gravity"'
 seoTitle: An Evening With Knives – "Sense of Gravity" – Stoner/ Doom Review
-ogTitle: ""
-description: An Evening With Knives ist eine der Bands, die man auf gar keinen
-  Fall vergessen sollte. Ihre aktuelles Album heißt "Sense of Gravity".
-excerpt: An Evening With Knives ist eine der Bands, die man auf gar keinen Fall
-  außer Acht lassen sollte. Ihre aktuelle Platte "Sense of Gravity" ist erst ein
-  paar Monate alt und verdient es unbedingt gehört zu werden – hoffentlich bald
-  auch Live. AEVK mussten ihre Tour wie so viele Bands verschieben.
+ogTitle: ''
+description: An Evening With Knives ist eine der Bands, die man auf gar keinen Fall vergessen sollte. Ihre aktuelles Album heißt "Sense of Gravity".
+excerpt: An Evening With Knives ist eine der Bands, die man auf gar keinen Fall außer Acht lassen sollte. Ihre aktuelle Platte "Sense of Gravity" ist erst ein paar Monate alt und verdient es unbedingt gehört zu werden – hoffentlich bald auch Live. AEVK mussten ihre Tour wie so viele Bands verschieben.
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/an-evening-with-knives-jpg-imagine-080808_453e35_1024_768/640.webp
 copyright: An Evening With Knives
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/an-evening-with-knives-fb-jpg-imagine-080808_7a7064_1200_628/640.webp
@@ -31,7 +27,6 @@ focusKeyword: An Evening With Knives
 advertisement: false
 affiliate: false
 languageLink: /2021/06/an-evening-with-knives-sense-of-gravity-en
-
 ---
 
 **An Evening With Knives ist eine der Bands, die man auf gar keinen Fall außer Acht lassen sollte. Ihre aktuelle Platte "Sense of Gravity" ist erst ein paar Monate alt und verdient es unbedingt gehört zu werden.**

@@ -11,21 +11,15 @@ labels:
   - Stoner
   - Stoner-Rock
   - An Evening With Knives
-  - English & German
+  - Eindhoven
 language: en
 typeName: Review
 title: An Evening With Knives
 subTitle: '"Sense of Gravity"'
 seoTitle: An Evening With Knives – "Sense of Gravity" – Stoner/ Doom Review
-ogTitle: ""
-description: An Evening With Knives is one of those bands that we definitely
-  shouldn't ignore. Their latest record, "Sense Of Gravity", is only a few
-  months old and deserves to be heard!
-excerpt: An Evening With Knives is one of those bands that we definitely
-  shouldn't ignore. Their latest record, "Sense Of Gravity", is only a few
-  months old and deserves to be heard! An Evening With Knives have chosen the
-  year that we will all never forget to release their new album that probably a
-  few of us will also keep in mind forever. It's called "Sense of Gravity".
+ogTitle: ''
+description: An Evening With Knives is one of those bands that we definitely shouldn't ignore. Their latest record, "Sense Of Gravity", is only a few months old and deserves to be heard!
+excerpt: An Evening With Knives is one of those bands that we definitely shouldn't ignore. Their latest record, "Sense Of Gravity", is only a few months old and deserves to be heard! An Evening With Knives have chosen the year that we will all never forget to release their new album that probably a few of us will also keep in mind forever. It's called "Sense of Gravity".
 image: https://storage.googleapis.com/cardamonchai-media/2021-11-20/an-evening-with-knives-jpg-imagine-080808_453e35_1024_768/640.webp
 copyright: An Evening With Knives
 ogImage: https://storage.googleapis.com/cardamonchai-media/2021-11-20/an-evening-with-knives-fb-jpg-imagine-080808_7a7064_1200_628/640.webp
@@ -33,7 +27,6 @@ focusKeyword: An Evening With Knives
 advertisement: false
 affiliate: false
 languageLink: /2021/06/an-evening-with-knives-sense-of-gravity
-
 ---
 
 **An Evening With Knives is one of those bands that we definitely shouldn't ignore. Their latest record, "Sense Of Gravity", is only a few months old and deserves to be heard!**

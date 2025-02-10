@@ -4,7 +4,7 @@ title: 'Ela Minus – Dìa'
 subTitle: 'A Dazzling Sonic Journey'
 type: article
 typeName: Preview
-description: 'Dìa by Ela Minus drops on January 17th. Check out my preview and listen to the first three songs now!'
+description: '"Dìa" by Ela Minus drops on January 17th. Check out my preview and listen to the first three songs now!'
 labels:
   - Dia Minus
   - Preview
@@ -22,7 +22,7 @@ seoTitle: 'Electronic Music Preview – Ela Minus – "Dìa"'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2025-01-10/ela-minus-dia-soundsvegan-com-og-jpg-imagine-585858_86807d_1200_628/640.webp
 imageCopyright: Alvaro Ariso
 languageLink: /2025/01/ela-minus-dia/
-excerpt: Dìa by Ela Minus drops on January 17th—and trust me, this one needs a place on your radar. Expect expansive soundscapes and wildly imaginative electronic vibes. Based in New York but deeply connected to her Colombian roots, Ela has already given us a taste of what's to come with her latest single, "Broken," alongside a stunning music video. Read this article to check it out for an early sneak peek.
+excerpt: '"Dìa" by Ela Minus drops on January 17th—and trust me, this one needs a place on your radar. Expect expansive soundscapes and wildly imaginative electronic vibes. Based in New York but deeply connected to her Colombian roots, Ela has already given us a taste of what's to come with her latest single, "Broken," alongside a stunning music video. Read this article to check it out for an early sneak peek.'
 focusKeyword: Preview – Ela Minus – "Dìa"
 ---
 
