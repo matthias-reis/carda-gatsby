@@ -20,7 +20,7 @@ language: en
 image: https://storage.googleapis.com/cardamonchai-media/2025-01-10/ela-minus-dia-soundsvegan-com-3-jpg-imagine-c8c8c8_9e9796_1024_768/640.webp
 seoTitle: 'Ela Minus – "Dìa" – Electronic Music – Preview'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2025-01-10/ela-minus-dia-soundsvegan-com-og-jpg-imagine-585858_86807d_1200_628/640.webp
-imageCopyright: Alvaro Arisó
+imageCopyright: 'Alvaro Arisó'
 languageLink: /2025/01/ela-minus-dia-en/
 excerpt:
 ---
