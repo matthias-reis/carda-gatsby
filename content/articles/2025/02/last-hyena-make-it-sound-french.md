@@ -40,4 +40,4 @@ Auf die Frage, was sie als Band mit dem Stück zum Ausdruck bringen möchten, an
 
 Last Hyena gründeten sich 2016. Beim Songwriting erkunden Sie seither gemeinsam Math-Rock-Rhythmen, Post-Rock-Landschaften und starke Riffs. Dabei gelingt es ihnen immer wieder unvergessliche Stücke zu schreiben, die Grenzen überschreiten und für unvergessliche Konzerterlebnisse zu sorgen.
 
-"Make It Sound French" folgt auf das Debut-Album der Band von 2021. Es trägt den Namen "How Soon is Mars?" und wurde von der Kritik durchweg gelobt. Last Hyena traten unter anderem auf dem britischen ArcTanGent Festival damit auf.
+"Make It Sound French" folgt auf das von der Kritk gelobte Debut-Album "How Soon is Mars?" von 2021. Last Hyena traten damit unter anderem auf dem britischen ArcTanGent Festival auf.
