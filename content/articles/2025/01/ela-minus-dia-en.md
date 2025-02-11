@@ -41,7 +41,7 @@ Take, for example, the genesis of Dia's opening track, "Abrir Monta." Late one n
 
 For "Dìa", Ela once again collaborated with Marta Salogni (mixing) and Heba Kadry (mastering), who also contributed to "Acts of Rebellion". Of the ten tracks on the album, songs like "Broken" (track 2), "Upwards" (track 9), and "Combat" (track 10) are already available to stream.
 
-You can catch Ela Minus live on February 14th, at the Max Schmeling Halle in Berlin, supporting Caribou.
+You can catch Ela Minus live on February 14th, at the Max Schmeling Halle in Berlin, as support of Caribou.
 
 Images: © Alvaro Arisó
 
