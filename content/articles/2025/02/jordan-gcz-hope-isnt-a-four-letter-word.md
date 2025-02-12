@@ -29,7 +29,7 @@ focusKeyword: 'Jordan GCZ – "Hope isn‘t a Four Letter Word"'
 
 Wenn Ihr gerne House und Techno konsumiert, seid Ihr vermutlich schon mal von Jordan und seiner Musik in Berührung gekommen. Sein Blick über den Tellerrand der Dancefloors beinhaltet Kooperationen mit Künstler\*innen wie Juju und Jordash (mit Gal Aner), Magic Mountain High (mit Gal und David Moufang (Move D)), The High On Wye Quintet (mit Gal, David, Michel Baumann und Steevio), The Mullhollen Free Clinic (mit Gal, David und Johan Sharp) und vielen mehr.
 
-## "Hope isn't a Four Letter Word" vereint elektronische Genres
+## "Hope isn't a Four Letter Word" vereint die unterschiedlichsten Genres
 
 ![Jordan GCZ – "Hope isn't a Four Letter Word"](https://storage.googleapis.com/cardamonchai-media/2025-02-12/jordan-gcz-hope-isnt-a-four-letter-word-jpg-imagine-f8f8f8_d28996_700_700/640.webp 'Jordan GCZ – "Hope isn't a Four Letter Word"')
 
