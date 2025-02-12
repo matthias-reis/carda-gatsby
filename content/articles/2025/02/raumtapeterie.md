@@ -1,7 +1,7 @@
 ---
 date: 2025-02-12T13:30:06.561Z
 title: Die Raumtapeterie Düsseldorf
-subTitle: '"Wir wollen mit veganer Raumgestaltung ein nachhaltiges Statement setzen!"'
+subTitle: 'Mit veganer Raumgestaltung ein nachhaltiges Statement setzen'
 type: article
 typeName: Artikel
 description: Vegane Raumgestaltung – die Raumtapeterie aus Düsseldorf zeigt Euch, wie es funktioniert – mit PETA-zertifizierten Kissen & Co.
@@ -21,14 +21,14 @@ seoTitle: 'Die Raumtapeterie in Düsseldorf – vegane Raumgestaltung'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2025-02-12/raumtapeterie-duesseldorf-soundsvegan-com-og-jpg-imagine-988878_847b6d_1200_628/640.webp
 imageCopyright: Raumtapeterie
 languageLink:
-excerpt: 'Marco Nikkels und Yasemin Genc betreiben in Düsseldorf die vegane Polsterei Raumtapeterie. Im Angebot haben sie unter anderem PETA-zertifizierte Kissen und noch allerlei weitere wunderbare Elemente, die für eine gemütliche und tierleidfreie Raumausstattung sorgen. Heute möchte ich Euch das Herzprojekt der beiden – die Raumtapeterie – vorstellen.'
+excerpt: 'Marco Nikkels und Yasemin Genc betreiben in Düsseldorf die vegane Polsterei Raumtapeterie. Im Angebot haben sie unter anderem PETA-zertifizierte Kissen und noch allerlei weitere wunderbare Wohnelemente, die für eine gemütliche und tierleidfreie Raumausstattung sorgen. Heute möchte ich Euch das Herzprojekt der beiden – die Raumtapeterie – vorstellen.'
 focusKeyword: Raumtapeterie
 advertisement: true
 affiliate: false
 productsProvided: false
 ---
 
-**Marco Nikkels und Yasemin Genc betreiben in Düsseldorf die vegane Polsterei Raumtapeterie. Im Angebot haben sie unter anderem PETA-zertifizierte Kissen und noch allerlei weitere wunderbare Elemente, die für eine gemütliche und tierleidfreie Raumausstattung sorgen. Heute möchte ich Euch das Herzprojekt der beiden – die Raumtapeterie – vorstellen.**
+**Marco Nikkels und Yasemin Genc betreiben in Düsseldorf die vegane Polsterei Raumtapeterie. Im Angebot haben sie unter anderem PETA-zertifizierte Kissen und noch allerlei weitere wunderbare Wohnelemente, die für eine gemütliche und tierleidfreie Raumausstattung sorgen. Heute möchte ich Euch das Herzprojekt der beiden – die Raumtapeterie – vorstellen.**
 
 Als ich Marco kennenlernte, meinte er gleich zu Beginn:
 
