@@ -17,7 +17,7 @@ labels:
   - Jordan GCZ
 language: en
 image: https://storage.googleapis.com/cardamonchai-media/2025-02-12/jordan-gcz-hope-isnt-a-four-letter-word-1-jpg-imagine-c86878_c86d7d_1024_768/640.webp
-seoTitle: '"Jordan GCZ "Hope Isn‘t a Four Letter Word" – ambient review'
+seoTitle: '"Jordan GCZ "Hope isn‘t a Four Letter Word" – ambient review'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2025-02-12/jordan-gcz-hope-isnt-a-four-letter-word-soundsvegan-com-og-jpg-imagine-c86878_c56778_1200_628/640.webp
 imageCopyright: quiet details
 languageLink: /2025/02/jordan-gcz-hope-isnt-a-four-letter-word/
