@@ -10,6 +10,7 @@ labels:
   - Band
   - Bands
   - Review
+  - Reviews
   - Post-Rock
   - Post-Music
   - Bristol
