@@ -100,6 +100,6 @@ Insgesamt gefällt mir die Raumtapeterie ausgesprochen gut. Besonders die indivi
 
 Interesse bekommen? Schaut Euch jetzt auf der [Homepage der Raumtapeterie](https://www.dieraumtapeterie.de/ 'follow') um!
 
-Geht’s bei Euch gerade ans Einrichten? Herzlichen Glückwunsch, wie schön! Wenn ihr gerne eine oder zwei der Tapeten aus der Raumtapeterie live sehen möchtet, findet Ihr alle Produkte aus dem Onlineshop in den Kollektionsbüchern in der Raumtapeterie in der Bilker Allee 192 in 40215 Düsseldorf. Auf Wunsch versenden Yasemin und Marco auch gerne Muster aus den Originaltapeten.
+Geht's bei Euch gerade ans Einrichten? Herzlichen Glückwunsch, wie schön! Wenn Ihr gerne eine oder zwei der Tapeten aus der Raumtapeterie live sehen möchtet, findet Ihr alle Produkte aus dem Onlineshop in den Kollektionsbüchern in der Raumtapeterie in der Bilker Allee 192 in 40215 Düsseldorf. Auf Wunsch versenden Yasemin und Marco auch gerne Muster aus den Originaltapeten.
 
 Beratung bekommt Ihr übrigens nicht nur vor Ort. Wenn Euch etwas unklar sein sollte oder ihr Fragen zu einem bestimmten Produkt habt, erreicht Ihr Yasemin, Marco und ihr Team über die Kontaktfunktion auf der Webseite jederzeit. Wenn Ihr alles über die Unterschiede zwischen Vliestapeten und Vinyltapeten erfahren wollt oder wissen möchtet, warum eine schöne Sofadecke in keinem Zuhause fehlen sollte, werdet Ihr im Blog der Raumtapeterie fündig.
