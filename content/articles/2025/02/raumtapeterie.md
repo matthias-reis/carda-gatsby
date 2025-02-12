@@ -4,7 +4,7 @@ title: Die Raumtapeterie Düsseldorf
 subTitle: '"Wir wollen mit veganer Raumgestaltung ein nachhaltiges Statement setzen!"'
 type: article
 typeName: Artikel
-description: Vegane Raumgestaltung – die Raumtapeterie aus Düsseldorf zeigt Euch, wie es funktioniert – mit PETA zertifizierten Kissen & Co.
+description: Vegane Raumgestaltung – die Raumtapeterie aus Düsseldorf zeigt Euch, wie es funktioniert – mit PETA-zertifizierten Kissen & Co.
 labels:
   - Einrichtung
   - Raumgestaltung
