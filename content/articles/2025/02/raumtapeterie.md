@@ -54,7 +54,7 @@ Die Kissenbezüge werden aus einem hochwertigen Stoff der Firma Kvadrat hergeste
 
 ![Upcycling-Vase von der Raumtapeterie](https://storage.googleapis.com/cardamonchai-media/2025-02-12/raumtapeterie-vase-soundsvegan-com-jpg-imagine-c8d8e8_b5bfbd_1200_1200/640.webp 'Upcycling-Vase von der Raumtapeterie')
 
-Eine Shop-Rubrik, die mir sofort positiv aufgefallen ist, ist die mit Upcycling-Produkten. Hier findet Ihr unter anderem Umschläge aus Tapeten und Vasen aus Möbelstoffen. Eines meiner persönlichen Highlights sind hier zum Beispiel die Stoffvasen im stilvollen Brokat-Design. Die Raumtapeterie fertigt diese Einzelstücke aus edlen Designer-Guild-Stoffen, die mit ihren unterschiedlichen Vorder- und Rückseiten für ein abwechslungsreiches Gesamtbild sorgen.
+Eine Shop-Rubrik, die mir sofort positiv aufgefallen ist, ist die mit Upcycling-Produkten. Hier findet Ihr unter anderem Umschläge aus Tapeten und Vasen aus Möbelstoffen. Eines meiner persönlichen Highlights sind hier zum Beispiel die Stoffvasen im stilvollen Brokat-Design. Die Raumtapeterie fertigt diese Einzelstücke aus edlen Designers Guild Stoffen, die mit ihren unterschiedlichen Vorder- und Rückseiten für ein abwechslungsreiches Gesamtbild sorgen.
 
 Innen sind die schicken Vasen mit den Etikettnamen der jeweiligen Stoffe bedruckt, was für ein weiteres cooles Detail sorgt. Am Boden sind sie geschlossen, wodurch ihr super kleine Gläser oder Vasen aus Glas im Stoff "verstecken" könnt. In Eurem Wohnzimmer könnt Ihr dann zum Beispiel die Vase für Eure [Blumenarrangements](/2009/06/die-sprache-der-blumen/) farblich mit den Sofakissen abstimmen.
 
