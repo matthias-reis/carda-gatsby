@@ -56,7 +56,7 @@ Die Kissenbezüge werden aus einem hochwertigen Stoff der Firma Kvadrat hergeste
 
 Eine Shop-Rubrik, die mir sofort positiv aufgefallen ist, ist die mit Upcycling-Produkten. Hier findet Ihr unter anderem Umschläge aus Tapeten und Vasen aus Möbelstoffen. Eines meiner persönlichen Highlights sind hier zum Beispiel die Stoffvasen im stilvollen Brokat-Design. Die Raumtapeterie fertigt diese Einzelstücke aus edlen Designers Guild Stoffen, die mit ihren unterschiedlichen Vorder- und Rückseiten für ein abwechslungsreiches Gesamtbild sorgen.
 
-Innen sind die schicken Vasen mit den Etikettnamen der jeweiligen Stoffe bedruckt, was für ein weiteres cooles Detail sorgt. Am Boden sind sie geschlossen, wodurch ihr super kleine Gläser oder Vasen aus Glas im Stoff "verstecken" könnt. In Eurem Wohnzimmer könnt Ihr dann zum Beispiel die Vase für Eure [Blumenarrangements](/2009/06/die-sprache-der-blumen/) farblich mit den Sofakissen abstimmen.
+Innen sind die schicken Vasen mit den Etikettnamen der jeweiligen Stoffe bedruckt, was für ein weiteres cooles Detail sorgt. Am Boden sind sie geschlossen, wodurch ihr hervorragend kleine Gläser oder Vasen aus Glas im Stoff "verstecken" könnt. In Eurem Wohnzimmer könnt Ihr dann zum Beispiel die Vase für Eure [Blumenarrangements](/2009/06/die-sprache-der-blumen/) farblich mit den Sofakissen abstimmen.
 
 Die Vasen sind etwa 24 × 17,5 Zentimeter groß (Höhe × Breite). Ihr könnt sie für je 9,99 im Shop der Raumtapeterie bestellen.
 
@@ -76,7 +76,7 @@ Die Raumtapeterie gründete sich 2015. Seit der Eröffnung unterstützen Marco, 
 
 Neben dem Ladengeschäft, in dem die Beratungen stattfinden, befinden sich in Düsseldorf auch die Polsterwerkstatt der Raumtapeterie sowie ein großes Design-Studio mit einem umfangreichen Angebot an Tapeten, Farben und ausgesuchten Wohn-Accessoires. Das sorgt für Inspiration und ein umfangreiches, rundes Komplett-Angebot, das keine Wünsche offen lässt.
 
-In Düsseldorf ist das Raumtapeterie Team bereits für die freundliche und individuelle Beratung bekannt und beliebt. Yasemin Genc und Marco Nikkels und ihr Team kennen sich mit exklusiven und hochwertigen Tapeten und Wohnaccessoires bestens aus und geben ihr Fachwissen und ihre kreativen Ideen immer gerne weiter. Sie sagen:
+In Düsseldorf ist das Raumtapeterie Team bereits für die freundliche und individuelle Beratung bekannt und beliebt. Yasemin Genc, Marco Nikkels und ihr Team kennen sich mit exklusiven und hochwertigen Tapeten und Wohnaccessoires bestens aus und geben ihr Fachwissen und ihre kreativen Ideen immer gerne weiter. Sie sagen:
 
 > "Wir sind stolz darauf, eine breite Palette an erstklassigen Tapeten und Wanddekoren anzubieten, die jedem Raum Charakter und Individualität verleihen."
 
