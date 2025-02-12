@@ -25,7 +25,7 @@ excerpt: 'Last Hyena released their new single, "Make It Sound French", some day
 focusKeyword: 'Review – "Make It Sound French" – Last Hyena'
 ---
 
-**I think I fell in love with Last Hyena's music at ArcTanGent—no turning back after that. Now, the Bristol trio is back with a fresh single. With Make It Sound French, the band dives into those unexpected, overwhelming moments life throws at you.**
+**I think I fell in love with Last Hyena's music at ArcTanGent—no turning back after that. Now, the Bristol trio is back with a fresh single. With "Make It Sound French", the band dives into those unexpected, overwhelming moments life throws at you.**
 
 They recorded, mixed, and mastered Make It Sound French with Mark Roberts (Delta Sleep, Black Peaks, Poly-Math, Jamie Lenman) at Middle Farm Studios in Devon. The track weaves elements of math-rock, post-rock, and ambient noise.
 
@@ -41,4 +41,4 @@ Talking about the track's title, the band adds:
 
 Last Hyena formed back in 2016. Ever since, their song writing sessions have been all about exploring math-rock rhythms, post-rock soundscapes, and punchy riffs. Time and time again, they craft unforgettable tracks that push boundaries and make for mind-blowing live shows.
 
-Make It Sound French follows the band's 2021 debut album, How Soon is Mars?, which received glowing reviews. Last Hyena took it to the stage at the UK's iconic ArcTanGent Festival among other festivals and venues.
+"Make It Sound French" will drop on February 21st 2025. It follows the band's 2021 debut album, "How Soon is Mars"?, which received glowing reviews. Last Hyena took it to the stage at the UK's iconic ArcTanGent Festival among other festivals and venues.
