@@ -1,7 +1,7 @@
 ---
 date: 2025-02-12T13:30:06.561Z
 title: Die Raumtapeterie Düsseldorf
-subTitle: 'Wir wollen mit veganer Raumgestaltung ein nachhaltiges Statement setzen!'
+subTitle: '"Wir wollen mit veganer Raumgestaltung ein nachhaltiges Statement setzen!"'
 type: article
 typeName: Artikel
 description: Vegane Raumgestaltung – die Raumtapeterie aus Düsseldorf zeigt Euch, wie es funktioniert – mit PETA zertifizierten Kissen & Co.
