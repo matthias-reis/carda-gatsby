@@ -34,7 +34,7 @@ Als ich Marco kennenlernte, meinte er gleich zu Beginn:
 
 > "Ich lebe jetzt seit fünf Jahren vegan und möchte auch beruflich im Rahmen unserer Raumausstattung ein Zeichen setzen."
 
-Bei mir stieß er damit natürlich auf offene Ohren und es war selbstverständlich, dass ich mir seine Raumtapeterie mal genauer anschauen würde. Ich gehe sogar noch einen Schritt weiter: Wenn ich demnächst umziehe und mich nach der ein oder anderen Idee für unser Wohnzimmer umschaue, werde ich ganz sicher zuerst in seinem Shop stöbern.
+Bei mir stieß er damit natürlich auf offene Ohren und es war selbstverständlich, dass ich mir die Raumtapeterie mal genauer anschauen würde. Ich gehe sogar noch einen Schritt weiter: Wenn ich demnächst umziehe und mich nach der ein oder anderen Idee für unser Wohnzimmer umschaue, werde ich ganz sicher zuerst in seinem Shop stöbern.
 
 Im Onlinestore der Raumtapeterie findet Ihr unter den Kategorien "Tapeten", "Farben" und "Raumkunst" natürlich zahlreiche Tapeten aus den unterschiedlichsten Materialien und in den kreativsten Designs, die ihr Euch vorstellen könnt. Hinzu kommen unter anderem Farben, Teppiche, Kissen, Decken, Regenschirme, Bilder, Postermöbel sowie unterschiedliche Upcycling-Produkte
 
