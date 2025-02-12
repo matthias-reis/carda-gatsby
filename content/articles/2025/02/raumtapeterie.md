@@ -94,7 +94,7 @@ Mein Geheimtipp ist übrigens der firmeneigene Blog der Raumtapeterie. Hier find
 
 ## Fazit: Die Raumtapeterie ist einen Besuch wert!
 
-Insgesamt gefällt mir die Raumtapeterie ausgesprochen gut. Besonders die individuelle Beratung, die geschmackvollen Designs, die nachhaltige Fertigung und natürlich der Fokus auf eine tierleidfreie und vegane Fertigung haben mich überzeugt. Die Möglichkeit, sich von den Tapeten im Shop erst mal eine Probe zuschicken zu lassen, ist eine echte Möglichkeit, sich auch aus der Ferne zunächst einen ersten Eindruck zu holen. Die Kombination aus dem Showroom in Düsseldorf und dem modernen Onlineshop mit einer umfangreichen Auswahl bietet alle Möglichkeiten.
+Insgesamt gefällt mir die Raumtapeterie ausgesprochen gut. Besonders die individuelle Beratung, die geschmackvollen Designs, die nachhaltige Fertigung und natürlich der Fokus auf eine tierleidfreie und vegane Herstellung haben mich überzeugt. Die Möglichkeit, sich von den Tapeten im Shop erst mal eine Probe zuschicken zu lassen, ist eine echte Möglichkeit, sich auch aus der Ferne zunächst einen ersten Eindruck zu holen. Die Kombination aus dem Showroom in Düsseldorf und dem modernen Onlineshop mit einer umfangreichen Auswahl bietet alle Möglichkeiten.
 
 ## Lernt die Raumtapeterie kennen
 
