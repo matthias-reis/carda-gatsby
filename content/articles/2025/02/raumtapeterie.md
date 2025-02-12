@@ -36,7 +36,7 @@ Als ich Marco kennenlernte, meinte er gleich zu Beginn:
 
 Bei mir stieß er damit natürlich auf offene Ohren und es war selbstverständlich, dass ich mir die Raumtapeterie mal genauer anschauen würde. Ich gehe sogar noch einen Schritt weiter: Wenn ich demnächst umziehe und mich nach der ein oder anderen Idee für unser Wohnzimmer umschaue, werde ich ganz sicher zuerst in seinem Shop stöbern.
 
-Im Onlinestore der Raumtapeterie findet Ihr unter den Kategorien "Tapeten", "Farben" und "Raumkunst", wie der Name schon sagt, zahlreiche Tapeten aus den unterschiedlichsten Materialien und in den kreativsten Designs, die ihr Euch vorstellen könnt. Hinzu kommen unter anderem Farben, Teppiche, Kissen, Decken, Regenschirme, Bilder, Postermöbel sowie unterschiedliche Upcycling-Produkte
+Im Onlinestore der Raumtapeterie findet Ihr unter den Kategorien "Tapeten", "Farben" und "Raumkunst", wie der Name schon sagt, zahlreiche Tapeten aus den unterschiedlichsten Materialien und in den kreativsten Designs, die Ihr Euch vorstellen könnt. Hinzu kommen unter anderem Farben, Teppiche, Kissen, Decken, Regenschirme, Bilder, Postermöbel sowie unterschiedliche Upcycling-Produkte
 
 ## PETA-zertifizierte, vegane Kissen von der Raumtapeterie
 
@@ -56,7 +56,7 @@ Die Kissenbezüge werden aus einem hochwertigen Stoff der Firma Kvadrat hergeste
 
 Eine Shop-Rubrik, die mir sofort positiv aufgefallen ist, ist die mit Upcycling-Produkten. Hier findet Ihr unter anderem Umschläge aus Tapeten und Vasen aus Möbelstoffen. Eines meiner persönlichen Highlights sind hier zum Beispiel die Stoffvasen im stilvollen Brokat-Design. Die Raumtapeterie fertigt diese Einzelstücke aus edlen Designers Guild Stoffen, die mit ihren unterschiedlichen Vorder- und Rückseiten für ein abwechslungsreiches Gesamtbild sorgen.
 
-Innen sind die schicken Vasen mit den Etikettnamen der jeweiligen Stoffe bedruckt, was für ein weiteres cooles Detail sorgt. Am Boden sind sie geschlossen, wodurch ihr hervorragend kleine Gläser oder Vasen aus Glas im Stoff "verstecken" könnt. In Eurem Wohnzimmer könnt Ihr dann zum Beispiel die Vase für Eure [Blumenarrangements](/2009/06/die-sprache-der-blumen/) farblich mit den Sofakissen abstimmen.
+Innen sind die schicken Vasen mit den Etikettnamen der jeweiligen Stoffe bedruckt, was für ein weiteres cooles Detail sorgt. Am Boden sind sie geschlossen, wodurch Ihr hervorragend kleine Gläser oder Vasen aus Glas im Stoff "verstecken" könnt. In Eurem Wohnzimmer könnt Ihr dann zum Beispiel die Vase für Eure [Blumenarrangements](/2009/06/die-sprache-der-blumen/) farblich mit den Sofakissen abstimmen.
 
 Die Vasen sind etwa 24 × 17,5 Zentimeter groß (Höhe × Breite). Ihr könnt sie für je 9,99 im Shop der Raumtapeterie bestellen.
 
@@ -66,7 +66,7 @@ Die Vasen sind etwa 24 × 17,5 Zentimeter groß (Höhe × Breite). Ihr könnt si
 
 An den Polstermöbeln im Shop der Raumtapeterie gefällt mir vor allem der wunderbare Retro-Stil unfassbar gut. Ein tolles Beispiel ist hier zum Beispiel der zauberhafte Cocktailsessel. Er erinnert mich an all die tollen Filme, in denen ich manchmal mehr auf die Innenausstattung als auf die Schauspieler\*innen achte. Wie unfassbar schön kann bitte Wohnen sein?
 
-Der Cocktailsessel ist viel mehr als nur ein Sitzmöbel. Er lädt zu relaxten Lese-Sessions auf dem Lieblingsplatz in der ganzen Wohnung ein – auf der einen Seite der Plattenspieler, auf der anderen ein Glas mit (alkoholfreiem) Martini. Er ist stilvoll und erinnert an die Möbel in einer stylishen Bar aus den 1950er-Jahren. Ganz besonders gut kann ich ihn mir als Farbtupfer inmitten einer sonst eher klassischen Einrichtung vorstellen. Oder ihr haut komplett in die Vollen und holt Euch gleich auch noch die passenden Tischchen und Hocker im Retro-Look. Dank der hervorragenden Qualität, den stabilen Beinen aus Holz und dem strapazierfähigen Stoffbezug habt Ihr garantiert lange etwas von Eurem Cocktailsessel. Damit können große Möbelhäuser mit Massenproduktion und Einwegmöbeln definitiv nicht mithalten.
+Der Cocktailsessel ist viel mehr als nur ein Sitzmöbel. Er lädt zu relaxten Lese-Sessions auf dem Lieblingsplatz in der ganzen Wohnung ein – auf der einen Seite der Plattenspieler, auf der anderen ein Glas mit (alkoholfreiem) Martini. Er ist stilvoll und erinnert an die Möbel in einer stylishen Bar aus den 1950er-Jahren. Ganz besonders gut kann ich ihn mir als Farbtupfer inmitten einer sonst eher klassischen Einrichtung vorstellen. Oder Ihr haut komplett in die Vollen und holt Euch gleich auch noch die passenden Tischchen und Hocker im Retro-Look. Dank der hervorragenden Qualität, den stabilen Beinen aus Holz und dem strapazierfähigen Stoffbezug habt Ihr garantiert lange etwas von Eurem Cocktailsessel. Damit können große Möbelhäuser mit Massenproduktion und Einwegmöbeln definitiv nicht mithalten.
 
 ## Das ist die Raumtapeterie Düsseldorf
 
