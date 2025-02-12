@@ -36,7 +36,7 @@ Als ich Marco kennenlernte, meinte er gleich zu Beginn:
 
 Bei mir stieß er damit natürlich auf offene Ohren und es war selbstverständlich, dass ich mir die Raumtapeterie mal genauer anschauen würde. Ich gehe sogar noch einen Schritt weiter: Wenn ich demnächst umziehe und mich nach der ein oder anderen Idee für unser Wohnzimmer umschaue, werde ich ganz sicher zuerst in seinem Shop stöbern.
 
-Im Onlinestore der Raumtapeterie findet Ihr unter den Kategorien "Tapeten", "Farben" und "Raumkunst" natürlich zahlreiche Tapeten aus den unterschiedlichsten Materialien und in den kreativsten Designs, die ihr Euch vorstellen könnt. Hinzu kommen unter anderem Farben, Teppiche, Kissen, Decken, Regenschirme, Bilder, Postermöbel sowie unterschiedliche Upcycling-Produkte
+Im Onlinestore der Raumtapeterie findet Ihr unter den Kategorien "Tapeten", "Farben" und "Raumkunst", wie der Name schon sagt, zahlreiche Tapeten aus den unterschiedlichsten Materialien und in den kreativsten Designs, die ihr Euch vorstellen könnt. Hinzu kommen unter anderem Farben, Teppiche, Kissen, Decken, Regenschirme, Bilder, Postermöbel sowie unterschiedliche Upcycling-Produkte
 
 ## PETA-zertifizierte, vegane Kissen von der Raumtapeterie
 
