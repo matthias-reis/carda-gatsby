@@ -42,7 +42,7 @@ Im Onlinestore der Raumtapeterie findet Ihr unter den Kategorien "Tapeten", "Far
 
 ![PETA-zertifizierte Kissen von der Raumtapeterie](https://storage.googleapis.com/cardamonchai-media/2025-02-12/raumtapeterie-5-png-imagine-f8d8a8_968e76_480_480/640.webp 'PETA-zertifizierte Kissen von der Raumtapeterie')
 
-Besonders gut gefallen mir persönlich schon mal die wundervollen PETA-zertifizierten Kissen. Ich habe sie daher auch zur Illustration dieses Artikels genutzt.
+Besonders gut gefallen mir persönlich schon mal die wundervollen PETA-zertifizierten Kissen. Ich habe sie daher auch zur Bebilderung dieses Artikels genutzt.
 
 Für die Raumtapeterie sind die Kissen ein klares Bekenntnis zu Nachhaltigkeit und Tierwohl. Marcos und Yasemins Kolleg\*innen stellen sie aus 100 Prozent tierleidfreien Materialien nachhaltig in Deutschland her. Er sagt:
 
