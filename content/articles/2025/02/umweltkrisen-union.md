@@ -23,7 +23,7 @@ affiliate: false
 productsProvided: false
 ---
 
-**In den letzten Jahren und Jahrzehnten hat die Union (CDU/CSU) in Deutschland wiederholt Themen wie die Öl- und die Heizungskrisen in den Vordergrund gestellt. Ganz aktuell lenkt sie mit Geflüchteten vom den brennenden Themen unserer Zeit ab, bedient sich dabei rechter Retorik und nimmt sogar rechte Wählerstimmen an, um ihre Macht zu vergrößern. Kritiker\*innen aus den Reihen der Wissenschaft sowie aus Umweltschutzorganisationen und Klimaaktivsmus-Gruppen weisen zu Recht darauf hin, dass dadurch stark von den drängenden Problemen der Klimakatastrophe und der Luftverschmutzung abgelenkt wird. Dabei ist hier schnelles und wohl überlegtes Handeln gefragt.**
+**In den letzten Jahren und Jahrzehnten hat die Union (CDU/CSU) in Deutschland wiederholt Themen wie die Öl- und die Heizungskrisen in den Vordergrund gestellt. Ganz aktuell lenkt sie mit Geflüchteten vom den brennenden Themen unserer Zeit ab, bedient sich dabei rechter Rhetorik und nimmt sogar rechte Wählerstimmen an, um ihre Macht zu vergrößern. Kritiker\*innen aus den Reihen der Wissenschaft sowie aus Umweltschutzorganisationen und Klimaaktivsmus-Gruppen weisen zu Recht darauf hin, dass dadurch stark von den drängenden Problemen der Klimakatastrophe und der Luftverschmutzung abgelenkt wird. Dabei ist hier schnelles und wohl überlegtes Handeln gefragt.**
 
 ---
 
