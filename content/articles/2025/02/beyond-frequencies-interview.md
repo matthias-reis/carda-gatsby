@@ -4,7 +4,7 @@ title: '"Wir sind eine Einstiegsdroge für Metal"'
 subTitle: 'Beyond Frequencies Frontfrau Blazy Flash über das neue Album "Everything I Am"'
 type: article
 typeName: Interview
-description: Beyond Frequencies – "Everything I Am" – Lest jetzt mein Interview mit Sängering Blazy Flash über das neue Metal-Album.
+description: Beyond Frequencies – "Everything I Am" – Lest jetzt mein Interview mit Sängerin Blazy Flash über das neue Metal-Album.
 labels:
   - Musik
   - Band
