@@ -16,14 +16,14 @@ seoTitle: 'Umweltkrisen – Verschleppung durch Ablenkung von der Klimakatastrop
 ogImage: https://storage.googleapis.com/cardamonchai-media/2025-02-13/luftverschmutzung-karinkarin-pixabay-soundsvegan-com-og-jpg-imagine-282828_696a6e_1200_628/640.webp
 imageCopyright: Karin Karin, pixabay
 languageLink:
-excerpt: 'In den letzten Jahren und Jahrzehnten hat die Union (CDU/CSU) in Deutschland wiederholt Themen wie die Öl- und die Heizungskrisen in den Vordergrund gestellt, um von den drängenden Problemen der Klimakatastrophe und der Luftverschmutzung abzulenken. Kritiker*innen aus den Reihen der Wissenschaft sowie aus Umweltschutzorganisationen und Klimaaktivsmus-Gruppen weisen zu Recht darauf hin, dass dies nicht so weitergehen kann und schnelles Handeln gefragt ist.'
+excerpt: 'In den letzten Jahren und Jahrzehnten hat die Union (CDU/CSU) in Deutschland wiederholt Themen wie die Öl- und die Heizungskrisen in den Vordergrund gestellt, um von den drängenden Problemen der Klimakatastrophe und der Luftverschmutzung abzulenken. Kritiker*innen aus den Reihen der Wissenschaft sowie aus Umweltschutzorganisationen, Klimaaktivsmus-Gruppen und Wirtschaftsinstituten weisen zu Recht darauf hin, dass dies nicht so weitergehen kann und schnelles Handeln gefragt ist.'
 focusKeyword: Raumtapeterie
 advertisement: false
 affiliate: false
 productsProvided: false
 ---
 
-**In den letzten Jahren und Jahrzehnten hat die Union (CDU/CSU) in Deutschland wiederholt Themen wie die Öl- und die Heizungskrisen in den Vordergrund gestellt. Ganz aktuell lenkt sie mit Hass und Hetze gegenüber Geflüchteten auf deren Rücken von den brennenden Themen unserer Zeit ab, bedient sich dabei rechter Rhetorik und nimmt sogar rechte Wählerstimmen an, um ihre Macht zu vergrößern. Kritiker\*innen aus den Reihen der Wissenschaft sowie aus Umweltschutzorganisationen und Klimaaktivsmus-Gruppen weisen zu Recht darauf hin, dass dadurch stark von den drängenden Problemen der Klimakatastrophe und der Luftverschmutzung abgelenkt wird. Dabei ist hier schnelles und wohl überlegtes Handeln gefragt.**
+**In den letzten Jahren und Jahrzehnten hat die Union (CDU/CSU) in Deutschland wiederholt Themen wie die Öl- und die Heizungskrisen in den Vordergrund gestellt. Ganz aktuell lenkt sie mit Hass und Hetze gegenüber Geflüchteten auf deren Rücken von den brennenden Themen unserer Zeit ab, bedient sich dabei rechter Rhetorik und nimmt sogar rechte Wählerstimmen an, um ihre Macht zu vergrößern. Kritiker\*innen aus den Reihen der Wissenschaft sowie aus Umweltschutzorganisationen, Klimaaktivsmus-Gruppen und Wirtschaftsinstituten weisen zu Recht darauf hin, dass dadurch stark von den drängenden Problemen der Klimakatastrophe und der Luftverschmutzung abgelenkt wird. Dabei ist hier schnelles und wohl überlegtes Handeln gefragt.**
 
 ---
 
