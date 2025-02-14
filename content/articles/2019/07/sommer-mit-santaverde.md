@@ -5,12 +5,8 @@ typeName: Produkttest & Verlosung
 title: Sommer mit Santaverde
 seoTitle: Sommer mit Santaverde - sanfte Pflege nach Wassersport und Sonnenbad
 ogTitle: Sommer mit Santaverde - sanfte Pflege nach Wassersport und Sonnenbad
-description: "Vor Kurzem ging es für uns in den Süden: Strand, Wellen, Sonne und
-  Sightseeing was das Zeug hält. Da dürfen gute Pflegeprodukte natürlich nicht
-  fehlen."
-excerpt: "Vor Kurzem ging es für uns in den Süden: Strand, Wellen, Sonne und
-  Sightseeing was das Zeug hält. Da dürfen gute Pflegeprodukte natürlich nicht
-  fehlen."
+description: 'Vor Kurzem ging es für uns in den Süden: Strand, Wellen, Sonne und Sightseeing was das Zeug hält. Da dürfen gute Pflegeprodukte natürlich nicht fehlen.'
+excerpt: 'Vor Kurzem ging es für uns in den Süden: Strand, Wellen, Sonne und Sightseeing was das Zeug hält. Da dürfen gute Pflegeprodukte natürlich nicht fehlen.'
 remoteThumbnailImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-5__m.jpg
 remoteImage: https://storage.googleapis.com/cardamonchai-images/2019_07_2019-06-23-santaverde-5__l.jpg
 remoteLoadingImage: data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCBAUD/8QAKxAAAgECBQMDAwUAAAAAAAAAAQIDBBEABQYSITFBgQciYRQVUUJxkaGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgQDBf/EACURAAIBAgQGAwAAAAAAAAAAAAECAAMEERIhQQUjMVFhkbHB0f/aAAwDAQACEQMRAD8AWIo1jyitqERdkMO4Ky7gQpHFu/H+4vUGkarPIqSlymGkhSnYyStuIA38q1jdmLDnxbEaUn7ZMlOAZpbKARcW6sfABON3QFbmEVdqBMsimSqFDDIFeEyF9jlRtU9/exPXqPxjh8LVKlPI/c/EnRuWU3JiRqbIarIM3qMqnK1E6FX3xj2uGFwTfp5/GK9RlxWKBKplo6YKLvLCzPJfqyqOoJvY3A+cPnq7R7vUajqSlonoEklVxxcXsD83I/jCXXTGWblzIx55JJJ89/6xjfhaFwUXXf3J10JJElHI2Yz0tNBwLOSx4G4IWA8hTjY0XqagyHUVRVZ21QaL6Z4SsYZyH3oQLA/BwYMOzc0lGXYxsoAV/J+v2cfUHV0Wps5SsoBOtI8KLCJQFbbz2BNrm55N+RjMpZRBEREgeqI9zn9PnoP3wYMS3JxdnPXWIDF5/9k=
@@ -30,7 +26,6 @@ advertisement: true
 affiliate: true
 language: de
 subTitle: Sanfte Pflege nach Sonnenbad und Wassersport
-
 ---
 
 **Vor Kurzem ging es für uns in den sonnigen Süden: Strand, Wellen, Sonne und Sightseeing was das Zeug hält. Da dürfen gute Pflegeprodukte natürlich nicht fehlen.**
@@ -199,8 +194,6 @@ Für alle, die das Aloe Vera Gel Pur auch mal testen möchten, habe ich eine kle
 In Kürze zeige ich Euch hier im Blog, wo die Aloe Vera für die Santaverde Produkte angebaut werden. Ich war direkt vor Ort auf der **Finka Santaverde** und habe mich dort mit der lieben Carmen unterhalten und so einige Fotos gemacht. Bleibt also dran. Es bleibt auf alle Fälle spannend.
 
 ---
-
-[Hier findet Ihr meine Expertenmeinung, die ich als idealo.de Expertin über das Aloe Vera Pur Gel geschrieben habe](https://tidd.ly/42jySkv).
 
 <Gallery
   images={[

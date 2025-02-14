@@ -100,10 +100,6 @@ Und nicht nur für **Sounds Vegan** bin ich immer an neuen Kontakten interessier
 
 [Hier könnt Ihr mich buchen](https://anne-reis.de/)
 
-Weil ich sehr neugierig bin und liebend gerne neue Produkte ausprobiere, bewerte ich diese nicht nur hier auf Sounds Vegan. Als [offizielle Produktexpertin für idealo.de](https://tidd.ly/492ImCI) nehme ich regelmäßig vegane Brands unter die Lupe und schreibe Expertenmeinungen über ihre veganen Produkte. Mein Spezialgebiet: Körper & Pflege – natürlich vegan!
-
-[![Produktexpertin Körper & Pflege](https://storage.googleapis.com/cardamonchai-media/2024-01-24/idealo-produktexpertin-anne-reis-soundsvegan-com-jpg-imagine-181818_565c63_1024_768/640.webp)](https://tidd.ly/492ImCI)
-
 ## Alles beginnt mit dem passenden Text
 
 Ich schreibe, seit ich Buchstaben zu Papier bringen kann. Seit ich denken kann, ist es meine Leidenschaft, Wörter in eine Reihenfolge zu bringen und mit Leben zu füllen. Als meine Leidenschaft dann 2008 auch noch zu meinem Beruf wurde, ging für mich ein Traum in Erfüllung, der mich schon lange begleitete.
