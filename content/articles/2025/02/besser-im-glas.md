@@ -73,7 +73,7 @@ Besser im Glas gründeten sich 2019 mit der Vision, die Tee-Branche auf den Kopf
 
 Nachdem sich ihr Team 2020 bereits auf zehn Personen vergrößert hatte, zogen sie in ein Start-up-Büro um und verlegten die Produktion von ihrer Küche in professionelle Räumlichkeiten. 2022 nahm Besser im Glas dann Gewürze ins Sortiment auf – schließlich lassen sie sich auch hervorragend in wiederbefüllbare Gläser verpacken.
 
-Heute haben die zwei Pauls ein wachsendes Team von inzwischen 25 Mitarbeitenden – samt Bürohund Lima – und die Reise geht weiter!
+Heute haben die zwei Pauls ein wachsendes Team von inzwischen 25 Mitarbeitenden – samt Bürohunden Lima und Charly – und die Reise geht weiter!
 
 ## Das ist in den Gläsern drin
 
