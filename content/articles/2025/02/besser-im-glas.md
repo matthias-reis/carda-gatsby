@@ -35,7 +35,7 @@ Folgende Besser im Glas Produkte habe ich getestet:
 4. [Gewürz Avocado-Liebe](#gewuerz-avocado-liebe)
 5. [Bratkartoffel-Crunch](#gewuerz-bratkartoffel-crunch)
 
-<Gallery name="besser-im-glas-2" />
+<Gallery name="besser-im-glas-1" />
 
 <div id="tee-heisse-blaubeere"></div>
 
