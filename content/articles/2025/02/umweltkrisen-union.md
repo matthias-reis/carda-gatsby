@@ -73,8 +73,8 @@ Zwar betont die Union immer wieder das Prinzip der "Technologieoffenheit", doch 
 
 Wenn wir echten Klimaschutz, saubere Luft und nachhaltige Innovationen wollen, müssen wir das an der Wahlurne deutlich machen. Dass wir dafür auch weiterhin den Zuzug von Menschen aus aller Welt dringend brauchen, sollte selbstverständlich sein. Es liegt an uns Wähler\*innen, Parteien zu unterstützen, die sich für konsequenten Klimaschutz und echten Fortschritt einsetzen – bevor es zu spät ist.
 
-[^1]: [BUND: "Kritik an Klimapolitik der Union"](https://chatgpt.com/c/67ada3b1-720c-800f-bc47-4fa24700b7fd#:~:text=BUND%3A%20Kritik%20an-,Klimapolitik,-der%20Union)
-[^2]: [Greenpeace: Forderungen für strengere Emissionsgrenzwerte](https://chatgpt.com/c/67ada3b1-720c-800f-bc47-4fa24700b7fd#:~:text=Greenpeace%3A%20Forderungen%20f%C3%BCr-,strengere,-Emissionsgrenzwerte)
+[^1]: [BUND: "Kritik an Klimapolitik der Union"](https://www.bund.net/service/presse/pressemitteilungen/detail/news/klimapolitik-der-ampel-regierung-verfassungswidrig/)
+[^2]: [Greenpeace: Forderungen für strengere Emissionsgrenzwerte](https://www.greenpeace.de/publikationen/20170213_greenpeace_btw_forderungen.pdf)
 [^3]: [Umweltbundesamt AT: "Niedrigere Geschwindigkeit spart Energie und schont die Umwelt "](https://www.umweltbundesamt.at/umweltthemen/mobilitaet/mobilitaetsdaten/tempo/)
 [^4]: [iqair.com: "Air Quality in Japan"](https://www.iqair.com/us/japan/)
 [^5]: [Wirtschaftswoche: "Wie Japan das totale Parkverbot auf öffentlichen Straßen durchsetzt"](https://www.wiwo.de/unternehmen/dienstleister/autoverkehr-wie-japan-das-totale-parkverbot-auf-oeffentlichen-strassen-durchsetzt/29152710.html)
