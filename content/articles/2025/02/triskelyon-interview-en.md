@@ -122,10 +122,22 @@ languageLink: /2025/02/triskelyon-interview/
 
 <iframe
   style="border: 0; width: 100%; height: 120px;"
-  src="https://bandcamp.com/EmbeddedPlayer/album=3881369494/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2457506151/transparent=true/"
+  src="https://bandcamp.com/EmbeddedPlayer/album=3881369494/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=2457506151/transparent=true/"
   seamless
 >
   <a href="https://triskelyon.bandcamp.com/album/downfall">
     Downfall by Triskelyon
+  </a>
+</iframe>
+
+## Triskelyon – "Sealed Hypocrisy"
+
+<iframe
+  style="border: 0; width: 100%; height: 120px;"
+  src="https://bandcamp.com/EmbeddedPlayer/album=1151654550/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/track=3074104279/transparent=true/"
+  seamless
+>
+  <a href="https://triskelyon.bandcamp.com/album/shattered-elysium">
+    Shattered Elysium by Triskelyon
   </a>
 </iframe>
