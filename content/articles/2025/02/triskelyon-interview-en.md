@@ -2,10 +2,10 @@
 date: 2025-02-17T12:30:00.766Z
 typeName: Interview
 title: 'Thrash Metal & Veganism'
-subTitle: Interview with Triskelyon Founder Geoff Wayne
+subTitle: Interview with Triskelyon Founder Geoff Waye
 seoTitle: Triskelyon Founder Geoff – Interview – Thrash Metal & Veganism
-description: Triskelyon Founder Geoff Wayne – Interview about thrash metal, veganism and why he likes political messages in songs. Read it now!
-excerpt: 'The Canadian thrash metal project Triskelyon has several lyrics about veganism in their songs. Fans of the genre love them for their skilful mix of euphoria and despair and the play with joy and horror. The third album, "Shattered Elysium", came out in September 2024. When band founder Geoff Wayne contacted me, I asked him for an interview, and here we are!'
+description: Triskelyon Founder Geoff Waye – Interview about thrash metal, veganism and why he likes political messages in songs. Read it now!
+excerpt: 'The Canadian thrash metal project Triskelyon has several lyrics about veganism in their songs. Fans of the genre love them for their skilful mix of euphoria and despair and the play with joy and horror. The third album, "Shattered Elysium", came out in September 2024. When band founder Geoff Waye contacted me, I asked him for an interview, and here we are!'
 image: https://storage.googleapis.com/cardamonchai-media/2025-02-17/triskelyon-interview-soundsvegan-com-jpg-imagine-083868_4d6c85_1024_768/640.webp
 copyright: Triskelyon
 ogImage: https://storage.googleapis.com/cardamonchai-media/2025-02-17/triskelyon-interview-soundsvegan-com-og-jpg-imagine-082828_586776_1200_628/640.webp
@@ -18,7 +18,7 @@ labels:
   - Thrash Metal
   - Heavy Music
   - Triskelyon
-  - Geoff Wayne
+  - Geoff Waye
   - St. John's
   - Newfoundland
   - Labrador
@@ -30,7 +30,7 @@ language: en
 languageLink: /2025/02/triskelyon-interview/
 ---
 
-**The Canadian thrash metal project Triskelyon has several lyrics about veganism in their songs. Fans of the genre love them for their skilful mix of euphoria and despair and the play with joy and horror. The third album, "Shattered Elysium", came out in September 2024. When band founder Geoff Wayne contacted me, I asked him for an interview, and here we are!**
+**The Canadian thrash metal project Triskelyon has several lyrics about veganism in their songs. Fans of the genre love them for their skilful mix of euphoria and despair and the play with joy and horror. The third album, "Shattered Elysium", came out in September 2024. When band founder Geoff Waye contacted me, I asked him for an interview, and here we are!**
 
 **Anne:** Hi! Thanks for taking the time to do this interview! It's so great to talk to you. How are you doing today?
 

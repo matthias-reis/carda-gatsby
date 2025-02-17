@@ -2,10 +2,10 @@
 date: 2025-02-17T12:30:00.766Z
 typeName: Interview
 title: Thrash Metal und Veganismus
-subTitle: Interview mit Triskelyon Gründer Geoff Wayne
+subTitle: Interview mit Triskelyon Gründer Geoff Waye
 seoTitle: 'Interview – Triskelyon Gründer Geoff – Thrash Metal & Veganismus'
-description: Interview – Triskelyon Gründer Geoff Wayne über Thrash Metal, Veganismus und warum er politische Musik liebt. Jetzt lesen!
-excerpt: 'Viele der Lyrics des kanadischen Thrash-Metal-Projekts Triskelyon drehen sich um Veganismus. Fans des Genres lieben es für den gekonnten Mix aus Euphorie und Verzweiflung und das Spiel mit Freude und Horror. Das aktuelle Album "Shattered Elysium" ist im September 2024 erschienen. Als mich Bandgründer Geoff Wayne kontaktierte, bat ich ihn spontan um ein Interview, das ich heute mit Euch teile.'
+description: Interview – Triskelyon Gründer Geoff Waye über Thrash Metal, Veganismus und warum er politische Musik liebt. Jetzt lesen!
+excerpt: 'Viele der Lyrics des kanadischen Thrash-Metal-Projekts Triskelyon drehen sich um Veganismus. Fans des Genres lieben es für den gekonnten Mix aus Euphorie und Verzweiflung und das Spiel mit Freude und Horror. Das aktuelle Album "Shattered Elysium" ist im September 2024 erschienen. Als mich Bandgründer Geoff Waye kontaktierte, bat ich ihn spontan um ein Interview, das ich heute mit Euch teile.'
 image: https://storage.googleapis.com/cardamonchai-media/2025-02-17/triskelyon-interview-soundsvegan-com-jpg-imagine-083868_4d6c85_1024_768/640.webp
 copyright: Triskelyon
 ogImage: https://storage.googleapis.com/cardamonchai-media/2025-02-17/triskelyon-interview-soundsvegan-com-og-jpg-imagine-082828_586776_1200_628/640.webp
@@ -18,7 +18,7 @@ labels:
   - Thrash Metal
   - Heavy Music
   - Triskelyon
-  - Geoff Wayne
+  - Geoff Waye
   - St. John's
   - Newfoundland
   - Labrador
@@ -30,7 +30,7 @@ language: de
 languageLink: /2025/02/triskelyon-interview-en/
 ---
 
-**Viele der Lyrics des kanadischen Thrash-Metal-Projekts Triskelyon drehen sich um Veganismus. Fans des Genres lieben es für den gekonnten Mix aus Euphorie und Verzweiflung und das Spiel mit Freude und Horror. Das aktuelle Album "Shattered Elysium" ist im September 2024 erschienen. Als mich Bandgründer Geoff Wayne kontaktierte, bat ich ihn spontan um ein Interview, das ich heute mit Euch teile.**
+**Viele der Lyrics des kanadischen Thrash-Metal-Projekts Triskelyon drehen sich um Veganismus. Fans des Genres lieben es für den gekonnten Mix aus Euphorie und Verzweiflung und das Spiel mit Freude und Horror. Das aktuelle Album "Shattered Elysium" ist im September 2024 erschienen. Als mich Bandgründer Geoff Waye kontaktierte, bat ich ihn spontan um ein Interview, das ich heute mit Euch teile.**
 
 **Anne:** Hi! Danke, dass Du Dir die Zeit für das Interview nimmst! Es ist so schön, mit Dir zu sprechen! Wie geht es Dir heute?
 
