@@ -1,5 +1,5 @@
 ---
-date: 2025-02-20T113:14:43.032Z
+date: 2025-02-20T13:14:43.032Z
 typeName: Review
 title: 'Tyresta & Simon McCorry "Azimuth"'
 subTitle: A Vibe-Heavy Quintet
