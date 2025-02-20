@@ -4,8 +4,8 @@ typeName: Interview
 title: '"Music is therapy!"'
 subTitle: Interview with Besra Members Hannes and Ville
 seoTitle: Besra – Post-Metal from Finland – Interview
-description: 'Besra‘s newest album, "Transitions", is a story about the pains of change in six beautiful chapters. Read the interview to reveal its secret.'
-excerpt: 'I already took the chance to post my review of Besra‘s newest album, "Transitions"—a story about the pains of change in six beautiful chapters. After sharing it with the guys, we agreed on an interview, and here we are. Please enjoy it! Hannes, Ville, and I had a pleasant conversation about music and life in general, and they shared lots of precious insights about the record with me.'
+description: 'The new Besra album, "Transitions", is a story about the pains of change in six beautiful chapters. Read the interview to reveal its secret.'
+excerpt: 'I already took the chance to post my review of the new Besra album, "Transitions"—a story about the pains of change in six beautiful chapters. After sharing it with the guys, we agreed on an interview, and here we are. Please enjoy it! Hannes, Ville, and I had a pleasant conversation about music and life in general, and they shared lots of precious insights about the record with me.'
 image: https://storage.googleapis.com/cardamonchai-media/2023-10-18/besra-band-interview-soundsvegan-jpeg-imagine-080808_141010_1024_768/640.webp
 copyright: Besra
 ogImage: https://storage.googleapis.com/cardamonchai-media/2023-10-18/besra-band-interview-soundsvegan-og-jpeg-imagine-080808_151111_1200_630/640.webp
