@@ -42,3 +42,7 @@ Talking about the track's title, the band adds:
 Last Hyena formed back in 2016. Ever since, their song writing sessions have been all about exploring math-rock rhythms, post-rock soundscapes, and punchy riffs. Time and time again, they craft unforgettable tracks that push boundaries and make for mind-blowing live shows.
 
 "Make It Sound French" will drop on February 21st 2025. It follows the band's 2021 debut album, "How Soon is Mars"?, which received glowing reviews. Last Hyena took it to the stage at the UK's iconic ArcTanGent Festival among other festivals and venues.
+
+## Last Hyena – "Make It Sound French"
+
+<YouTube id="ocY9DgEJk8o" />
