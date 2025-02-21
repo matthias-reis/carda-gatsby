@@ -3,8 +3,8 @@ date: 2025-02-20T13:14:44.649Z
 typeName: Review
 title: 'Tyresta & Simon McCorry – "Azimuth"'
 subTitle: Ein impressionistisches Quintett
-seoTitle: 'Tyresta & Simon McCorry – "Azimuth – Ambient Review'
-description: Tyresta & Simon McCorry – "Azimuth – Euch erwartet ein wunderschönes Album, das Kammermusik, Ambient und Shoegaze verbindet. Jetzt reinhören!
+seoTitle: 'Tyresta & Simon McCorry – "Azimuth" – Ambient Review'
+description: Tyresta & Simon McCorry – "Azimuth" – Euch erwartet ein wunderschönes Album, das Kammermusik, Ambient und Shoegaze verbindet. Jetzt reinhören!
 excerpt: Am 19. Februar 2025 erschien die erste Zusammenarbeit in voller Albumlänge von Tyresta (aka Nick Turner, Chicago) und dem Cellisten Simon McCorry (Gloucestershire, UK). "Azimuth" verbindet impressionistische Arrangements aus anschwellenden Gitarrensounds mit zarten Streicher-Parts und modularen Synth-Akzenten.
 image: https://storage.googleapis.com/cardamonchai-media/2025-02-20/tyresta-simon-mccorry-azimuth-soundsvegan-com-jpg-imagine-c8c8a8_c0c49f_1024_768/640.webp
 copyright: Past Inside The Present
@@ -24,7 +24,7 @@ labels:
   - Bands
   - Shoegaze
   - Past Inside The Present
-focusKeyword: Besra Interview
+focusKeyword: Tyresta & Simon McCorry Review
 advertisement: false
 affiliate: false
 language: de
@@ -73,7 +73,7 @@ Bevor Tyresta und Simon gemeinsam "Azimuth" aufnahmen, arbeiteten Sie bereits zu
 
 <iframe
   style="border: 0; width: 100%; height: 120px;"
-  src="https://bandcamp.com/EmbeddedPlayer/album=278059402/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
+  src="https://bandcamp.com/EmbeddedPlayer/album=278059402/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
   seamless
 >
   <a href="https://pitp.bandcamp.com/album/azimuth">

@@ -73,7 +73,7 @@ Before "Azimuth," the two had already teamed up on tracks for Tyresta's 2023 alb
 
 <iframe
   style="border: 0; width: 100%; height: 120px;"
-  src="https://bandcamp.com/EmbeddedPlayer/album=278059402/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
+  src="https://bandcamp.com/EmbeddedPlayer/album=278059402/size=large/bgcol=ffffff/linkcol=5c9b72/tracklist=false/artwork=small/transparent=true/"
   seamless
 >
   <a href="https://pitp.bandcamp.com/album/azimuth">
