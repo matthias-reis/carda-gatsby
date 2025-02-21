@@ -20,6 +20,7 @@ labels:
   - Band
   - Bands
   - Paris
+  - Nice
 focusKeyword: Michael Pike
 advertisement: false
 affiliate: false

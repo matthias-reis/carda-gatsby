@@ -20,6 +20,7 @@ labels:
   - Band
   - Bands
   - Paris
+  - Nizza
 focusKeyword: 'Michael Pike – "Espace temps"'
 advertisement: false
 affiliate: false
