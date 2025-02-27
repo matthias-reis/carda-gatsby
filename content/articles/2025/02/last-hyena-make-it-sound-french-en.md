@@ -27,7 +27,7 @@ focusKeyword: 'Review – "Make It Sound French" – Last Hyena'
 
 **I think I fell in love with Last Hyena's music at ArcTanGent—no turning back after that. Now, the Bristol trio is back with a fresh single. With "Make It Sound French", the band dives into those unexpected, overwhelming moments life throws at you.**
 
-They recorded, mixed, and mastered Make It Sound French with Mark Roberts (Delta Sleep, Black Peaks, Poly-Math, Jamie Lenman) at Middle Farm Studios in Devon. The track weaves elements of math-rock, post-rock, and ambient noise.
+They recorded, mixed, and mastered "Make It Sound French" with Mark Roberts (Delta Sleep, Black Peaks, Poly-Math, Jamie Lenman) at Middle Farm Studios in Devon. The track weaves elements of math-rock, post-rock, and ambient noise.
 
 When asked what they wanted to express with the song, the members of Last Hyena said:
 
