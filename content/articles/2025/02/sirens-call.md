@@ -1,6 +1,6 @@
 ---
 date: 2025-02-27T07:30:06.561Z
-title: Sirens Call
+title: 'Sirens Call'
 subTitle: 'Postmoderne Sci-Fi-Doku feiert Premiere'
 type: article
 typeName: Filmtipp
