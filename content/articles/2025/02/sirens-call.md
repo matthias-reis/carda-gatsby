@@ -14,7 +14,7 @@ labels:
   - Sirens Call
 language: de
 image: https://storage.googleapis.com/cardamonchai-media/2025-02-27/sirens-call-soundsvegan-com-jpg-imagine-080808_34415b_1024_768/640.webp
-seoTitle: 'Sirens Call – alles über die postmodernen Si-Fi-Doku'
+seoTitle: 'Sirens Call – alles über die postmoderne Si-Fi-Doku'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2025-02-27/sirens-call-soundsvegan-com-og-jpg-imagine-080808_293146_1200_628/640.webp
 imageCopyright: Sirens Call
 languageLink:
