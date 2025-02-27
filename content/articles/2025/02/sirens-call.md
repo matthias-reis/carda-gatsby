@@ -18,14 +18,14 @@ seoTitle: 'Sirens Call – alles über die postmoderne Si-Fi-Doku'
 ogImage: https://storage.googleapis.com/cardamonchai-media/2025-02-27/sirens-call-soundsvegan-com-og-jpg-imagine-080808_293146_1200_628/640.webp
 imageCopyright: Sirens Call
 languageLink:
-excerpt: 'Eine Sirene in einem menschlichem Körper erkundet in "Sirens Call" die postmoderne Gegenwart auf einem austrocknenden, sterbenden Planeten und beschäftigt sich mit Überleben, Identität und Zugehörigkeit. Das Si-Fi-Doku-Debüt von Miri Ian Gossing und Lina Sieckmann feierte seine Premiere auf der diesjährigen Berlinale.'
+excerpt: 'Eine Sirene in einem menschlichen Körper erkundet in "Sirens Call" die postmoderne Gegenwart auf einem austrocknenden, sterbenden Planeten und beschäftigt sich mit Überleben, Identität und Zugehörigkeit. Das Si-Fi-Doku-Debüt von Miri Ian Gossing und Lina Sieckmann feierte seine Premiere auf der diesjährigen Berlinale.'
 focusKeyword: Sirens Call
 advertisement: false
 affiliate: false
 productsProvided: false
 ---
 
-**Eine Sirene in einem menschlichem Körper erkundet in "Sirens Call" die postmoderne Gegenwart auf einem austrocknenden, sterbenden Planeten und beschäftigt sich mit Überleben, Identität und Zugehörigkeit. Das Si-Fi-Doku-Debüt von Miri Ian Gossing und Lina Sieckmann feierte seine Premiere auf der diesjährigen Berlinale.**
+**Eine Sirene in einem menschlichen Körper erkundet in "Sirens Call" die postmoderne Gegenwart auf einem austrocknenden, sterbenden Planeten und beschäftigt sich mit Überleben, Identität und Zugehörigkeit. Das Si-Fi-Doku-Debüt von Miri Ian Gossing und Lina Sieckmann feierte seine Premiere auf der diesjährigen Berlinale.**
 
 Angekündigt wurde das Werk jetzt ganz aktuell von der preisgekrönten Produktionsfirma filmfaust. Auf der Berlinale wurde er in der Sektion Forum präsentiert. "Sirens Call" ist der erste Langfilm des Regieduos Miri Ian Gossing und Lina Sieckmann. Er spielt in einer Merfolk-Subkultur, die geprägt ist von politischem Aktivismus und Selbsterhaltung. Gemeinsam mit der Social-Justice-Aktivistin, Traumapsychologin und Real-Life Mermaid Una (Gina Rønning) aus Portland, Oregon haben sich die beiden Filmemacherinnen auf einen fiktionalen Roadtrip begeben. Dabei ist eine Mischung aus Science-Fiction und Dokumentarfilm und Statement zu Körperpolitik, kollektiven Traumata und dem Streben nach einer lebenslanger Transition entstanden.
 
