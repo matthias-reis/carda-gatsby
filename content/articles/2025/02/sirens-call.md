@@ -1,10 +1,10 @@
 ---
 date: 2025-02-27T07:30:06.561Z
-title: 'Sirens Call'
+title: '"Sirens Call"'
 subTitle: 'Postmoderne Sci-Fi-Doku feiert Premiere'
 type: article
 typeName: Filmtipp
-description: 'Sirens Call – auf der Berlinale wurde ein ganz besonderer Film vorgestellt. Erfahrt hier alles über die postmoderne Si-Fi-Doku!'
+description: '"Sirens Call" – auf der Berlinale wurde ein ganz besonderer Film vorgestellt. Erfahrt hier alles über die postmoderne Si-Fi-Doku!'
 labels:
   - Berlinale
   - Klima- und Umweltschutz
@@ -45,7 +45,7 @@ Die nomadische Sirene Una kehrt auf eine von Krisen gebeutelte Erde zurück – 
 
 Sie fühlt sich fremd in ihrem menschlichen Körper und das Atmen an Land fällt ihr immer schwerer. Während ihr Körper immer mehr danach strebt, mehr als menschlich zu sein, beschäftigt sich Una mit den konventionellen Ideen von Biografie, Identität und Zugehörigkeit in den Vereinten Staaten und hinterfragt diese zunehmend. Die Regisseur\*innen Miri Ian Gossing und Lina Sieckmann erzählen:
 
-> "SIRENS CALL ist ein Hybrid aus Science-Fiction und Dokumentarfilm, der uns über sieben Jahre begleitet hat, seit wir zum ersten Mal von einer Subkultur in Portland, Oregon, hörten, die sich als 'Mer-Folk' identifiziert. Ihre Mer-sona war keine Verkleidung in Silikonflossen, sie lebten diese Identität auch im Alltag. Als wir 2017 zum ersten Mal 'Una the Mermaid' trafen – eine Traumapsychologin und Aktivistin für Social Justice in ihrem zivilen Leben – spürten wir sofort eine besondere Verbindung und ein tiefes Verständnis. Una und ihr Kollektiv verkörperten all das, was wir uns lange für unsere Sirenenfigur vorgestellt hatten: eine Figur, die interdisziplinäres Wissen vereint, Verbindungen zwischen Mensch, Natur und Maschine schafft und nach neuen Wegen des Zusammenlebens mit sich selbst und der Welt sucht. In 'Sirens Call' wandelt Una als rastloses Wesen durch eine Welt, die immer fremder wird – selbst das Atmen ist in ihr zur Ware geworden - Welcome to the BREATHE-Bar.
+> "Sirens Call ist ein Hybrid aus Science-Fiction und Dokumentarfilm, der uns über sieben Jahre begleitet hat, seit wir zum ersten Mal von einer Subkultur in Portland, Oregon, hörten, die sich als 'Mer-Folk' identifiziert. Ihre Mer-sona war keine Verkleidung in Silikonflossen, sie lebten diese Identität auch im Alltag. Als wir 2017 zum ersten Mal 'Una the Mermaid' trafen – eine Traumapsychologin und Aktivistin für Social Justice in ihrem zivilen Leben – spürten wir sofort eine besondere Verbindung und ein tiefes Verständnis. Una und ihr Kollektiv verkörperten all das, was wir uns lange für unsere Sirenenfigur vorgestellt hatten: eine Figur, die interdisziplinäres Wissen vereint, Verbindungen zwischen Mensch, Natur und Maschine schafft und nach neuen Wegen des Zusammenlebens mit sich selbst und der Welt sucht. In 'Sirens Call' wandelt Una als rastloses Wesen durch eine Welt, die immer fremder wird – selbst das Atmen ist in ihr zur Ware geworden - Welcome to the BREATHE-Bar.
 >
 > Historisch gesehen wurden Sirenen oft in männlich dominierten Erzählungen gefangen – stumm und abhängig von der Liebe eines Mannes. Unsere Neuinterpretation bricht mit diesen Mustern und spiegelt den Zustand unserer Welt wider, von der Klimakrise bis hin zu politischen Unruhen. Unas Existenz ist liminal – weder ganz Fisch noch ganz Mensch, weder Frau noch Mann, sondern etwas Anderes, Dazwischenliegendes. Es war uns wichtig, unseren Intuitionen zu folgen und einen offenen, gemeinsamen Prozess zu schaffen, in dem Traum, Magie und Fiktion neben den basalen Alltagserfahrungen in den heutigen USA koexistieren können."
 
