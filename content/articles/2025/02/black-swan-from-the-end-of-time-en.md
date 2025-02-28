@@ -36,7 +36,7 @@ Like its predecessor, "Like Ghost" (2024), it has its narrative but isn't spoon-
 
 ## A blend of classical elements and perfectly shaped dystopian ideas
 
-![Black Swans – "From the End of Time"](https://storage.googleapis.com/cardamonchai-media/2025-02-28/black-swan-from-the-end-of-time-pitp-past-inside-the-present-ambient-drone-label-lp-vinyl-record-cover-orig-jpg-imagine-081818_544536_800_800/640.webp 'Black Swans – "From the End of Time"')
+![Black Swan – "From the End of Time"](https://storage.googleapis.com/cardamonchai-media/2025-02-28/black-swan-from-the-end-of-time-pitp-past-inside-the-present-ambient-drone-label-lp-vinyl-record-cover-orig-jpg-imagine-081818_544536_800_800/640.webp 'Black Swan – "From the End of Time"')
 
 ### "Overture" & "Dust"
 
@@ -50,7 +50,7 @@ Midway through, "Pseudotruth" escalates the slightly fearful foreboding—a mech
 
 ### "Endless Infinite"
 
-![Black Swans – "From the End of Time"](https://storage.googleapis.com/cardamonchai-media/2025-02-28/black-swan-from-the-end-of-time-soundsvegan-com-2-jpg-imagine-580838_4c1d34_1024_768/640.webp 'Black Swans – "From the End of Time"')
+![Black Swan – "From the End of Time"](https://storage.googleapis.com/cardamonchai-media/2025-02-28/black-swan-from-the-end-of-time-soundsvegan-com-2-jpg-imagine-580838_4c1d34_1024_768/640.webp 'Black Swan – "From the End of Time"')
 
 Black Swan don't just toy with sound; a more profound critique is bubbling beneath it all—an observation of mankind's descent into blind consumerism, the erosion of independent thought, and the slow decay of ethics. Yet, even amid the bleakness, this piece of art has a strange, blissful beauty. "Endless Infinite", for example, comes with celestial chords. They are swirling atop a warm, glowing bass drone. Overall, the piece offers a fleeting glimpse of solace while the story that connects everything still unravels.
 
@@ -60,7 +60,7 @@ Similarly, "Wings of Oblivion" and "A Broken Hope" are steeped in an almost pain
 
 ### "Nightlands" & "Lost Futures"
 
-![Black Swans – "From the End of Time"](https://storage.googleapis.com/cardamonchai-media/2025-02-28/black-swan-from-the-end-of-time-soundsvegan-com-3-jpg-imagine-580838_401029_1024_768/640.webp 'Black Swans – "From the End of Time"')
+![Black Swan – "From the End of Time"](https://storage.googleapis.com/cardamonchai-media/2025-02-28/black-swan-from-the-end-of-time-soundsvegan-com-3-jpg-imagine-580838_401029_1024_768/640.webp 'Black Swan – "From the End of Time"')
 
 As the end approaches, "Nightlands" delivers a suffocating haze of gas mask breaths and desolate harmonies—a last gasp from the abyss. Finally, "Lost Futures" closes the album on an ambiguous note but ties it back to the beginning. You are left sitting in the wreckage, pondering the slow-motion demise of something once cherished. It's a proper gut check—there's no neat resolution, just a haunting, lingering grace that remains with you long after the needle lifts.
 

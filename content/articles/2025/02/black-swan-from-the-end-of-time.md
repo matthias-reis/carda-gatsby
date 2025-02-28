@@ -30,13 +30,13 @@ languageLink: /2025/02/black-swan-from-the-end-of-time-en/
 
 **"From the End of Time" von Black Swan fühlt sich vollständig und umfassend an – wie eine tiefe Erinnerung an eine vergehende Welt. Das Album ist vollgepackt mit verzerrten Klavier-Echos, spannenden Chor-Parts und Tape-Loops, die knistern wie verblassende Gedanken. Als würde man versuchen, mit all dem Schlechten da draußen fertigzuwerden.**
 
-Das neueste Werk von Black Swans entfaltet sich wie eine cineastische Fahrt durch die Überreste von etwas einst Pompösem. Und das funktioniert so viel besser als eine lose Sammlung einzelner Songs! Das Gesamtwerk lebt von der erhabenen Schwere klassischer Stücke. Eine bedrückende und allgegenwärtige dystopische Unruhe verstärkt dieses Gefühl und verbindet es mit der dennoch immer sanft bleibenden Grundstimmung.
+Das neueste Werk von Black Swan entfaltet sich wie eine cineastische Fahrt durch die Überreste von etwas einst Pompösem. Und das funktioniert so viel besser als eine lose Sammlung einzelner Songs! Das Gesamtwerk lebt von der erhabenen Schwere klassischer Stücke. Eine bedrückende und allgegenwärtige dystopische Unruhe verstärkt dieses Gefühl und verbindet es mit der dennoch immer sanft bleibenden Grundstimmung.
 
 Wie schon der Vorgänger "Like Ghost" (2024) erzählt dieses Album eine Geschichte – ohne diese aufzudrängen. Die 13 Songs entfalten sich in einem hypnotischen Tempo, führen beim Hören durch bedrohliche Klangflächen, antik angehauchte Tape-Loops und das ferne Grollen zerfallender Maschinen. Dabei besitzt "From the End of Time" einen beständigen Herzschlag – schwach, aber unaufhaltsam, pocht er durch den Staub wie eine sich von rotem Smog immer weiter verdunkelnde Sonne.
 
 ## Klassische Elemente treffen auf eine perfekt inszenierte Dystopie
 
-![Black Swans – "From the End of Time"](https://storage.googleapis.com/cardamonchai-media/2025-02-28/black-swan-from-the-end-of-time-pitp-past-inside-the-present-ambient-drone-label-lp-vinyl-record-cover-orig-jpg-imagine-081818_544536_800_800/640.webp 'Black Swans – "From the End of Time"')
+![Black Swan – "From the End of Time"](https://storage.googleapis.com/cardamonchai-media/2025-02-28/black-swan-from-the-end-of-time-pitp-past-inside-the-present-ambient-drone-label-lp-vinyl-record-cover-orig-jpg-imagine-081818_544536_800_800/640.webp 'Black Swan – "From the End of Time"')
 
 ### "Overture" & "Dust"
 
@@ -52,7 +52,7 @@ Auch, wenn sich das jetzt hier vielleicht so liest: Black Swan spielen längst n
 
 ### "Endless Infinite"
 
-![Black Swans – "From the End of Time"](https://storage.googleapis.com/cardamonchai-media/2025-02-28/black-swan-from-the-end-of-time-soundsvegan-com-2-jpg-imagine-580838_4c1d34_1024_768/640.webp 'Black Swans – "From the End of Time"')
+![Black Swan – "From the End of Time"](https://storage.googleapis.com/cardamonchai-media/2025-02-28/black-swan-from-the-end-of-time-soundsvegan-com-2-jpg-imagine-580838_4c1d34_1024_768/640.webp 'Black Swan – "From the End of Time"')
 
 Trotz der Traurigkeit steckt in diesen 13 Songs auch ein wunderbarer und tröstlicher Zauber. Spürbar ist das zum Beispiel in "Endless Infinite". Das sechste Stück auf "From the End of Time" bringt Akkorde aus einer anderen Welt mit, die über warmen Bass-Drone-Sounds schweben. Ein kurzer Moment der Ruhe, während sich die düstere Erzählung weiter entfaltet.
 
@@ -62,7 +62,7 @@ Auch "Wings of Oblivion" und "A Broken Hope" sind von bittersüßer Melancholie 
 
 ### "Nightlands" & "Lost Futures"
 
-![Black Swans – "From the End of Time"](https://storage.googleapis.com/cardamonchai-media/2025-02-28/black-swan-from-the-end-of-time-soundsvegan-com-3-jpg-imagine-580838_401029_1024_768/640.webp 'Black Swans – "From the End of Time"')
+![Black Swan – "From the End of Time"](https://storage.googleapis.com/cardamonchai-media/2025-02-28/black-swan-from-the-end-of-time-soundsvegan-com-3-jpg-imagine-580838_401029_1024_768/640.webp 'Black Swan – "From the End of Time"')
 
 Kurz vor Schluss hüllt "Nightlands" in eine erstickende Dunstwolke aus Gasmasken-Atemzügen und trostlosen Harmonien – ein letztes Einatmen vor dem Abgrund. "Lost Futures" schließt das Album schließlich auf eine ambivalente und zugleich runde Weise. Man bleibt zurück, sitzt in den Trümmern und denkt über den schleichenden Zerfall von etwas einst Wertvollem nach. Ein harter Schlag in die Magengrube – keine saubere Auflösung, nur ein gespenstischer Nachhall, der lange nach dem letzten Ton bleibt.
 
