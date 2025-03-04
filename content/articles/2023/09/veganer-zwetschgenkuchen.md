@@ -32,7 +32,7 @@ Kennt Ihr die Zeit, in der die Zwetschgen langsam von säuerlich-frisch in süß
 - 450 g Mehl (Ihr könnt Dinkel und Roggen mischen)
 - 1 Päckchen Trockenhefe
 - 1 Prise Salz
-- 1 Teelöffel Zucker, Xylit oder Agavendicksaft
+- 1 Teelöffel Zucker, Erythrit oder Agavendicksaft
 - 30 ml Pflanzenöl
 - 200 ml Wasser
 
@@ -60,7 +60,7 @@ Schneidet Eure Zwetschgen in Achtel und schichtet sie auf Eurer Blech oder legt 
 
 <Gallery name="zwetschgenkuchen-vegan-2" />
 
-Bestreut den Zwetschgenkuchen mit Zimtzucker. Ich bereite meine Zimtzuckermischung immer mit Xylit vor – das ist kalorienarm, lecker und karamellisiert im Ofen schön.
+Bestreut den Zwetschgenkuchen mit Zimtzucker. Ich bereite meine Zimtzuckermischung immer mit Erythrit vor – das ist kalorienarm, lecker und karamellisiert im Ofen schön.
 
 ## Kuchen backen
 
