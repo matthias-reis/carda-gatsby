@@ -5,7 +5,7 @@ title: 'Kazea – "I. Ancestral"'
 subTitle: '"An Outlet for Dark Thoughts and Feelings"'
 seoTitle: 'Post-Rock review – Kazea – "I. Ancestral"'
 description: '"I. Ancestral" by the brand-new post-rock trio Kazea brings us a heavy-hitting mix of driving post-rock, haunting neo-folk melodies, and a slight pinch of sludge. Check it out now!'
-excerpt: 'All right, listen up! On March 21st, a proper banger of an album will be dropping—"I. Ancestral" by Kazea! This trio ain’t playing by no genre rules—they’ve smashed right through them. Expect a heavy-hitting mix of driving post-rock, haunting neo-folk melodies, and a slight pinch of sludge, creating a whole new sound world—from metal chaos to slow-burning intensity.'
+excerpt: 'All right, listen up! On March 21st, a proper banger of an album will be dropping—"I. Ancestral" by Kazea! This trio isn’t playing by any genre rules—they’ve smashed right through them. Expect a heavy-hitting mix of driving post-rock, haunting neo-folk melodies, and a slight pinch of sludge, creating a whole new sound world—from metal chaos to slow-burning intensity.'
 image: https://storage.googleapis.com/cardamonchai-media/2025-03-06/kazea-soundsvegan-com-jpg-imagine-181828_64646e_1024_768/640.webp
 copyright: Kazea
 ogImage: https://storage.googleapis.com/cardamonchai-media/2025-03-06/kazea-soundsvegan-com-og-jpg-imagine-181828_747179_1200_628/640.webp
@@ -31,7 +31,7 @@ language: en
 languageLink: /2025/03/kazea-i-ancestral/
 ---
 
-**All right, listen up! On March 21st, a proper banger of an album will be dropping—"I. Ancestral" by Kazea! This trio ain’t playing by no genre rules—they've smashed right through them. Expect a heavy-hitting mix of driving post-rock, haunting neo-folk melodies, and a slight pinch of sludge, creating a whole new sound world—from metal chaos to slow-burning intensity.**
+**All right, listen up! On March 21st, a proper banger of an album will be dropping—"I. Ancestral" by Kazea! This trio isn’t playing by any genre rules—they've smashed right through them. Expect a heavy-hitting mix of driving post-rock, haunting neo-folk melodies, and a slight pinch of sludge, creating a whole new sound world—from metal chaos to slow-burning intensity.**
 
 "I. Ancestral" is coming out via Suicide Records. The band consists of ex-Orochen members Jonas Mattsson and Rasmus Lindblom, alongside Daniel Olsson (Hellsongs). The three met in the summer of 2023, clicked immediately, and boom—Kazea was born. With their debut album, they dive deep into themes of heritage, pain, and redemption, and they've had some top-tier sonic support from Ulf Blomberg (HoboRec, recording and mixing) and Magnus Lindberg (Cult of Luna, mastering).
 
