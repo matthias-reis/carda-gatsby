@@ -82,7 +82,7 @@ In Kombination mit hoch dosiertem Magnesium sowie gelegentlich auch den nötigen
 
 Marlena Hien und Laurence Saunier gründeten Bears with Benefits 2018 in München. Innerhalb von gerade mal vier Jahren entwickelte sich das Start-up der beiden zum Marktführer im wachsenden Markt für Vitamine in Gummibärchen-Form in Europa. Neben dem Bears with Benefits Onlineshop könnt Ihr die Produkte heute bei Rossmann, DM und Douglas sowie in unterschiedlichen Onlineshops kaufen.
 
-Marlenas und Laurences enge Zusammenarbeit mit der Ernährungsmedizinerin Dr. med. Anne Latz sorgt dafür, dass Bears with Benefits immer wieder ernährungsrelevante Produkte für die unterschiedlichsten Bedürfnisse herausbringen. Die meisten davon sind zuckerfrei. Auf tierische Inhaltsstoffe, Zusatzstoffe oder Allergene verzichtet Bears with Benefits aus Überzeugung schon seit der Gründung.
+Marlenas und Laurences intensive Zusammenarbeit mit der Ernährungsmedizinerin Dr. med. Anne Latz sorgt dafür, dass Bears with Benefits immer wieder ernährungsrelevante Produkte für die unterschiedlichsten Bedürfnisse herausbringen. Die meisten davon sind zuckerfrei. Auf tierische Inhaltsstoffe, Zusatzstoffe oder Allergene verzichtet Bears with Benefits aus Überzeugung schon seit der Gründung.
 
 Durch die Übernahme von Bears with Benefits vom europäischen Marktführer im Bereich Natural Health, der Havea Group im November 2022 konnte die Brand weiter wachsen. Die hochwertigen, natürlichen Produkte erfreuen sich inzwischen in ganz Europa großer Beliebtheit. Kein Wunder: Die Mischung aus wissenschaftlich fundierten Rezepturen, leckeren Produkten und einem coolen Image spricht Menschen aller Geschlechter und Altersgruppen an.
 
