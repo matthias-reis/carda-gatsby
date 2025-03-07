@@ -1,7 +1,7 @@
 ---
 date: 2025-03-07T12:14:43.032Z
 typeName: Review
-title: 'Nickolas Mohana – "Speaker Roatations"'
+title: 'Nickolas Mohana – "Speaker Rotations"'
 subTitle: '"Exploring the Dissonance and Impermanence of Sounds"'
 seoTitle: 'Ambient Review – Nickolas Mohana – "Speaker Rotations"'
 description: '"Speaker Rotations" by the New York-based artist Nickolas Mohana is the first AKP Recordings release in 2025 and it’s well worth listening to! Check it out here and read my review!'
