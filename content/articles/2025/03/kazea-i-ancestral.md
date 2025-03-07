@@ -5,7 +5,7 @@ title: Kazea – "I. Ancestral"
 subTitle: Ein Ventil für dunkle Gedanken und Gefühle
 seoTitle: Tyresta & Simon McCorry – "Azimuth" – Ambient Review
 description: '"I. Ancestral" von Kazea verbindet treibenden Post-Rock mit eindringlichen Neo-Folk-Melodien und wuchtigem Sludge. Hört jetzt hier in die Musik der neuen Post-Rock-Band rein!"'
-excerpt: Am 21. März erscheint ein Album, das Ihr auf keinen Fall verpassen solltet: "I. Ancestral" von Kazea! Kazea ist ein Trio aus der Heavy-Ecke, das alle Genre-Grenzen hinter sich gelassen hat. Die Band verbindet treibenden Post-Rock mit eindringlichen Neo-Folk-Melodien und wuchtigem Sludge und breitet damit eine ganz neue Klanglandschaft auf – von metallisch bis getragen.
+excerpt: 'Am 21. März erscheint ein Album, das Ihr auf keinen Fall verpassen solltet: "I. Ancestral" von Kazea! Kazea ist ein Trio aus der Heavy-Ecke, das alle Genre-Grenzen hinter sich gelassen hat. Die Band verbindet treibenden Post-Rock mit eindringlichen Neo-Folk-Melodien und wuchtigem Sludge und breitet damit eine ganz neue Klanglandschaft auf – von metallisch bis getragen.'
 image: https://storage.googleapis.com/cardamonchai-media/2025-03-06/kazea-soundsvegan-com-jpg-imagine-181828_64646e_1024_768/640.webp
 copyright: Kazea
 ogImage: https://storage.googleapis.com/cardamonchai-media/2025-03-06/kazea-soundsvegan-com-og-jpg-imagine-181828_747179_1200_628/640.webp
