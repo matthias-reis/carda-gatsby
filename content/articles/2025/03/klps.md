@@ -15,11 +15,10 @@ labels:
   - Sludge
   - Post-Music
   - Experimental
-  - Post-Music
   - Review
   - Reviews
   - Heavy Music
-  - Music
+  - Musik
   - Band
   - Bands
   - Sludge
